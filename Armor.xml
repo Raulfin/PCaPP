@@ -1164,6 +1164,65 @@
 			<identifier>Clothing</identifier>
 			<substring>Sikhanda</substring>
 		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Cleric Armor (Cloth)</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Cleric Hood (Cloth)</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Cleric Boots (Cloth)</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Cleric Gauntlets (Cloth)</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Cleric Helmet (Cloth)</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Witch Corset(Cloth)</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Witch's Boots(Cloth)</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Witch's Gloves(Cloth)</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Witch's Cloak</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Witch's Tattoo</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Dark Jester's Clothing</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Dark Jester's Gloves</substring>
+		</binding><binding>
+			<identifier>Clothing</identifier>
+			<substring>Dark Jester's Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Dark Jester's Hat</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Dark Jester's Hat Alternate</substring>
+		</binding>
 	<!-- Clothing Material Bindings end -->
 	
 	<!-- Daedric Material Bindings start -->
@@ -1307,6 +1366,14 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Nordic Chainmail Gauntlets - Daedric</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Daedra Huntress</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Royal Daedric</substring>
 		</binding>
 	<!-- Daedric Material Bindings end -->
 	
@@ -1971,7 +2038,55 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Elite Guard Helmet</substring>
-		</binding> 
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Cleric Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Cleric Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Cleric Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Cleric Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Cleric Helm</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Cleric Armor (Heavy)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Cleric Hood (Heavy)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Cleric Boots (Heavy)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Cleric Gauntlets (Heavy)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Cleric Helmet (Heavy)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Seratic</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Eridius</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -2948,6 +3063,14 @@
 			<identifier>IronHigh</identifier>
 			<substring>Iron Master</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Witch's Not So Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Witch's Heavy</substring>
+		</binding>
 	<!-- Iron Material Bindings end -->
 	
 	<!-- Leather Material Bindings start -->
@@ -3483,6 +3606,81 @@
 		<binding>
 			<identifier>LeatherHigh</identifier>
 			<substring>Nordic Chainmail Gauntlets - Light</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Contractor</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mavari</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Cleric Armor (Light)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Cleric Hood (Light)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Cleric Boots (Light)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Cleric Gauntlets (Light)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Cleric Helmet (Light)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Investigator Coat</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Investigator Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Investigator Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Pauldron</identifier>
+			<substring>Investigator's Dustcloak</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Witch's Boots(Leather)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Witch's Bracers(Leather)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Witch's Corset(Leather)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Dark Jester's Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Dark Jester's Light Gloves</substring>
+		</binding><binding>
+			<identifier>Leather</identifier>
+			<substring>Dark Jester's Light Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Dark Jester's Light Hat</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Dark Jester's Light Hat Alternate</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
