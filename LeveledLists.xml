@@ -4128,6 +4128,117 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 			<!-- EggOver -->
+		<!-- Contractor and Mavari armors -->
+			<exclusion>
+				<text>Contractor</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Mavari</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Contractor and Mavari armors -->
+		<!-- Contractor and Mavari armors -->
+			<exclusion>
+				<text>Contractor</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Mavari</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Contractor and Mavari armors -->
+		<!-- Cleric Armors -->
+			<exclusion>
+				<text>Cleric Armor</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Cleric Hood</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Cleric Boots</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Cleric Gauntlets</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Cleric Helm</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Cleric Armors -->
+		<!-- Royal Daedric and Daedra Huntress armors -->
+			<exclusion>
+				<text>Daedra Huntress</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Royal Daedric</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Royal Daedric and Daedra Huntress armors -->
+		<!-- Seratic armor -->
+			<exclusion>
+				<text>Seratic</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Eridius</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Seratic armor -->
+		<!-- Imperial Investigator Armor UNP - UNPB by Calyps -->
+			<exclusion>
+				<text>Investigator Coat</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Investigator Boots</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Investigator Gloves</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Investigator's Dustcloak</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Imperial Investigator Armor UNP - UNPB by Calyps -->
+		<!-- Witch of the Wild -->
+			<exclusion>
+				<text>Witch</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Witch of the Wild -->
+		<!-- Jester Outfit ReTexture -Standalone and Craftable -->
+			<exclusion>
+				<text>Dark Jester's</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Jester Outfit ReTexture -Standalone and Craftable -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -5045,6 +5156,105 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Death Alternative -->
+		<!-- Contractor and Mavari armors -->
+			<exclusion>
+				<text>Contractor</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Mavari</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Contractor and Mavari armors -->
+		<!-- Cleric Armors -->
+			<exclusion>
+				<text>Cleric Armor</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Cleric Hood</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Cleric Boots</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Cleric Gauntlets</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Cleric Helm</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Cleric Armors -->
+		<!-- Royal Daedric and Daedra Huntress armors -->
+			<exclusion>
+				<text>Daedra Huntress</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Royal Daedric</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Royal Daedric and Daedra Huntress armors -->
+		<!-- Seratic armor -->
+			<exclusion>
+				<text>Seratic</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Eridius</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Seratic armor -->
+		<!-- Imperial Investigator Armor UNP - UNPB by Calyps -->
+			<exclusion>
+				<text>Investigator Coat</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Investigator Boots</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Investigator Gloves</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Investigator's Dustcloak</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Imperial Investigator Armor UNP - UNPB by Calyps -->
+		<!-- Witch of the Wild -->
+			<exclusion>
+				<text>Witch</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Witch of the Wild -->
+		<!-- Jester Outfit ReTexture -Standalone and Craftable -->
+			<exclusion>
+				<text>Dark Jester's</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Jester Outfit ReTexture -Standalone and Craftable -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
