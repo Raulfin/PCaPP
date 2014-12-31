@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ns2:npc xmlns:ns2="PatchusMaximus.npcXML">
+<!-- Exclusion target = NAME, EDID, FORMID -->
+<!-- Exclusion type = EQUALS, EQUALS_IGNORECASE, CONTAINS -->
+    <npc_exclusions>
+			<exclusion>
+				<text>NO TEXT</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>dunSnaplegSpriggan</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>EncSprigganSwarm</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>ARTHLALShip</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>3DNPC</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Non combat farm animals -->
+			<exclusion>
+				<text>Chicken</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Non combat farm animals -->
+	</npc_exclusions>
+	
+    <race_exclusions>
+			<exclusion>
+				<text>Manakin</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+	</race_exclusions>
+</ns2:npc>
