@@ -1254,6 +1254,11 @@
 		<!-- Civil War Exclusions end -->
 		<!-- Quest Items start -->
 			<exclusion>
+				<text>Nettlebane</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Angi's Bow</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
@@ -2722,11 +2727,6 @@
 			</exclusion>
 			<exclusion>
 				<text>Bound</text>
-				<target>NAME</target>
-				<type>CONTAINS</type>
-			</exclusion>
-			<exclusion>
-				<text>Nettlebane</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
