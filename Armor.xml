@@ -1002,6 +1002,18 @@
 			<identifier>Daedric</identifier>
 			<substring>Miraak</substring>
 		</binding>
+		<binding>
+			<identifier>HStalhrim</identifier>
+			<substring>Zahkriisos</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Dukaan</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Ahzidal</substring>
+		</binding>
 	<!-- Dragon Priest Masks end -->
 	
 	<!-- ============================================================== Materials start =================================================== -->
@@ -4640,10 +4652,6 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
-			<substring>Ahzidal</substring>
-		</binding>
-		<binding>
-			<identifier>Steel Plate</identifier>
 			<substring>Witchplate</substring>
 		</binding>
 		<binding>
@@ -4790,14 +4798,6 @@
 	
 	<!-- Stalhrim Material Bindings start -->
 	<!-- Bindings allowed: LStalhrimLow, LStalhrim, LStalhrimHigh, HStalhrimLow, HStalhrim, HStalhrimHigh -->
-		<binding>
-			<identifier>HStalhrim</identifier>
-			<substring>Zahkriisos</substring>
-		</binding>
-		<binding>
-			<identifier>LStalhrim</identifier>
-			<substring>Dukaan</substring>
-		</binding>
 		<binding>
 			<identifier>HStalhrim</identifier>
 			<substring>Glacial Crystal Heavy</substring>
