@@ -5019,7 +5019,7 @@
 	<!-- Daedric Material Listings start -->
 	<!-- Bindings allowed: DaedricLight, DaedricLow, Daedric, DaedricHigh -->
 		<armor_material>
-			<armorBase>40</armorBase> <!-- Equal to Dragonscale -->
+			<armorBase>41</armorBase> <!-- Equal to Dragonscale -->
 			<identifier>DaedricLight</identifier>
 			<type>LIGHT</type>
 			<materialMeltdown>DAEDRIC</materialMeltdown>
