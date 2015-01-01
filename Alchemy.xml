@@ -1,0 +1,1868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ns2:alchemy xmlns:ns2="PatchusMaximus.alchemyXML">
+
+<!-- Version 17 -->
+
+	<alchemy_effects>
+	<!-- New effects start -->
+	<alchemy_effect>
+			<identifier>Flare Undead</identifier>
+			<baseMagnitude>0</baseMagnitude>
+			<baseDuration>4</baseDuration>
+			<baseCost>50</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Corrode Armor</identifier>
+			<baseMagnitude>0</baseMagnitude>
+			<baseDuration>4</baseDuration>
+			<baseCost>50</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Arcane Detachment</identifier>
+			<baseMagnitude>800</baseMagnitude>
+			<baseDuration>1</baseDuration>
+			<baseCost>0.1</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Exhaust</identifier>
+			<baseMagnitude>800</baseMagnitude>
+			<baseDuration>1</baseDuration>
+			<baseCost>0.1</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- New effects end -->
+	<!-- Potions start -->
+	<!-- Alteration effects start -->
+		<alchemy_effect>
+			<identifier>Paralysis</identifier>
+			<baseMagnitude>0</baseMagnitude>
+			<baseDuration>1</baseDuration>
+			<baseCost>400</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Waterbreathing</identifier>
+			<baseMagnitude>0</baseMagnitude>
+			<baseDuration>5</baseDuration>
+			<baseCost>37</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Alteration effects end -->
+	<!-- Illusion effects start -->
+		<alchemy_effect>
+			<identifier>Fear</identifier>
+			<baseMagnitude>1.645</baseMagnitude>
+			<baseDuration>30</baseDuration>
+			<baseCost>0.8</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Frenzy</identifier>
+			<baseMagnitude>1.316</baseMagnitude>
+			<baseDuration>10</baseDuration>
+			<baseCost>4.5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Invisibility</identifier>
+			<baseMagnitude>0</baseMagnitude>
+			<baseDuration>5</baseDuration>
+			<baseCost>60</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Illusion effects end -->
+	<!-- Restoration effects start -->
+		<alchemy_effect>
+			<identifier>Cure Disease</identifier>
+			<baseMagnitude>5</baseMagnitude>
+			<baseDuration>0</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Cure Poison</identifier>
+			<baseMagnitude>100</baseMagnitude>
+			<baseDuration>0</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Regenerate start -->
+		<alchemy_effect>
+			<identifier>Regenerate Health</identifier>
+			<baseMagnitude>13.16</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>0.18</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Regenerate</identifier>
+			<baseMagnitude>8.772</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>0.2</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Regenerate end -->
+	<!-- Resist start -->
+		<alchemy_effect>
+			<identifier>Resist Fire</identifier>
+			<baseMagnitude>4.386</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>0.5</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Resist Frost</identifier>
+			<baseMagnitude>4.386</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>0.4</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Resist Shock</identifier>
+			<baseMagnitude>4.386</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>0.6</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Resist Magic</identifier>
+			<baseMagnitude>2.193</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>1.2</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Resist Poison</identifier>
+			<baseMagnitude>4.386</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>0.3</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Resist end -->
+	<!-- Restore start -->
+		<alchemy_effect>
+			<identifier>Restore Health</identifier>
+			<baseMagnitude>1.9</baseMagnitude>
+			<baseDuration>8</baseDuration>
+			<baseCost>6.6</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Restore</identifier>
+			<baseMagnitude>2.36</baseMagnitude>
+			<baseDuration>8</baseDuration>
+			<baseCost>4.6</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Restore end -->
+	<!-- Fortify start -->
+		<alchemy_effect>
+			<identifier>Fortify Single Skill</identifier>
+			<baseMagnitude>4.386</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>0.5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Fortify Armor</identifier>
+			<baseMagnitude>2.193</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>1</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Fortify Double Skill</identifier>
+			<baseMagnitude>2.193</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>1</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Fortify Barter</identifier>
+			<baseMagnitude>2.193</baseMagnitude>
+			<baseDuration>300</baseDuration>
+			<baseCost>0.14</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Fortify Persuasion</identifier>
+			<baseMagnitude>2.193</baseMagnitude>
+			<baseDuration>300</baseDuration>
+			<baseCost>0.14</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Dexterity</identifier>
+			<baseMagnitude>4.386</baseMagnitude>
+			<baseDuration>300</baseDuration>
+			<baseCost>0.08</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Fortify Carry Weight</identifier>
+			<baseMagnitude>8.772</baseMagnitude>
+			<baseDuration>300</baseDuration>
+			<baseCost>0.03</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Fortify Health</identifier>
+			<baseMagnitude>8.772</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>0.22</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Fortify Magicka Stamina</identifier>
+			<baseMagnitude>13.158</baseMagnitude>
+			<baseDuration>60</baseDuration>
+			<baseCost>0.13</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Fortify end -->
+	<!-- Restoration effects end -->
+	<!-- Potions end -->
+	<!-- Poisons start -->
+					<!-- Ravage Effects are placeholders -->
+	<!-- Destruction effects start -->
+	<!-- Health start -->
+		<alchemy_effect>
+			<identifier>Damage Health</identifier>
+			<baseMagnitude>1.755</baseMagnitude>
+			<baseDuration>5</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Lingering Damage Health</identifier>
+			<baseMagnitude>0.585</baseMagnitude>
+			<baseDuration>30</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Ravage Health</identifier>
+			<baseMagnitude>0.2</baseMagnitude>
+			<baseDuration>8</baseDuration>
+			<baseCost>100</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Health end -->
+	<!-- Magicka start -->
+		<alchemy_effect>
+			<identifier>Damage Magicka</identifier>
+			<baseMagnitude>2.632</baseMagnitude>
+			<baseDuration>5</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Lingering Damage Magicka</identifier>
+			<baseMagnitude>0.878</baseMagnitude>
+			<baseDuration>30</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Ravage Magicka</identifier>
+			<baseMagnitude>1</baseMagnitude>
+			<baseDuration>10</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Damage Magicka Regen</identifier>
+			<baseMagnitude>300</baseMagnitude>
+			<baseDuration>2</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Magicka end -->
+	<!-- Stamina start -->
+		<alchemy_effect>
+			<identifier>Damage Stamina</identifier>
+			<baseMagnitude>2.632</baseMagnitude>
+			<baseDuration>5</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Lingering Damage Stamina</identifier>
+			<baseMagnitude>0.878</baseMagnitude>
+			<baseDuration>30</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Ravage Stamina</identifier>
+			<baseMagnitude>1</baseMagnitude>
+			<baseDuration>10</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Damage Stamina Regen</identifier>
+			<baseMagnitude>300</baseMagnitude>
+			<baseDuration>2</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Stamina end -->
+		<alchemy_effect>
+			<identifier>Slow</identifier>
+			<baseMagnitude>50</baseMagnitude>
+			<baseDuration>3</baseDuration>
+			<baseCost>5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Weakness start -->
+		<alchemy_effect>
+			<identifier>Weakness to Fire</identifier>
+			<baseMagnitude>4.386</baseMagnitude>
+			<baseDuration>30</baseDuration>
+			<baseCost>0.6</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Weakness to Frost</identifier>
+			<baseMagnitude>4.386</baseMagnitude>
+			<baseDuration>30</baseDuration>
+			<baseCost>0.6</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Weakness to Shock</identifier>
+			<baseMagnitude>4.386</baseMagnitude>
+			<baseDuration>30</baseDuration>
+			<baseCost>0.7</baseCost>
+			<allowIngredientVariation>true</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Weakness to Magic</identifier>
+			<baseMagnitude>2.193</baseMagnitude>
+			<baseDuration>30</baseDuration>
+			<baseCost>2</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>true</allowPotionMultiplier>
+		</alchemy_effect>
+		<alchemy_effect>
+			<identifier>Weakness to Poison</identifier>
+			<baseMagnitude>2.193</baseMagnitude>
+			<baseDuration>30</baseDuration>
+			<baseCost>0.5</baseCost>
+			<allowIngredientVariation>false</allowIngredientVariation>
+			<allowPotionMultiplier>false</allowPotionMultiplier>
+		</alchemy_effect>
+	<!-- Weakness end -->
+	<!-- Destruction effects end -->
+	<!-- Poisons end -->
+	</alchemy_effects>
+
+	<alchemy_effect_bindings>
+	<!-- New effects start -->
+	<binding>
+			<identifier>Flare Undead</identifier>
+			<substring>Flare Undead</substring>
+		</binding>
+		<binding>
+			<identifier>Corrode Armor</identifier>
+			<substring>Corrode Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Arcane Detachment</identifier>
+			<substring>Arcane Detachment</substring>
+		</binding>
+		<binding>
+			<identifier>Exhaust</identifier>
+			<substring>Exhaust</substring>
+		</binding>
+	<!-- New effects end -->
+
+	<!-- Potions start -->
+	<!-- Alteration bindings start -->
+		<binding>
+			<identifier>Paralysis</identifier>
+			<substring>Paralysis</substring>
+		</binding>
+		<binding>
+			<identifier>Waterbreathing</identifier>
+			<substring>Waterbreathing</substring>
+		</binding>
+	<!-- Alteration bindings end -->
+	<!-- Illusion bindings start -->
+		<binding>
+			<identifier>Fear</identifier>
+			<substring>Fear</substring>
+		</binding>
+		<binding>
+			<identifier>Frenzy</identifier>
+			<substring>Frenzy</substring>
+		</binding>
+		<binding>
+			<identifier>Invisibility</identifier>
+			<substring>Invisibility</substring>
+		</binding>
+	<!-- Illusion bindings end -->
+	<!-- Restoration bindings start -->
+		<binding>
+			<identifier>Cure Disease</identifier>
+			<substring>Cure Disease</substring>
+		</binding>
+		<binding>
+			<identifier>Cure Poison</identifier>
+			<substring>Cure Poison</substring>
+		</binding>
+	<!-- Regenerate start -->
+		<binding>
+			<identifier>Regenerate Health</identifier>
+			<substring>Regenerate Health</substring>
+		</binding>
+		<binding>
+			<identifier>Regenerate</identifier>
+			<substring>Regenerate Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Regenerate</identifier>
+			<substring>Regenerate Stamina</substring>
+		</binding>
+	<!-- Regenerate end -->
+	<!-- Resist start -->
+		<binding>
+			<identifier>Resist Fire</identifier>
+			<substring>Resist Fire</substring>
+		</binding>
+		<binding>
+			<identifier>Resist Frost</identifier>
+			<substring>Resist Frost</substring>
+		</binding>
+		<binding>
+			<identifier>Resist Shock</identifier>
+			<substring>Resist Shock</substring>
+		</binding>
+		<binding>
+			<identifier>Resist Magic</identifier>
+			<substring>Resist Magic</substring>
+		</binding>
+		<binding>
+			<identifier>Resist Poison</identifier>
+			<substring>Resist Poison</substring>
+		</binding>
+	<!-- Resist end -->
+	<!-- Restore start -->
+		<binding>
+			<identifier>Restore Health</identifier>
+			<substring>Restore Health</substring>
+		</binding>
+		<binding>
+			<identifier>Restore</identifier>
+			<substring>Restore Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Restore</identifier>
+			<substring>Restore Stamina</substring>
+		</binding>
+	<!-- Restore end -->
+	<!-- Fortify start -->
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Fortify Alteration</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Fortify Conjuration</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Fortify Destruction</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Fortify Illusion</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Fortify Restoration</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Fortify Marksman</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Fortify Block</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Brawler</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Fortify One-handed</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Fortify Two-handed</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Fortify Sneak</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Armor</identifier>
+			<substring>Fortify Light Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Armor</identifier>
+			<substring>Fortify Heavy Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Double Skill</identifier>
+			<substring>Weaponmaster</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Double Skill</identifier>
+			<substring>Guardian</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Barter</identifier>
+			<substring>Fortify Barter</substring>
+		</binding>
+		<binding>
+			<identifier>Dexterity</identifier>
+			<substring>Dexterity</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Carry Weight</identifier>
+			<substring>Fortify Carry Weight</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Health</identifier>
+			<substring>Fortify Health</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Magicka Stamina</identifier>
+			<substring>Fortify Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Magicka Stamina</identifier>
+			<substring>Fortify Stamina</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Persuasion</identifier>
+			<substring>Fortify Persuasion</substring>
+		</binding>
+	<!-- Fortify end -->
+	<!-- Restoration bindings end -->
+	<!-- Potions end -->
+	<!-- Poisons start -->
+	<!-- Destruction bindings start -->
+	<!-- Health start -->
+		<binding>
+			<identifier>Damage Health</identifier>
+			<substring>Damage Health</substring>
+		</binding>
+		<binding>
+			<identifier>Lingering Damage Health</identifier>
+			<substring>Lingering Damage Health</substring>
+		</binding>
+		<binding>
+			<identifier>Ravage Health</identifier>
+			<substring>Ravage Health</substring>
+		</binding>
+	<!-- Health end -->
+	<!-- Magicka start -->
+		<binding>
+			<identifier>Damage Magicka</identifier>
+			<substring>Damage Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Lingering Damage Magicka</identifier>
+			<substring>Lingering Damage Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Ravage Magicka</identifier>
+			<substring>Ravage Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Damage Magicka Regen</identifier>
+			<substring>Damage Magicka Regen</substring>
+		</binding>
+	<!-- Magicka end -->
+	<!-- Stamina start -->
+		<binding>
+			<identifier>Damage Stamina</identifier>
+			<substring>Damage Stamina</substring>
+		</binding>
+		<binding>
+			<identifier>Lingering Damage Stamina</identifier>
+			<substring>Lingering Damage Stamina</substring>
+		</binding>
+		<binding>
+			<identifier>Ravage Stamina</identifier>
+			<substring>Ravage Stamina</substring>
+		</binding>
+		<binding>
+			<identifier>Damage Stamina Regen</identifier>
+			<substring>Damage Stamina Regen</substring>
+		</binding>
+	<!-- Stamina end -->
+		<binding>
+			<identifier>Slow</identifier>
+			<substring>Slow</substring>
+		</binding>
+	<!-- Weakness start -->
+		<binding>
+			<identifier>Weakness to Fire</identifier>
+			<substring>Weakness to Fire</substring>
+		</binding>
+		<binding>
+			<identifier>Weakness to Frost</identifier>
+			<substring>Weakness to Frost</substring>
+		</binding>
+		<binding>
+			<identifier>Weakness to Shock</identifier>
+			<substring>Weakness to Shock</substring>
+		</binding>
+		<binding>
+			<identifier>Weakness to Magic</identifier>
+			<substring>Weakness to Magic</substring>
+		</binding>
+		<binding>
+			<identifier>Weakness to Poison</identifier>
+			<substring>Weakness to Poison</substring>
+		</binding>
+	<!-- Weakness end -->
+	<!-- Destruction bindings end -->
+	<!-- Poisons end -->
+	</alchemy_effect_bindings>
+
+	<ingredient_variations>
+		<ingredient_variation>
+			<identifier>Fish Tier 1</identifier>
+			<multiplierMagnitude>1.2</multiplierMagnitude>
+			<multiplierDuration>1</multiplierDuration>
+		</ingredient_variation>
+		<ingredient_variation>
+			<identifier>Creature Tier 2</identifier>
+			<multiplierMagnitude>1.3</multiplierMagnitude>
+			<multiplierDuration>1</multiplierDuration>
+		</ingredient_variation>
+		<ingredient_variation>
+			<identifier>Special Classic Tier 3</identifier>
+			<multiplierMagnitude>1.5</multiplierMagnitude>
+			<multiplierDuration>1</multiplierDuration>
+		</ingredient_variation>
+		<ingredient_variation>
+			<identifier>Mythic Tier 4</identifier>
+			<multiplierMagnitude>1.75</multiplierMagnitude>
+			<multiplierDuration>1</multiplierDuration>
+		</ingredient_variation>
+	</ingredient_variations>
+
+	<ingredient_variation_bindings>
+	<!-- Fish Tier 1 start -->
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Abecean Longfin</substring> <!-- sic! -->
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Histcarp</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Silverside Perch</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Cyrodilic Spadetail</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>River Betty</substring>
+		</binding>
+	<!-- Fish Tier 1 end -->
+	<!-- Creature Tier 2 start -->
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Chaurus Hunter Antennae</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Hagraven Claw</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Hagraven Feathers</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Ice Wraith Teeth</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Large Antlers</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Sabre Cat Tooth</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Slaughterfish Scales</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Spriggan Sap</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Taproot</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Bear Claws</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Boar Tusk</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Bone Meal</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Dwarven Oil</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Ectoplasm</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Eye of Sabre Cat</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Falmer Ear</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Glow Dust</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Mudcrab Chitin</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Skeever Tail</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Small Antlers</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Wisp Wrappings</substring>
+		</binding>
+	<!-- Creature Tier 2 end -->
+	<!-- Special Classic Tier 3 start -->
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Canis Root</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Swamp Fungal Pod</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Deathbell</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Giant Lichen</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Frost Mirriam</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Charred Skeever Hide</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Nirnroot</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Poison Bloom</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Garlic</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Nightshade</substring>
+		</binding>
+	<!-- Special Classic Tier 3 end -->
+	<!-- Mythic Tier 4 start -->
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Frost Salts</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Moon Sugar</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Troll Fat</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Briar Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Crimson Nirnroot</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Daedra Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Fire Salts</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Giant's Toe</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Human Flesh</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Human Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Vampire Dust</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Void Salts</substring>
+		</binding>
+	<!-- Mythic Tier 4 end -->	
+	<!-- Hunterborn compatibility start -->
+	<!-- Hunterborn Tier 1 start -->
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Eye of Bear</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Eye of Bristleback</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Eye of Fox</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Eye of Hare</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Eye of Mammoth</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Eye of Wolf</substring>
+		</binding>
+	<!-- Hunterborn Tier 1 end -->
+	<!-- Hunterborn Tier 2 start -->
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Bear Tooth</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Bonesap</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Bull Horn</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Canine Tooth</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Charred Hawk Beak</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Doe Antlers</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Dyed Hawk Feathers</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Eye of Troll</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Eye of Werewolf</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Flawless Bear Tooth</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Great Antlers</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Large Sabre Cat Claws</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Polished Bear Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Polished Bristleback Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Polished Fox Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Polished Hare Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Polished Mammoth Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Polished Sabre Cat Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Polished Scales</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Polished Wolf Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Sabre Cat Claws</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Wolf Claws</substring>
+		</binding>		
+	<!-- Hunterborn Tier 2 end -->
+	<!-- Hunterborn Tier 3 start -->
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Boiled Skeever Tail</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Bristleback Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Cured Skeever Hide</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Deer Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Polished Troll Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Polished Werewolf Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Sabre Cat Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Wolf Heart</substring>
+		</binding>
+	<!-- Hunterborn Tier 3 end -->
+	<!-- Hunterborn Tier 4 start -->
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Bear Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Dragon Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Eye of Dragon</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Mammoth Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Polished Dragon Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Troll Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Werewolf Heart</substring>
+		</binding>
+	<!-- Hunterborn Tier 4 end -->
+	<!-- Hunterborn compatibility end -->
+	</ingredient_variation_bindings>
+
+	<potion_multipliers>
+	<!-- following values might need better balance but they aren't too bad-->
+		<potion_multiplier>
+			<identifier>Tier1</identifier>
+			<multiplierMagnitude>4.25</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>Tier2</identifier>
+			<multiplierMagnitude>6.0</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>Tier3</identifier>
+			<multiplierMagnitude>7.8</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>Tier3.5</identifier>
+			<multiplierMagnitude>8.2</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>Tier4</identifier>
+			<multiplierMagnitude>9.6</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>Tier5</identifier>
+			<multiplierMagnitude>11.4</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>Tier6</identifier>
+			<multiplierMagnitude>15.96</multiplierMagnitude>
+			<multiplierDuration>1.2</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>Tier7</identifier>
+			<multiplierMagnitude>17.00</multiplierMagnitude>
+			<multiplierDuration>1.25</multiplierDuration>
+		</potion_multiplier>
+	<!-- Workaround Damage Regeneration start-->
+		<potion_multiplier>
+			<identifier>DamRegen1</identifier>
+			<multiplierMagnitude>1.0</multiplierMagnitude>
+			<multiplierDuration>3.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>DamRegen2</identifier>
+			<multiplierMagnitude>1.0</multiplierMagnitude>
+			<multiplierDuration>5.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>DamRegen3</identifier>
+			<multiplierMagnitude>1.0</multiplierMagnitude>
+			<multiplierDuration>7.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>DamRegen4</identifier>
+			<multiplierMagnitude>1.0</multiplierMagnitude>
+			<multiplierDuration>9.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>DamRegen5</identifier>
+			<multiplierMagnitude>1.0</multiplierMagnitude>
+			<multiplierDuration>10.0</multiplierDuration>
+		</potion_multiplier>
+	<!-- Workaround Damage Regeneration end-->
+	<!-- Mind affecting poisons start-->
+		<potion_multiplier>
+			<identifier>MindAffecting1</identifier>
+			<multiplierMagnitude>8.0</multiplierMagnitude>
+			<multiplierDuration>0.7</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>MindAffecting2</identifier>
+			<multiplierMagnitude>12.2</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>MindAffecting3</identifier>
+			<multiplierMagnitude>18.3</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>MindAffecting4</identifier>
+			<multiplierMagnitude>24.4</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>
+		<potion_multiplier>
+			<identifier>MindAffecting5</identifier>
+			<multiplierMagnitude>30.5</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>
+	<!-- Mind affecting poisons end-->
+	<!-- Ultimate Restore potions start
+		<potion_multiplier>
+			<identifier>UltimateRestore</identifier>
+			<multiplierMagnitude>30.5</multiplierMagnitude>
+			<multiplierDuration>1.0</multiplierDuration>
+		</potion_multiplier>-->
+	<!-- Ultimate Restore potions end-->
+	</potion_multipliers>
+
+	<potion_multiplier_bindings>
+	<!-- Tier 1 start-->
+		<binding>
+			<identifier>Tier1</identifier>
+			<substring>Minor</substring>
+		</binding>
+		<binding>
+			<identifier>Tier1</identifier>
+			<substring>Weak</substring>
+		</binding>
+		<binding>
+			<identifier>Tier1</identifier>
+			<substring>Lingering Magicka Poison</substring>
+		</binding>
+		<binding>
+			<identifier>Tier1</identifier>
+			<substring>Lingering Stamina Poison</substring>
+		</binding>
+	<!-- Tier 1 end-->
+
+	<!-- Tier 2 start-->
+	<!-- Tier 2 Potions start-->
+	<!-- Tier 2 - Fortify Skill Potions start-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Alteration</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Haggling</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of the Defender</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of the Guardian</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Strength</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Conjurer's Potion</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Destruction</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Brawler's Potion</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of the Knight</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Illusion</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Skirmisher's Potion</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of the Defender</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of True Shot</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of the Warrior</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Glibness</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Dexterity</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of the Healer</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Weaponmaster's Potion</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Light Feet</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of the Berserker</substring>
+		</binding>
+	<!-- Tier 2 - Fortify Skill Potions end-->
+	<!-- Tier 2 - Regenerate Attribute start-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Regeneration</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Lasting Potency</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Vigor</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Enduring</substring>
+		</binding>
+	<!-- Tier 2 - Regenerate Attribute end-->
+	<!-- Tier 2 - Resist Element and Magic start-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Resist Fire</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Resist Cold</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Resist Magic</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Resist Shock</substring>
+		</binding>
+	<!-- Tier 2 - Resist Element and Magic end-->
+	<!-- Tier 2 - Restore Attribute start-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Healing</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Stamina</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Magicka</substring>
+		</binding>
+	<!-- Tier 2 - Restore Attribute end-->
+	<!-- Tier 2 - Thieves Guild Potions start-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Plunder</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Conflict</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Larceny</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Keenshot</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Escape</substring>
+		</binding>
+	<!-- Tier 2 - Thieves Guild Potions start-->
+	<!-- Tier 2 - Fortify Attribute start-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Health</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Extra Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Potion of Enhanced Stamina</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Enduring</substring>
+		</binding>
+	<!-- Tier 2 - Fortify Attribute end-->
+	<!-- Tier 2 Potions end-->
+	<!-- Tier 2 Poisons start-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Enduring</substring>
+		</binding>
+	<!-- Tier 2 - Damage Attribute start-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Poi</substring> <!-- for Poison with FormID 00073f31 and Stamina Poison and Magicka Poison -->
+		</binding>
+	<!-- Tier 2 - Damage Attribute end-->
+	<!-- Tier 2 - Weakness to Element and Magic start-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>ver</substring> <!-- for Aversion to Fire, Frost, Magic, Shock -->
+		</binding>
+	<!-- Tier 2 - Weakness to Element and Magic end-->
+	<!-- Tier 2 end-->
+
+	<!-- Tier 3 start-->
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Extended</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Draught</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Plentiful</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Potent</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Lasting</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Draught of Lasting Potency</substring>
+		</binding>
+	<!-- Tier 3 end-->
+
+	<!-- Tier 3.5 start-->
+		<binding>
+			<identifier>Tier3.5</identifier>
+			<substring>Solution</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3.5</identifier>
+			<substring>Solution of Lasting Potency</substring>
+		</binding>
+	<!-- Tier 3.5 end-->
+
+	<!-- Tier 4 start-->
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Philter</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Philter of Lasting Potency</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Potion of Vigorous</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Virulent</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Malign</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Persisting</substring>
+		</binding>
+	<!-- Tier 4 end-->
+
+	<!-- Tier 5 start-->
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Prolonged</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Elixir</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Elixir of Lasting Potency</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Extreme</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Deadly</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Unceasing</substring>
+		</binding>
+	<!-- Tier 5 end-->
+
+	<!-- Tier 6 start-->
+		<binding>
+			<identifier>Tier6</identifier>
+			<substring>Grand Elixir</substring>
+		</binding>
+	<!-- Tier 6 end-->
+
+	<!-- Tier 7 start-->
+		<binding>
+			<identifier>Tier7</identifier>
+			<substring>Prime Elixir</substring>
+		</binding>
+	<!-- Tier 7 end-->
+
+	<!-- Workaround Damage Regeneration start-->
+		<binding>
+			<identifier>DamRegen1</identifier>
+			<substring>Weak Recovery Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen1</identifier>
+			<substring>Weak Vigor Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen2</identifier>
+			<substring>Magicka Recovery Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen2</identifier>
+			<substring>Vigor Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen3</identifier>
+			<substring>Potent Recovery Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen3</identifier>
+			<substring>Potent Vigor Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen4</identifier>
+			<substring>Malign Recovery Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen4</identifier>
+			<substring>Malign Vigor Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen5</identifier>
+			<substring>Deadly Recovery Poison</substring>
+		</binding>
+	<!-- Workaround Damage Regeneration end-->
+	<!-- Mind affecting poisons start-->
+		<binding>
+			<identifier>MindAffecting1</identifier>
+			<substring>Weak Fear Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting1</identifier>
+			<substring>Weak Frenzy Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting2</identifier>
+			<substring>Fear Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting2</identifier>
+			<substring>Frenzy Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting3</identifier>
+			<substring>Potent Fear Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting3</identifier>
+			<substring>Potent Frenzy Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting4</identifier>
+			<substring>Virulent Fear Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting4</identifier>
+			<substring>Virulent Frenzy Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting5</identifier>
+			<substring>Deadly Fear Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting5</identifier>
+			<substring>Deadly Frenzy Poison</substring>
+		</binding>
+	<!-- Mind affecting poisons end-->
+	</potion_multiplier_bindings>
+
+	<potion_exclusions>
+		<exclusion>
+			<text>Food</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Standard Potions start -->
+		<exclusion>
+			<text>Cure Poison</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Invisibility</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Waterbreathing</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Potion of Ultimate</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Paralysis</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Standard Poisons end -->	
+
+	<!-- Special or Quest Potions start -->
+		<exclusion>
+			<text>Falmer Blood Elixir</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Ice Wraith Essence</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Kordir's Skooma</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Philter of the Phantom</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Potion of Blood</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Soul Husk Extract</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Soul Husk Extract</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Sleeping Tree Sap</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Stallion's Potion</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Unknown Potion</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Vaermina's Torpor</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>White Phial</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Special or Quest Potions end -->
+	<!-- Special or Quest Poisons start -->
+		<exclusion>
+			<text>Frostbite Venom</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Lotus Extract</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Ice Wraith Bane</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Nightshade Extract</text>  <!-- needs UESP -->
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Special or Quest Poisons end -->
+	<!-- Hunterborn compatibility start -->
+		<exclusion>
+			<text>_DS_BoneBlood</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>_DS_Potn_HircinesAgony</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>_DS_DragonBlood_SlowedTime</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>_DS_DragonBlood_GhostsPassage</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>_DS_DragonBlood_Torpor</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Hunterborn compatibility end -->	
+	<!-- Vilja compatibility start -->
+		<exclusion>
+			<text>AAEMRestoreStamina001</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>AAEMResistPoison25</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Vilja compatibility end -->
+	<!-- More Interesting Loot compatibility start -->
+		<exclusion>
+			<text>aaMLPotionSlowtime</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>aaMLPotionLifeRestore</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>aaMLPotionGuardianCircle</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>aaMLPotionMWWaterbreathing</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>aaMLPoisonFrenzy</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- More Interesting Loot compatibility end -->
+	<!-- Sands of Time compatibility start -->
+		<exclusion>
+			<text>_Anton_Larva</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>AppleOfDestiny</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>DreamsPotion</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>TonyPotion</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>_Shocks_ShadowBanWine</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>_Shocks_RoseThornMead</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Sands of Time compatibility end -->
+	<!-- Northern Encounters compatibility start -->
+		<exclusion>
+			<text>Worshipcollectorfood2</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>mod_magiccarrot</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Northern Encounters compatibility end -->
+	<!-- Lurking in the Shadows compatibility start -->
+		<exclusion>
+			<text>TescosCastleLurkDarkanianWine</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Lurking in the Shadows compatibility end -->
+	<!-- Immersive Wenches compatibility start -->
+		<exclusion>
+			<text>lalawench_A</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Immersive Wenches compatibility end -->
+	</potion_exclusions>
+
+	<ingredient_exclusions>
+		<exclusion>
+			<text>HISAnimalBloodLarge</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>LCSDragonEggBlue</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>LCSDragonEggGrenn</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>LCSDragonEggRedd</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	</ingredient_exclusions>
+
+</ns2:alchemy>
