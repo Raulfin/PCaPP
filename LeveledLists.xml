@@ -2211,6 +2211,28 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Vilja -->
+		<!-- SkyMoMod -->
+			<exclusion>
+				<text>00ripper</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>00darkhammer</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>00DraugrPick</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>00bksword</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- SkyMoMod -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>

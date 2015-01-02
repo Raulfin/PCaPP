@@ -1053,6 +1053,14 @@
 			<identifier>Daedric</identifier>
 			<substring>Dovahfaas</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ripper Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Dark Hammer</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -1293,6 +1301,14 @@
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>The Half-Troll's Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Draugr Pick</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Embercoil Sword</substring>
 		</binding>
 	<!-- Drauger bindings end -->
 	

@@ -7367,6 +7367,28 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Dovamaar and Dovahfaas -->
+	<!-- SkyMoMod -->
+		<exclusion>
+			<text>00ripper</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>00darkhammer</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>00DraugrPick</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>00bksword</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- SkyMoMod -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>

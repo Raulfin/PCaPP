@@ -1387,6 +1387,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Royal Daedric</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Drakul</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -1803,6 +1807,10 @@
 			<identifier>Dwarven</identifier>
 			<substring>Hologram</substring>
 		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Medusa</substring>
+		</binding>
 	<!-- Dwarven Material Bindings end -->
 	
 	<!-- Ebony Material Bindings start -->
@@ -1890,14 +1898,6 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Trielek</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Medusa</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Drakul</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -2630,6 +2630,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Light Aetherial Crown</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Witch</substring>
 		</binding>
 	<!-- Glass Material Bindings end -->
 	
@@ -4241,6 +4245,10 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Sylward</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Raven Witch</substring>
 		</binding>
 	<!-- Scaled Material Bindings end -->
 	
