@@ -6572,7 +6572,7 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>000557f5</text>
+			<text>000557f5</text> <!-- A quest item named Steel Sword -->
 			<target>FORMID</target>
 			<type>EQUALS</type>
 		</exclusion>

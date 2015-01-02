@@ -7373,7 +7373,19 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
-	<!-- Nature of the beast II -->
+	<!-- Nature of the beast II -->	
+	<!-- Dovamaar and Dovahfaas -->
+		<exclusion>
+			<text>DaedricDovahMaar</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>DaedricDovahFaas</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Dovamaar and Dovahfaas -->
 	</reforge_exclusions>
 
 </ns2:weapons>
