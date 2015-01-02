@@ -1355,6 +1355,11 @@
 			</exclusion>
 	<!-- Quest Items end -->
 			<exclusion>
+				<text>Horripilation</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Player</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
