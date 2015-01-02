@@ -4287,6 +4287,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Vilja -->
+		<!-- Emfy -->
+			<exclusion>
+				<text>Emfy</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Emfy -->
+		<!-- Gwelda -->
+			<exclusion>
+				<text>Gwelda</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Gwelda -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -5310,6 +5324,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Vilja -->
+		<!-- Emfy -->
+			<exclusion>
+				<text>Emfy</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Emfy -->
+		<!-- Gwelda -->
+			<exclusion>
+				<text>Gwelda</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Gwelda -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

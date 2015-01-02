@@ -7993,6 +7993,20 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Jester Outfit ReTexture -Standalone and Craftable -->
+	<!-- Emfy -->
+		<exclusion>
+			<text>Emfy</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Emfy -->
+	<!-- Gwelda -->
+		<exclusion>
+			<text>Gwelda</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Gwelda -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
