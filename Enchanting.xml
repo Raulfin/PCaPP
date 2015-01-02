@@ -7394,6 +7394,16 @@
 	<enchantment_armor_exclusions>
 	<!-- Quest Items start -->
 		<exclusion>
+			<text>Archmage</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Archmage</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Aela's Shield</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
