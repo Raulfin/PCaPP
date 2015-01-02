@@ -1045,6 +1045,14 @@
 			<identifier>DaedricHigh</identifier>
 			<substring>Jyggalag</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Dovahmaar</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Dovahfaas</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -4557,6 +4565,10 @@
 			<substring>Dwemer Mechanical Sword</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Dovahfaas</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -5830,6 +5842,10 @@
 		</binding>
 		<binding>
 			<substring>Aemer's Mahakaman Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Dovahmaar</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->
