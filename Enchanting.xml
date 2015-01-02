@@ -7355,6 +7355,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Frostfall -->
+	<!-- Dovamaar and Dovahfaas -->
+		<exclusion>
+			<text>DaedricDovahMaar</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>DaedricDovahFaas</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Dovamaar and Dovahfaas -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
