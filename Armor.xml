@@ -927,43 +927,43 @@
 	
 	<!-- Dragon Priest Masks start -->
 		<binding>
-			<identifier>Dwarven</identifier>
+			<identifier>DwarvenHigh</identifier>
 			<substring>Konahrik</substring>
 		</binding>
 		<binding>
-			<identifier>Dwarven</identifier>
+			<identifier>DwarvenHigh</identifier>
 			<substring>Konahrik Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>Glass</identifier>
+			<identifier>GoldHigh</identifier>
 			<substring>Otar</substring>
 		</binding>
 		<binding>
-			<identifier>Glass</identifier>
+			<identifier>GoldHeavy</identifier>
 			<substring>Otar Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>Iron</identifier>
+			<identifier>IronHigh</identifier>
 			<substring>Hevnoraak</substring>
 		</binding>
 		<binding>
-			<identifier>Iron</identifier>
+			<identifier>IronHigh</identifier>
 			<substring>Hevnoraak Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Plate</identifier>
+			<identifier>Silver</identifier>
 			<substring>Vokun</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Plate</identifier>
+			<identifier>Silver</identifier>
 			<substring>Vokun Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>Orcish</identifier>
+			<identifier>OrcishLight</identifier>
 			<substring>Rahgot</substring>
 		</binding>
 		<binding>
-			<identifier>Orcish</identifier>
+			<identifier>OrcishLight</identifier>
 			<substring>Rahgot Circlet</substring>
 		</binding>
 		<binding>
@@ -975,27 +975,27 @@
 			<substring>Nahkriin Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled</identifier>
+			<identifier>ScaledHigh</identifier>
 			<substring>Volsung</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled</identifier>
+			<identifier>ScaledHigh</identifier>
 			<substring>Volsung Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>Elven</identifier>
+			<identifier>Glass</identifier>
 			<substring>Morokei</substring>
 		</binding>
 		<binding>
-			<identifier>Elven</identifier>
+			<identifier>Glass</identifier>
 			<substring>Morokei Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>Elven</identifier>
+			<identifier>ElvenHigh</identifier>
 			<substring>Krosis</substring>
 		</binding>
 		<binding>
-			<identifier>Elven</identifier>
+			<identifier>ElvenHigh</identifier>
 			<substring>Krosis Circlet</substring>
 		</binding>
 		<binding>
@@ -1003,15 +1003,15 @@
 			<substring>Miraak</substring>
 		</binding>
 		<binding>
-			<identifier>HStalhrim</identifier>
+			<identifier>EbonyLight</identifier>
 			<substring>Zahkriisos</substring>
 		</binding>
 		<binding>
-			<identifier>LStalhrim</identifier>
+			<identifier>HNordicHigh</identifier>
 			<substring>Dukaan</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Plate</identifier>
+			<identifier>ScaledHeavy</identifier>
 			<substring>Ahzidal</substring>
 		</binding>
 	<!-- Dragon Priest Masks end -->
