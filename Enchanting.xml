@@ -7533,7 +7533,7 @@
 		<exclusion>
 			<text>Ilas</text> <!-- Ilas-Tei's Ring -->
 			<target>NAME</target>
-			<type>CONTAINS</type>
+			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
 			<text>Muiri's Ring</text>
