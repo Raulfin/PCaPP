@@ -3257,7 +3257,8 @@
 		</binding>
 	<!-- Skyforge bindings end -->
 
-	<!-- Wood bindings start --> Wood WoodHigh Oakwood Ashwood Strongwood
+	<!-- Wood bindings start -->
+	 <!-- Bindings allowed: Wood, WoodHigh, Oakwood, Ashwood, Strongwood, -->
 		<binding>
 			<identifier>WoodHigh</identifier>
 			<substring>Hunting Bow</substring>
@@ -3365,6 +3366,42 @@
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Vindskjær</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>Fire</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>Vindskjær</substring>
+		</binding>
+		<binding>
+			<identifier>Oakwood</identifier>
+			<substring>Oak Wood</substring>
+		</binding>
+		<binding>
+			<identifier>Ashwood</identifier>
+			<substring>Maple Wood</substring>
+		</binding>
+		<binding>
+			<identifier>Strongwood</identifier>
+			<substring>Sage Wood</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>Pine Wood</substring>
+		</binding>
+		<binding>
+			<identifier>WoodHigh</identifier>
+			<substring>Mirk Wood</substring>
+		</binding>
+		<binding>
+			<identifier>Strongwood</identifier>
+			<substring>Monarch Wood</substring>
+		</binding>
+		<binding>
+			<identifier>Ashwood</identifier>
+			<substring>Ash Wood</substring>
 		</binding>
 	<!-- Wood bindings end -->
 	</weapon_material_bindings>
