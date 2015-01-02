@@ -3989,7 +3989,7 @@
 	<!-- Orcish Material Bindings end -->
 	
 	<!-- Scaled Material Bindings start -->
-	<!-- Bindings allowed: ScaledLow, Scaled, ScaledHigh, ScaledHigh -->
+	<!-- Bindings allowed: ScaledLow, Scaled, ScaledHigh, ScaledHeavy -->
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Outlaw</substring>
