@@ -2638,7 +2638,7 @@
 	<!-- Glass Material Bindings end -->
 	
 	<!-- Gold Material Bindings start -->
-	<!-- Bindings allowed: Zero_Gold, Gold -->
+	<!-- Bindings allowed: Zero_Gold, Gold, GoldHeavy -->
 		<binding>
 			<identifier>GoldHeavy</identifier>
 			<substring>Heavy Gold</substring>
@@ -4253,7 +4253,7 @@
 	<!-- Scaled Material Bindings end -->
 	
 	<!-- Silver Material Bindings start -->
-	<!-- Bindings allowed: Zero_Silver, Silver -->
+	<!-- Bindings allowed: Zero_Silver, Silver, SilverHeavy -->
 		<binding>
 			<identifier>Silver</identifier>
 			<substring>Silver Spellsword</substring>
