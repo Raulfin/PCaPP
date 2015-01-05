@@ -3216,6 +3216,10 @@
 			<identifier>SteelHigh</identifier>
 			<substring>Rysh Hymra</substring>
 		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Rysh</substring>
+		</binding>
 	<!-- Steel bindings end -->
 
 	<!-- Skyforge bindings start -->
@@ -5274,6 +5278,10 @@
 		</binding>
 		<binding>
 			<substring>Rysh Hymra</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>Rysh</substring>
 			<identifier>Scimitar</identifier>
 		</binding>
 	<!-- Scimitar bindings end -->
