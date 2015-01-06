@@ -1896,6 +1896,26 @@
 			<substring>Tribunal Robes White HEAVY</substring> 
 		</binding>
 		<binding>
+			<identifier>EbonyLow</identifier> 
+			<substring>Tribunal Black Heavy</substring> 
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier> 
+			<substring>Tribunal Blue Heavy</substring> 
+		</binding>
+		<binding> 
+			<identifier>EbonyLow</identifier> 
+			<substring>Tribunal Red Heavy</substring> 
+		</binding>
+		<binding> 
+			<identifier>EbonyLow</identifier> 
+			<substring>Tribunal Green Heavy</substring> 
+		</binding>
+		<binding> 
+			<identifier>EbonyLow</identifier> 
+			<substring>Tribunal White Heavy</substring> 
+		</binding>
+		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Trielek</substring>
 		</binding>
@@ -2512,28 +2532,48 @@
 			<substring>Lilith's Hood (light)</substring>
 		</binding>
 		<binding>
-			<identifier>Glass</identifier>
+			<identifier>GlassLow</identifier>
 			<substring>Tribunal Light</substring>
 		</binding>
 		<binding> 
-			<identifier>Glass</identifier> 
+			<identifier>GlassLow</identifier> 
 			<substring>Tribunal Robes Black LIGHT</substring> 
 		</binding> 
 		<binding> 
-			<identifier>Glass</identifier> 
+			<identifier>GlassLow</identifier> 
 			<substring>Tribunal Robes Blue LIGHT</substring> 
 		</binding>
 		<binding> 
-			<identifier>Glass</identifier> 
+			<identifier>GlassLow</identifier> 
 			<substring>Tribunal Robes Red LIGHT</substring> 
 		</binding>
 		<binding>
-			<identifier>Glass</identifier> 
+			<identifier>GlassLow</identifier> 
 			<substring>Tribunal Robes Green LIGHT</substring> 
 		</binding>
 		<binding> 
-			<identifier>Glass</identifier> 
+			<identifier>GlassLow</identifier> 
 			<substring>Tribunal Robes White LIGHT</substring> 
+		</binding>
+		<binding> 
+			<identifier>GlassLow</identifier> 
+			<substring>Tribunal Black Light</substring> 
+		</binding> 
+		<binding> 
+			<identifier>GlassLow</identifier> 
+			<substring>Tribunal Blue Light</substring> 
+		</binding>
+		<binding> 
+			<identifier>GlassLow</identifier> 
+			<substring>Tribunal Red Light</substring> 
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier> 
+			<substring>Tribunal Green Light</substring> 
+		</binding>
+		<binding> 
+			<identifier>GlassLow</identifier> 
+			<substring>Tribunal White Light</substring> 
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
