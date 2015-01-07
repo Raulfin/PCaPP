@@ -1845,6 +1845,26 @@
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
+			<exclusion>
+				<text>_DS_HuntingKnife_Iron</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>_DS_HuntingKnife_Steel</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>_DS_HuntingKnife_Stone</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>_DS_HuntingKnife_Bone</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
 		<!-- Hunterborn -->
 		<!-- Nicoroshi Creations -->
 			<exclusion>
