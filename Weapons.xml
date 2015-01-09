@@ -3887,30 +3887,30 @@
 	<!-- Iron Material Listings end -->
 
 	<!-- Orcish Material Listings start -->
-	<weapon_material>
-	    <damageModifier>1.25</damageModifier>
-	    <identifier>OrcishLow</identifier>
+		<weapon_material>
+			<damageModifier>1.25</damageModifier>
+			<identifier>OrcishLow</identifier>
             <materialMeltdown>ORCISH</materialMeltdown>
             <materialTemper>ORCISH</materialTemper>
             <reachModifier>-0.03</reachModifier>
             <speedModifier>-0.06</speedModifier>
-	</weapon_material>
-	<weapon_material>
-	    <damageModifier>1.3</damageModifier>
-	    <identifier>Orcish</identifier>
+		</weapon_material>
+		<weapon_material>
+			<damageModifier>1.3</damageModifier>
+			<identifier>Orcish</identifier>
             <materialMeltdown>ORCISH</materialMeltdown>
             <materialTemper>ORCISH</materialTemper>
             <reachModifier>-0.03</reachModifier>
             <speedModifier>-0.06</speedModifier>
-	</weapon_material>
-	<weapon_material>
-	    <damageModifier>1.35</damageModifier>
-	    <identifier>OrcishHigh</identifier>
+		</weapon_material>
+		<weapon_material>
+			<damageModifier>1.35</damageModifier>
+			<identifier>OrcishHigh</identifier>
             <materialMeltdown>ORCISH</materialMeltdown>
             <materialTemper>ORCISH</materialTemper>
             <reachModifier>-0.03</reachModifier>
             <speedModifier>-0.06</speedModifier>
-	</weapon_material>
+		</weapon_material>
 	<!-- Orcish Material Listings end -->
 
 	<!-- None Material Listings start -->
@@ -4057,41 +4057,41 @@
 	<!-- Steel Material Listings end -->
 
 	<!-- Wood Material Listings start -->
-	<weapon_material>
-            <damageModifier>0.8</damageModifier>5
-	    <identifier>Wood</identifier><!-- long bow -->
+		<weapon_material>
+            <damageModifier>0.8</damageModifier>
+			<identifier>Wood</identifier><!-- long bow -->
             <materialMeltdown>WOOD</materialMeltdown>
             <materialTemper>WOOD</materialTemper>
             <reachModifier>0.0</reachModifier>
             <speedModifier>0.02</speedModifier>
         </weapon_material>
-	<weapon_material>
+		<weapon_material>
             <damageModifier>0.85</damageModifier>
-	    <identifier>WoodHigh</identifier>
+			<identifier>WoodHigh</identifier>
             <materialMeltdown>WOOD</materialMeltdown>
             <materialTemper>WOOD</materialTemper>
             <reachModifier>0.0</reachModifier>
             <speedModifier>0.02</speedModifier>
         </weapon_material>
-	<weapon_material>
+		<weapon_material>
             <damageModifier>1</damageModifier>
-	    <identifier>Oakwood</identifier>
+			<identifier>Oakwood</identifier>
             <materialMeltdown>WOOD</materialMeltdown>
             <materialTemper>WOOD</materialTemper>
             <reachModifier>0.0</reachModifier>
             <speedModifier>0.02</speedModifier>
         </weapon_material>
-	<weapon_material>
+		<weapon_material>
             <damageModifier>1.1</damageModifier>
-	    <identifier>Ashwood</identifier> 
+			<identifier>Ashwood</identifier> 
             <materialMeltdown>WOOD</materialMeltdown>
             <materialTemper>WOOD</materialTemper>
             <reachModifier>0.0</reachModifier>
             <speedModifier>0.02</speedModifier>
         </weapon_material>
-	<weapon_material>
+		<weapon_material>
             <damageModifier>1.2</damageModifier>
-	    <identifier>Strongwood</identifier>
+			<identifier>Strongwood</identifier>
             <materialMeltdown>WOOD</materialMeltdown>
             <materialTemper>WOOD</materialTemper>
             <reachModifier>0.0</reachModifier>
@@ -6710,7 +6710,7 @@
 		<weapon_type>
 			<identifier>Battleaxe</identifier>
 			<baseWeaponType>BATTLEAXE</baseWeaponType>
-			<damageBase>17.0</damageBase>
+			<damageBase>22.1</damageBase>
 			<reachBase>1.15</reachBase>
 			<speedBase>0.85</speedBase>
 			<critDamageFactor>0.7</critDamageFactor>
@@ -6724,7 +6724,7 @@
 		<weapon_type>
 			<identifier>Partisan</identifier>
 			<baseWeaponType>PARTISAN</baseWeaponType>
-			<damageBase>15.0</damageBase>
+			<damageBase>19.5</damageBase>
 			<reachBase>1.35</reachBase>
 			<speedBase>0.95</speedBase>
 			<critDamageFactor>0.8</critDamageFactor>
@@ -6738,7 +6738,7 @@
 		<weapon_type>
 			<identifier>Halberd</identifier>
 			<baseWeaponType>HALBERD</baseWeaponType>
-			<damageBase>22.0</damageBase>
+			<damageBase>28.6</damageBase>
 			<reachBase>1.15</reachBase>
 			<speedBase>0.7</speedBase>
 			<critDamageFactor>0.8</critDamageFactor>
@@ -6752,7 +6752,7 @@
 		<weapon_type>
 			<identifier>Warhammer</identifier>
 			<baseWeaponType>WARHAMMER</baseWeaponType>
-			<damageBase>20.0</damageBase>
+			<damageBase>26.0</damageBase>
 			<reachBase>1.1</reachBase>
 			<speedBase>0.78</speedBase>
 			<critDamageFactor>0.5</critDamageFactor>
@@ -6766,7 +6766,7 @@
 		<weapon_type>
 			<identifier>Volendrung</identifier>
 			<baseWeaponType>WARHAMMER</baseWeaponType>
-			<damageBase>22.0</damageBase>
+			<damageBase>28.6</damageBase>
 			<reachBase>1.1</reachBase>
 			<speedBase>0.82</speedBase>
 			<critDamageFactor>0.5</critDamageFactor>
@@ -6780,7 +6780,7 @@
 		<weapon_type>
 			<identifier>Longmace</identifier>
 			<baseWeaponType>LONGMACE</baseWeaponType>
-			<damageBase>16.0</damageBase>
+			<damageBase>20.8</damageBase>
 			<reachBase>1.2</reachBase>
 			<speedBase>0.85</speedBase>
 			<critDamageFactor>0.8</critDamageFactor>
@@ -6808,7 +6808,7 @@
 		<weapon_type>
 			<identifier>Battlestaff</identifier>
 			<baseWeaponType>BATTLESTAFF</baseWeaponType>
-			<damageBase>13.0</damageBase>
+			<damageBase>16.9</damageBase>
 			<reachBase>1.2</reachBase>
 			<speedBase>1.0</speedBase>
 			<critDamageFactor>0.5</critDamageFactor>
@@ -6822,7 +6822,7 @@
 		<weapon_type>
 			<identifier>Greatsword</identifier>
 			<baseWeaponType>GREATSWORD</baseWeaponType>
-			<damageBase>17.0</damageBase>
+			<damageBase>22.1</damageBase>
 			<reachBase>1.2</reachBase>
 			<speedBase>0.85</speedBase>
 			<critDamageFactor>0.9</critDamageFactor>
@@ -6836,7 +6836,7 @@
 		<weapon_type>
 			<identifier>Bastard Sword</identifier>
 			<baseWeaponType>BASTARDSWORD</baseWeaponType>
-			<damageBase>16.0</damageBase>
+			<damageBase>20.8</damageBase>
 			<reachBase>1.0</reachBase>
 			<speedBase>0.98</speedBase>
 			<critDamageFactor>1.1</critDamageFactor>
@@ -6850,7 +6850,7 @@
 		<weapon_type>
 			<identifier>Nodachi</identifier>
 			<baseWeaponType>NODACHI</baseWeaponType>
-			<damageBase>18.0</damageBase>
+			<damageBase>23.4</damageBase>
 			<reachBase>1.15</reachBase>
 			<speedBase>0.92</speedBase>
 			<critDamageFactor>0.9</critDamageFactor>
@@ -6865,7 +6865,7 @@
 		<weapon_type>
 			<identifier>Shortbow</identifier>
 			<baseWeaponType>SHORTBOW</baseWeaponType>
-			<damageBase>10.5</damageBase>
+			<damageBase>12.0</damageBase>
 			<reachBase>1.0</reachBase>
 			<speedBase>1.0</speedBase>
 			<critDamageFactor>1.3</critDamageFactor>
@@ -6879,7 +6879,7 @@
 		<weapon_type>
 			<identifier>Longbow</identifier>
 			<baseWeaponType>LONGBOW</baseWeaponType>
-			<damageBase>13.5</damageBase>
+			<damageBase>15.5</damageBase>
 			<reachBase>1.0</reachBase>
 			<speedBase>0.6</speedBase>
 			<critDamageFactor>1.5</critDamageFactor>
@@ -6893,7 +6893,7 @@
 		<weapon_type>
 			<identifier>Crossbow</identifier>
 			<baseWeaponType>CROSSBOW</baseWeaponType>
-			<damageBase>16.5</damageBase>
+			<damageBase>19.0</damageBase>
 			<reachBase>1.0</reachBase>
 			<speedBase>0.8</speedBase>
 			<critDamageFactor>1.75</critDamageFactor>
