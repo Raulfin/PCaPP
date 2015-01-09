@@ -1577,6 +1577,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Overlord's Heavy Shield</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Merta</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->

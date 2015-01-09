@@ -7406,6 +7406,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Dynamic Loot -->
+	<!-- Merta -->
+		<exclusion>
+			<text>Merta</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Merta -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8126,6 +8133,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Dynamic Loot -->
+	<!-- Merta -->
+		<exclusion>
+			<text>Merta</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Merta -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

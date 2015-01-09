@@ -1061,6 +1061,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Dark Hammer</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Merta Dagger</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
