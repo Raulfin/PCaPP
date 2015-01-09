@@ -12,3 +12,5 @@ Some mods will have an optional file to change armors from Heavy to Light or vic
 I am planning to add a few new armor and weapon materials, been saying I would for a while, but haven't yet.
 
 Don't worry about editing any of the material or type data, that all falls under balance, there is a topic on the PCaPP page to discuss balance.
+
+When adding code, please avoid using spaces, use tabs instead, tabs help keep the file size a lot smaller than spaces.
