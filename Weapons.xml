@@ -4059,7 +4059,7 @@
 	<!-- Wood Material Listings end -->
 		<weapon_material>
             <damageModifier>0.8</damageModifier>5
-			<identifier>Wood</identifier>long bow
+			<identifier>Wood</identifier><!-- long bow -->
             <materialMeltdown>WOOD</materialMeltdown>
             <materialTemper>WOOD</materialTemper>
             <reachModifier>0.0</reachModifier>
