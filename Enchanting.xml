@@ -7413,6 +7413,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Merta -->
+	<!-- Lilith -->
+		<exclusion>
+			<text>Lilith</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Lilith -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>

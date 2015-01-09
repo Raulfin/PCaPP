@@ -2583,6 +2583,13 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- EggOver -->
+		<!-- Lilith -->
+			<exclusion>
+				<text>Lilith</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Lilith -->
 		</distribution_exclusions_list_regular>
 
 		<distribution_exclusions_weapon_enchanted>
@@ -3536,6 +3543,14 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- EggOver -->
+		<!-- Lilith -->
+			<exclusion>
+				<text>Lilith</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Lilith -->
+
 		</distribution_exclusions_list_enchanted>
 	</distribution_exclusions_weapon>
 

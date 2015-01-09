@@ -1065,6 +1065,30 @@
 			<identifier>Daedric</identifier>
 			<substring>Merta Dagger</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Lilith's Imbued Scythe</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Lilith's Imbued Sickle</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Lilith's Imbued Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Lilith's Scythe</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Lilith's Sickle</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Lilith's Dagger</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -5475,6 +5499,10 @@
 			<substring>Superb Dread Axe</substring>
 			<identifier>Waraxe</identifier>
 		</binding>
+		<binding>
+			<substring>Sickle</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
 	<!-- Waraxe bindings end -->
 	<!-- =====================================================Light Weapon bindings end =================================================== -->
 
@@ -5649,6 +5677,10 @@
 		</binding>
 		<binding>
 			<substring>The Khajiit's Staff</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>	
+		<binding>
+			<substring>Scythe</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 	<!-- Battleaxe bindings end -->
