@@ -291,7 +291,7 @@
 			<factorWeight>0.6</factorWeight>
 			<factorReach>1.1</factorReach>
 			<factorAttackSpeed>1.2</factorAttackSpeed>
-			<factorValue>2</factorValue>
+			<factorValue>2.0</factorValue>
 		</weapon_modifier>
 		<weapon_modifier>
 			<identifier>reforged</identifier>
@@ -6403,7 +6403,7 @@
 			<baseWeaponType>ARMINGSWORD</baseWeaponType>
 			<damageBase>11.0</damageBase>
 			<reachBase>1.0</reachBase>
-			<speedBase>1.0</speedBase>
+			<speedBase>0.9</speedBase>
 			<critDamageFactor>0.8</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
