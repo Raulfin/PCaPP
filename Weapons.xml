@@ -3438,7 +3438,7 @@
         </weapon_material>
 	<!-- Advanced Material Listings end -->
 
-	<!-- Bonemold Material Listings end -->
+	<!-- Bonemold Material Listings start -->
         <weapon_material>
             <damageModifier>0.25</damageModifier>
             <identifier>Bone</identifier>
@@ -3473,7 +3473,7 @@
         </weapon_material>
 	<!-- Bonemold Material Listings end -->
 
-	<!-- Bound Material Listings end -->
+	<!-- Bound Material Listings start -->
         <weapon_material>
             <damageModifier>2</damageModifier>
             <identifier>Bound</identifier>
@@ -3484,7 +3484,7 @@
         </weapon_material>
 	<!-- Bound Material Listings end -->
 
-	<!-- Chitin Material Listings end -->
+	<!-- Chitin Material Listings start -->
         <weapon_material>
             <damageModifier>1.2</damageModifier>
             <identifier>ChitinLow</identifier>
@@ -3511,7 +3511,7 @@
         </weapon_material>
 	<!-- Chitin Material Listings end -->
 
-	<!-- Daedric Material Listings end -->
+	<!-- Daedric Material Listings start -->
         <weapon_material>
             <damageModifier>1.95</damageModifier>
             <identifier>DaedricLow</identifier>
@@ -3538,7 +3538,7 @@
         </weapon_material>
 	<!-- Daedric Material Listings end -->
 
-	<!-- Dragon Material Listings end -->
+	<!-- Dragon Material Listings start -->
         <weapon_material>
             <damageModifier>1.7</damageModifier>
             <identifier>Dragonscale</identifier>
@@ -3573,7 +3573,7 @@
         </weapon_material>
 	<!-- Dragon Material Listings end -->
 
-	<!-- Draugr Material Listings end -->
+	<!-- Draugr Material Listings start -->
         <weapon_material>
             <damageModifier>1.3</damageModifier>
             <identifier>Draugr</identifier>
@@ -3608,7 +3608,7 @@
         </weapon_material>
 	<!-- Draugr Material Listings end -->
 
-	<!-- Dwarven Material Listings end -->
+	<!-- Dwarven Material Listings start -->
         <weapon_material>
             <damageModifier>1.05</damageModifier>
             <identifier>DwarvenLow</identifier>
@@ -3635,7 +3635,7 @@
         </weapon_material>
 	<!-- Dwarven Material Listings end -->
 
-	<!-- Ebony Material Listings end -->
+	<!-- Ebony Material Listings start -->
         <weapon_material>
             <damageModifier>1.65</damageModifier>
             <identifier>EbonyLow</identifier>
@@ -3662,7 +3662,7 @@
         </weapon_material>
 	<!-- Ebony Material Listings end -->
 
-	<!-- Elven Material Listings end -->
+	<!-- Elven Material Listings start -->
         <weapon_material>
             <damageModifier>1.15</damageModifier>
             <identifier>ElvenLow</identifier>
@@ -3689,7 +3689,7 @@
         </weapon_material>
 	<!-- Elven Material Listings end -->
 
-	<!-- Faction Material Listings end -->
+	<!-- Faction Material Listings start -->
         <weapon_material>
             <damageModifier>1.1</damageModifier>
             <identifier>Stormcloak</identifier>
@@ -3748,7 +3748,7 @@
         </weapon_material>
 	<!-- Faction Material Listings end -->
 
-	<!-- Falmer Material Listings end -->
+	<!-- Falmer Material Listings start -->
         <weapon_material>
             <damageModifier>1.2</damageModifier>
             <identifier>Falmer</identifier>
@@ -3767,7 +3767,7 @@
         </weapon_material>
 	<!-- Falmer Material Listings end -->
 
-	<!-- Forsworn Material Listings end -->
+	<!-- Forsworn Material Listings start -->
         <weapon_material>
             <damageModifier>1.1</damageModifier>
             <identifier>Forsworn</identifier>
@@ -3786,7 +3786,7 @@
         </weapon_material>
 	<!-- Forsworn Material Listings end -->
 
-	<!-- Glass Material Listings end -->
+	<!-- Glass Material Listings start -->
         <weapon_material>
             <damageModifier>1.45</damageModifier>
             <identifier>GlassLow</identifier>
@@ -3813,7 +3813,7 @@
         </weapon_material>
 	<!-- Glass Material Listings end -->
 
-	<!-- Gold Material Listings end -->
+	<!-- Gold Material Listings start -->
         <weapon_material>
             <damageModifier>1</damageModifier>
             <identifier>Gold</identifier>
@@ -3832,7 +3832,7 @@
         </weapon_material>
 	<!-- Gold Material Listings end -->
 
-	<!-- Horker -->
+	<!-- Horker Material Listings start -->
         <weapon_material>
             <damageModifier>0.95</damageModifier>
             <identifier>HorkerL</identifier>
@@ -3849,9 +3849,9 @@
             <reachModifier>0.02</reachModifier>
             <speedModifier>-0.02</speedModifier>
         </weapon_material>
-	<!-- Horker -->
+	<!-- Horker Material Listings end -->
 	
-	<!-- Iron Material Listings end -->
+	<!-- Iron Material Listings start -->
         <weapon_material>
             <damageModifier>0.2</damageModifier>
             <identifier>IronClutter</identifier>
@@ -3886,7 +3886,7 @@
         </weapon_material>
 	<!-- Iron Material Listings end -->
 
-	<!-- Orcish Material Listings end -->
+	<!-- Orcish Material Listings start -->
 	<weapon_material>
 	    <damageModifier>1.25</damageModifier>
 	    <identifier>OrcishLow</identifier>
@@ -3913,7 +3913,7 @@
 	</weapon_material>
 	<!-- Orcish Material Listings end -->
 
-	<!-- None Material Listings end -->
+	<!-- None Material Listings start -->
         <weapon_material>
             <damageModifier>0.5</damageModifier>
             <identifier>None</identifier>
@@ -3940,7 +3940,7 @@
         </weapon_material>
 	<!-- None Material Listings end -->
 
-	<!-- Nord Material Listings end -->
+	<!-- Nord Material Listings start -->
         <weapon_material>
             <damageModifier>1.25</damageModifier>
             <identifier>NordLow</identifier>
@@ -3967,7 +3967,7 @@
         </weapon_material>
 	<!-- Nord Material Listings end -->
 
-	<!-- Silver Material Listings end -->
+	<!-- Silver Material Listings start -->
         <weapon_material>
             <damageModifier>1</damageModifier>
             <identifier>Silver</identifier>
@@ -4002,7 +4002,7 @@
         </weapon_material>
 	<!-- Silver Material Listings end -->
 
-	<!-- Stalhrim Material Listings end -->
+	<!-- Stalhrim Material Listings start -->
         <weapon_material>
             <damageModifier>1.75</damageModifier>
             <identifier>StalhrimLow</identifier>
@@ -4029,7 +4029,7 @@
         </weapon_material>
 	<!-- Stalhrim Material Listings end -->
 
-	<!-- Steel Material Listings end -->
+	<!-- Steel Material Listings start -->
         <weapon_material>
             <damageModifier>0.95</damageModifier>
             <identifier>SteelLow</identifier>
@@ -4056,7 +4056,7 @@
         </weapon_material>
 	<!-- Steel Material Listings end -->
 
-	<!-- Wood Material Listings end -->
+	<!-- Wood Material Listings start -->
 	<weapon_material>
             <damageModifier>0.8</damageModifier>5
 	    <identifier>Wood</identifier><!-- long bow -->
