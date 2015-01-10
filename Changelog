@@ -1,0 +1,475 @@
+<Versions>
+<Current>
+<v2.1.1>
+Now covers:
+	Dynamic Loot (42662) (Has some duplicate item names, Last Hope and Flamebreaker,)
+	Merta (60195)
+	Liliths Sickle - Custom Scythe (22368)
+	LustDesign - Dovahkiin Mercenary Gear - CBBE v3 - UNP (15804)
+	Warglaives and Silverlight Armor 099 CBBE (10251)
+	Elvensniper CBBE Bodyslide Support Conversion (52102)
+
+Exclusions:
+	Excluded Bone, Stone, Iron and Steel Hunterborn Knives from being distributed.
+
+Fixes:
+	Corrected bindings for "Tribunal Robes and Masks"
+
+Changes:
+
+Additions:
+
+Balancing:
+	Increased Heavy Weapons damage by 30% and Ranged Weapons damage by 15%.
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+	lilithssickle_PerMa_Patch.esp
+</v2.1.1>
+</Current>
+
+<Old>
+<v2.1.0>
+Now covers:
+	Dovamaar and Dovahfaas (51842)
+	Blood Witch Armor (21572)
+	Raven witch armor (36497)
+	Medusa Drakul armors and Thanatos dragon (31229)
+	skyrim monster mod (35631)
+
+Exclusions:
+	Gwelda and Emfy armors will no longer be distributed or have random enchanted versions made, since they are Female only items.
+	Aditional "Horripilation" exclusion.
+	
+
+Blocklist:
+	Spectraverse - Only After Dragon Rising.esp
+
+Fixes:
+
+Changes:
+	Corrected Nettlebane distribution exclusion to actually block it from being distributed.
+	Slightly increased DaedricLight armor rating to match Dragonscale as intended.
+	Increased base armor of Dragonpriest Masks slightly and adjusted their materials to better match how they look.
+
+Additions:
+	Ahzidal, Dukaan and Zahkriisos Dragonpriest masks.
+
+Balancing:
+	Adjusted weapon_type base damage for new formula added in PerMa 1.1
+
+Renamed:
+
+Updated Patches:
+	Included voxatu's updated Pre PaMa Improved Artifacts.esp
+
+New Patches:
+</v2.1.0>
+<v2.0.2>
+Now covers:
+	Advanced Skyrim Overhaul (aka Nature of the beast II) (20721)
+	Latex Corset - CBBE TBBP with BODYSLIDE (49350)
+	Ancient Nord Chainmail CBBE HDT (26664)
+	TERA Armor Collection - CBBE - standalone (29411)
+	Emfy Cleric Robes UNP - CBBE (61013)
+	Gwelda Armor Pack UNP (56998)
+	Expanded Winterhold Destruction Ruins (8333)
+	Nameless Light by FavoredSoul (59254) was already supported but never mentioned as such.
+	Jester Outfit ReTexture -Standalone and Craftable (17530)
+	Witch of the Wild (38164)
+	Imperial Investigator Armor UNP - UNPB (19377)
+	Seratic armor (19961)
+	Royal Daedric and Daedra Huntress armors (3104)
+	Male Cleric Armor Variants (14194)
+	Craftable Cleric *Heavy Version* (3214)
+	Contractor and Mavari armors (38386)
+
+Exclusions:
+	Nameless Light will no longer be distributed. (Nameless Light)
+	Frostfall weapons will no longer be enchanted or distributed.
+	Dragon Priest Masks can no longer be reforged or Warforged.
+	Unenchanted Archmage armors will no longer be distributed.
+
+Blocklist:
+	Spectraverse
+	Dwemertech
+	
+Fixes/Changes:
+	Aemer's Mahakaman Blade will now be a Greatsword (Aemer's Refuge)
+	Corrected a typo on Ulcissor Armor (TERA) has both Ulciscor and Ulcissor now.
+	Corrected Penetus Oculatus to Light Armor.
+</v2.0.2>
+<v2.0.1>
+Now covers:
+	Nightmare Armor by Hentai (13667)
+	Aemer's Refuge (37450)
+
+Blocklist:
+	Added Ish's Respec Mod.esp to blocklist
+
+Fixes/Changes:
+	Corrected typo in Ammunition.xml that prevented most ammunition from correctly having variants made.
+
+Balancing:
+	Reduced Glass Arrow/Bolt damage from +12 to +10 as I meant to in 1.8.
+
+</v2.0.1>
+<v2.0.0>
+Now covers:
+	 Castle Valdmire (55215)
+	 Unique scimitars (Hammerfell armoury) (60896)
+
+Exclusions:
+	More exclusions for Ilas-Tei's Ring
+	Fork of Horripilation will no longer be distributed.
+
+Blocklist:
+	Added HDTPhysicsWeaponSling.esp to Blocklist.
+	kuertee's Eat and sleep added to Blocklist
+Fixes/Changes:
+	Weapon Base Damage Formula changed from:
+		(int) ((skillBase + typeMod + matMod) * typeMult) * [modifiers]
+	to:
+		(int) (skillBase + typeMod*matMod) * [modifiers]
+	Corrected a typo in Vilja enchanted weapon distribution exclusion setting.
+	Improved 'Lustmord' Armor support.
+	Corrected a typo in Hunterborn weapon distribution exclusions.
+	Justiciar Changdao and Nordic Dwemer Blade will now patch correctly (IW)
+	Trident Blade changed from Shortspear to Shortsword to better match visual.
+
+Additions:
+	Updated Alchemy.xml to v17.
+	Added 'Low' material bindings for most materials, don't expect to actually use them all, but they are there now.
+	Added 'DaedricArtifact' material bindings to fill a few odd gaps in Artifact damage. (Not fully implemented.)
+
+Balancing:
+	Adjusted all Weapon Material and Type Damage ratings for new formula.
+	Changed Claw weapon crit from 2.0 to 0.75.
+	Changed Katar weapons speed  from 1.2 to 1.3 and crit from 1.75 to 1.5.
+	Changed Knuckle weapon speed from 1.45 to 1.3 and crit from 2.0 to 0.5.
+	Changed Katar from Bladed to Piercing
+	Changed Claw from Piercing to Blade.
+	Claw, Katar and Knuckle damage increased from 1 to 1.25.
+
+Updated Patches:
+	WAFR (Carried over USKP/PerMa 1.1 name changes to several armors.)
+	CCOR BOYD (carried over CCOR weapon LLI on NPC Majhad)
+	Immersive Armors (Removed Object Manager Data)
+	Wind Destruction Magic (Most PerMa perks now innately cover Wind magic. Removed Whirlwind Cloak since PerMa adds a new version. Corrected conditions in Unified perk that caused elemental spell damage to not increase when a contract perk was taken, example; Taking Pyromancer Contract caused non-Fire spell damage to increase for each wind perk not taken.)
+
+</v2.0.0>
+<v1.8>
+Now covers:
+	True Bound Daedric Armors (34269)
+	WARZONES 2015 - Civil Unrest (9494)
+	SPOA Silver Knight Armor (32275) and Shield (34496)
+	Ghosus Weapon Pack (28545)
+	Armonizer (27028)
+	Weaponizer (24015)
+	Weapon Variants Expansion (10902)
+	Bosmer Armour Pack (37289)
+	Scout Armor (7109)
+	Grace Darklings Elven Scout Armor (35174)
+
+Exclusions:
+	Heartwood Bow will no longer be distributed. (Hunterborn)
+	Armor of the Old Gods set will no longer be distributed.
+	'Woodcutter' and 'Pickaxe' will no longer be distributed, or have enchanted versions made.
+	CCOR 'ArmoredCirclet's will no longer have Reforged, Warforged versions made. Will add them to the CCOR patch in PCaPP v2.
+	CCOR 'ArmoredCirclet's will no longer have Quality versions made. (PerMa v1.1) Will add them to the CCOR patch in PCaPP v2.
+	Distribution and Enchanting exclusions for Unique Bows Collection (32405).
+
+Blocklist:
+	Dual Sheath Redux Patch.esp and Dual Sheath Redux.esp added to Blocklist.
+
+Fixes/Changes:
+	Corrected a typo that prevented 'Nordic Ranger' Armors from patching correctly.
+	Corrected a typo that prevented 'Wild Hunt' Heavy Armors from patching correctly.
+	Corrected typos on 'Viator' 'Blade Dancer' and 'Moon Buckled' that prevented proper patching. (TERA)
+	Improved Vilja (26393) settings
+
+Additions:
+	Added 'Sylward' entry for TERA.
+	Added new Material and Type explicitly for Giant weapons, Giant Club base damage increased from 23 to 64, swing speed reduced from 0.85 to 0.8. Weapon Sagger and Debuff tier increased to 3, Bleed decreased to 2. Range increased for 1.2 to 1.3. Crit reduced to 0.5. Now uses Longmace archetype instead of Greatsword.
+	
+
+Balancing:
+	Adjusted a modifier that were causing Lightweight Crossbow variants to have erroneous values.
+	Increased Shortspear crit from 08 -> 1.5.
+	Increased Hunting Knife crit from 0.5 -> 1.2
+	Increased Halberd crit from 0.3 -> 0.8
+	Reduced Club crit from 0.7 -> 0.3 to match Mace
+	Reduced Katar crit from 2.5 -> 1.75
+	Reduced Battlestaff crit from 0.9 -> 0.5
+	Reduced Shortbow crit from 1.5 -> 1.3
+	Reduced Shortbow speed from 1.2 -> 1.0
+	Increased Crossbow crit from 1.0 -> 1.5
+	Increased Longbow crit from 0.9 -> 1.5
+	Increased Longbow speed from 0.4 -> 0.6
+	Increased Arming Sword, Broadsword and Waraxe crit from 0.5 -> 0.8
+	Increased Broadsword damage from 6.0 -> 7.0
+	Reduced Broadsword speed from 1.0 -> 0.9
+	Elven, Nordic, Glass, Dragonbone Arrow/Bolt damage increased.
+	Falmer, Iron, Steel, Silver, Dwarven, Stalhrim Arrow/Bolt damage decreased.
+	Corrected a typo that caused Orcish weapons to be 6% faster instead of 6% slower.
+
+Updated Patches:
+	Wind Destruction Magic (Changes in included Readme)
+	Bound Armory Patch (Visuals)
+	WAFR (Keywords on Nordic items to get them sorted right.)
+	CCOR (Removed duplicate PerMa Longbow recipe)
+	Pre PaMa Improved Artifacts.esp (Removed duplicate ArmorNightingale keyword from both Nightingale Hood armors.)
+
+New Patches:
+	AetheriumSwordsnArmor.esp (Replacer)
+	Nock2Tip.esp (Replacer)
+</v1.8>
+<v1.7>
+Now covers:
+	Scoiatael Weapons (18439)
+	Nicoroshi Creations (15122)
+	Ghorzas Armor (36459)
+	Helgen Reborn (35841)
+	Faction: Pitfighter
+	Faction: Pitfighter Travels
+	Nock to Tip (60219)
+	Bound Armory (45042)
+	True Bound Armors (30462)
+	Hadhafang - Arwens Sword - LOTR (8456)
+	Ghosu - Horker Weapon pack (48557)
+
+Exclusions:
+	Can no longer reforge Pickaxe or Woodcutters axe's
+
+Fixes/Changes:
+	Updated merged patch info in the installer. Made installer a bit (lot) neater.
+	Corrected stray Yari bindings to use the correct Partisan binding.
+	Fixed 3DNPC/Interesting NPCs for real. For really real! (or as best as can be.)
+	Corrected an error where Nordic weapons required the steel perk, steel ingots to temper, and brakedown to steel ingots. Will now require the Advanced perk and Corundum.
+
+Additions:
+	Spanish translation finished.
+	Bindings for Bound ammunition.
+
+Balancing:
+	Reduced severity of Ancient modifier from -20% damage to -10% damage.
+
+Renamed:
+	Horker XX I  -> Horker XX (Horker Weapon pack)
+	Horker XX II -> Horker Honed XX (Horker Weapon pack)
+
+New Patches:
+	Pre PaMa Bound Armory Patch - Place after WAFR patch.
+	Pre PaMa LeftHandRings WAFR Patch
+	Left Hand Rings Merged containing LeftHandRings.esp, LeftHandRings - Dawnguard.esp and Left Hand Rings WAFR Patch
+	Winter is Coming replacement esp
+	Ghosu - Horker Weapon pack replacement esp
+</v1.7>
+<v1.6.1>
+Now covers:
+	Ygrayne (60066)
+	Gorehowl (50123)
+	R18Pn - Eisen Platte Armor (11050)
+
+Exclusions:
+	Excluded 'Backpack' from having a Reforged recipe made.
+	Excluded distribution of Chillrend, Dawnbreaker, Dark Brotherhood, Ghostblade, Mehrunes Razor, Mace of Molag Bal, Ebony Blade, Zephyr, Gloves of the Pugilist, Ebony Mail, Masque of Clavicus Vile, Aetherial Shield, Archmage, Muiri's Ring, Nightweaver's Band, Shield of Ysgramor, Saarthal Amulet, MG02, MG05, MG07, DA0, DA1, Spellbreaker and Savos Aren's Amulet.
+	Improved Gauldur and Aela's Shield distribution exclusions.
+
+Blocklist:
+	Additional Blocklist entries from Crush.
+	
+Fixes/Changes:
+	Corrected Dragonscale armor scaling, DragonscaleLow/High will now have armor rating just below/above standard Dragonscale.
+	Removed the Ring keyword from Barbarian Hero Bracers that prevented them from having a Reforged recipe created.
+	Adjusted all Armingsword bindings to Arming Sword for consistency and correctness.
+	Corrected Dwarven Mage Heavy set. (Immersive Armors)
+	Corrected Goblin Bindings (SiC)
+
+Additions:
+	Full German translation support.
+	Added armor binding for 'Light Blades'
+	Alchemy 16 - fix an issue with More Interesting Loot.
+
+Balancing:
+	Reduced base crit damage of Dagger/Tanto/Shiv
+	Reduced severity of 'Old' modifier from -20% armor rating to -5% and added matching 'Old' modifier to weapons.
+
+Renamed:
+	Updated WAFR patches to properly rename 'Crossbow' to 'Steel Crossbow' and 'Enhanced Crossbow' to 'Enhanced Steel Crossbow'.
+
+Updated Patches:
+	All WAFR patches
+	Immersive Armors Patches - PerMa_SkyRe_No More Duplicate Immersive Weapons Breakdown Recipes (60228) merged in.
+
+New Patches:
+	Pre PaMa SiC Patch -Names Patch for a few Goblin Shields and adds Clothing keyword to a few skins to stop PaMa from patching them.
+</v1.6.1>
+<v1.5>
+Now covers:
+	Morrowloot 4E (50740)
+
+Exclusions:
+	Additional DLC Spell and Book exclusions.
+	Additional Wyrmstooth Spell and Book exclusions.
+	Arise - Black Sacrament Armor Crafting Books and Spells will no longer be passed out.
+	Additional Interesting NPCs Weapon and Armor exclusions.
+	Additional Improved Artifacts Collection Weapon and Armor exclusions.
+
+Fixes/Changes:
+	Corrected a few Warmonger bindings.
+	Corrected a few Improved Artifacts Collection bindings.
+	Adjusted all Arming Sword bindings to Armingsword for consistency. Arming Sword will still bind as Arming Sword.
+	Corrected Broadsword and Armingsword bindings.
+	Corrected a few 3DNPC/Interesting NPCs bindings.
+	Corrected a few Inconsequential NPCs bindings.
+	
+
+Additions:
+
+Balancing:
+	Reduced Hatchet reach from 0.95 to 0.7
+	Increased Hatchet damage from 2 to 3
+	Increased Hatchet speed from 0.95 to 1.1
+	Increased Hatchet Crit from 0.1 to 0.4
+	Reduced Waraxe speed from 0.95 to 0.9
+	Changed 'Hero' modifier to 'Heroes'
+
+Renamed:
+
+New Patches:
+	Pre PaMa Improved Artifacts WAFR USKP Hearthfires Patch 
+</v1.5>
+<v1.4>
+Now covers:
+	Aetherium Arms and Armor (23530)
+	Blackreach Railroad
+	Brhuce: Legacy
+	Aethernautics
+	Lost wonder of Mzark
+	Midas Magic in Skyrim - fixed (44197)
+	Silver Arrows and Bolts (56679)
+	The Azincourt (39355)
+	The Glimmer (36535)
+	Cyrodilic Dagger (43137)
+	aMidianborn - Content Addon (24909)
+	The Huntsman
+
+Exclusions:
+	Added additional distribution exclusions for Wuuthrad, Valdr's Lucky Dagger, The Rueful Axe and The Longhammer.
+	Added distribution exclusions for Transmute Mineral Ore Spell and Tome.
+	Added an exclusion for any Spell or Spell Tome with "Teleport" in the name.
+
+Fixes/Changes:
+	Huntsman's Bow set to Longbow
+	Corrected Bindings for aMidianborn - Content Addon
+
+Additions:
+	Replaced Uncapper.ini with version updated by Crushboss.
+
+Balancing:
+	Reduced 'Alduin' modifier from +30% armor to +10%
+	Bindings for Silver Arrows and Bolts with damage equal to Steel.
+	Bindings for Skyforge Steel Arrows and Bolts with damage slightly above Steel.
+	Increased LightIron armor binding from 10 to 14
+	Increased LightSteel armor binding from 12 to 16
+	Increased LightBonemold armor binding from 14 to 18
+
+Renamed:
+	Falkreath Armor -> Falkreath Thane (IA patch), can now be properly bound as Heavy Armor.
+
+New Patches:
+	Frostfall patch to adjust spell costs, more to come with this.
+</v1.4>
+<v1.3>
+Now covers:
+	Apocalypse
+	Spectraverse
+	Dwemertech
+	Thunderchild
+	Vilja (26393)
+	Tera Armors (25846)
+
+Exclusions:
+	Improved distribution exclusions for Apocalypse, Spectraverse, Dwemertech and Thunderchild.
+	'The Longhammer' will no longer be distributed.
+	Unique/Quest items covered by Unique Uniques will no longer be distributed.
+	Blocked spells from Sands of Time, Cutting Room Floor and Vanilla spells from being passed out.
+	Added a temporary distribution exclusion for any spell with an _ (Underscore) in the EDID.
+
+Fixes/Changes:
+	Corrected typo that prevented Ornate Wood Bow from patching. (Archer's Armory)
+	Base costs fixed for: Weakness to Fire, Frost, Shock and Ravage Health.
+
+Additions:
+	Added missing settings so PaMa will no longer pass out Apoc, Spectraverse, Dwemertech or Thunderchild Books, Spells, Armor, Weapons or add anything to their Leveled Item lists.
+	Added entries for Vilja's custom armor and Food/Ingrediants.
+
+Balancing:
+	Increased stats of all Lore Weapon Expansion weapons by 10%
+	Reduced faction armor Armor Rating a bit (Includes Imperials and Stormcloaks).
+	Removed a modifier that was causing the Penitus set to have an overly high armor rating.
+	Reduced severity of many modifiers.
+</v1.3>
+<v1.2>
+Now covers:
+	Spectraverse
+	Dwemertech
+	Lore Weapon Expansion
+
+Exclusions:
+	Added The Woodsman's Friend to LL exclusions, it will nolonger be found as random loot.
+	Added The Woodsman's Friend to enchanting exclusions, it will have random enchanted versions.
+	Spectraverse and Dwemertech Spell Tomes will nolonger be found as random loot.
+
+Fixes/Changes:
+	Corrected BASH tag settings in file descriptions, Wrye should auto detect them now as intended.
+	Corrected all errors in all patches.
+	Added 'Custom bindings' section to Armor.xml and Weapons.xml.
+	Corrected the Wood weapon binding, should correctly catch them all.
+	Corrected The Woodsman's Friend type binding, it will now be a Battleaxe, not a Hatchet.
+
+Additions:
+	Added IronLow weapon material, will add 'Low' of other materials over time.
+
+New Patches:
+	Archer's Armory - Lore Weapon Expansion
+	Archer's Armory
+	
+</v1.2>
+<v1.1.1>
+Fixes/Changes:
+	Corrected format error in installer that made NMM mad.
+	Corrected Lustmord Vampire Armor to be Light Armor.
+
+</v1.1.1>
+<v1.1>
+Fixes/Changes:
+	Added CrimsonTwilight binding to catch misnamed gauntlets and Coat. (Crimson Twilight Armor)
+	BOYD patch now covers NPC Razhinda (conflict with PerMa Thief plugin)
+	CCOR patch now covers Necromancer Amulet (conflict with PerMa Mage plugin)
+	Fixed Hunterborn arrows. (for real, see I wrote it down this time!)
+	Fix CCOR patch
+	Fixed Falskaar's 'Vanvir's Masterpiece' quest weapon item from having enchanted versions made and passed out, which could break a Falskaar quest.
+	Fixed a keyword count error in WAFR patch that could cause patcher to fail.
+	Corrected a typo in the installer, had BoYD_ESF patch named as BoYD_EFF patch.
+
+Additions:
+	Added additional support for German, Spanish, French, Russian, Greek, Polish and Ukrainian languages.
+	Restricted distribution of spells and books for Flying Mod Beta, Lustmord Vampire Armor and Immersive Wenches. 
+
+New Patches:
+	Pre PaMa WAFR CCOR IW BoYD Patch
+	Pre PaMa WAFR CCOR IW Patch
+	Pre PaMa WAFR CCOR Patch
+	Pre PaMa WAFR IW Patch
+
+</v1.1>
+<v1>
+http://pastebin.com/bmwJ5fqd - Pre Release history
+</v1>
+</Old>
+</Versions>
