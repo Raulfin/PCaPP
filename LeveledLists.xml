@@ -1392,6 +1392,16 @@
 			</exclusion>
 	<!-- Quest Items end -->
 			<exclusion>
+				<text>Scamp's Hammer</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>PotW Wig</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Horripilation</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
@@ -2319,7 +2329,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Merta -->
-
+		<!-- Dovahkiin Mercenary -->
+			<exclusion>
+				<text>Dovahkiin Mercenary</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dovahkiin Mercenary -->
+		<!-- Warglaives and Silverlight Armor -->
+			<exclusion>
+				<text>Warglaive</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Warglaives and Silverlight Armor -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -3372,7 +3395,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Merta -->
-
+		<!-- Warglaives and Silverlight Armor  -->
+			<exclusion>
+				<text>SilverChillGreatsword</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Warglaives and Silverlight Armor  -->
+		<!-- Dovahkiin Mercenary -->
+			<exclusion>
+				<text>Dovahkiin Mercenary</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dovahkiin Mercenary -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -4537,6 +4573,39 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Merta -->
+		<!-- Dovahkiin Mercenary -->
+			<exclusion>
+				<text>Dovahkiin Mercenary</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dovahkiin Mercenary -->
+		<!-- Elven Sniper -->
+			<exclusion>
+				<text>Elven Sniper</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Elven Sniper -->
+		<!-- Warglaives and Silverlight Armor -->
+			<exclusion>
+				<text>Warglaive Shield</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Silverlight</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Warglaives and Silverlight Armor -->
+		<!-- Ursine -->
+			<exclusion>
+				<text>Ursine</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Ursine -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -5683,7 +5752,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Merta -->
-
+		<!-- Dovahkiin Mercenary -->
+			<exclusion>
+				<text>Dovahkiin Mercenary</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dovahkiin Mercenary -->
+		<!-- Ursine -->
+			<exclusion>
+				<text>Ursine</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Ursine -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

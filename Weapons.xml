@@ -2167,6 +2167,14 @@
 			<identifier>ElvenHigh</identifier>
 			<substring>Emfy Mace</substring>
 		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Warglaive</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Silver Chill</substring>
+		</binding>
 	<!-- Elven bindings end -->
 	
 	<!-- Falmer/Forsworn bindings start -->
@@ -2446,6 +2454,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Bow of Betrothal</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Scamp's Hammer</substring>
 		</binding>
 	<!-- Iron bindings end -->
 	
@@ -3247,6 +3259,26 @@
 		<binding>
 			<identifier>SteelHigh</identifier>
 			<substring>Rysh</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Dovahkiin Mercenary Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Dovahkiin Mercenary Blade</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Dovahkiin Mercenary Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Dovahkiin Mercenary Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Dovahkiin Mercenary Sword</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
@@ -4654,6 +4686,14 @@
 			<substring>Dovahfaas</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Dovahkiin Mercenary Blade</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Warglaive</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -4890,6 +4930,10 @@
 			<substring>Dwemer Repair Tool</substring>
 			<identifier>Dagger</identifier>
 		</binding>
+		<binding>
+			<substring>Dovahkiin Mercenary Dagger</substring>
+			<identifier>Dagger</identifier>
+		</binding>
 	<!-- Dagger bindings end -->
 
 	<!-- Hatchet bindings start -->
@@ -5123,6 +5167,10 @@
 		</binding>
 		<binding>
 			<substring>Aemer's Mahakaman Sword</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Dovahkiin Mercenary Sword</substring>
 			<identifier>Longsword</identifier>
 		</binding>
 	<!-- Longsword bindings end -->
@@ -5501,6 +5549,10 @@
 		</binding>
 		<binding>
 			<substring>Sickle</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
+		<binding>
+			<substring>Dovahkiin Mercenary Axe</substring>
 			<identifier>Waraxe</identifier>
 		</binding>
 	<!-- Waraxe bindings end -->
@@ -5945,6 +5997,10 @@
 			<substring>Dovahmaar</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
+		<binding>
+			<substring>Silver Chill Greatsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
@@ -6147,6 +6203,10 @@
 			<substring>Hevno Al</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
+		<binding>
+			<substring>Scamp's Hammer</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
 	<!-- Warhammer bindings end -->
 	<!-- =====================================================Heavy Weapon bindings end ===================================================== -->
 
@@ -6340,6 +6400,10 @@
 		</binding>
 		<binding>
 			<substring>Noroknos</substring>
+			<identifier>Shortbow</identifier>
+		</binding>
+		<binding>
+			<substring>Dovahkiin Mercenary Bow</substring>
 			<identifier>Shortbow</identifier>
 		</binding>
 	<!-- Shortbow bindings end -->

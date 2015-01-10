@@ -6628,6 +6628,16 @@
 		</exclusion>
 	<!-- Quest Items end -->
 		<exclusion>
+			<text>Scamp's Hammer</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>PotW Wig</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>_00Giant</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
@@ -7420,6 +7430,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Lilith -->
+	<!-- Dovahkiin Mercenary -->
+		<exclusion>
+			<text>Dovahkiin Mercenary</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Dovahkiin Mercenary --> 
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8147,6 +8164,39 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Merta -->
+	<!-- Dovahkiin Mercenary -->
+		<exclusion>
+			<text>Dovahkiin Mercenary</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Dovahkiin Mercenary -->
+	<!-- Elven Sniper -->
+		<exclusion>
+			<text>Elven Sniper</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Elven Sniper -->
+	<!-- Warglaives and Silverlight Armor -->
+		<exclusion>
+			<text>Warglaive Shield</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Silverlight</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Warglaives and Silverlight Armor -->
+	<!-- Ursine -->
+		<exclusion>
+			<text>Ursine</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Ursine -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

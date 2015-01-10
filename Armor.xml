@@ -1313,6 +1313,10 @@
 			<identifier>Clothing</identifier>
 			<substring>Dark Jester's Hat Alternate</substring>
 		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>PotW Wig</substring>
+		</binding>
 	<!-- Clothing Material Bindings end -->
 	
 	<!-- Daedric Material Bindings start -->
@@ -2889,6 +2893,14 @@
 			<identifier>Elven</identifier>
 			<substring>Last Hope</substring><!-- Same name is used for a Dwarven Shield -->
 		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Warglaive Shield</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Silverlight</substring>
+		</binding>
 	<!-- Elven Material Bindings end -->
 	
 	<!-- Falmer Material Bindings start -->
@@ -4352,6 +4364,10 @@
 			<identifier>Leather</identifier>
 			<substring>Seer's Hauberk</substring>
 		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Dovahkiin Mercenary</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
@@ -5032,6 +5048,10 @@
 			<identifier>Scaled</identifier>
 			<substring>Nightstalker Armor</substring>
 		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Ursine</substring>
+		</binding>
 	<!-- Scaled Material Bindings end -->
 	
 	<!-- Silver Material Bindings start -->
@@ -5147,6 +5167,10 @@
 		<binding>
 			<identifier>Studded</identifier>
 			<substring>Viator</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Elven Sniper</substring>
 		</binding>
 	<!-- Studded Material Bindings end -->
 	
