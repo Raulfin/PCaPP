@@ -3,9 +3,9 @@
 
 	<weapon_settings>
 		<appendTypeToName>true</appendTypeToName>
-		<baseDamageLightWeaponry>0</baseDamageLightWeaponry>
-		<baseDamageRangedWeaponry>0</baseDamageRangedWeaponry>
-		<baseDamageHeavyWeaponry>0</baseDamageHeavyWeaponry>
+		<baseDamageLightWeaponry>1.0</baseDamageLightWeaponry>
+		<baseDamageRangedWeaponry>0.0</baseDamageRangedWeaponry>
+		<baseDamageHeavyWeaponry>0.0</baseDamageHeavyWeaponry>
 		<damageFactorLightWeaponry>1.0</damageFactorLightWeaponry><!-- No longer used -->
 		<damageFactorRangedWeaponry>1.0</damageFactorRangedWeaponry><!-- No longer used -->
 		<damageFactorHeavyWeaponry>1.0</damageFactorHeavyWeaponry><!-- No longer used -->
