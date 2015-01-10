@@ -3409,6 +3409,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Dovahkiin Mercenary -->
+		<!-- Lilith -->
+			<exclusion>
+				<text>Lilith</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Lilith -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -3579,14 +3586,6 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- EggOver -->
-		<!-- Lilith -->
-			<exclusion>
-				<text>Lilith</text>
-				<target>NAME</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-		<!-- Lilith -->
-
 		</distribution_exclusions_list_enchanted>
 	</distribution_exclusions_weapon>
 
