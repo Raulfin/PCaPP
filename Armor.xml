@@ -4376,6 +4376,22 @@
 			<identifier>LeatherHigh</identifier>
 			<substring>Dovahkiin Mercenary</substring>
 		</binding>
+		<binding>
+			<identifier>PauldronL</identifier>
+			<substring>HDT cape</substring>
+		</binding>
+		<binding>
+			<identifier>PauldronL</identifier>
+			<substring>HDT Crane cape</substring>
+		</binding>
+		<binding>
+			<identifier>PauldronL</identifier>
+			<substring>HDT Dohvakiin cape</substring>
+		</binding>
+		<binding>
+			<identifier>PauldronL</identifier>
+			<substring>HDT Floral cape</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
@@ -7450,5 +7466,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- EggOver -->
+	<!-- HDT Capes -->
+		<exclusion>
+			<text>HDTcape</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- HDT Capes -->
 	</reforge_exclusions>
 </ns2:armor>

@@ -8202,13 +8202,25 @@
 	<similarity_exclusions_armor>
 		<complex_exclusion>
 			<exclusion_0>
-				<text>Herp</text>
+				<text>HDTcape</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion_0>
 			<exclusion_1>
-				<text>Derp</text>
-				<target>NAME</target>
+				<text>ArmorLeather</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion_1>
+		</complex_exclusion>
+		<complex_exclusion>
+			<exclusion_0>
+				<text>HDTcape</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion_0>
+			<exclusion_1>
+				<text>Cuirass</text>
+				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion_1>
 		</complex_exclusion>
