@@ -3624,6 +3624,11 @@
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
+			<exclusion>
+				<text>Aela's</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
 		<!-- Faction Exclusions end -->
 		<!-- Civil War Exclusions start -->
 			<exclusion>
@@ -3665,11 +3670,6 @@
 		<!-- Quest Items start -->
 			<exclusion>
 				<text>of the Old Gods</text>
-				<target>NAME</target>
-				<type>CONTAINS</type>
-			</exclusion>
-			<exclusion>
-				<text>Aela's Shield</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4894,6 +4894,11 @@
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
+			<exclusion>
+				<text>Aela's</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
 		<!-- Faction Exclusions end -->
 		<!-- Quest Items start -->
 			<exclusion>
@@ -5018,11 +5023,6 @@
 			</exclusion>
 			<exclusion>
 				<text>Linwe's</text>
-				<target>NAME</target>
-				<type>CONTAINS</type>
-			</exclusion>
-			<exclusion>
-				<text>Aela's Shield</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>

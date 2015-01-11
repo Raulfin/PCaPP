@@ -7452,7 +7452,7 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Aela's Shield</text>
+			<text>Aela's</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>

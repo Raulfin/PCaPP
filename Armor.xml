@@ -673,6 +673,14 @@
 			<identifier>HeavyFaction</identifier>
 			<substring>Dragonguard Mantle</substring>
 		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Aela's</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Aela's Shield</substring>
+		</binding>
 	<!-- Faction material_Bindings end -->
 	
 	<!-- Civil War material_Bindings Start -->
@@ -6906,7 +6914,7 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Aela's Shield</text>
+			<text>Aela's</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
