@@ -5174,7 +5174,7 @@
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
-			<substring>Ravenbrand</substring>
+			<substring>Ravenbrand Sword</substring>
 			<identifier>Longsword</identifier>
 		</binding>
 	<!-- Longsword bindings end -->
@@ -6003,6 +6003,10 @@
 		</binding>
 		<binding>
 			<substring>Silver Chill Greatsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Ravenbrand Greatsword</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->
