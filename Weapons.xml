@@ -5173,6 +5173,10 @@
 			<substring>Dovahkiin Mercenary Sword</substring>
 			<identifier>Longsword</identifier>
 		</binding>
+		<binding>
+			<substring>Ravenbrand</substring>
+			<identifier>Longsword</identifier>
+		</binding>
 	<!-- Longsword bindings end -->
 
 	<!-- Mace bindings start -->
