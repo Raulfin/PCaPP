@@ -5833,38 +5833,38 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Ursine -->
-	<!-- Conan Hyborian Age -->
-		<exclusion>
-			<text>PROM_ArmorConan</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>PROM_Doom</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>PROM_Draugr</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>PROM_Hyborian</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>PROM_Rexor</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>PROM_Skin</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-	<!-- Conan Hyborian Age -->
+		<!-- Conan Hyborian Age -->
+			<exclusion>
+				<text>PROM_ArmorConan</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Doom</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Draugr</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Hyborian</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Rexor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Skin</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Conan Hyborian Age -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
