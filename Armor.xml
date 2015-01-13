@@ -6370,8 +6370,22 @@
 	<!-- Gold Material Listings start -->
 	<!-- Bindings allowed: Gold, GoldHeavy -->
 		<armor_material>
+			<armorBase>23</armorBase>
+			<identifier>GoldLow</identifier>
+			<type>LIGHT</type>
+			<materialMeltdown>GOLD</materialMeltdown>
+			<materialTemper>GOLD</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>24</armorBase>
 			<identifier>Gold</identifier>
+			<type>LIGHT</type>
+			<materialMeltdown>GOLD</materialMeltdown>
+			<materialTemper>GOLD</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>25</armorBase>
+			<identifier>GoldHigh</identifier>
 			<type>LIGHT</type>
 			<materialMeltdown>GOLD</materialMeltdown>
 			<materialTemper>GOLD</materialTemper>
@@ -6800,8 +6814,22 @@
 	<!-- Silver Material Listings start -->
 	<!-- Bindings allowed: Zero_Silver, Silver -->
 		<armor_material>
+			<armorBase>23</armorBase>
+			<identifier>SilverLow</identifier>
+			<type>LIGHT</type>
+			<materialMeltdown>SILVER</materialMeltdown>
+			<materialTemper>SILVER</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>24</armorBase>
 			<identifier>Silver</identifier>
+			<type>LIGHT</type>
+			<materialMeltdown>SILVER</materialMeltdown>
+			<materialTemper>SILVER</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>25</armorBase>
+			<identifier>SilverHigh</identifier>
 			<type>LIGHT</type>
 			<materialMeltdown>SILVER</materialMeltdown>
 			<materialTemper>SILVER</materialTemper>
