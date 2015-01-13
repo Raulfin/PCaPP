@@ -24,6 +24,7 @@ Changes:
 	Made Aela's armors Light and improved exclusions for it.
 	Reduced Pickaxe damage and increased crit slightly.
 	Reduced Hatchet damage and crit slightly.
+	Reduces value of Steel Scimitar to compensate for it now being more common. (WAFR)
 
 Additions:
 	Added new Weapon Type binding 'War Axe' to stop items from being named "Steel War Axe [Waraxe]", Axe and Waraxe items will still have [Waraxe] appended.
