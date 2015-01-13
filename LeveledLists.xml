@@ -4634,6 +4634,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Ursine -->
+		<!-- Arissa the Wandering Rogue -->
+			<exclusion>
+				<text>_Arissa_Armor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Arissa the Wandering Rogue -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>

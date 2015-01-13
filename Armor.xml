@@ -4392,6 +4392,10 @@
 			<identifier>PauldronL</identifier>
 			<substring>HDT Floral cape</substring>
 		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Weatherworn Burglar's</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
