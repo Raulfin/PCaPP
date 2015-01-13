@@ -6465,10 +6465,10 @@
 		<weapon_type>
 			<identifier>Pickaxe</identifier>
 			<baseWeaponType>WARAXE</baseWeaponType>
-			<damageBase>5.1</damageBase>
+			<damageBase>4.0</damageBase>
 			<reachBase>0.95</reachBase>
 			<speedBase>0.95</speedBase>
-			<critDamageFactor>0</critDamageFactor>
+			<critDamageFactor>0.1</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ONE</bleedTier>
@@ -6479,10 +6479,10 @@
 		<weapon_type>
 			<identifier>Hatchet</identifier>
 			<baseWeaponType>HATCHET</baseWeaponType>
-			<damageBase>8</damageBase>
+			<damageBase>6</damageBase>
 			<reachBase>0.7</reachBase>
 			<speedBase>1.1</speedBase>
-			<critDamageFactor>0.4</critDamageFactor>
+			<critDamageFactor>0.2</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ONE</bleedTier>
