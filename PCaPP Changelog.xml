@@ -22,6 +22,8 @@ Fixes:
 Changes:
 	Changed 'Ravenbrand Sword' from Arming Sword to Longsword. (Warzones)
 	Made Aela's armors Light and improved exclusions for it.
+	Reduced Pickaxe damage and increased crit slightly.
+	Reduced Hatchet damage and crit slightly.
 
 Additions:
 	Added new Weapon Type binding 'War Axe' to stop items from being named "Steel War Axe [Waraxe]", Axe and Waraxe items will still have [Waraxe] appended.
