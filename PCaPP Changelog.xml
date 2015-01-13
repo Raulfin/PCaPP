@@ -24,7 +24,7 @@ Changes:
 	Made Aela's armors Light and improved exclusions for it.
 	Reduced Pickaxe damage and increased crit slightly.
 	Reduced Hatchet damage and crit slightly.
-	Reduces value of Steel Scimitar to compensate for it now being more common. (WAFR)
+	Reduced value of 'Steel Scimitar' from 275 to 45 to compensate for it now being more common. (WAFR)
 
 Additions:
 	Added new Weapon Type binding 'War Axe' to stop items from being named "Steel War Axe [Waraxe]", Axe and Waraxe items will still have [Waraxe] appended.
@@ -33,11 +33,13 @@ Balancing:
 	Increased Heavy Weapons damage by 30%.
 	Increased Ranged Weapons damage by 15%.
 	Increased Light Weapons damage by 1.
+	Reduced severity of 'heavy' modifier,
 
 Renamed:
+	Vanilla 'Steel Scimitar' renamed 'Heavy Steel Scimitar' to differentiate it from the one added by PerMa.
 
 Updated Patches:
-	Better Vampires 'Steel Plate Boots' added clothing keyword.
+	Better Vampires: 'Steel Plate Boots' added clothing keyword.
 
 New Patches:
 	lilithssickle_PerMa_Patch.esp
