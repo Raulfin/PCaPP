@@ -6414,6 +6414,10 @@
 			<substring>Dovahkiin Mercenary Bow</substring>
 			<identifier>Shortbow</identifier>
 		</binding>
+		<binding>
+			<substring>Bow of The DarkOne</substring>
+			<identifier>Shortbow</identifier>
+		</binding>
 	<!-- Shortbow bindings end -->
 	<!-- ======================================== Ranged Weapon bindings end  ========================================= -->
 	<!-- Giant weapon bindings -->
