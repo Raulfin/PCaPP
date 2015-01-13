@@ -3405,6 +3405,18 @@
 			<identifier>Hide</identifier>
 			<substring>Shadowcrawler's Helmet</substring>
 		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Fur Pitfighter</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Fur Cuirass pants</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Pitfight</substring>
+		</binding>
 	<!-- Hide Material Bindings end -->
 
 	<!-- Horker Material Bindings start -->
@@ -3732,6 +3744,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Spiked Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Helmet of the Mounds</substring>
 		</binding>
 	<!-- Iron Material Bindings end -->
 	
@@ -4732,6 +4748,14 @@
 			<identifier>Orcish</identifier>
 			<substring>Tribal Greathelm</substring>
 		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ancient Hyborian Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Shield of Doom</substring>
+		</binding>
 	<!-- Orcish Material Bindings end -->
 	
 	<!-- Scaled Material Bindings start -->
@@ -5731,6 +5755,14 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Armplates of Vigilance</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Helmet of Doom</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Rexor Helmet</substring>
 		</binding>
 	<!-- Steel Plate Material Bindings end -->
 	
@@ -7477,5 +7509,37 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- HDT Capes -->
+	<!-- Conan Hyborian Age -->
+		<exclusion>
+			<text>PROM_ArmorConan</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Doom</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Draugr</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Hyborian</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Rexor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Skin</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Conan Hyborian Age -->
 	</reforge_exclusions>
 </ns2:armor>

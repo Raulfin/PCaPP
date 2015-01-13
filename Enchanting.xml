@@ -8204,6 +8204,38 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Arissa the Wandering Rogue -->
+	<!-- Conan Hyborian Age -->
+		<exclusion>
+			<text>PROM_ArmorConan</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Doom</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Draugr</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Hyborian</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Rexor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Skin</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Conan Hyborian Age -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
