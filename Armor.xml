@@ -502,6 +502,10 @@
 			<substring>Bosmer</substring>
 		</binding>
 		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Bosmer Elder</substring>
+		</binding>
+		<binding>
 			<identifier>Elven</identifier>
 			<substring>Bosmeri</substring>
 		</binding>
@@ -522,20 +526,24 @@
 			<substring>Thalmor Armor with Pauldrons</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate</identifier>
+			<identifier>DragonplateHigh</identifier>
 			<substring>Wild Hunt</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate</identifier>
+			<identifier>DragonplateHigh</identifier>
 			<substring>Wild Hunt Heavy</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonscale</identifier>
+			<identifier>DragonscaleHigh</identifier>
 			<substring>Wild Hunt Light</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonscale</identifier>
+			<identifier>DragonscaleHigh</identifier>
 			<substring>Wild Hunt Hood</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Wild Hunt Hooded Helm</substring>
 		</binding>
 		<binding>
 			<identifier>Falmer Hardened</identifier>

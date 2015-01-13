@@ -7436,7 +7436,14 @@
 			<target>NAME</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-	<!-- Dovahkiin Mercenary --> 
+	<!-- Dovahkiin Mercenary -->
+	<!-- Bosmer Armor -->
+		<exclusion>
+			<text>Bosmer</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Bosmer Armor -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8236,6 +8243,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Conan Hyborian Age -->
+	<!-- Bosmer Armor -->
+		<exclusion>
+			<text>BosmerArmor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Bosmer Armor -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

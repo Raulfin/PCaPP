@@ -164,6 +164,15 @@
 			<gravityModifier>0</gravityModifier>
 		</ammunition_modifier>
 	<!-- Nock to Tip -->
+	<!-- Bosmer Armor -->
+		<ammunition_modifier>
+			<identifier> Elder </identifier>
+			<damageModifier>2</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>0</speedModifier>
+			<gravityModifier>0</gravityModifier>
+		</ammunition_modifier>
+	<!-- Bosmer Armor -->
 	</ammunition_modifiers>
 
 	<ammunition_modifier_bindings>
@@ -477,6 +486,10 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Ebony</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bosmer</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>

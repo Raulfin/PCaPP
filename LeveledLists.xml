@@ -2372,6 +2372,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Lilith -->
+		<!-- Bosmer Armor -->
+			<exclusion>
+				<text>Bosmer</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Bosmer Armor -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4673,6 +4680,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Conan Hyborian Age -->
+	<!-- Bosmer Armor -->
+		<exclusion>
+			<text>BosmerArmor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Bosmer Armor -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
