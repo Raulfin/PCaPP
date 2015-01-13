@@ -828,6 +828,13 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- EggOver -->
+	<!-- SkyRe Races -->
+		<exclusion>
+			<text>xxxRacialWoodElf</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- SkyRe Races -->
 	</ammunition_exclusions_multiplication>
 
 	</ns2:ammunition>

@@ -18,6 +18,21 @@
 			</exclusion>
 		<!-- Blanket excluder end -->
 			<exclusion>
+				<text>doom</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PowerKhajiitNightEye</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Race</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
 				<text>DLC1</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
@@ -544,14 +559,14 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!--  Death Alternative -->
-	<!-- EggOver -->
+		<!-- EggOver -->
 			<exclusion>
 				<text>MidasSPEntangleHazard</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
-	<!-- EggOver -->
-	<!-- Dynamic Loot -->
+		<!-- EggOver -->
+		<!-- Dynamic Loot -->
 			<exclusion>
 				<text>DLArea</text>
 				<target>EDID</target>
@@ -587,7 +602,14 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-	<!-- Dynamic Loot -->
+		<!-- Dynamic Loot -->
+		<!-- SkyRe Races -->
+			<exclusion>
+				<text>xxxRacial</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- SkyRe Races -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -3416,6 +3438,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Lilith -->
+		<!-- SkyRe Races -->
+			<exclusion>
+				<text>xxxRacialDarkElfAncestorSword</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- SkyRe Races -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>

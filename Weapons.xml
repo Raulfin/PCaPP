@@ -1089,6 +1089,14 @@
 			<identifier>Daedric</identifier>
 			<substring>Lilith's Dagger</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Lilith's Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ancestor's Sword</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -7559,6 +7567,13 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Dovamaar and Dovahfaas -->
+	<!-- SkyRe Races -->
+		<exclusion>
+			<text>xxxRacialDarkElfAncestorSword</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- SkyRe Races -->
 	</reforge_exclusions>
 
 </ns2:weapons>
