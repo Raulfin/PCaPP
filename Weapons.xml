@@ -275,12 +275,12 @@
 		</weapon_modifier>
 		<weapon_modifier>
 			<identifier>heavy</identifier>
-			<factorDamage>1.3</factorDamage>
-			<factorCritDamage>1.1</factorCritDamage>
-			<factorWeight>1.3</factorWeight>
+			<factorDamage>1.1</factorDamage>
+			<factorCritDamage>0.9</factorCritDamage>
+			<factorWeight>1.2</factorWeight>
 			<factorReach>1.0</factorReach>
 			<factorAttackSpeed>0.8</factorAttackSpeed>
-			<factorValue>0.8</factorValue>
+			<factorValue>0.9</factorValue>
 		</weapon_modifier>
 	<!-- Bindings that increase the quality of weapons end-->
 	<!-- PerMa modifiers (do not change) start-->
