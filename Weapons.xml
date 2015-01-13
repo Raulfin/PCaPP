@@ -4277,7 +4277,7 @@
 		</binding>
 		<binding>
 			<substring>War Axe</substring>
-			<identifier>Waraxe</identifier>
+			<identifier>War Axe</identifier>
 		</binding>
 	<!-- Light Weapon bindings end -->
 
@@ -6534,6 +6534,20 @@
 		</weapon_type>
 		<weapon_type>
 			<identifier>Waraxe</identifier>
+			<baseWeaponType>WARAXE</baseWeaponType>
+			<damageBase>13.0</damageBase>
+			<reachBase>0.95</reachBase>
+			<speedBase>0.9</speedBase>
+			<critDamageFactor>0.8</critDamageFactor>
+			<meltdownOutput>1</meltdownOutput>
+			<meltdownInput>1</meltdownInput>
+			<bleedTier>ONE</bleedTier>
+			<debuffTier>ONE</debuffTier>
+			<staggerTier>TWO</staggerTier>
+			<weaponClass>BLUNT_BLADE</weaponClass>
+		</weapon_type>
+		<weapon_type>
+			<identifier>War Axe</identifier>
 			<baseWeaponType>WARAXE</baseWeaponType>
 			<damageBase>13.0</damageBase>
 			<reachBase>0.95</reachBase>

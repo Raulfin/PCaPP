@@ -17,12 +17,14 @@ Exclusions:
 Fixes:
 	Corrected bindings for "Tribunal Robes and Masks"
 	Bow of the DarkOne will now be marked as a shortbow, not a dagger (SoT)
+	Improved/New settings for Conan Age of Hyboria Items.
 
 Changes:
 	Changed 'Ravenbrand Sword' from Arming Sword to Longsword. (Warzones)
 	Made Aela's armors Light and improved exclusions for it.
 
 Additions:
+	Added new Weapon Type binding 'War Axe' to stop items from being named "Steel War Axe [Waraxe]", Axe and Waraxe items will still have [Waraxe] appended.
 
 Balancing:
 	Increased Heavy Weapons damage by 30%.
@@ -32,6 +34,7 @@ Balancing:
 Renamed:
 
 Updated Patches:
+	Better Vampires 'Steel Plate Boots' added clothing keyword.
 
 New Patches:
 	lilithssickle_PerMa_Patch.esp
