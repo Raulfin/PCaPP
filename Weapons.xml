@@ -738,10 +738,6 @@
 			<substring>Rayek's Blade</substring>
 		</binding>
 		<binding>
-			<identifier>Advanced</identifier>
-			<substring>Srosh</substring>
-		</binding>
-		<binding>
 			<identifier>Nord</identifier>
 			<substring>Nord</substring>
 		</binding>
@@ -2341,10 +2337,6 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
-			<substring>Haoma</substring>
-		</binding>
-		<binding>
-			<identifier>Iron</identifier>
 			<substring>Barbarian</substring>
 		</binding>
 		<binding>
@@ -2466,6 +2458,14 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Scamp's Hammer</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>The Spider</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Haoma</substring>
 		</binding>
 	<!-- Iron bindings end -->
 	
@@ -2747,6 +2747,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Rustam</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Srosh</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -4723,6 +4727,10 @@
 			<substring>Walking Stick</substring>
 			<identifier>Club</identifier>
 		</binding>
+		<binding>
+			<substring>Wooden Stick</substring>
+			<identifier>Club</identifier>
+		</binding>
 	<!-- Club bindings end -->
 	
 	<!-- Dagger bindings start -->
@@ -5256,6 +5264,10 @@
 			<identifier>Mace</identifier>
 			<substring>Truncheon of Submission</substring>
 		</binding>
+		<binding>
+			<identifier>Mace</identifier>
+			<substring>Menog</substring>
+		</binding>
 	<!-- Mace bindings end -->
 
 	<!-- Maul bindings start -->
@@ -5567,6 +5579,10 @@
 			<substring>Dovahkiin Mercenary Axe</substring>
 			<identifier>Waraxe</identifier>
 		</binding>
+		<binding>
+			<substring>Natat</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
 	<!-- Waraxe bindings end -->
 	<!-- =====================================================Light Weapon bindings end =================================================== -->
 
@@ -5742,9 +5758,13 @@
 		<binding>
 			<substring>The Khajiit's Staff</substring>
 			<identifier>Battleaxe</identifier>
-		</binding>	
+		</binding>
 		<binding>
 			<substring>Scythe</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Natat 2H</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 	<!-- Battleaxe bindings end -->
@@ -6015,6 +6035,14 @@
 		</binding>
 		<binding>
 			<substring>Ravenbrand Greatsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Haoma 2H</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Rustam 2H</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->

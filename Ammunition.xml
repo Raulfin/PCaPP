@@ -327,6 +327,14 @@
 			<multiply>true</multiply>
 		</ammunition_material>
 		<ammunition_material>
+			<identifier>Corundum</identifier>
+			<damageModifier>8</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-100</speedModifier>
+			<gravityModifier>0.1</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+		<ammunition_material>
 			<identifier>Nordic</identifier>
 			<damageModifier>8</damageModifier>
 			<rangeModifier>0</rangeModifier>
@@ -470,6 +478,10 @@
 		<binding>
 			<identifier>Bound</identifier>
 			<substring>Bound</substring>
+		</binding>
+		<binding>
+			<identifier>Corundum</identifier>
+			<substring>Corundum</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
