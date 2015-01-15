@@ -698,7 +698,7 @@
 			<substring>Ulfric</substring>
 		</binding>
 		<binding>
-			<identifier>LightFaction</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Stormcloak</substring>
 		</binding>
 		<binding>
@@ -706,7 +706,7 @@
 			<substring>Heroic Stormcloak</substring>
 		</binding>
 		<binding>
-			<identifier>LightFaction</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Stormcloak Explorer</substring>
 		</binding>
 		<binding>
@@ -750,7 +750,7 @@
 			<substring>Penitus Oculatus</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFaction</identifier>
+			<identifier>HeavyFactionLow</identifier>
 			<substring>Imperial</substring>
 		</binding>
 		<binding>
@@ -766,7 +766,7 @@
 			<substring>Imperial Cataphractarii</substring>
 		</binding>
 		<binding>
-			<identifier>LightFaction</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Studded Imperial</substring>
 		</binding>
 		<binding>
@@ -798,23 +798,23 @@
 			<substring>Imperial Buckler</substring>
 		</binding>
 		<binding>
-			<identifier>LightFaction</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Imperial Studded</substring>
 		</binding>
 		<binding>
-			<identifier>LightFaction</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Imperial Light</substring>
 		</binding>
 		<binding>
-			<identifier>LightFaction</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Light Imperial</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFaction</identifier>
+			<identifier>HeavyFactionLow</identifier>
 			<substring>Steel Imperial</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFaction</identifier>
+			<identifier>HeavyFactionLow</identifier>
 			<substring>Imperial Steel</substring>
 		</binding>
 		<binding>
@@ -838,7 +838,7 @@
 			<substring>Liberator</substring>
 		</binding>
 		<binding>
-			<identifier>LightFactionHigh</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Imperial Leather</substring>
 		</binding>
 		<binding>
