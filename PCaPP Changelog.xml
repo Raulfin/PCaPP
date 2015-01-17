@@ -11,6 +11,8 @@ Exclusions:
 
 Blocklist:
 	NordicCooking.esp
+	HorseCloakCH.esp
+	HorseCloak.esp
 
 Fixes:
 	Corrected bindings for Vindskjær/Vindskjaer Bow. (Nock to Tip/Vindskjaer)
