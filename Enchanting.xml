@@ -7444,6 +7444,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Bosmer Armor -->
+	<!-- Vampiric Thirst - Dawnguard Edition -->
+		<exclusion>
+			<text>mslVTPwMagShaARendingClawsWPN</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Vampiric Thirst - Dawnguard Edition -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8250,6 +8257,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Bosmer Armor -->
+	<!-- Vampiric Thirst - Dawnguard Edition -->
+		<exclusion>
+			<text>DLC1nVampireNightPowerNecklaceGargoyle</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Vampiric Thirst - Dawnguard Edition -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
