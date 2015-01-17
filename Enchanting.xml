@@ -7451,6 +7451,18 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Vampiric Thirst - Dawnguard Edition -->
+	<!-- Daedric Artifacts Improved Dawnguard -->
+		<exclusion>
+			<text>ZAeR_0</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ZDR</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Daedric Artifacts Improved Dawnguard -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8271,6 +8283,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- EotW Dovahkiins Journeyman Armor -->
+	<!-- Daedric Artifacts Improved Dawnguard -->
+		<exclusion>
+			<text>ZAeR_0</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ZDR</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Daedric Artifacts Improved Dawnguard -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

@@ -617,6 +617,38 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Vampiric Thirst - Dawnguard Edition -->
+		<!-- Daedric Artifacts Improved Dawnguard -->
+			<exclusion>
+				<text>ZAERTEST</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ZAeR_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ZDR0</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ZDR1</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ZDRH</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ZDR_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Daedric Artifacts Improved Dawnguard -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1094,6 +1126,23 @@
 				<type>CONTAINS</type>
 			</exclusion>
 	<!-- EggOver -->
+		<!-- Daedric Artifacts Improved Dawnguard -->
+			<exclusion>
+				<text>ZAERTESTTOME</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ZDR04</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ZDRSeer</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Daedric Artifacts Improved Dawnguard -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -2393,6 +2442,18 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Vampiric Thirst - Dawnguard Edition -->
+		<!-- Daedric Artifacts Improved Dawnguard -->
+			<exclusion>
+				<text>ZAeR_0</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ZDR</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Daedric Artifacts Improved Dawnguard -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4715,6 +4776,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- EotW Dovahkiins Journeyman Armor -->
+		<!-- Daedric Artifacts Improved Dawnguard -->
+			<exclusion>
+				<text>ZAeR_0</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ZDR</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Daedric Artifacts Improved Dawnguard -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -5974,6 +6047,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Conan Hyborian Age -->
+		<!-- Daedric Artifacts Improved Dawnguard -->
+			<exclusion>
+				<text>ZAeR_0</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ZDR</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Daedric Artifacts Improved Dawnguard -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

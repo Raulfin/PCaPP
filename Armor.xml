@@ -518,6 +518,10 @@
 			<substring>Bosmer Reinforced</substring>
 		</binding>
 		<binding>
+			<identifier>Glass</identifier>
+			<substring>Dunmer</substring>
+		</binding>
+		<binding>
 			<identifier>Elven</identifier>
 			<substring>Thalmor</substring>
 		</binding>
@@ -568,6 +572,42 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Dremora</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Khajiit</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Argonian</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Breton</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Orc</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Redguard</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Redguard Light</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Redguard Ancestor</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Redguard Knight Light</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Redguard Knight Heavy</substring>
 		</binding>
 	<!-- Racial material_Bindings end -->
 	
@@ -1109,6 +1149,68 @@
 			<substring>Ahzidal</substring>
 		</binding>
 	<!-- Dragon Priest Masks end -->
+	<!-- Artifacts -->
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Auriel</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Auriel's Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Gildergreen</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Gildergreen Light</substring>
+		</binding>
+		<binding> 
+			<identifier>Daedric</identifier> 
+			<substring>Æsir</substring> 
+		</binding>
+		<binding> 
+			<identifier>Daedric</identifier> 
+			<substring>Aesir</substring> 
+		</binding>
+		<binding> 
+			<identifier>Daedric</identifier> 
+			<substring>Aedra</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Azura</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Clavicus Vile</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Clavicus Vile Light</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Dragonbane</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Golden Azure</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Boethiah</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Spellbreaker</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Spellbreaker Light</substring>
+		</binding>
+	<!-- Artifacts -->
 	
 	<!-- ============================================================== Materials start =================================================== -->
 		
@@ -1317,7 +1419,8 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Dark Jester's Gloves</substring>
-		</binding><binding>
+		</binding>
+		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Dark Jester's Boots</substring>
 		</binding>
@@ -1342,32 +1445,12 @@
 			<substring>Lustmord Noir</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier>
-			<substring>Gildergreen</substring>
-		</binding>
-		<binding>
-			<identifier>DaedricLight</identifier>
-			<substring>Gildergreen Light</substring>
-		</binding>
-		<binding>
 			<identifier>DaedricLight</identifier>
 			<substring>Daedric Buckler</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Lilith's</substring>
-		</binding>
-		<binding> 
-			<identifier>Daedric</identifier> 
-			<substring>Æsir</substring> 
-		</binding>
-		<binding> 
-			<identifier>Daedric</identifier> 
-			<substring>Aesir</substring> 
-		</binding>
-		<binding> 
-			<identifier>Daedric</identifier> 
-			<substring>Aedra</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -1380,14 +1463,6 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Viridinium</substring>
-		</binding>
-		<binding>
-			<identifier>Daedric</identifier>
-			<substring>Azura</substring>
-		</binding>
-		<binding>
-			<identifier>Daedric</identifier>
-			<substring>Clavicus Vile</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -1687,15 +1762,7 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
-			<substring>Dragonbane</substring>
-		</binding>
-		<binding>
-			<identifier>Dragonplate</identifier>
 			<substring>Dark Blood</substring>
-		</binding>
-		<binding>
-			<identifier>Dragonplate</identifier>
-			<substring>Golden Azure</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -1882,10 +1949,6 @@
 			<substring>Deadly Dragonslayer's</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonscale</identifier>
-			<substring>Boethiah</substring>
-		</binding>
-		<binding>
 			<identifier>DragonscaleLow</identifier>
 			<substring>Dark Griffin</substring>
 		</binding>
@@ -2044,10 +2107,6 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>General Carius</substring>
-		</binding>
-		<binding>
-			<identifier>Dwarven</identifier>
-			<substring>Spellbreaker</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -2724,10 +2783,6 @@
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Dark Alchemist</substring>
-		</binding>
-		<binding>
-			<identifier>Elven</identifier>
-			<substring>Redguard Light</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -4589,10 +4644,6 @@
 			<substring>Warchief Light</substring>
 		</binding>
 		<binding>
-			<identifier>Orcish</identifier>
-			<substring>Redguard</substring>
-		</binding>
-		<binding>
 			<identifier>OrcishLight</identifier>
 			<substring>Shaman</substring>
 		</binding>
@@ -5169,10 +5220,6 @@
 			<substring>POTW</substring>
 		</binding>
 		<binding>
-			<identifier>Studded</identifier>
-			<substring>Redguard Knight Light</substring>
-		</binding>
-		<binding>
 			<identifier>StuddedHeavy</identifier>
 			<substring>Masked Bone Crown</substring>
 		</binding>
@@ -5351,10 +5398,6 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Thane</substring>
-		</binding>
-		<binding>
-			<identifier>Steel Heavy</identifier>
-			<substring>Redguard Knight Heavy</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7604,5 +7647,17 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Conan Hyborian Age -->
+	<!-- Daedric Artifacts Improved Dawnguard -->
+		<exclusion>
+			<text>ZAeR_0</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ZDR</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Daedric Artifacts Improved Dawnguard -->
 	</reforge_exclusions>
 </ns2:armor>

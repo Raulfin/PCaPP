@@ -659,6 +659,18 @@
 
 	<!-- Racial material_Bindings Start -->
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Argonian</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Khajiit</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Dunmer</substring>
+		</binding>
+		<binding>
 			<identifier>Elven</identifier>
 			<substring>Bosmer</substring>
 		</binding>
@@ -2907,14 +2919,6 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Boarding</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Argonian</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Khajiit</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
