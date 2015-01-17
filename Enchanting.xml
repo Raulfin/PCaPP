@@ -8264,6 +8264,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Vampiric Thirst - Dawnguard Edition -->
+	<!-- EotW Dovahkiins Journeyman Armor -->
+		<exclusion>
+			<text>01ERADJ</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- EotW Dovahkiins Journeyman Armor -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

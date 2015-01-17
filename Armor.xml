@@ -3931,6 +3931,14 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Ranger Jerkin - Noldorian</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Gloves - Noldorian</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Highwayman</substring>
 		</binding>
 		<binding>
