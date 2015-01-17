@@ -4,10 +4,15 @@
 Now covers:
 	Bosmer Armor (37289) v1.3
 	Warrior Within Weapons (42280) v1
+	Vindskjaer (59525)
 
 Exclusions:
 
+Blocklist:
+	NordicCooking.esp
+
 Fixes:
+	Corrected bindings for Vindskjær/Vindskjaer Bow. (Nock to Tip/Vindskjaer)
 
 Changes:
 

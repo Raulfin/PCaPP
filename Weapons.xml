@@ -3440,16 +3440,16 @@
 			<substring>Fire</substring>
 		</binding>
 		<binding>
-			<identifier>Wood</identifier>
+			<identifier>Strongwood</identifier>
 			<substring>Vindskjær</substring>
+		</binding>
+		<binding>
+			<identifier>Strongwood</identifier>
+			<substring>Vindskjaer</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Fire</substring>
-		</binding>
-		<binding>
-			<identifier>Wood</identifier>
-			<substring>Vindskjær</substring>
 		</binding>
 		<binding>
 			<identifier>Oakwood</identifier>
@@ -6405,6 +6405,14 @@
 		</binding>
 		<binding>
 			<substring>Zephyr</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Vindskjær</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Vindskjaer</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
