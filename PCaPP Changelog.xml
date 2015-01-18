@@ -32,9 +32,11 @@ Updated Patches:
 	Better Vampires: 'Steel Plate Boots' added clothing keyword.
 	Reduced value of 'Steel Scimitar' from 275 to 45 to compensate for it now being more common. (WAFR)
 	Pre PaMa WAFR CCOR IW Patch.esp removed.
-	Pre PaMa WAFR CCOR IW BoYD Patch.esp replaced with Pre PaMa WAFR CCOR BoYD Patch.esp
+	Pre PaMa WAFR CCOR IW BoYD Patch.esp removed
 
 New Patches:
+	Pre PaMa WAFR CCOR BoYD Patch.esp
+	Immersive Weapons.esp
 	lilithssickle_PerMa_Patch.esp
 </v2.2>
 </Current>
