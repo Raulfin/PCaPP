@@ -1676,6 +1676,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Merta</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Nerjal</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -3330,6 +3334,10 @@
 	<!-- Bindings allowed: HideLow, Hide, HideHigh, HideHeavy -->
 		<binding>
 			<identifier>Hide</identifier>
+			<substring>Reaper</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
 			<substring>Bandit Bikini</substring>
 		</binding>
 		<binding>
@@ -3816,6 +3824,10 @@
 	
 	<!-- Leather Material Bindings start -->
 	<!-- Bindings allowed: PauldronL, Pauldron, LeatherLow, Leather, LeatherHigh, LeatherHeavy -->
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Dark Cowl</substring>
+		</binding>
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Painted Hide</substring>
@@ -7049,6 +7061,16 @@
 		<exclusion>
 			<text>Bound</text>
 			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>DLC01Reaper</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>DLC01SoulCairn</text>
+			<target>EDID</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>

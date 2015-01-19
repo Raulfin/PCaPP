@@ -7619,6 +7619,16 @@
 		</exclusion>
 	<!-- Quest Items end -->
 		<exclusion>
+			<text>DLC01Reaper</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>DLC01SoulCairn</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>DUPLICATE</text>
 			<target>EDID</target>
 			<type>CONTAINS</type>
