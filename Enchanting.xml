@@ -7629,6 +7629,16 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>xMAEasterEggMaskNerjal</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>xMASNEArmorDarkCowl</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>DUPLICATE</text>
 			<target>EDID</target>
 			<type>CONTAINS</type>
