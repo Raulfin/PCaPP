@@ -15,11 +15,17 @@ Blocklist:
 	NordicCooking.esp
 	HorseCloakCH.esp
 	HorseCloak.esp
+	Post_PatchusMaximus_GiantsAIFix.esp
+	Post PatchusMaximus Perma Mods and Tweaks.esp
+	LongerDurationsandAnnoyanceFixes - Perma Patch.esp
+	zzEstrus.esp
 
 Fixes:
 	Corrected bindings for Vindskjær/Vindskjaer Bow. (Nock to Tip/Vindskjaer)
 
 Changes:
+	Removed description from "Enhanced Steel Crossbow" to come in-line with USKP and WAFR changes.
+	Immersive Weapons LLs adjusted to match WAFR, stops Orcish weapons from appearing at level 6.
 
 Additions:
 
@@ -37,7 +43,7 @@ Updated Patches:
 
 New Patches:
 	Pre PaMa WAFR CCOR BoYD Patch.esp
-	Immersive Weapons.esp
+	Immersive Weapons.esp (Requires USKP)(WeaponsArmorFixes_ImmersiveWeapons_Patch.esp is merged in)
 	lilithssickle_PerMa_Patch.esp
 </v2.2>
 </Current>
