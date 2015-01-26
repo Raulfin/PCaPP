@@ -8,8 +8,7 @@ Now covers:
 	Vampiric Thirst (24222)
 	EotW Dovahkiins Journeyman Armor (44592)
 	Forgotten Magic Redone (35339) v1.6.5
-
-Exclusions:
+	OBIS Loot (52067)
 
 Blocklist:
 	NordicCooking.esp
@@ -27,8 +26,6 @@ Changes:
 	Removed description from "Enhanced Steel Crossbow" to come in-line with USKP and WAFR changes.
 	Immersive Weapons LLs adjusted to match WAFR, stops Orcish weapons from appearing at level 6.
 
-Additions:
-
 Balancing:
 	Reduced base rating of "common" Imperial and Stormcloak armor.
 
@@ -36,7 +33,7 @@ Renamed:
 	Vanilla 'Steel Scimitar' renamed 'Heavy Steel Scimitar' to differentiate it from the one added by PerMa. (WAFR/CCOR)
 
 Updated Patches:
-	Better Vampires: 'Steel Plate Boots' added clothing keyword.
+	Better Vampires: Added clothing keyword to 'Steel Plate Boots'.
 	Reduced value of 'Steel Scimitar' from 275 to 45 to compensate for it now being more common. (WAFR)
 	Pre PaMa WAFR CCOR IW Patch.esp removed.
 	Pre PaMa WAFR CCOR IW BoYD Patch.esp removed

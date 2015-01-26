@@ -7463,6 +7463,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Daedric Artifacts Improved Dawnguard -->
+	<!-- OBIS Loot -->
+		<exclusion>
+			<text>JVD_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>FZ</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- OBIS Loot -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8315,6 +8327,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Daedric Artifacts Improved Dawnguard -->
+	<!-- OBIS Loot -->
+		<exclusion>
+			<text>JVD_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>FZ</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- OBIS Loot -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

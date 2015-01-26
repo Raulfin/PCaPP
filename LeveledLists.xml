@@ -2850,6 +2850,19 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Daedric Artifacts Improved Dawnguard -->
+		<!-- OBIS Loot -->
+			<exclusion>
+				<text>JVD_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>FZ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- OBIS Loot -->
+
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -3923,6 +3936,19 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- SkyRe Races -->
+		<!-- OBIS Loot -->
+			<exclusion>
+				<text>JVD_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>FZ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- OBIS Loot -->
+
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -5211,6 +5237,19 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Forgotten Magic Redone -->
+		<!-- OBIS Loot -->
+			<exclusion>
+				<text>JVD_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>FZ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- OBIS Loot -->
+
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -6519,6 +6558,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Forgotten Magic Redone -->
+		<!-- OBIS Loot -->
+			<exclusion>
+				<text>JVD_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>FZ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- OBIS Loot -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

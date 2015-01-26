@@ -655,6 +655,10 @@
 			<identifier>Steel</identifier>
 			<substring>Winterhold</substring>
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Windhelm sword</substring>
+		</binding>
 	<!-- City/Guard end -->
 
 	<!-- Racial material_Bindings Start -->
@@ -734,6 +738,18 @@
 			<identifier>Daedric</identifier>
 			<substring>Dremora</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Atmoran</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Colovian</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Breton</substring>
+		</binding>
 	<!-- Racial material_Bindings end -->
 
 	<!-- Advanced bindings start -->
@@ -776,6 +792,18 @@
 		<binding>
 			<identifier>AdvancedHigh</identifier>
 			<substring>Bolar's</substring>
+		</binding>
+		<binding>
+			<identifier>AdvancedHigh</identifier>
+			<substring>Nibenay kama</substring>
+		</binding>
+		<binding>
+			<identifier>AdvancedHigh</identifier>
+			<substring>Nobleman's sword</substring>
+		</binding>
+		<binding>
+			<identifier>AdvancedHigh</identifier>
+			<substring>Nobleman's claymore</substring>
 		</binding>
 	<!-- Advance bindings end -->
 
@@ -1104,6 +1132,10 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Ancestor's Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Gravedigger</substring>
 		</binding>
 	<!-- Daedric bindings end -->
 	
@@ -1541,6 +1573,10 @@
 			<identifier>Dwarven</identifier>
 			<substring>Hologram Sword</substring>
 		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Trueflame</substring>
+		</binding>
 	<!-- Dwarven bindings end -->
 	
 	<!-- Ebony bindings start -->
@@ -1976,6 +2012,14 @@
 			<identifier>EbonyHigh</identifier>
 			<substring>Yataghan</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Indoril mace</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Umbra</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
@@ -2313,6 +2357,10 @@
 			<identifier>Glass</identifier>
 			<substring>Redeemer's Sword</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Dagger of Symmachus</substring>
+		</binding>
 	<!-- Glass bindings end -->
 	
 	<!-- Gold bindings start -->
@@ -2478,6 +2526,14 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Haoma</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Farmer's cleaver</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Heavy spiked mace</substring>
 		</binding>
 	<!-- Iron bindings end -->
 	
@@ -2694,12 +2750,24 @@
 			<identifier>SilverHigh</identifier>
 			<substring>Cyrodiilic Silver</substring>
 		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Eltonbrand</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Thornblade</substring>
+		</binding>
 	<!-- Silver bindings end -->
 	
 	<!-- Stalhrim bindings start -->
 		<binding>
 			<identifier>Stalhrim</identifier>
 			<substring>Ice Blade of the Monarch</substring>
+		</binding>
+		<binding>
+			<identifier>Stalhrim</identifier>
+			<substring>Ice blade of the Monarch</substring>
 		</binding>
 		<binding>
 			<identifier>Stalhrim</identifier>
@@ -4208,6 +4276,10 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
+			<substring>dagger</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
 			<substring>Hatchet</substring>
 			<identifier>Hatchet</identifier>
 		</binding>
@@ -4217,6 +4289,10 @@
 		</binding>
 		<binding>
 			<substring>Katana</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>katana</substring>
 			<identifier>Katana</identifier>
 		</binding>
 		<binding>
@@ -4233,6 +4309,10 @@
 		</binding>
 		<binding>
 			<substring>Mace</substring>
+			<identifier>Mace</identifier>
+		</binding>
+		<binding>
+			<substring>mace</substring>
 			<identifier>Mace</identifier>
 		</binding>
 		<binding>
@@ -4260,6 +4340,10 @@
 			<identifier>Scimitar</identifier>
 		</binding>
 		<binding>
+			<substring>scimitar</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
 			<substring>Shortsword</substring>
 			<identifier>Shortsword</identifier>
 		</binding>
@@ -4272,7 +4356,15 @@
 			<identifier>Tanto</identifier>
 		</binding>
 		<binding>
+			<substring>tanto</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
 			<substring>Wakizashi</substring>
+			<identifier>Wakizashi</identifier>
+		</binding>
+		<binding>
+			<substring>wakizashi</substring>
 			<identifier>Wakizashi</identifier>
 		</binding>
 		<binding>
@@ -4281,6 +4373,10 @@
 		</binding>
 		<binding>
 			<substring>Waraxe</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
+		<binding>
+			<substring>waraxe</substring>
 			<identifier>Waraxe</identifier>
 		</binding>
 		<binding>
@@ -4300,6 +4396,10 @@
 		</binding>
 		<binding>
 			<substring>Battleaxe</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>battleaxe</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
@@ -4368,6 +4468,10 @@
 		</binding>
 		<binding>
 			<substring>War Hammer</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>warhammer</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 	<!-- Heavy Weapon bindings end -->
@@ -4710,6 +4814,30 @@
 			<substring>Warglaive</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Eltonbrand</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Farmer's cleaver</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Nobleman's sword</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Thornblade</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Trueflame</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Windhelm sword</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -4952,6 +5080,14 @@
 		</binding>
 		<binding>
 			<substring>Dovahkiin Mercenary Dagger</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Fang of Haynektnamet</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Nibenay kama</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 	<!-- Dagger bindings end -->
@@ -5279,6 +5415,10 @@
 			<substring>Hammer</substring>
 			<identifier>Maul</identifier>
 		</binding>
+		<binding>
+			<substring>hammer</substring>
+			<identifier>Maul</identifier>
+		</binding>
 	<!-- Maul bindings end -->
 	
 	<!-- Morning Star -->
@@ -5490,6 +5630,14 @@
 			<substring>Trident Blade</substring>
 			<identifier>Shortsword</identifier>
 		</binding>
+		<binding>
+			<substring>Rapier</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
+		<binding>
+			<substring>rapier</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
 	<!-- Shortsword bindings end -->
 
 	<!-- Tanto bindings start -->
@@ -5642,6 +5790,14 @@
 		</binding>
 		<binding>
 			<substring>Jyggalag</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Ancient Atmoran blade</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Redguard slasher</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
 	<!-- Bastard Sword bindings end -->
@@ -5822,6 +5978,10 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>claymore</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Malacath's Cleaver</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
@@ -5831,6 +5991,10 @@
 		</binding>
 		<binding>
 			<substring>Ice Blade of the Monarch</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Ice blade of the Monarch</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
@@ -6049,6 +6213,10 @@
 			<substring>Rustam 2H</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
+		<binding>
+			<substring>Gravedigger</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
@@ -6088,6 +6256,10 @@
 		</binding>
 		<binding>
 			<substring>Daito</substring>
+			<identifier>Nodachi</identifier>
+		</binding>
+		<binding>
+			<substring>daito</substring>
 			<identifier>Nodachi</identifier>
 		</binding>
 		<binding>
@@ -6253,6 +6425,10 @@
 		</binding>
 		<binding>
 			<substring>Scamp's Hammer</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Heavy spiked mace</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 	<!-- Warhammer bindings end -->
