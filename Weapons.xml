@@ -787,7 +787,7 @@
 		</binding>
 		<binding>
 			<identifier>Advanced</identifier>
-			<substring>Sigvatson's</substring>
+			<substring>Sigvatson</substring>
 		</binding>
 		<binding>
 			<identifier>AdvancedHigh</identifier>

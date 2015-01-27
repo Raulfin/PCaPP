@@ -1,5 +1,31 @@
 <Versions>
 <Current>
+<v2.3>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+	Binding for Sigvatson Bow (Unique Bows)
+	Typo on Stormcloak Mage Armor binding.
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v2.3>
+</Current>
+
+<Old>
 <v2.2>
 Now covers:
 	Bosmer Armor (37289) v1.3
@@ -8,7 +34,7 @@ Now covers:
 	Vampiric Thirst (24222)
 	EotW Dovahkiins Journeyman Armor (44592)
 	Forgotten Magic Redone (35339) v1.6.5
-	OBIS Loot (52067)
+	OBIS Loot (52067) v3
 
 Blocklist:
 	NordicCooking.esp
@@ -44,9 +70,6 @@ New Patches:
 	Immersive Weapons.esp (Requires USKP)(WeaponsArmorFixes_ImmersiveWeapons_Patch.esp is merged in)
 	lilithssickle_PerMa_Patch.esp
 </v2.2>
-</Current>
-
-<Old>
 <v2.1.1>
 Now covers:
 	Dynamic Loot (42662) (Has some duplicate item names, Last Hope and Flamebreaker,)
