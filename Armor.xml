@@ -954,7 +954,7 @@
 			<substring>Guard</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionLow</identifier>
+			<identifier>LightFaction</identifier>
 			<substring>Reinforced Guard</substring>
 		</binding>
 		<binding>
