@@ -1026,6 +1026,23 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Forgotten Magic Redone -->
+		<!-- More Interesting Loot start-->
+			<exclusion>
+				<text>aaaML</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>aaML</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>aaML_Spell</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- More Interesting Loot end -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -2106,6 +2123,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Immersive Weapons end -->
+		<!-- More Interesting Loot start-->
+			<exclusion>
+				<text>aaML</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- More Interesting Loot end -->
 		<!-- Jaysus Swords start -->
 			<exclusion>
 				<text>JSwords</text>
@@ -4461,6 +4485,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Immersive Armors end -->
+		<!-- More Interesting Loot start-->
+			<exclusion>
+				<text>aaML</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- More Interesting Loot end -->
 		<!-- OBIS start -->
 			<exclusion>
 				<text>Bounty</text>

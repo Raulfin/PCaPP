@@ -772,6 +772,16 @@
 <!-- Exclusion target = NAME, EDID, FORMID -->
 <!-- Exclusion type = EQUALS, EQUALS_IGNORECASE, CONTAINS -->
 		<exclusion>
+			<text>Test</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>TEST</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>MQ</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>

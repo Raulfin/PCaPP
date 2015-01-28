@@ -85,6 +85,14 @@
 		</binding>
 	<!-- Armor variants created by PaMa (do not edit) end -->
 		<binding>
+			<substring>Superior</substring>
+			<identifier>superior</identifier>
+		</binding>
+		<binding>
+			<substring>Exceptional</substring>
+			<identifier>exceptional</identifier>
+		</binding>
+		<binding>
 			<substring>Commander</substring>
 			<identifier>commander</identifier>
 		</binding>
@@ -240,6 +248,18 @@
 			<factorWeight>0.7</factorWeight>
 		</armor_modifier>
 	<!-- Armor variants created by PaMa (do not edit) end -->
+		<armor_modifier>
+			<identifier>superior</identifier>
+			<factorArmor>1.35</factorArmor>
+			<factorValue>1.15</factorValue>
+			<factorWeight>1.1</factorWeight>
+		</armor_modifier>
+		<armor_modifier>
+			<identifier>exceptional</identifier>
+			<factorArmor>1.4</factorArmor>
+			<factorValue>1.15</factorValue>
+			<factorWeight>1.1</factorWeight>
+		</armor_modifier>
 		<armor_modifier>
 			<identifier>old god</identifier>
 			<factorArmor>1.1</factorArmor>
@@ -1680,6 +1700,10 @@
 			<identifier>DaedricLight</identifier>
 			<substring>Nerjal</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Adamantium Helm of Tohan</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -2989,7 +3013,7 @@
 			<substring>Shellbug</substring>
 		</binding>
 		<binding>
-			<identifier>Falmer</identifier>
+			<identifier>Ancient Falmer</identifier>
 			<substring>Shield of the Undaunted</substring>
 		</binding>
 		<binding>
@@ -7691,5 +7715,17 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Daedric Artifacts Improved Dawnguard -->
+	<!-- More Interesting Loot -->
+		<exclusion>
+			<text>aaML_Armor_Artifact</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>aaML_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- More Interesting Loot -->
 	</reforge_exclusions>
 </ns2:armor>
