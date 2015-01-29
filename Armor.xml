@@ -1900,6 +1900,10 @@
 			<identifier>Dragonplate</identifier>
 			<substring>Overlord's Bone Shield</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Dragonbone Barbarian Heavy</substring>
+		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
 	<!-- Dragonscale Material Bindings start -->
@@ -2103,6 +2107,18 @@
 		<binding>
 			<identifier>Dragonscale</identifier>
 			<substring>Overlord's Resistant Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Dragonbone Barbarian Light</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale_One</identifier>
+			<substring>Dragonbone Barbarian - Right</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale_One</identifier>
+			<substring>Dragonbone Barbarian - Left</substring>
 		</binding>
 	<!-- Dragonscale Material Bindings end -->
 	
@@ -6079,6 +6095,27 @@
 			<materialMeltdown>SILVER</materialMeltdown>
 			<materialTemper>SILVER</materialTemper>
 		</armor_material>
+		<armor_material>
+			<armorBase>0</armorBase>
+			<identifier>Zero_Daedric</identifier>
+			<type>UNDEFINED</type>
+			<materialMeltdown>DAEDRIC</materialMeltdown>
+			<materialTemper>DAEDRIC</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>0</armorBase>
+			<identifier>Zero_Dragonplate</identifier>
+			<type>UNDEFINED</type>
+			<materialMeltdown>DRAGONPLATE</materialMeltdown>
+			<materialTemper>DRAGONPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>0</armorBase>
+			<identifier>Zero_Dragonscale</identifier>
+			<type>UNDEFINED</type>
+			<materialMeltdown>DRAGONSCALE</materialMeltdown>
+			<materialTemper>DRAGONSCALE</materialTemper>
+		</armor_material>
 	<!-- Clothing Listings end -->
 	
 	<!-- Daedric Material Listings start -->
@@ -6141,21 +6178,28 @@
 	<!-- Dragonscale Material Listings start -->
 	<!-- Bindings allowed: DragonscaleLow, Dragonscale, DragonscaleHigh -->
 		<armor_material>
-			<armorBase>40</armorBase>
+			<armorBase>2</armorBase>
+			<identifier>Dragonscale_One</identifier>
+			<type>LIGHT</type>
+			<materialMeltdown>DRAGONSCALE</materialMeltdown>
+			<materialTemper>DRAGONSCALE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>39</armorBase>
 			<identifier>DragonscaleLow</identifier>
 			<type>LIGHT</type>
 			<materialMeltdown>DRAGONSCALE</materialMeltdown>
 			<materialTemper>DRAGONSCALE</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>41</armorBase>
+			<armorBase>40</armorBase>
 			<identifier>Dragonscale</identifier>
 			<type>LIGHT</type>
 			<materialMeltdown>DRAGONSCALE</materialMeltdown>
 			<materialTemper>DRAGONSCALE</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>42</armorBase>
+			<armorBase>41</armorBase>
 			<identifier>DragonscaleHigh</identifier>
 			<type>LIGHT</type>
 			<materialMeltdown>DRAGONSCALE</materialMeltdown>

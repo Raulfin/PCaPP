@@ -2,6 +2,7 @@
 <Current>
 <v2.3>
 Now covers:
+	Dragonbone Barbarian Armor (52711)
 
 Blocklist:
 
@@ -16,8 +17,10 @@ Changes:
 
 Additions:
 	Updated for More Interesting Loot v5.2
+	Added new Materials Zero_Daedric, Zero_Dragonplate, Zero_Dragonscale and Dragonscale_One. 
 
 Balancing:
+	Reduced Armor value of Dragonscale material by 1.
 
 Renamed:
 

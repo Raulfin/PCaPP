@@ -5280,7 +5280,23 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- OBIS Loot -->
-
+		<!-- Dragonbone Barbarian Armor -->
+			<exclusion>
+				<text>Shockero_Cloth_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Shockero_Heavy_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Shockero_Light_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dragonbone Barbarian Armor -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -5534,6 +5550,13 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- EggOver -->
+		<!-- Dragonbone Barbarian Armor -->
+			<exclusion>
+				<text>Shockero_LL_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dragonbone Barbarian Armor -->
 		</distribution_exclusions_list_regular>
 
 		<distribution_exclusions_armor_enchanted>
@@ -6601,6 +6624,23 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- OBIS Loot -->
+		<!-- Dragonbone Barbarian Armor -->
+			<exclusion>
+				<text>Shockero_Cloth_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Shockero_Heavy_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Shockero_Light_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dragonbone Barbarian Armor -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -6905,6 +6945,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!--Aethernautics-->
+		<!-- Dragonbone Barbarian Armor -->
+			<exclusion>
+				<text>Shockero_LL_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dragonbone Barbarian Armor -->
 		</distribution_exclusions_list_enchanted>
 	</distribution_exclusions_armor>
 </ns2:leveledLists>

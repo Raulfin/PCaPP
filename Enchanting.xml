@@ -8339,6 +8339,23 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- OBIS Loot -->
+	<!-- Dragonbone Barbarian Armor -->
+		<exclusion>
+			<text>Shockero_Cloth_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Shockero_Heavy_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Shockero_Light_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Dragonbone Barbarian Armor -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
