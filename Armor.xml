@@ -2708,6 +2708,70 @@
 			<identifier>Ebony</identifier>
 			<substring>Shield of Despair</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Mage Ebony Armor (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Mage Ebony Boots (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Mage Ebony Gloves (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Mage Ebony Helm (H)</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Black Mage Ebony Armor (L)</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Black Mage Ebony Boots (L)</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Black Mage Ebony Gloves (L)</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Black Mage Ebony Helm (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Archmage Ebony Armor (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Archmage Ebony Boots (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Archmage Ebony Gloves (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Archmage Ebony Helm (H)</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Black Archmage Ebony Armor (L)</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Black Archmage Ebony Boots (L)</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Black Archmage Ebony Gloves (L)</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Black Archmage Ebony Helm (L)</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -4535,6 +4599,66 @@
 			<identifier>LeatherHigh</identifier>
 			<substring>Weatherworn Burglar's</substring>
 		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Mage Mantled Robes (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Mage Mantled H (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Mage Hood w/Scarf (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Mage Hood (L))</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Mage Handwraps (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Mage Gloves (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Mage Boots (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Mage Armguards (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Mage College Robes (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Mage College Boots (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Archmage Robes (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Archmage Hood (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Archmage Gloves (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Archmage Boots (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Black Archmage Armguards (L)</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
@@ -5874,6 +5998,70 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Rexor Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Black Mage Plate Helm (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Black Mage Plate Gloves (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Black Mage Plate Boots (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Black Mage Plate Armor (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Black Mage Plate Helm (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Black Mage Plate Gloves (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Black Mage Plate Boots (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Black Mage Plate Armor (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Black Archmage Plate Helm (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Black Archmage Plate Gloves (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Black Archmage Plate Boots (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Black Archmage Plate Armor (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Black Archmage Plate Helm (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Black Archmage Plate Gloves (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Black Archmage Plate Boots (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Black Archmage Plate Armor (H)</substring>
 		</binding>
 	<!-- Steel Plate Material Bindings end -->
 	
