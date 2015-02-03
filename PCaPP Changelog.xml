@@ -22,7 +22,8 @@ Changes:
 
 Additions:
 	Updated for More Interesting Loot v5.2
-	Added new Materials Zero_Daedric, Zero_Dragonplate, Zero_Dragonscale and Dragonscale_One. 
+	Added new Materials Zero_Daedric, Zero_Dragonplate, Zero_Dragonscale and Dragonscale_One.
+	Added recipes to craft Leather from Leather Strips at the Tanning Rack.
 
 Balancing:
 	Reduced Armor value of Dragonscale material by 1.
@@ -31,6 +32,7 @@ Balancing:
 Renamed:
 
 Updated Patches:
+	WAFR Patches
 
 New Patches:
 </v2.3>
