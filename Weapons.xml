@@ -2263,7 +2263,58 @@
 			<substring>Briarheart Geis</substring>
 		</binding>
 	<!-- Falmer/Forsworn bindings end -->
-	
+
+	<!-- Giant Weapon bindings start -->
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Club</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Brute</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Fishman</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Fire</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Executioner Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Skull Club</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Double</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Old Dwemer Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Steel Club</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Iron Club</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Double Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Double Skull</substring>
+		</binding>
+	<!-- Giant Weapon bindings end -->
+
 	<!-- Glass bindings start -->
 		<binding>
 			<identifier>Glass</identifier>
@@ -2624,34 +2675,6 @@
 		<binding>
 			<identifier>None</identifier>
 			<substring>NO TEXT</substring>
-		</binding>
-		<binding>
-			<identifier>Death</identifier>
-			<substring>Giant Club</substring>
-		</binding>
-		<binding>
-			<identifier>Death</identifier>
-			<substring>Giant Brute</substring>
-		</binding>
-		<binding>
-			<identifier>Death</identifier>
-			<substring>Giant Fishman</substring>
-		</binding>
-		<binding>
-			<identifier>Death</identifier>
-			<substring>Giant Fire</substring>
-		</binding>
-		<binding>
-			<identifier>Death</identifier>
-			<substring>Giant Double</substring>
-		</binding>
-		<binding>
-			<identifier>Death</identifier>
-			<substring>Giant Executioner Axe</substring>
-		</binding>
-		<binding>
-			<identifier>Death</identifier>
-			<substring>Giant Skull Club</substring>
 		</binding>
 	<!-- None bindings end -->
 	
@@ -6667,7 +6690,7 @@
 			<identifier>Shortbow</identifier>
 		</binding>
 	<!-- Shortbow bindings end -->
-	<!-- ======================================== Ranged Weapon bindings end  ========================================= -->
+	<!-- ======================================== Ranged Weapon bindings end  ======================================= -->
 	<!-- Giant weapon bindings -->
 		<binding>
 			<identifier>Death</identifier>
@@ -6696,6 +6719,26 @@
 		<binding>
 			<identifier>Death</identifier>
 			<substring>Giant Skull Club</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Old Dwemer Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Steel Club</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Iron Club</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Double Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Giant Double Skull</substring>
 		</binding>
 	<!-- Giant weapon bindings -->
 	</weapon_type_bindings>
