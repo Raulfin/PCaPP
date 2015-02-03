@@ -14,6 +14,8 @@ Fixes:
 	Binding for Sigvatson Bow (Unique Bows)
 	Typo on Stormcloak Mage Armor binding.
 	Merta armor will now be Light.
+	Corrected several bindings for Giant weapons added by SiC to fix 'Run Away!' bug.
+	Corrected bindings for Colovian Composite Bow and Dark Colovian Composite Bow.
 
 Changes:
 	Mace of Molag Bal changed to use Spiked Mace weapon type.
