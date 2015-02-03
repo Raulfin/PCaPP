@@ -1137,6 +1137,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Gravedigger</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Penobscot War Bow IV</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -2020,6 +2024,10 @@
 			<identifier>Ebony</identifier>
 			<substring>Umbra</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Penobscot War Bow III</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
@@ -2234,6 +2242,10 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Silver Chill</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Penobscot War Bow II</substring>
 		</binding>
 	<!-- Elven bindings end -->
 	
@@ -3363,6 +3375,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Dovahkiin Mercenary Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Penobscot War Bow</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
@@ -6597,6 +6613,10 @@
 		</binding>
 		<binding>
 			<substring>Vindskjaer</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Penobscot War Bow</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
