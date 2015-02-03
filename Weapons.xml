@@ -743,10 +743,6 @@
 			<substring>Atmoran</substring>
 		</binding>
 		<binding>
-			<identifier>Dwarven</identifier>
-			<substring>Colovian</substring>
-		</binding>
-		<binding>
 			<identifier>Elven</identifier>
 			<substring>Breton</substring>
 		</binding>
@@ -2058,10 +2054,6 @@
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Farah's Bow</substring>
-		</binding>
-		<binding>
-			<identifier>ElvenHigh</identifier>
-			<substring>Colovian</substring>
 		</binding>
 		<binding>
 			<identifier>ElvenHigh</identifier>
@@ -3589,6 +3581,14 @@
 		<binding>
 			<identifier>Ashwood</identifier>
 			<substring>Ash Wood</substring>
+		</binding>
+		<binding>
+			<identifier>Oakwood</identifier>
+			<substring>Colovian Composite Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Ashwood</identifier>
+			<substring>Dark Colovian Composite Bow</substring>
 		</binding>
 	<!-- Wood bindings end -->
 	</weapon_material_bindings>
