@@ -7296,7 +7296,7 @@
 		<weapon_type>
 			<identifier>Longbow</identifier>
 			<baseWeaponType>LONGBOW</baseWeaponType>
-			<damageBase>15.5</damageBase>
+			<damageBase>18.0</damageBase>
 			<reachBase>1.0</reachBase>
 			<speedBase>0.6</speedBase>
 			<critDamageFactor>1.5</critDamageFactor>
