@@ -44,6 +44,10 @@
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
+			<substring>Broken Wolfcry</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
 			<substring>Worn</substring>
 			<identifier>worn</identifier>
 		</binding>
