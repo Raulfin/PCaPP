@@ -227,7 +227,7 @@
 		</armor_modifier>
 		<armor_modifier>
 			<identifier>broken</identifier>
-			<factorArmor>0.5</factorArmor>
+			<factorArmor>0.25</factorArmor>
 			<factorValue>0.1</factorValue>
 			<factorWeight>0.75</factorWeight>
 		</armor_modifier>
