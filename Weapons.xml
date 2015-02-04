@@ -746,10 +746,6 @@
 			<identifier>Elven</identifier>
 			<substring>Breton</substring>
 		</binding>
-		<binding>
-			<identifier>Elven</identifier>
-			<substring>Vilja's Elven Bow</substring>
-		</binding>
 	<!-- Racial material_Bindings end -->
 
 	<!-- Advanced bindings start -->
