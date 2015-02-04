@@ -1141,10 +1141,6 @@
 			<identifier>Daedric</identifier>
 			<substring>Penobscot War Bow IV</substring>
 		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Vilja's Bow</substring>
-		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -1154,7 +1150,7 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
-			<substring>Dragon Steel</substring>
+			<substring>Dragon </substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -3402,6 +3398,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Penobscot War Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Vilja's Bow</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
