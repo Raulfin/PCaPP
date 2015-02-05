@@ -7547,6 +7547,21 @@
 			<target>NAME</target>
 			<type>STARTSWITH</type>
 		</exclusion>
+		<exclusion>
+			<text>Giant Old</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Giant Steel Club</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Giant Iron Club</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
 	<!-- Giant weapon bindings -->
 	<!-- Inigo-->
 		<exclusion>
