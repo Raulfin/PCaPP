@@ -5297,6 +5297,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Dragonbone Barbarian Armor -->
+		<!-- Skaal Heavy Armor -->
+			<exclusion>
+				<text>Skaal Heavy</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Skaal Heavy Armor -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -6641,6 +6648,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Dragonbone Barbarian Armor -->
+		<!-- Skaal Heavy Armor -->
+			<exclusion>
+				<text>Skaal Heavy</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Skaal Heavy Armor -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

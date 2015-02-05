@@ -3924,6 +3924,10 @@
 			<identifier>Iron</identifier>
 			<substring>Helmet of the Mounds</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Skaal Heavy</substring>
+		</binding>
 	<!-- Iron Material Bindings end -->
 	
 	<!-- Leather Material Bindings start -->

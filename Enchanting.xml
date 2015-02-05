@@ -8356,6 +8356,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Dragonbone Barbarian Armor -->
+	<!-- Skaal Heavy Armor -->
+		<exclusion>
+			<text>Skaal Heavy</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Skaal Heavy Armor -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
