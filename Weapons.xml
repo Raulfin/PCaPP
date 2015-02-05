@@ -4258,7 +4258,7 @@
 			<materialMeltdown>WOOD</materialMeltdown>
 			<materialTemper>WOOD</materialTemper>
 			<reachModifier>0.0</reachModifier>
-			<speedModifier>0.02</speedModifier>
+			<speedModifier>0.03</speedModifier>
 		</weapon_material>
 		<weapon_material>
 			<damageModifier>1</damageModifier>
@@ -4266,7 +4266,7 @@
 			<materialMeltdown>WOOD</materialMeltdown>
 			<materialTemper>WOOD</materialTemper>
 			<reachModifier>0.0</reachModifier>
-			<speedModifier>0.02</speedModifier>
+			<speedModifier>0.04</speedModifier>
 		</weapon_material>
 		<weapon_material>
 			<damageModifier>1.1</damageModifier>
@@ -4274,7 +4274,7 @@
 			<materialMeltdown>WOOD</materialMeltdown>
 			<materialTemper>WOOD</materialTemper>
 			<reachModifier>0.0</reachModifier>
-			<speedModifier>0.02</speedModifier>
+			<speedModifier>0.05</speedModifier>
 		</weapon_material>
 		<weapon_material>
 			<damageModifier>1.2</damageModifier>
@@ -4282,7 +4282,7 @@
 			<materialMeltdown>WOOD</materialMeltdown>
 			<materialTemper>WOOD</materialTemper>
 			<reachModifier>0.0</reachModifier>
-			<speedModifier>0.02</speedModifier>
+			<speedModifier>0.06</speedModifier>
 		</weapon_material>
 	<!-- Wood Material Listings end -->
 	</weapon_materials>
