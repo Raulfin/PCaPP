@@ -17,6 +17,7 @@ Fixes:
 	Merta armor will now be Light.
 	Corrected several bindings for Giant weapons added by SiC to fix 'Run Away!' bug.
 	Corrected bindings for Colovian Composite Bow and Dark Colovian Composite Bow.
+	Vokun and Rahgot are now Heavy
 
 Changes:
 	Mace of Molag Bal changed to use Spiked Mace weapon type.
@@ -25,10 +26,12 @@ Additions:
 	Updated for More Interesting Loot v5.2
 	Added new Materials Zero_Daedric, Zero_Dragonplate, Zero_Dragonscale and Dragonscale_One.
 	Added recipes to craft Leather from Leather Strips at the Tanning Rack.
+	Additional Vilja bindings and adjustments.
 
 Balancing:
 	Reduced Armor value of Dragonscale material by 1.
 	Increased Longbow damage by 16%
+	Increased severity of Broken modifier from 50% to 25%
 
 Renamed:
 
