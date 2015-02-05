@@ -3395,6 +3395,10 @@
 			<identifier>Steel</identifier>
 			<substring>Penobscot War Bow</substring>
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Vilja's Bow</substring>
+		</binding>
 	<!-- Steel bindings end -->
 
 	<!-- Skyforge bindings start -->

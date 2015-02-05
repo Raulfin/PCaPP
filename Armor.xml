@@ -223,7 +223,7 @@
 		</armor_modifier>
 		<armor_modifier>
 			<identifier>broken</identifier>
-			<factorArmor>0.5</factorArmor>
+			<factorArmor>0.25</factorArmor>
 			<factorValue>0.1</factorValue>
 			<factorWeight>0.75</factorWeight>
 		</armor_modifier>
@@ -1105,19 +1105,19 @@
 			<substring>Hevnoraak Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>Silver</identifier>
+			<identifier>SilverHeavy</identifier>
 			<substring>Vokun</substring>
 		</binding>
 		<binding>
-			<identifier>Silver</identifier>
+			<identifier>SilverHeavy</identifier>
 			<substring>Vokun Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>OrcishLight</identifier>
+			<identifier>OrcishHigh</identifier>
 			<substring>Rahgot</substring>
 		</binding>
 		<binding>
-			<identifier>OrcishLight</identifier>
+			<identifier>OrcishHigh</identifier>
 			<substring>Rahgot Circlet</substring>
 		</binding>
 		<binding>
