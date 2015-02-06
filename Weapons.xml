@@ -3591,7 +3591,7 @@
 			<substring>Colovian Composite Bow</substring>
 		</binding>
 		<binding>
-			<identifier>Ashwood</identifier>
+			<identifier>Steelwood</identifier>
 			<substring>Colovian Dark Composite Bow</substring>
 		</binding>
 	<!-- Wood bindings end -->
@@ -4275,6 +4275,14 @@
 			<materialTemper>WOOD</materialTemper>
 			<reachModifier>0.0</reachModifier>
 			<speedModifier>0.05</speedModifier>
+		</weapon_material>
+		<weapon_material>
+			<damageModifier>1.1</damageModifier>
+			<identifier>Steelwood</identifier> 
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+			<reachModifier>0.0</reachModifier>
+			<speedModifier>0.03</speedModifier>
 		</weapon_material>
 		<weapon_material>
 			<damageModifier>1.2</damageModifier>
