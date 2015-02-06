@@ -3592,7 +3592,7 @@
 		</binding>
 		<binding>
 			<identifier>Ashwood</identifier>
-			<substring>Dark Colovian Composite Bow</substring>
+			<substring>Colovian Dark Composite Bow</substring>
 		</binding>
 	<!-- Wood bindings end -->
 	</weapon_material_bindings>
