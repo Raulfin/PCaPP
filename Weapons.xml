@@ -7354,6 +7354,92 @@
 	<reforge_exclusions>
 	<!-- Prevents PaMa from making Reforge and Breakdown recipes for items. Primarily intended for Quest items -->
 		<exclusion>
+			<text>Ceremonial Axe</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Ceremonial Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Phantom Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Queen Freydis's Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Rusty Mace</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>FFRiften16HarraldSword</text> <!-- Steel sword used for Quest:Bring It! -->
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Vilkas's Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Herp</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>DB</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>NPC</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>_00Giant</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>_00Spriggan</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Pickaxe</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Woodcutter</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Replica</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Replica</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Artifacts -->
+		<exclusion>
+			<text>Dawnbreaker</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Longhammer</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
@@ -7370,16 +7456,6 @@
 		</exclusion>
 		<exclusion>
 			<text>Balgruuf's Greatsword</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Ceremonial Axe</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Ceremonial Sword</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7414,22 +7490,7 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Phantom Sword</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Queen Freydis's Sword</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
 			<text>Red Eagle</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Rusty Mace</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7439,17 +7500,7 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>FFRiften16HarraldSword</text> <!-- Steel sword used for Quest:Bring It! -->
-			<target>EDID</target>
-			<type>EQUALS</type>
-		</exclusion>
-		<exclusion>
 			<text>The Rueful Axe</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Vilkas's Sword</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7459,19 +7510,9 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Herp</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
 			<text>Chillrend</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>DB</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
 			<text>Harkon</text>
@@ -7483,47 +7524,13 @@
 			<target>EDID</target>
 			<type>CONTAINS</type>
 		</exclusion>
-		<exclusion>
-			<text>NPC</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>_00Giant</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>_00Spriggan</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
+	<!-- Artifacts -->
+	<!-- Giant weapon bindings -->
 		<exclusion>
 			<text>_00FireGiant</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-		<exclusion>
-			<text>Pickaxe</text>
-			<target>EDID</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Woodcutter</text>
-			<target>EDID</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Replica</text>
-			<target>EDID</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Replica</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-	<!-- Giant weapon bindings -->
 		<exclusion>
 			<text>Giant Club</text>
 			<target>NAME</target>
