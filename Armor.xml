@@ -4539,7 +4539,8 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Dark Jester's Light Gloves</substring>
-		</binding><binding>
+		</binding>
+		<binding>
 			<identifier>Leather</identifier>
 			<substring>Dark Jester's Light Boots</substring>
 		</binding>
@@ -4662,6 +4663,10 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Black Archmage Armguards (L)</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Demon Hunter</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
@@ -6567,7 +6572,7 @@
 		<armor_material>
 			<armorBase>30</armorBase> <!-- Equal to Steel -->
 			<identifier>Falmer</identifier> <!-- Heavy Armor/Advanced perk -->
-			<type>HEAVY</type>
+			<type>LIGHT</type>
 			<materialMeltdown>FALMER</materialMeltdown>
 			<materialTemper>FALMER</materialTemper>
 		</armor_material>
