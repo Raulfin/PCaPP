@@ -21,6 +21,7 @@ Fixes:
 	Corrected bindings for Colovian Composite Bow and Dark Colovian Composite Bow.
 	Vokun and Rahgot are now Heavy
 	Falskaar Reinforced are now Heavy
+	Falmer armor will not properly be tagged Light armor.
 
 Changes:
 	Mace of Molag Bal changed to use Spiked Mace weapon type.
@@ -30,6 +31,7 @@ Additions:
 	Added new Materials Zero_Daedric, Zero_Dragonplate, Zero_Dragonscale and Dragonscale_One.
 	Added recipes to craft Leather from Leather Strips at the Tanning Rack.
 	Additional Vilja bindings and adjustments.
+	Dawnbreaker can no longer be Reforged or Warforged.
 
 Balancing:
 	Reduced Armor value of Dragonscale material by 1.
