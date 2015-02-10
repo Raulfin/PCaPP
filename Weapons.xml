@@ -6492,43 +6492,11 @@
 	<!-- =====================================================Ranged Weapon bindings start ================================================== -->
 	<!-- Crossbow bindings start -->
 		<binding>
-			<substring>dwarven rifle</substring>
-			<identifier>Crossbow</identifier>
-		</binding>
-		<binding>
-			<substring>dwarven rifleA</substring>
-			<identifier>Crossbow</identifier>
-		</binding>
-		<binding>
-			<substring>dwarven rifleB</substring>
-			<identifier>Crossbow</identifier>
-		</binding>
-		<binding>
-			<substring>dwarven rifleS</substring>
-			<identifier>Crossbow</identifier>
-		</binding>
-		<binding>
-			<substring>dwarven rifleM</substring>
-			<identifier>Crossbow</identifier>
-		</binding>
-		<binding>
 			<substring>Dwemer Cheiroballistra</substring>
 			<identifier>Crossbow</identifier>
 		</binding>
 		<binding>
 			<substring>Dwemer Polybolos</substring>
-			<identifier>Crossbow</identifier>
-		</binding>
-		<binding>
-			<substring>Dwemer Shotgun</substring>
-			<identifier>Crossbow</identifier>
-		</binding>
-		<binding>
-			<substring>Harquebus</substring>
-			<identifier>Crossbow</identifier>
-		</binding>
-		<binding>
-			<substring>Arquebus</substring>
 			<identifier>Crossbow</identifier>
 		</binding>
 		<binding>
@@ -6702,6 +6670,41 @@
 			<identifier>Shortbow</identifier>
 		</binding>
 	<!-- Shortbow bindings end -->
+	
+	<!-- Gun bindings start -->
+		<binding>
+			<substring>dwarven rifle</substring>
+			<identifier>Crosbow</identifier>
+		</binding>
+		<binding>
+			<substring>dwarven rifleA</substring>
+			<identifier>Crosbow</identifier>
+		</binding>
+		<binding>
+			<substring>dwarven rifleB</substring>
+			<identifier>Crosbow</identifier>
+		</binding>
+		<binding>
+			<substring>dwarven rifleS</substring>
+			<identifier>Crosbow</identifier>
+		</binding>
+		<binding>
+			<substring>dwarven rifleM</substring>
+			<identifier>Crosbow</identifier>
+		</binding>
+		<binding>
+			<substring>Dwemer Shotgun</substring>
+			<identifier>Crosbow</identifier>
+		</binding>
+		<binding>
+			<substring>Harquebus</substring>
+			<identifier>Crosbow</identifier>
+		</binding>
+		<binding>
+			<substring>Arquebus</substring>
+			<identifier>Crosbow</identifier>
+		</binding>
+	<!-- Gun bindings end -->
 	<!-- ======================================== Ranged Weapon bindings end  ======================================= -->
 	<!-- Giant weapon bindings -->
 		<binding>
@@ -7331,6 +7334,20 @@
 			<bleedTier>TWO</bleedTier>
 			<debuffTier>THREE</debuffTier>
 			<staggerTier>TWO</staggerTier>
+			<weaponClass>PIERCING</weaponClass>
+		</weapon_type>
+		<weapon_type>
+			<identifier>Crosbow</identifier>
+			<baseWeaponType>CROSSBOW</baseWeaponType>
+			<damageBase>20.0</damageBase>
+			<reachBase>1.0</reachBase>
+			<speedBase>0.8</speedBase>
+			<critDamageFactor>2.0</critDamageFactor>
+			<meltdownOutput>2</meltdownOutput>
+			<meltdownInput>1</meltdownInput>
+			<bleedTier>THREE</bleedTier>
+			<debuffTier>THREE</debuffTier>
+			<staggerTier>ONE</staggerTier>
 			<weaponClass>PIERCING</weaponClass>
 		</weapon_type>
 	</weapon_types>
