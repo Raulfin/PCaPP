@@ -1230,6 +1230,10 @@
 			<identifier>DwarvenLight</identifier>
 			<substring>Spellbreaker Light</substring>
 		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Ebony Light</substring>
+		</binding>
 	<!-- Artifacts -->
 	
 	<!-- ============================================================== Materials start =================================================== -->
