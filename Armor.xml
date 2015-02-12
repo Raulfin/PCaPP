@@ -1176,7 +1176,7 @@
 		</binding>
 		<binding>
 			<identifier>ElvenHeavy</identifier>
-			<substring>Auriel's Heavy</substring>
+			<substring>Auriel's</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
