@@ -6422,7 +6422,7 @@
 			<materialTemper>DWARVEN</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>37</armorBase>
+			<armorBase>36</armorBase>
 			<identifier>DwarvenLow</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DWARVEN</materialMeltdown>
@@ -6436,7 +6436,7 @@
 			<materialTemper>DWARVEN</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>37</armorBase>
+			<armorBase>38</armorBase>
 			<identifier>DwarvenHigh</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DWARVEN</materialMeltdown>
