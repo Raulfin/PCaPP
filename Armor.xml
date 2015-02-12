@@ -1093,7 +1093,7 @@
 			<substring>Otar</substring>
 		</binding>
 		<binding>
-			<identifier>GoldHeavy</identifier>
+			<identifier>GoldHigh</identifier>
 			<substring>Otar Circlet</substring>
 		</binding>
 		<binding>
@@ -1287,6 +1287,10 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Clothing</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Shrouded Hood</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -3115,6 +3119,10 @@
 		<binding>
 			<identifier>Falmer Heavy</identifier>
 			<substring>Monstrous Faceguard</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Falmer Circlet</substring>
 		</binding>
 	<!-- Falmer Material Bindings end -->
 	
