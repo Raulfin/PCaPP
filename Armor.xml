@@ -1157,7 +1157,7 @@
 			<substring>Miraak</substring>
 		</binding>
 		<binding>
-			<identifier>EbonyLight</identifier>
+			<identifier>EbonyHigh</identifier>
 			<substring>Zahkriisos</substring>
 		</binding>
 		<binding>
@@ -6450,7 +6450,7 @@
 			<materialTemper>EBONY</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>51</armorBase>
+			<armorBase>50</armorBase>
 			<identifier>EbonyLow</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>EBONY</materialMeltdown>
