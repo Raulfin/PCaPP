@@ -1157,6 +1157,10 @@
 			<substring>Miraak</substring>
 		</binding>
 		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Miraak Light</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Zahkriisos</substring>
 		</binding>
