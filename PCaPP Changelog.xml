@@ -21,10 +21,12 @@ Fixes:
 	Corrected bindings for Colovian Composite Bow and Dark Colovian Composite Bow.
 	Auriel's Shield, Shellbug Helmet, Falmer Circlet, Zahkriisos, Vokun and Rahgot are now Heavy
 	Falskaar Reinforced, Tsun's boots, Ebony Light Mail, Dawnguard Rune Shield, Dukaan, Cultist Mask, Miraak (Light) and Otar Circlet are now Light
-	Falmer armor will not properly be tagged Light armor.
+	Falmer armor will now properly be tagged Light armor.
+	Corrected EbonyLow, DwarvenLow, DwarvenHigh armor values
 
 Changes:
 	Mace of Molag Bal changed to use Spiked Mace weapon type.
+	Updated enchantment description on several armors (expects Mage module to be used), added CCF keywords to Wintermyst armors. (Clothing and Clutter Fixes)
 
 Additions:
 	Updated for More Interesting Loot v5.2
@@ -32,6 +34,7 @@ Additions:
 	Added recipes to craft Leather from Leather Strips at the Tanning Rack.
 	Additional Vilja bindings and adjustments.
 	Dawnbreaker can no longer be Reforged or Warforged.
+	Added a few missing CCOR armors
 
 Balancing:
 	Reduced Armor value of Dragonscale material by 1.
@@ -42,7 +45,7 @@ Balancing:
 Renamed:
 
 Updated Patches:
-	WAFR Patches
+	WAFR, CCOR, CCF Patches (CCF patch now requires "Dawnguard.esm" and "PerMa Expansion 1 - Wintermyst.esp").
 
 New Patches:
 </v2.3>
