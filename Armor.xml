@@ -682,7 +682,7 @@
 			<substring>Dawnguard Heavy</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionHigh</identifier>
+			<identifier>LightFactionS</identifier>
 			<substring>Dawnguard Rune</substring>
 		</binding>
 		<binding>
@@ -1093,7 +1093,7 @@
 			<substring>Otar</substring>
 		</binding>
 		<binding>
-			<identifier>GoldHeavy</identifier>
+			<identifier>GoldHigh</identifier>
 			<substring>Otar Circlet</substring>
 		</binding>
 		<binding>
@@ -1157,11 +1157,15 @@
 			<substring>Miraak</substring>
 		</binding>
 		<binding>
-			<identifier>EbonyLight</identifier>
+			<identifier>DaedricLight</identifier>
+			<substring>Miraak Light</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
 			<substring>Zahkriisos</substring>
 		</binding>
 		<binding>
-			<identifier>HNordicHigh</identifier>
+			<identifier>LNordicHigh</identifier>
 			<substring>Dukaan</substring>
 		</binding>
 		<binding>
@@ -1176,7 +1180,7 @@
 		</binding>
 		<binding>
 			<identifier>ElvenHeavy</identifier>
-			<substring>Auriel's Heavy</substring>
+			<substring>Auriel's</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -1230,6 +1234,10 @@
 			<identifier>DwarvenLight</identifier>
 			<substring>Spellbreaker Light</substring>
 		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Ebony Light</substring>
+		</binding>
 	<!-- Artifacts -->
 	
 	<!-- ============================================================== Materials start =================================================== -->
@@ -1279,6 +1287,10 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Clothing</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Shrouded Hood</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -3089,7 +3101,7 @@
 			<substring>Auriel</substring>
 		</binding>
 		<binding>
-			<identifier>Falmer</identifier>
+			<identifier>Falmer Heavy</identifier>
 			<substring>Shellbug</substring>
 		</binding>
 		<binding>
@@ -3107,6 +3119,10 @@
 		<binding>
 			<identifier>Falmer Heavy</identifier>
 			<substring>Monstrous Faceguard</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Falmer Circlet</substring>
 		</binding>
 	<!-- Falmer Material Bindings end -->
 	
@@ -4426,7 +4442,7 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
-			<substring>Tsun's Armor</substring>
+			<substring>Tsun's</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -5549,7 +5565,7 @@
 			<substring>Scion</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>LightFaction</identifier>
 			<substring>Cultist Mask</substring>
 		</binding>
 		<binding>
@@ -6414,7 +6430,7 @@
 			<materialTemper>DWARVEN</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>37</armorBase>
+			<armorBase>36</armorBase>
 			<identifier>DwarvenLow</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DWARVEN</materialMeltdown>
@@ -6428,7 +6444,7 @@
 			<materialTemper>DWARVEN</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>37</armorBase>
+			<armorBase>38</armorBase>
 			<identifier>DwarvenHigh</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DWARVEN</materialMeltdown>
@@ -6446,7 +6462,7 @@
 			<materialTemper>EBONY</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>51</armorBase>
+			<armorBase>50</armorBase>
 			<identifier>EbonyLow</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>EBONY</materialMeltdown>
