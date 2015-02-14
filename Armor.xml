@@ -6186,7 +6186,7 @@
 	<!-- Advanced Material Listings start -->
 	<!-- Bindings allowed: AdvancedLight, Advanced  -->
 		<armor_material>
-			<armorBase>24</armorBase>
+			<armorBase>16</armorBase>
 			<identifier>AdvancedLight</identifier>
 			<type>LIGHT</type>
 			<materialMeltdown>ADVANCED</materialMeltdown><!-- Corundum -->
