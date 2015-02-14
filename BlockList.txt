@@ -41,3 +41,4 @@ LongerDurationsandAnnoyanceFixes - Perma Patch.esp
 zzEstrus.esp
 LootandDegradation.esp
 iNeed.esp
+WetandCold - Ashes.esp
