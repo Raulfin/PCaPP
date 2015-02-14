@@ -1,0 +1,42 @@
+==MOD BLOCKS==
+//Add a mod names or keywords to look for to block
+//One per line
+Animated Dragon Wings.esp
+Convenient Horses.esp
+HorseCloakCH.esp
+HorseCloak.esp
+PSQ PlayerSuccubusQuest.esm
+DSLight.esm
+daymoyl.esm
+daymoyl_DawnguardAddon.esp
+DA-Survival.esp
+SexLab.esm
+SexLabDefeat.esp
+SexLab Romance.esp
+SexLabMassMatchMaker.esp
+SexLab-AmorousAdventures.esp
+NonSexLabAnimationPack.esp
+CollegeDaysWinterhold.esp
+DeadlyCombat.esp
+ds_database.esp
+ShakeIt.esp
+DreadPrison.esm
+DreadPrisonUpdate.esp
+sandboxcylinderheight.esp
+Dual Sheath Redux.esp
+Dual Sheath Redux Patch.esp
+kuerteeEatAndSleep.esp
+HDTPhysicsWeaponSling.esp
+Ish's Respec Mod.esp
+Dwemertech - Magic of the Dwarves.esp
+Dwemertech - PerMa Compatibility Patch.esp
+Magic of the Magna-Ge.esp
+Spectraverse - PerMa Compatibility Patch.esp
+Spectraverse - Only After Dragon Rising.esp
+NordicCooking.esp
+NordicCooking_RND.esp
+Post_PatchusMaximus_GiantsAIFix.esp
+Post PatchusMaximus Perma Mods and Tweaks.esp
+LongerDurationsandAnnoyanceFixes - Perma Patch.esp
+zzEstrus.esp
+LootandDegradation.esp
