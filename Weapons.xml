@@ -6021,6 +6021,10 @@
 	
 	<!-- Greatsword bindings start -->
 		<binding>
+			<substring>Dawnbreaker Greatsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>BiPolar Blade</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
