@@ -42,7 +42,9 @@ Additions:
 Balancing:
 	Reduced Armor value of Dragonscale material by 1.
 	Increased Longbow damage by 16%
-	Increased severity of Broken modifier from 50% to 25%
+	Increased severity of Broken armor modifier from 50% to 25%
+	Increased severity of Ragged weight modifier from 120% to 40%
+	Increased severity of Ragged value modifier from 50% to 10%
 	Increased bonus speed for WOOD weapons by 1% per rank
 	Increased Light Weapons base damage by 1.
 	Increased Arrow base damage by 3.
