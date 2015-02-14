@@ -32,50 +32,6 @@
 	</ammunition_type_bindings>
 
 	<ammunition_modifiers>
-	<!-- Hunterborn modifiers start -->
-		<ammunition_modifier>
-			<identifier>Crude</identifier>
-			<damageModifier>-3</damageModifier>
-			<rangeModifier>-50</rangeModifier>
-			<speedModifier>-25</speedModifier>
-			<gravityModifier>0.2</gravityModifier>
-		</ammunition_modifier>
-		<ammunition_modifier>
-			<identifier>Cruel</identifier>
-			<damageModifier>1</damageModifier>
-			<rangeModifier>25</rangeModifier>
-			<speedModifier>75</speedModifier>
-			<gravityModifier>0.03</gravityModifier>
-		</ammunition_modifier>
-		<ammunition_modifier>
-			<identifier>Hunter</identifier>
-			<damageModifier>2</damageModifier>
-			<rangeModifier>100</rangeModifier>
-			<speedModifier>25</speedModifier>
-			<gravityModifier>0.025</gravityModifier>
-		</ammunition_modifier>
-		<ammunition_modifier>
-			<identifier>Honed</identifier>
-			<damageModifier>3</damageModifier>
-			<rangeModifier>0</rangeModifier>
-			<speedModifier>-50</speedModifier>
-			<gravityModifier>0.02</gravityModifier>
-		</ammunition_modifier>
-		<ammunition_modifier>
-			<identifier>Stalker</identifier>
-			<damageModifier>4</damageModifier>
-			<rangeModifier>-100</rangeModifier>
-			<speedModifier>50</speedModifier>
-			<gravityModifier>0.03</gravityModifier>
-		</ammunition_modifier>
-		<ammunition_modifier>
-			<identifier>Perfect</identifier>
-			<damageModifier>5</damageModifier>
-			<rangeModifier>0</rangeModifier>
-			<speedModifier>10</speedModifier>
-			<gravityModifier>0.01</gravityModifier>
-		</ammunition_modifier>
-	<!-- Hunterborn modifiers end -->
 	<!-- PerMa default modifiers start -->
 		<ammunition_modifier>
 			<identifier>Strong</identifier>
@@ -155,6 +111,13 @@
 			<gravityModifier>0.01</gravityModifier>
 		</ammunition_modifier>
 	<!-- PerMa default modifiers end -->
+		<ammunition_modifier>
+			<identifier>Cruel</identifier>
+			<damageModifier>1</damageModifier>
+			<rangeModifier>25</rangeModifier>
+			<speedModifier>75</speedModifier>
+			<gravityModifier>0.03</gravityModifier>
+		</ammunition_modifier>
 	<!-- Nock to Tip -->
 		<ammunition_modifier>
 			<identifier>Fletched</identifier>
@@ -176,6 +139,7 @@
 	</ammunition_modifiers>
 
 	<ammunition_modifier_bindings>
+	<!-- PerMa -->
 		<binding>
 			<identifier>Explosive</identifier>
 			<substring>Explosive</substring>
@@ -220,36 +184,17 @@
 			<identifier>Noisemaker</identifier>
 			<substring>Noisemaker</substring>
 		</binding>
-		<binding>
-			<identifier>Crude</identifier>
-			<substring>Crude</substring>
-		</binding>
+	<!-- PerMa -->
 		<binding>
 			<identifier>Cruel</identifier>
 			<substring>Cruel</substring>
 		</binding>
-		<binding>
-			<identifier>Honed</identifier>
-			<substring>Honed</substring>
-		</binding>
-		<binding>
-			<identifier>Hunter</identifier>
-			<substring>Hunter</substring>
-		</binding>
-		<binding>
-			<identifier>Stalker</identifier>
-			<substring>Stalker</substring>
-		</binding>
-		<binding>
-			<identifier>Perfect</identifier>
-			<substring>Perfect</substring>
-		</binding>
-		<!-- Nock to Tip -->
+	<!-- Nock to Tip -->
 		<binding>
 			<identifier>Fletched</identifier>
 			<substring>Fletched</substring>
 		</binding>
-		<!-- Nock to Tip -->
+	<!-- Nock to Tip -->
 	</ammunition_modifier_bindings>
 
 	<ammunition_materials>
@@ -277,6 +222,14 @@
 			<speedModifier>0</speedModifier>
 			<gravityModifier>0</gravityModifier>
 			<multiply>false</multiply>
+		</ammunition_material>
+		<ammunition_material>
+			<identifier>WoodH</identifier>
+			<damageModifier>2</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>0</speedModifier>
+			<gravityModifier>0</gravityModifier>
+			<multiply>true</multiply>
 		</ammunition_material>
 		<ammunition_material>
 			<identifier>Forsworn</identifier>
@@ -463,6 +416,48 @@
 			<gravityModifier>0.34</gravityModifier>
 			<multiply>true</multiply>
 		</ammunition_material>
+	<!-- Hunterborn modifiers start -->
+		<ammunition_material>
+			<identifier>Crude</identifier>
+			<damageModifier>-1</damageModifier>
+			<rangeModifier>-50</rangeModifier>
+			<speedModifier>-25</speedModifier>
+			<gravityModifier>0.2</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+		<ammunition_material>
+			<identifier>Hunter</identifier>
+			<damageModifier>1</damageModifier>
+			<rangeModifier>100</rangeModifier>
+			<speedModifier>25</speedModifier>
+			<gravityModifier>0.025</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+		<ammunition_material>
+			<identifier>Honed</identifier>
+			<damageModifier>3</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-50</speedModifier>
+			<gravityModifier>0.02</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+		<ammunition_material>
+			<identifier>Stalker</identifier>
+			<damageModifier>5</damageModifier>
+			<rangeModifier>-100</rangeModifier>
+			<speedModifier>50</speedModifier>
+			<gravityModifier>0.03</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+		<ammunition_material>
+			<identifier>Perfect</identifier>
+			<damageModifier>7</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>10</speedModifier>
+			<gravityModifier>0.01</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+	<!-- Hunterborn modifiers end -->
 	</ammunition_materials>
 
 	<ammunition_material_bindings>
@@ -611,10 +606,6 @@
 			<identifier>Wood</identifier>
 			<substring>Wooden</substring>
 		</binding>
-		<binding>
-			<identifier>WoodNoMult</identifier>
-			<substring>Mudcrab</substring>
-		</binding>
 	<!-- Default end -->
 	<!-- PerMa start -->
 		<binding>
@@ -638,6 +629,32 @@
 			<substring>Water</substring>
 		</binding>
 	<!-- PerMa end -->
+	<!-- Hunterborn -->
+		<binding>
+			<identifier>Crude</identifier>
+			<substring>Crude Bone</substring>
+		</binding>
+		<binding>
+			<identifier>Hunter</identifier>
+			<substring>Hunter's Bone</substring>
+		</binding>
+		<binding>
+			<identifier>Honed</identifier>
+			<substring>Honed Bone</substring>
+		</binding>
+		<binding>
+			<identifier>Stalker</identifier>
+			<substring>Stalker's Bone</substring>
+		</binding>
+		<binding>
+			<identifier>Perfect</identifier>
+			<substring>Perfect Bone</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>Mudcrab</substring>
+		</binding>
+	<!-- Hunterborn -->
 	<!-- Noldor Content Pack start -->
 		<binding>
 			<identifier>Noldor</identifier>
