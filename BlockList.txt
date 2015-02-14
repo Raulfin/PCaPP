@@ -53,3 +53,4 @@ SplashofRain.esp
 ShootingStars.esp
 VioLens.esp
 Chesko_WearableLantern.esp
+Guard Dialogue Overhaul.esp
