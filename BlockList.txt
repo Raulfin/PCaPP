@@ -49,3 +49,5 @@ Rainbows.esp
 Invisibility Eyes Fix.esp
 Headtracking.esp
 Footprints.esp
+SplashofRain.esp
+ShootingStars.esp
