@@ -47,3 +47,4 @@ dD - Enhanced Blood Main.esp
 ADS.esp
 Rainbows.esp
 Invisibility Eyes Fix.esp
+Headtracking.esp
