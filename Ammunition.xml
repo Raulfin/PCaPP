@@ -5,7 +5,7 @@
 		<ammunition_type>
 			<identifier>Standard Arrow</identifier>
 			<type>ARROW</type>
-			<damageBase>10</damageBase>
+			<damageBase>13</damageBase>
 			<rangeBase>60000</rangeBase>
 			<speedBase>4900</speedBase>
 			<gravityBase>0.1</gravityBase>
@@ -13,7 +13,7 @@
 		<ammunition_type>
 			<identifier>Standard Bolt</identifier>
 			<type>BOLT</type>
-			<damageBase>15</damageBase>
+			<damageBase>17</damageBase>
 			<rangeBase>80000</rangeBase>
 			<speedBase>5500</speedBase>
 			<gravityBase>0.05</gravityBase>

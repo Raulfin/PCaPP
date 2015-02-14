@@ -3,7 +3,7 @@
 
 	<weapon_settings>
 		<appendTypeToName>true</appendTypeToName>
-		<baseDamageLightWeaponry>1.0</baseDamageLightWeaponry>
+		<baseDamageLightWeaponry>2.0</baseDamageLightWeaponry>
 		<baseDamageRangedWeaponry>0.0</baseDamageRangedWeaponry>
 		<baseDamageHeavyWeaponry>0.0</baseDamageHeavyWeaponry>
 		<damageFactorLightWeaponry>1.0</damageFactorLightWeaponry><!-- No longer used -->
