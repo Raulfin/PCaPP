@@ -5796,6 +5796,18 @@
 			<identifier>Steel</identifier>
 			<substring>Witchblade's Aegis</substring><!-- Falmer -->
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Steel Snow</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Steel Ornate</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Steel Fancy</substring><!-- winter is coming -->
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
@@ -6186,7 +6198,7 @@
 	<!-- Advanced Material Listings start -->
 	<!-- Bindings allowed: AdvancedLight, Advanced  -->
 		<armor_material>
-			<armorBase>24</armorBase>
+			<armorBase>16</armorBase>
 			<identifier>AdvancedLight</identifier>
 			<type>LIGHT</type>
 			<materialMeltdown>ADVANCED</materialMeltdown><!-- Corundum -->
@@ -6778,20 +6790,6 @@
 	<!-- Horker Material Listings start -->
 	<!-- Bindings allowed: HorkerH, HorkerHH, HorkerL, HorkerLH -->
 		<armor_material>
-			<armorBase>24</armorBase>
-			<identifier>HorkerH</identifier>
-			<type>HEAVY</type>
-			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
-			<materialTemper>BONEMOLD_HEAVY</materialTemper>
-		</armor_material>
-		<armor_material>
-			<armorBase>30</armorBase>
-			<identifier>HorkerHH</identifier>
-			<type>HEAVY</type>
-			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
-			<materialTemper>BONEMOLD_HEAVY</materialTemper>
-		</armor_material>
-		<armor_material>
 			<armorBase>15</armorBase>
 			<identifier>HorkerL</identifier>
 			<type>LIGHT</type>
@@ -6802,6 +6800,20 @@
 			<armorBase>20</armorBase>
 			<identifier>HorkerLH</identifier>
 			<type>LIGHT</type>
+			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
+			<materialTemper>BONEMOLD_HEAVY</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>24</armorBase>
+			<identifier>HorkerH</identifier>
+			<type>HEAVY</type>
+			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
+			<materialTemper>BONEMOLD_HEAVY</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>32</armorBase>
+			<identifier>HorkerHH</identifier>
+			<type>HEAVY</type>
 			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
 			<materialTemper>BONEMOLD_HEAVY</materialTemper>
 		</armor_material>
