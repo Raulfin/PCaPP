@@ -23,6 +23,7 @@ Fixes:
 	Auriel's Shield, Shellbug Helmet, Falmer Circlet, Zahkriisos, Vokun and Rahgot are now Heavy
 	Falskaar Reinforced, Tsun's boots, Ebony Light Mail, Dawnguard Rune Shield, Dukaan, Cultist Mask, Miraak (Light) and Otar Circlet are now Light
 	Falmer armor will now properly be tagged Light armor.
+	Winter is coming armor (Steel Snow Bear Claw, Steel Ornate and Steel Fancy Snow Bear Claw Hoods)  will now properly be tagged Heavy armor.
 	Corrected EbonyLow, DwarvenLow, DwarvenHigh, HorkerHH, AdvancedLight armor values
 	Corrected several weapon type bindings from 'Bastardsword' to 'Bastard Sword'. 'Basic Greatsword', 'Narsil - 2H', 'Anduril - 2H', and 'Claidhem' were affected.
 
