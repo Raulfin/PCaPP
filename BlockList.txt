@@ -40,3 +40,4 @@ Post PatchusMaximus Perma Mods and Tweaks.esp
 LongerDurationsandAnnoyanceFixes - Perma Patch.esp
 zzEstrus.esp
 LootandDegradation.esp
+iNeed.esp
