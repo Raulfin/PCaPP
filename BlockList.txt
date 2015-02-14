@@ -42,3 +42,4 @@ zzEstrus.esp
 LootandDegradation.esp
 iNeed.esp
 WetandCold - Ashes.esp
+SoS - Civilization.esp
