@@ -7318,7 +7318,7 @@
 			<damageBase>18.0</damageBase>
 			<reachBase>1.0</reachBase>
 			<speedBase>0.6</speedBase>
-			<critDamageFactor>1.5</critDamageFactor>
+			<critDamageFactor>1.7</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
