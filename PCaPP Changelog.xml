@@ -42,6 +42,7 @@ Fixes:
 Changes:
 	Mace of Molag Bal changed to use Spiked Mace weapon type.
 	Updated enchantment description on several armors (expects Mage module to be used), added CCF keywords to Wintermyst armors. (Clothing and Clutter Fixes)
+	Some items adjusted to match new WAFR v5.1 stats.
 
 Additions:
 	Updated for More Interesting Loot v5.2
@@ -63,6 +64,7 @@ Balancing:
 Renamed:
 	Ebony Mail -> Ebony Light Mail (CCOR)
 	Miraak -> Miraak Light (WAFR)
+	Several enchanted Imperial Bracers of XX -> Imperial Light Bracers of XX (WAFR)
 
 Updated Patches:
 	WAFR, CCOR, CCF Patches (CCF patch now requires "Dawnguard.esm" and "PerMa Expansion 1 - Wintermyst.esp").
