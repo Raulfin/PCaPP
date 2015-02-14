@@ -5796,6 +5796,18 @@
 			<identifier>Steel</identifier>
 			<substring>Witchblade's Aegis</substring><!-- Falmer -->
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Steel Snow</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Steel Ornate</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Steel Fancy</substring><!-- winter is coming -->
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
