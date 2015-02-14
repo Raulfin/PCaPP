@@ -40,3 +40,14 @@ Post PatchusMaximus Perma Mods and Tweaks.esp
 LongerDurationsandAnnoyanceFixes - Perma Patch.esp
 zzEstrus.esp
 LootandDegradation.esp
+iNeed.esp
+WetandCold - Ashes.esp
+SoS - Civilization.esp
+dD - Enhanced Blood Main.esp
+Rainbows.esp
+Headtracking.esp
+Footprints.esp
+SplashofRain.esp
+ShootingStars.esp
+VioLens.esp
+Chesko_WearableLantern.esp

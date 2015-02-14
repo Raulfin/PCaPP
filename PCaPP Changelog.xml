@@ -11,6 +11,17 @@ Now covers:
 Blocklist:
 	zzEstrus.esp
 	LootandDegradation.esp
+	iNeed.esp
+	WetandCold - Ashes.esp
+	SoS - Civilization.esp
+	dD - Enhanced Blood Main.esp
+	Rainbows.esp
+	Headtracking.esp
+	Footprints.esp
+	SplashofRain.esp
+	ShootingStars.esp
+	VioLens.esp
+	Chesko_WearableLantern.esp
 
 Exclusions:
 
@@ -26,6 +37,7 @@ Fixes:
 	Winter is coming armor (Steel Snow Bear Claw, Steel Ornate and Steel Fancy Snow Bear Claw Hoods)  will now properly be tagged Heavy armor.
 	Corrected EbonyLow, DwarvenLow, DwarvenHigh, HorkerHH, AdvancedLight armor values
 	Corrected several weapon type bindings from 'Bastardsword' to 'Bastard Sword'. 'Basic Greatsword', 'Narsil - 2H', 'Anduril - 2H', and 'Claidhem' were affected.
+	Patched Enhanced Blood Main don't revert Dragonborn, Dawnguard or etc. patches (added to blocklist)
 
 Changes:
 	Mace of Molag Bal changed to use Spiked Mace weapon type.
