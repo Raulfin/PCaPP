@@ -218,8 +218,8 @@
 		<armor_modifier>
 			<identifier>ragged</identifier>
 			<factorArmor>0.6</factorArmor>
-			<factorValue>0.5</factorValue>
-			<factorWeight>1.2</factorWeight>
+			<factorValue>0.1</factorValue>
+			<factorWeight>0.4</factorWeight>
 		</armor_modifier>
 		<armor_modifier>
 			<identifier>broken</identifier>
