@@ -48,3 +48,4 @@ ADS.esp
 Rainbows.esp
 Invisibility Eyes Fix.esp
 Headtracking.esp
+Footprints.esp
