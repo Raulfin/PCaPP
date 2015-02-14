@@ -52,3 +52,4 @@ Footprints.esp
 SplashofRain.esp
 ShootingStars.esp
 VioLens.esp
+Chesko_WearableLantern.esp
