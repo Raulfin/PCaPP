@@ -23,6 +23,7 @@ Fixes:
 	Falskaar Reinforced, Tsun's boots, Ebony Light Mail, Dawnguard Rune Shield, Dukaan, Cultist Mask, Miraak (Light) and Otar Circlet are now Light
 	Falmer armor will now properly be tagged Light armor.
 	Corrected EbonyLow, DwarvenLow, DwarvenHigh armor values
+	Corrected several weapon type bindings from 'Bastardsword' to 'Bastard Sword'. 'Basic Greatsword', 'Narsil - 2H', 'Anduril - 2H', and 'Claidhem' were affected.
 
 Changes:
 	Mace of Molag Bal changed to use Spiked Mace weapon type.

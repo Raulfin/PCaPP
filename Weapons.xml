@@ -5794,22 +5794,22 @@
 	<!-- =====================================================Light Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Heavy Weapon bindings start ================================================= -->
-	<!-- Bastardsword bindings start -->
+	<!-- Bastard Sword bindings start -->
 		<binding>
 			<substring>Basic Greatsword</substring>
-			<identifier>Bastardsword</identifier>
+			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
 			<substring>Narsil - 2H</substring>
-			<identifier>Bastardsword</identifier>
+			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
 			<substring>Anduril - 2H</substring>
-			<identifier>Bastardsword</identifier>
+			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
 			<substring>Claidhem</substring>
-			<identifier>Bastardsword</identifier>
+			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
 			<substring>Argonian Battleblade</substring>
