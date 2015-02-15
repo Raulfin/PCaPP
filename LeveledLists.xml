@@ -2886,7 +2886,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- OBIS Loot -->
-
+		<!-- Genesis Rhapsodos Rapier -->
+			<exclusion>
+				<text>Genesis' Rapier</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Genesis Rhapsodos Rapier -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>

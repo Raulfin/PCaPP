@@ -3399,6 +3399,10 @@
 			<identifier>Steel</identifier>
 			<substring>Vilja's Bow</substring>
 		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Genesis' Rapier</substring>
+		</binding>
 	<!-- Steel bindings end -->
 
 	<!-- Skyforge bindings start -->
@@ -5494,6 +5498,10 @@
 	<!-- Saber bindings start -->
 		<binding>
 			<substring>Hadhafang</substring>
+			<identifier>Sabre</identifier>
+		</binding>
+		<binding>
+			<substring>Genesis' Rapier</substring>
 			<identifier>Sabre</identifier>
 		</binding>
 	<!-- Saber bindings end -->
