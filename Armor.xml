@@ -4684,6 +4684,10 @@
 			<identifier>Leather</identifier>
 			<substring>Demon Hunter</substring>
 		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Bard</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->

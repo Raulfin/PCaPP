@@ -5310,6 +5310,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Skaal Heavy Armor -->
+		<!-- Luddemanns Armory -->
+			<exclusion>
+				<text>ludBard</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Luddemanns Armory -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
