@@ -11,6 +11,7 @@ Exclusions:
 Fixes:
 	"Morgul blade", "Glamdring" and "Elven short blade" bindings (LOTR Weapons)
 	Winter is coming armor (Leather Snow Bear Claw, Leather Ornate and Leather Fancy Snow Bear Claw Hoods) will now have right armor rating.
+	Miraak, Otar and Dukaan mask's will now have right armor rating.
 	
 Changes:
 	"Spear" no longer binds to Partisan
@@ -22,6 +23,9 @@ Additions:
 Balancing:
 
 Renamed:
+	Imperial Bracers of Minor Constitution -> Imperial Light Bracers of Minor Constitution (WAFR)
+	Imperial Bracers of Constitution -> Imperial Light Bracers of Constitution (WAFR)
+	Imperial Bracers of Major Constitution -> Imperial Light Bracers of Major Constitution (WAFR)
 
 Updated Patches:
 
