@@ -3156,6 +3156,18 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- EggOver -->
+		<!-- Spears By Soolie -->
+			<exclusion>
+				<text>LItemSpearOr</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>LItemJavelin</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Spears By Soolie -->
 		</distribution_exclusions_list_regular>
 
 		<distribution_exclusions_weapon_enchanted>
