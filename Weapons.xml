@@ -5149,6 +5149,14 @@
 			<substring>Nibenay kama</substring>
 			<identifier>Dagger</identifier>
 		</binding>
+		<binding>
+			<substring>Morgul blade</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Elven short blade</substring>
+			<identifier>Dagger</identifier>
+		</binding>
 	<!-- Dagger bindings end -->
 
 	<!-- Hatchet bindings start -->
@@ -5390,6 +5398,10 @@
 		</binding>
 		<binding>
 			<substring>Ravenbrand Sword</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Glamdring</substring>
 			<identifier>Longsword</identifier>
 		</binding>
 	<!-- Longsword bindings end -->
@@ -6623,10 +6635,6 @@
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
-			<substring>Zephyr</substring>
-			<identifier>Longbow</identifier>
-		</binding>
-		<binding>
 			<substring>Vindskjær</substring>
 			<identifier>Longbow</identifier>
 		</binding>
@@ -6641,6 +6649,10 @@
 	<!-- Longbow bindings end -->
 	
 	<!-- Shortbow bindings start -->
+		<binding>
+			<substring>Zephyr</substring>
+			<identifier>Shortbow</identifier>
+		</binding>
 		<binding>
 			<substring>Svartbough</substring>
 			<identifier>Shortbow</identifier>
