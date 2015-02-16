@@ -7,6 +7,7 @@ Now covers:
 Blocklist:
 
 Exclusions:
+	Block all EBT patches
 
 Fixes:
 	"Morgul blade", "Glamdring" and "Elven short blade" bindings (LOTR Weapons)
