@@ -44,6 +44,17 @@ iNeed.esp
 WetandCold - Ashes.esp
 SoS - Civilization.esp
 dD - Enhanced Blood Main.esp
+dD-Dragonborn-EBT Patch.esp
+dD-Dawnguard-EBT Patch.esp
+dD-Dragonborn-Dawnguard-EBT Patch.esp
+dD-Dawnguard-Immersive Creatures EBT Patch.esp
+dD-DG-DB-Immersive Creatures EBT Patch.esp
+dD-DG-DB-MM-SiC EBT Patch.esp
+dD-DG-MM-SiC EBT Patch.esp
+dD-SkyrimMonsterMod EBT Patch.esp
+dD-Dragonborn-MonsterMod EBT Patch.esp
+dD-Dawnguard-MonsterMod EBT Patch.esp
+dD-DG-DB-MonsterMod EBT Patch.esp
 Rainbows.esp
 Headtracking.esp
 Footprints.esp
