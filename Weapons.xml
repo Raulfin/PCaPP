@@ -2416,6 +2416,10 @@
 			<identifier>Glass</identifier>
 			<substring>Dagger of Symmachus</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Electrum Elven</substring>
+		</binding>
 	<!-- Glass bindings end -->
 	
 	<!-- Gold bindings start -->

@@ -3092,6 +3092,10 @@
 			<identifier>ElvenHigh</identifier>
 			<substring>Silverlight</substring>
 		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Electrum Elven</substring>
+		</binding>
 	<!-- Elven Material Bindings end -->
 	
 	<!-- Falmer Material Bindings start -->
@@ -4832,6 +4836,14 @@
 	
 	<!-- Orcish Material Bindings start -->
 	<!-- Bindings allowed: OrcishLight, OrcishLow, Orcish, OrcishHigh -->
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Orcish Light</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Light Orcish</substring>
+		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Orichalcum</substring>
