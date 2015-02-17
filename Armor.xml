@@ -4692,6 +4692,18 @@
 			<identifier>Leather</identifier>
 			<substring>Bard</substring>
 		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Leather Snow</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Leather Ornate</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Leather Fancy</substring><!-- winter is coming -->
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
