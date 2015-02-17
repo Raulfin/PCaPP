@@ -1304,6 +1304,10 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
+			<substring>Wolf Daito</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
 			<substring>Riders Blade</substring> 
 		</binding>
 		<binding>

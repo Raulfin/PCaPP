@@ -9,14 +9,15 @@ Blocklist:
 Exclusions:
 
 Fixes:
-	"Morgul blade", "Glamdring" and "Elven short blade" bindings (LOTR Weapons)
 
 Changes:
 	"Spear" no longer binds to Partisan
 	Zephyr is now a Shortbow
 
 Additions:
-	New weapon_type Spear; longer reach than Shortspear, higher damage, slower
+	New weapon_type Spear; longer reach than Shortspear, higher damage, slower.
+	"Morgul blade", "Glamdring" and "Elven short blade" bindings (LOTR Weapons)
+	Wolf Daito binding (IW)
 
 Balancing:
 
