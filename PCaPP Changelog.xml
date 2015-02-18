@@ -4,11 +4,8 @@
 Now covers:
 	Spears By Soolie (62609)
 
-Blocklist:
-
-Exclusions:
-
 Fixes:
+	Winter is coming Leather hooded helms will now properly be tagged Light Armor.
 
 Changes:
 	"Spear" no longer binds to Partisan
@@ -20,13 +17,8 @@ Additions:
 	"Morgul blade", "Glamdring" and "Elven short blade" bindings (LOTR Weapons)
 	Wolf Daito binding (IW)
 
-Balancing:
-
-Renamed:
-
-Updated Patches:
-
-New Patches:
+Notes on Spears By Soolie:
+	The Spear Patcher seems to be improperly marking a few random Spiked Clubs, Spiked Maces and Halberds as Spears, these need to be fixed by hand before running PaMa or you can end up with a ton of messed up weapons in your save. Run the Spear Patcher before PaMa, make sure to open the Spear Patch in TES5Edit and remove all weapon entries that are Spiked Club, Spiked Mace or Halberd before running PaMa. Due to the way Spears currently handles Spear distribution some Spears may not be as plentiful as intended. I've already contacted Soolie about these issues and plan to work with him/her to try to get it all worked out. The fixes I made for Spears my cause some conflicts with anything named Spear or Javelin that is not set up in a manor conducive to the Spears mods, if you find any please let me know so I can try to get them fixed.
 </2.3.1>
 
 </Current>
