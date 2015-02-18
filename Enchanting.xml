@@ -7482,6 +7482,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Genesis Rhapsodos Rapier -->
+	<!-- Spears By Soolie -->
+		<exclusion>
+			<text>Throw Javelins</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Spears By Soolie -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>

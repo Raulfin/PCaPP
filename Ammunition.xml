@@ -18,6 +18,14 @@
 			<speedBase>5500</speedBase>
 			<gravityBase>0.05</gravityBase>
 		</ammunition_type>
+		<ammunition_type>
+			<identifier>Standard Javelin</identifier>
+			<type>ARROW</type>
+			<damageBase>20</damageBase>
+			<rangeBase>20000</rangeBase>
+			<speedBase>2400</speedBase>
+			<gravityBase>1.0</gravityBase>
+		</ammunition_type>
 	</ammunition_types>
 
 	<ammunition_type_bindings>
@@ -28,6 +36,10 @@
 		<binding>
 			<identifier>Standard Bolt</identifier>
 			<substring>Bolt</substring>
+		</binding>
+		<binding>
+			<identifier>Standard Javelin</identifier>
+			<substring>Javelin</substring>
 		</binding>
 	</ammunition_type_bindings>
 

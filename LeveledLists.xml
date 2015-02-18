@@ -2893,6 +2893,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Genesis Rhapsodos Rapier -->
+		<!-- Spears By Soolie -->
+			<exclusion>
+				<text>Throw Javelins</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Spears By Soolie -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -3990,7 +3997,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- OBIS Loot -->
-
+		<!-- Spears By Soolie -->
+			<exclusion>
+				<text>Throw Javelins</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Spears By Soolie -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>

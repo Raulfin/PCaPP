@@ -15,7 +15,8 @@ Changes:
 	Zephyr is now a Shortbow
 
 Additions:
-	New weapon_type Spear; longer reach than Shortspear, higher damage, slower.
+	New weapon_type "Spear"; longer reach than Shortspear, higher damage, slower.
+	New Ammo_type "Javelin"; Higer damage than Bolts, but heavier, slower and more affected by gravity.
 	"Morgul blade", "Glamdring" and "Elven short blade" bindings (LOTR Weapons)
 	Wolf Daito binding (IW)
 

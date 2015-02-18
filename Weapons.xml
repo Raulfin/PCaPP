@@ -2676,6 +2676,10 @@
 			<identifier>None</identifier>
 			<substring>NO TEXT</substring>
 		</binding>
+		<binding>
+			<identifier>None</identifier>
+			<substring>Throw Javelins</substring>
+		</binding>
 	<!-- None bindings end -->
 	
 	<!-- Nord bindings start -->
@@ -6701,6 +6705,10 @@
 			<substring>Bow of The DarkOne</substring>
 			<identifier>Shortbow</identifier>
 		</binding>
+		<binding>
+			<substring>Throw Javelins</substring>
+			<identifier>Javelin</identifier>
+		</binding>
 	<!-- Shortbow bindings end -->
 	
 	<!-- Gun bindings start -->
@@ -7383,7 +7391,7 @@
 			<weaponClass>PIERCING</weaponClass>
 		</weapon_type>
 		<weapon_type>
-			<identifier>Crosbow</identifier>
+			<identifier>Crosbow</identifier> <!-- Rifle weapons -->
 			<baseWeaponType>CROSSBOW</baseWeaponType>
 			<damageBase>20.0</damageBase>
 			<reachBase>1.0</reachBase>
@@ -7393,6 +7401,20 @@
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>THREE</bleedTier>
 			<debuffTier>THREE</debuffTier>
+			<staggerTier>ONE</staggerTier>
+			<weaponClass>PIERCING</weaponClass>
+		</weapon_type>
+		<weapon_type>
+			<identifier>Javelin</identifier> <!-- Spears By Soolie -->
+			<baseWeaponType>SHORTBOW</baseWeaponType>
+			<damageBase>10.0</damageBase>
+			<reachBase>1.0</reachBase>
+			<speedBase>1.0</speedBase>
+			<critDamageFactor>1.0</critDamageFactor>
+			<meltdownOutput>1</meltdownOutput>
+			<meltdownInput>1</meltdownInput>
+			<bleedTier>TWO</bleedTier>
+			<debuffTier>ONE</debuffTier>
 			<staggerTier>ONE</staggerTier>
 			<weaponClass>PIERCING</weaponClass>
 		</weapon_type>
