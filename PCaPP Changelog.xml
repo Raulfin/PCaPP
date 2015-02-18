@@ -9,6 +9,7 @@ Blocklist:
 Exclusions:
 
 Fixes:
+	Winter is coming armor (Leather Snow Bear Claw, Leather Ornate and Leather Fancy Snow Bear Claw Hoods) will now have right armor rating.
 
 Changes:
 	"Spear" no longer binds to Partisan
@@ -22,6 +23,7 @@ Additions:
 Balancing:
 
 Renamed:
+	Several missed enchanted Imperial Bracers of XX -> Imperial Light Bracers of XX (WAFR)
 
 Updated Patches:
 
