@@ -6532,6 +6532,11 @@
 	<enchantment_weapon_exclusions>
 	<!-- Quest Items start -->
 		<exclusion>
+			<text>Gharol's Iron Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Alessandra's Dagger</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>

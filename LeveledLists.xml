@@ -1782,6 +1782,11 @@
 		<!-- Civil War Exclusions end -->
 		<!-- Quest Items start -->
 			<exclusion>
+				<text>Gharol's Iron Sword</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Nettlebane</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>

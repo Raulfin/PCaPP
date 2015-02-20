@@ -7464,6 +7464,11 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Gharol's Iron Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>FFRiften16HarraldSword</text> <!-- Steel sword used for Quest:Bring It! -->
 			<target>EDID</target>
 			<type>EQUALS</type>
