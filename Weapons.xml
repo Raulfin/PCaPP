@@ -5412,6 +5412,10 @@
 			<substring>Glamdring</substring>
 			<identifier>Longsword</identifier>
 		</binding>
+		<binding>
+			<substring>The Azincourt (1H)</substring>
+			<identifier>Longsword</identifier>
+		</binding>
 	<!-- Longsword bindings end -->
 
 	<!-- Mace bindings start -->
