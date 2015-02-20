@@ -5158,11 +5158,11 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
-			<substring>Morgul blade</substring>
+			<substring>Morgul Blade</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
-			<substring>Elven short blade</substring>
+			<substring>Elven Short Blade</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 	<!-- Dagger bindings end -->
