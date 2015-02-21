@@ -6945,7 +6945,7 @@
 	<!-- Bindings allowed: Ancient Nord, LNordicLow, LNordic, LNordicHigh, HNordicLow, HNordic, HNordicHigh -->
 		<armor_material>
 			<armorBase>15</armorBase> <!-- Equal to Iron -->
-			<identifier>Ancient NordL</identifier> <!-- Heavy Armor/Steel perk/Skyforge -->
+			<identifier>Ancient NordL</identifier> <!-- Light Armor/Steel perk/Skyforge -->
 			<type>LIGHT</type>
 			<materialMeltdown>IRON</materialMeltdown>
 			<materialTemper>IRON</materialTemper>
