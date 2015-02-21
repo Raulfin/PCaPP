@@ -749,6 +749,10 @@
 			<identifier>HeavyFaction</identifier>
 			<substring>Aela's Shield</substring>
 		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Imperial Tattered</substring>
+		</binding>
 	<!-- Faction material_Bindings end -->
 	
 	<!-- Civil War material_Bindings Start -->
@@ -4765,6 +4769,14 @@
 			<substring>Ancient Nord</substring>
 		</binding>
 		<binding>
+			<identifier>Ancient NordL</identifier>
+			<substring>Ancient Nord Light</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient NordL</identifier>
+			<substring>Light Ancient Nord</substring>
+		</binding>
+		<binding>
 			<identifier>LNordicLow</identifier>
 			<substring>Nord Mail</substring>
 		</binding>
@@ -6931,6 +6943,13 @@
 
 	<!-- Nordic Material Listings start -->
 	<!-- Bindings allowed: Ancient Nord, LNordicLow, LNordic, LNordicHigh, HNordicLow, HNordic, HNordicHigh -->
+		<armor_material>
+			<armorBase>15</armorBase> <!-- Equal to Iron -->
+			<identifier>Ancient NordL</identifier> <!-- Heavy Armor/Steel perk/Skyforge -->
+			<type>LIGHT</type>
+			<materialMeltdown>IRON</materialMeltdown>
+			<materialTemper>IRON</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>23</armorBase> <!-- Equal to Iron -->
 			<identifier>Ancient Nord</identifier> <!-- Heavy Armor/Steel perk/Skyforge -->
