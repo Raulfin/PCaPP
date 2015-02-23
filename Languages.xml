@@ -149,6 +149,10 @@
 			<outputString>Waraxe</outputString>
 		</stringBinding>
 		<stringBinding>
+			<identifier>War Axe</identifier>
+			<outputString>War Axe</outputString>
+		</stringBinding>
+		<stringBinding>
 			<identifier>Greatsword</identifier>
 			<outputString>Greatsword</outputString>
 		</stringBinding>
