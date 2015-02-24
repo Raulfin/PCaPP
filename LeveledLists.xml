@@ -1091,6 +1091,11 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Elder Scroll</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>DLC1</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
