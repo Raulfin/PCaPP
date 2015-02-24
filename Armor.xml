@@ -1472,6 +1472,26 @@
 			<identifier>Clothing</identifier>
 			<substring>PotW Wig</substring>
 		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Neophyte</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Cerulean Alchemist</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Solace</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ebon Shroud</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Eternal Magus</substring>
+		</binding>
 	<!-- Clothing Material Bindings end -->
 	
 	<!-- Daedric Material Bindings start -->
@@ -1863,6 +1883,10 @@
 		<binding>
 			<identifier>Dragonplate</identifier>
 			<substring>Eternal centurion</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Eternal Centurion</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -3006,6 +3030,10 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Moonbuckled</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Gildhorn</substring>
 		</binding>
 		<binding>
@@ -3017,7 +3045,7 @@
 			<substring>Moon Buckled</substring>
 		</binding>
 		<binding>
-			<identifier>Elven</identifier>
+			<identifier>ElvenHigh</identifier>
 			<substring>Rysio</substring>
 		</binding>
 		<binding>
@@ -3390,6 +3418,10 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Cyasmic</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Deathskin</substring>
 		</binding>
 		<binding>
@@ -3407,6 +3439,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Shadow fang</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Shadow Fang</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -5989,11 +6025,11 @@
 			<substring>Light Jorrvaskr Shield</substring>
 		</binding>
 		<binding>
-			<identifier>Steel PlateLight</identifier>
+			<identifier>Steel Plate</identifier>
 			<substring>Palrada Plate</substring>
 		</binding>
 		<binding>
-			<identifier>Steel PlateLight</identifier>
+			<identifier>Steel Plate</identifier>
 			<substring>Scion Plate</substring>
 		</binding>
 		<binding>
