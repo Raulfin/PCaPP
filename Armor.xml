@@ -547,6 +547,10 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Moonstone</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Thalmor Armor with Pauldrons</substring>
 		</binding>
 		<binding>
@@ -1165,6 +1169,10 @@
 			<substring>Miraak Light</substring>
 		</binding>
 		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Miraak's Light</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Zahkriisos</substring>
 		</binding>
@@ -1175,6 +1183,10 @@
 		<binding>
 			<identifier>ScaledHeavy</identifier> <!-- Draugr -->
 			<substring>Ahzidal</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier> <!-- Konahriks Accoutrements -->
+			<substring>Vahlok</substring>
 		</binding>
 	<!-- Dragon Priest Masks end -->
 	<!-- Artifacts -->
@@ -1739,6 +1751,10 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Adamantium Helm of Tohan</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Heart Stone</substring>
 		</binding>
 	<!-- Daedric Material Bindings end -->
 	
@@ -3484,6 +3500,18 @@
 			<identifier>Glass</identifier>
 			<substring>Evil MasterMind</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Morokei's Armored Robes</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Morokei's Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Morokei's Greaves</substring>
+		</binding>
 	<!-- Glass Material Bindings end -->
 	
 	<!-- Gold Material Bindings start -->
@@ -3991,6 +4019,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Skaal Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Fodiiz's Armored Robes</substring>
 		</binding>
 	<!-- Iron Material Bindings end -->
 	
@@ -5452,6 +5484,38 @@
 			<identifier>Scaled</identifier>
 			<substring>Ursine</substring>
 		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Bronze Mask</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Bronze Plate Robes</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Bronze Scale Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Bronze Scale Greaves</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Copper Mask</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Copper Plate Robes</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Copper Scale Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Copper Scale Greaves</substring>
+		</binding>
 	<!-- Scaled Material Bindings end -->
 	
 	<!-- Silver Material Bindings start -->
@@ -5463,6 +5527,22 @@
 		<binding>
 			<identifier>SilverHeavy</identifier>
 			<substring>Silver Knight</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
+			<substring>Silver Mask</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
+			<substring>Silver Plate Robes</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
+			<substring>Silver Scale Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
+			<substring>Silver Scale Greaves</substring>
 		</binding>
 	<!-- Silver Material Bindings end -->
 	

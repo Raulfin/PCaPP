@@ -1390,6 +1390,10 @@
 			<identifier>Draugr Honed</identifier>
 			<substring>Embercoil Sword</substring>
 		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Merethic</substring>
+		</binding>
 	<!-- Drauger bindings end -->
 	
 	<!-- Dwarven bindings start -->
@@ -2597,6 +2601,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Heavy spiked mace</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Dragon Priest Dagger</substring>
 		</binding>
 	<!-- Iron bindings end -->
 	

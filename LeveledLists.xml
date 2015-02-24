@@ -5359,6 +5359,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Evil Mastermind Armor -->
+		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+			<exclusion>
+				<text>KA_Armor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -6710,6 +6717,14 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Skaal Heavy Armor -->
+		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+			<exclusion>
+				<text>KA_Armor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

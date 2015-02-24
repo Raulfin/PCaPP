@@ -8396,6 +8396,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Evil Mastermind Armor -->
+	<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+		<exclusion>
+			<text>KA_Armor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Konahriks Accoutrements - Dragon Priest Armory -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
