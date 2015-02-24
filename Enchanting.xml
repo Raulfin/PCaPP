@@ -7494,6 +7494,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Spears By Soolie -->
+	<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+		<exclusion>
+			<text>KA_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Konahriks Accoutrements - Dragon Priest Armory -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>

@@ -1181,7 +1181,7 @@
 			<substring>Dukaan</substring>
 		</binding>
 		<binding>
-			<identifier>ScaledHeavy</identifier> <!-- Draugr -->
+			<identifier>Ebony</identifier> <!-- Draugr -->
 			<substring>Ahzidal</substring>
 		</binding>
 		<binding>
@@ -7664,6 +7664,11 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Dragon Priest Masks start -->
+		<exclusion>
+			<text>Vahlok</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
 		<exclusion>
 			<text>Ahzidal</text>
 			<target>NAME</target>

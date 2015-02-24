@@ -2910,6 +2910,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Spears By Soolie -->
+		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+			<exclusion>
+				<text>KA_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4014,6 +4021,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Spears By Soolie -->
+		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+			<exclusion>
+				<text>KA_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -5361,7 +5375,7 @@
 		<!-- Evil Mastermind Armor -->
 		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
 			<exclusion>
-				<text>KA_Armor</text>
+				<text>KA_</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
@@ -6719,7 +6733,7 @@
 		<!-- Skaal Heavy Armor -->
 		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
 			<exclusion>
-				<text>KA_Armor</text>
+				<text>KA_</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
