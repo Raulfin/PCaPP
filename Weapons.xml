@@ -5531,7 +5531,7 @@
 		</binding>
 	<!-- Morning Star -->
 
-	<!-- Saber bindings start -->
+	<!-- Sabre bindings start -->
 		<binding>
 			<substring>Hadhafang</substring>
 			<identifier>Sabre</identifier>
@@ -5540,15 +5540,15 @@
 			<substring>Genesis' Rapier</substring>
 			<identifier>Sabre</identifier>
 		</binding>
-	<!-- Saber bindings end -->
+		<binding>
+			<substring>Cutlass</substring>
+			<identifier>Sabre</identifier>
+		</binding>
+	<!-- Sabre bindings end -->
 
 	<!-- Scimitar bindings start -->
 		<binding>
 			<substring>Baskethilt</substring>
-			<identifier>Scimitar</identifier>
-		</binding>
-		<binding>
-			<substring>Cutlass</substring>
 			<identifier>Scimitar</identifier>
 		</binding>
 		<binding>
