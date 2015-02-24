@@ -7525,9 +7525,24 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Nightingale</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
+			<text>ArmorNightingaleCuirassPlayer</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ArmorNightingaleBootsPlayer</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ArmorNightingaleGauntletsPlayer</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ArmorNightingaleHelmetPlayer</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
 			<text>Skin</text>
