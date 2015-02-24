@@ -7067,7 +7067,7 @@
 		<weapon_type>
 			<identifier>Sabre</identifier>
 			<baseWeaponType>SABRE</baseWeaponType>
-			<damageBase>12.0</damageBase>
+			<damageBase>11.0</damageBase>
 			<reachBase>0.85</reachBase>
 			<speedBase>0.85</speedBase>
 			<critDamageFactor>1.0</critDamageFactor>
@@ -7081,7 +7081,7 @@
 		<weapon_type>
 			<identifier>Scimitar</identifier>
 			<baseWeaponType>SCIMITAR</baseWeaponType>
-			<damageBase>11.0</damageBase>
+			<damageBase>12.0</damageBase>
 			<reachBase>0.95</reachBase>
 			<speedBase>0.95</speedBase>
 			<critDamageFactor>1.0</critDamageFactor>
