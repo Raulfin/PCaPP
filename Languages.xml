@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <ns2:languages xmlns:ns2="PatchusMaximus.languageXML">
 	<default_language>ENGLISH</default_language> <!-- Do not use this to change your language, only change it in GeneralSettings.xml -->
 
