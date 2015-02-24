@@ -7435,6 +7435,11 @@
 	<reforge_exclusions>
 	<!-- Prevents PaMa from making Reforged versions of items. Primarily intended for Quest items -->
 		<exclusion>
+			<text>Spellbreaker</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Bound</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
@@ -7574,7 +7579,7 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
-	<!-- Dragon Priest Masks end -->
+	<!-- Dragon Priest Masks start -->
 		<exclusion>
 			<text>Ahzidal</text>
 			<target>NAME</target>
