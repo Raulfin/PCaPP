@@ -8389,6 +8389,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Luddemanns Armory -->
+	<!-- Evil Mastermind Armor -->
+		<exclusion>
+			<text>EvilMasterArmor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Evil Mastermind Armor -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

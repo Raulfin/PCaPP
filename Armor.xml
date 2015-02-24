@@ -3480,6 +3480,10 @@
 			<identifier>Glass</identifier>
 			<substring>Celestial Aegis</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Evil MasterMind</substring>
+		</binding>
 	<!-- Glass Material Bindings end -->
 	
 	<!-- Gold Material Bindings start -->
