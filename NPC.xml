@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <ns2:npc xmlns:ns2="PatchusMaximus.npcXML">
 <!-- Exclusion target = NAME, EDID, FORMID -->
 <!-- Exclusion type = EQUALS, EQUALS_IGNORECASE, CONTAINS -->
