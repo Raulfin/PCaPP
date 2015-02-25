@@ -7527,6 +7527,10 @@
 			<substringArmor>Ulfric</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Gloves of the Pugilist</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
 	<!-- Stormcloak end -->
 	
 	<!-- Thalmor start -->
