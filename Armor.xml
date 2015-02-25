@@ -7496,6 +7496,10 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Fur Guard's</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Ulfric</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
