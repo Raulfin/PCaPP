@@ -783,7 +783,7 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
-			<substring>Stormcloak Raoningar</substring>
+			<substring>Stormcloak Ráoningar</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -1212,7 +1212,7 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
-			<substring>?sir</substring>
+			<substring>Æsir</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -4078,7 +4078,7 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
-			<substring>de la sorciere sauvage</substring>
+			<substring>de la sorcière sauvage</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
