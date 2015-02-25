@@ -7823,12 +7823,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
-			<text>Zth_</text> 
+			<text>Zth_</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
-			<text>ZW_</text> 
+			<text>ZW_</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
