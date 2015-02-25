@@ -7432,6 +7432,10 @@
 			<substringArmor>Fur Shoes</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Fur Pant</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
 	<!-- Bandit end -->
 	
 	<!-- Cultist start -->
