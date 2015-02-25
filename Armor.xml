@@ -5730,7 +5730,7 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
-			<substring>Cultist Mask</substring>
+			<substring>Cultist</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
