@@ -25,7 +25,9 @@ Fixes:
 	Reinforced, Fitted gauntlets and boots now have missing masquerade stormcloak keyword (FALSKAAR)
 	Fur Guard's gauntlets and boots, Eastmarch Guard's Helmet now have missing masquerade stormcloak keyword
 	Shellbug Helmet now have missing falmer masquerade keyword
-	Carius armor now have missing imperial masquerade keyword.
+	Carius armor now have missing imperial masquerade keyword
+	Fur Kilt now have missing bandit masquerade keyword
+	Fur Gauntlets and Boots now have only stormcloak masquerade keyword. (bandit keyword removed)
 
 Changes:
 	Unenchanted, playable, Nightingale armor sets can now be Reforged and Warforged. Enchanted, non-playable, versions cannot.
