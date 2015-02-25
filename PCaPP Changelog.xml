@@ -27,7 +27,8 @@ Fixes:
 	Shellbug Helmet now have missing falmer masquerade keyword
 	Carius armor now have missing imperial masquerade keyword
 	Fur Kilt and Fur Kilt with Mantle now have missing bandit masquerade keyword
-	Fur Gauntlets and Boots now have only stormcloak masquerade keyword. (bandit keyword removed)
+	Fur Gauntlets and Boots now have only stormcloak masquerade keyword (bandit keyword removed)
+	Fur Pant Armor now have missing bandit masquerade keyword. (SIC)
 
 Changes:
 	Unenchanted, playable, Nightingale armor sets can now be Reforged and Warforged. Enchanted, non-playable, versions cannot.
