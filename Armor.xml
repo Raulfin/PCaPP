@@ -7517,7 +7517,19 @@
 	
 	<!-- Imperial start -->
 		<armor_masquerade_binding>
-			<substringArmor>Imperial Light</substringArmor>
+			<substringArmor>Imperial Light Armor</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Light Boots</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Light Bracers</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Light Helmet</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
