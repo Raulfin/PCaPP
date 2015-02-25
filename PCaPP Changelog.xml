@@ -21,6 +21,7 @@ Fixes:
 	Imperial Tattered Armor, Dwarven Light Armor and Ancient Nord Light Gauntlets are now Light. (SIC)
 	Corrected Palrada Plate, Scion Plate, Eternal Centurion, Rysio, Cyasmic and Shadow Fang bindings (TERA Armors)
 	Dawnguard Ebony Shield now have original ebony shield armor rating (CCOR)
+	Cultist Robes, Gloves and Boots now have missing masquerade keyword.
 
 Changes:
 	Unenchanted, playable, Nightingale armor sets can now be Reforged and Warforged. Enchanted, non-playable, versions cannot.
@@ -41,8 +42,9 @@ Renamed:
 Updated Patches:
 	Immersive Armors: Bosmer Engraved set will now benefit from the Ebony perk and not the Glass perk.
 	SiC: Name and keyword adjustments
-	WAFR: Name adjustments
-	CCOR: Keyword adjustments.
+	WAFR: Name and keyword adjustments
+	CCOR: Keyword adjustments
+	CCF: Keyword adjustments.
 
 New Patches:
 </v2.3.2>
