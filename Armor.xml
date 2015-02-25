@@ -7417,15 +7417,11 @@
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Fur Boots</substringArmor>
-			<masqueradeFaction>BANDIT</masqueradeFaction>
-		</armor_masquerade_binding>
-		<armor_masquerade_binding>
 			<substringArmor>Fur Bracers</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Fur Gauntlets</substringArmor>
+			<substringArmor>Fur Kilt</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
