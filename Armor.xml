@@ -7469,7 +7469,39 @@
 	
 	<!-- Imperial start -->
 		<armor_masquerade_binding>
-			<substringArmor>Imperial</substringArmor>
+			<substringArmor>Imperial Light</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Boots</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Bracers</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Armor</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Helmet</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Crested</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Studded</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Officer's</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial General's</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7477,11 +7509,7 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Tullius</substringArmor>
-			<masqueradeFaction>IMPERIAL</masqueradeFaction>
-		</armor_masquerade_binding>
-		<armor_masquerade_binding>
-			<substringArmor>Carius</substringArmor>
+			<substringArmor>General</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
