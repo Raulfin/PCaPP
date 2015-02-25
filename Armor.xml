@@ -8100,19 +8100,19 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
-			<text>ZTh_</text> 
+			<text>ZTh_</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Improved Artifacts Collection end -->
 	<!-- Helgen Reborn -->
 		<exclusion>
-			<text>Balok</text> 
+			<text>Balok</text>
 			<target>EDID</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>bALOK</text> 
+			<text>bALOK</text>
 			<target>EDID</target>
 			<type>CONTAINS</type>
 		</exclusion>
