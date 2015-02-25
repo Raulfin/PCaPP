@@ -47,12 +47,13 @@ Balancing:
 
 Renamed:
 	Ancient Nord Helmet -> Ancient Nord Light Helmet (WAFR, not playable)
+	Falmer Hardened Circlet -> Falmer Circlet (CCOR)
 
 Updated Patches:
 	Immersive Armors: Bosmer Engraved set will now benefit from the Ebony perk and not the Glass perk.
 	SiC: Name and keyword adjustments, added missed model
-	WAFR: Name and keyword adjustments
-	CCOR and CCF: Keyword adjustments.
+	CCOR, WAFR: Name and keyword adjustments
+	CCF: Keyword adjustments.
 
 New Patches:
 </v2.3.2>
