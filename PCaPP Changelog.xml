@@ -7,6 +7,7 @@ Now covers:
 	Skyrim Knights (28044)
 
 Blocklist:
+	Combat Evolved.esp
 
 Exclusions:
 	Gharol's Iron Sword can no longer be Reforge and will not have enchanted variants made or distributed.
@@ -34,7 +35,7 @@ Balancing:
 	Cutlass weapons will now bind to Sabre not Scimitar.
 
 Renamed:
-	Ancient Nord Helmet -> Ancient Nord Light Helmet (WAFR)
+	Ancient Nord Helmet -> Ancient Nord Light Helmet (WAFR, not playable)
 	
 Updated Patches:
 	Immersive Armors: Bosmer Engraved set will now benefit from the Ebony perk and not the Glass perk.
