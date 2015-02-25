@@ -7413,7 +7413,7 @@
 		</armor_masquerade_binding>
 		<!-- Fur set is listed individually to prevent several cloaks, capes and backpacks from flagging the player as a bandit -->
 		<armor_masquerade_binding>
-			<substringArmor>Fur Armor</substringArmor> 
+			<substringArmor>Fur Armor</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
