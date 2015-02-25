@@ -690,6 +690,10 @@
 			<substring>Dawnguard Rune</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Dawnguard Ebony</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Silver Hand</substring>
 		</binding>
