@@ -51,3 +51,4 @@ SplashofRain.esp
 ShootingStars.esp
 VioLens.esp
 Chesko_WearableLantern.esp
+Combat Evolved.esp

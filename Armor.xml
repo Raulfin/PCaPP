@@ -690,6 +690,10 @@
 			<substring>Dawnguard Rune</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Dawnguard Ebony</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Silver Hand</substring>
 		</binding>
@@ -4849,10 +4853,6 @@
 			<substring>Ancient Nord Light</substring>
 		</binding>
 		<binding>
-			<identifier>Ancient NordL</identifier>
-			<substring>Light Ancient Nord</substring>
-		</binding>
-		<binding>
 			<identifier>LNordicLow</identifier>
 			<substring>Nord Mail</substring>
 		</binding>
@@ -5731,10 +5731,6 @@
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Cultist Mask</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Cultist Gloves</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
