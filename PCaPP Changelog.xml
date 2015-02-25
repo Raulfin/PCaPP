@@ -7,6 +7,7 @@ Now covers:
 	Skyrim Knights (28044)
 
 Blocklist:
+	Combat Evolved.esp
 
 Exclusions:
 	Gharol's Iron Sword can no longer be Reforge and will not have enchanted variants made or distributed.
@@ -19,7 +20,9 @@ Fixes:
 	Falmer armor will now properly be tagged Light armor (SIC)
 	Imperial Tattered Armor, Dwarven Light Armor and Ancient Nord Light Gauntlets are now Light. (SIC)
 	Corrected Palrada Plate, Scion Plate, Eternal Centurion, Rysio, Cyasmic and Shadow Fang bindings (TERA Armors)
-	
+	Dawnguard Ebony Shield now have original ebony shield armor rating (CCOR)
+	Clothing cultist robes, gloves and boots now have missing masquerade keyword. (CCF, WAFR)
+
 Changes:
 	Unenchanted, playable, Nightingale armor sets can now be Reforged and Warforged. Enchanted, non-playable, versions cannot.
 	Changed Dragon Priest bindings back to WAFR (Vokun Silver>Steel, Otar Gold>Glass, Konahrik Dwarven>DragonPlate, Morokei Glass>Clothing, Dukaan NordicLight>StalhrimLight, Ahzidal ScaledHeavy>Ebony)
@@ -34,10 +37,14 @@ Balancing:
 	Cutlass weapons will now bind to Sabre not Scimitar.
 
 Renamed:
+	Ancient Nord Helmet -> Ancient Nord Light Helmet (WAFR, not playable)
 
 Updated Patches:
 	Immersive Armors: Bosmer Engraved set will now benefit from the Ebony perk and not the Glass perk.
-	SiC: Name and keyword adjustments.
+	SiC: Name and keyword adjustments
+	WAFR: Name and keyword adjustments
+	CCOR: Keyword adjustments
+	CCF: Keyword adjustments.
 
 New Patches:
 </v2.3.2>
