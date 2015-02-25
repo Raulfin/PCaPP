@@ -4849,10 +4849,6 @@
 			<substring>Ancient Nord Light</substring>
 		</binding>
 		<binding>
-			<identifier>Ancient NordL</identifier>
-			<substring>Light Ancient Nord</substring>
-		</binding>
-		<binding>
 			<identifier>LNordicLow</identifier>
 			<substring>Nord Mail</substring>
 		</binding>
