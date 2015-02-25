@@ -7450,6 +7450,10 @@
 			<substringArmor>Falmer</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Shellbug Helmet</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
 	<!-- Falmer end -->
 	
 	<!-- Forsworn start -->
