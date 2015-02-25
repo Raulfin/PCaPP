@@ -1798,6 +1798,10 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			 <substring>Dragonknight</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Dragonbone Ebonsteel</substring>
 		</binding>
 		<binding>
