@@ -5734,10 +5734,6 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Cultist Gloves</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
 			<substring>Blooded</substring>
 		</binding>
 		<binding>
