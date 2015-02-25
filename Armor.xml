@@ -690,6 +690,10 @@
 			<substring>Dawnguard Rune</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Dawnguard Ebony</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Silver Hand</substring>
 		</binding>
@@ -4847,10 +4851,6 @@
 		<binding>
 			<identifier>Ancient NordL</identifier>
 			<substring>Ancient Nord Light</substring>
-		</binding>
-		<binding>
-			<identifier>Ancient NordL</identifier>
-			<substring>Light Ancient Nord</substring>
 		</binding>
 		<binding>
 			<identifier>LNordicLow</identifier>
