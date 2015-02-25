@@ -29,7 +29,8 @@ Fixes:
 	Fur Kilt and Fur Kilt with Mantle now have missing bandit masquerade keyword
 	Fur Gauntlets and Boots now have only stormcloak masquerade keyword (bandit keyword removed)
 	Fur Pant Armor now have missing bandit masquerade keyword (SIC)
-	Added missed model to Ancient Nord Helmet. (SIC)
+	Added missed model to Ancient Nord Helmet (SIC)
+	Stormcloak masquerade keyword on Stormcloak Circlet removed.
 
 Changes:
 	Unenchanted, playable, Nightingale armor sets can now be Reforged and Warforged. Enchanted, non-playable, versions cannot.
