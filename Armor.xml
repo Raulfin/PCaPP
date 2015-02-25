@@ -690,6 +690,10 @@
 			<substring>Dawnguard Rune</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Dawnguard Ebony</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Silver Hand</substring>
 		</binding>
@@ -4849,10 +4853,6 @@
 			<substring>Ancient Nord Light</substring>
 		</binding>
 		<binding>
-			<identifier>Ancient NordL</identifier>
-			<substring>Light Ancient Nord</substring>
-		</binding>
-		<binding>
 			<identifier>LNordicLow</identifier>
 			<substring>Nord Mail</substring>
 		</binding>
@@ -5731,10 +5731,6 @@
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Cultist Mask</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Cultist Gloves</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7421,15 +7417,11 @@
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Fur Boots</substringArmor>
-			<masqueradeFaction>BANDIT</masqueradeFaction>
-		</armor_masquerade_binding>
-		<armor_masquerade_binding>
 			<substringArmor>Fur Bracers</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Fur Gauntlets</substringArmor>
+			<substringArmor>Fur Kilt</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7438,6 +7430,10 @@
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
 			<substringArmor>Fur Shoes</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Fur Pant</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Bandit end -->
@@ -7451,25 +7447,113 @@
 	
 	<!-- Falmer start -->
 		<armor_masquerade_binding>
-			<substringArmor>Falmer</substringArmor>
+			<substringArmor>Falmer Helmet</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Armor</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Boots</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Bracers</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Heavy</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Hardened</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Shaman</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Shellbug Helmet</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Falmer end -->
 	
 	<!-- Forsworn start -->
 		<armor_masquerade_binding>
-			<substringArmor>Forsworn</substringArmor>
+			<substringArmor>Forsworn Boots</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Old Gods</substringArmor>
+			<substringArmor>Forsworn Armor</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Forsworn Headdress</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Forsworn Gauntlets</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Armor of the Old Gods</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Helmet of the Old Gods</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Gauntlets of the Old Gods</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Boots of the Old Gods</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Forsworn end -->
 	
 	<!-- Imperial start -->
 		<armor_masquerade_binding>
-			<substringArmor>Imperial</substringArmor>
+			<substringArmor>Imperial Light</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Boots</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Bracers</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Armor</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Helmet</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Crested</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Studded</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Tattered</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Officer's</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial General's</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7477,7 +7561,7 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Tullius</substringArmor>
+			<substringArmor>General</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7488,7 +7572,15 @@
 	
 	<!-- Stormcloak start -->
 		<armor_masquerade_binding>
-			<substringArmor>Stormcloak</substringArmor>
+			<substringArmor>Stormcloak Cuirass</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Stormcloak Helmet</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Stormcloak Officer</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7500,7 +7592,35 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Fur Guard's</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Eastmarch Guard's</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Reinforced Guard Boots</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Reinforced Guard Gauntlets</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Fitted Guard Boots</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Fitted Guard Gauntlets</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Ulfric</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Gloves of the Pugilist</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Stormcloak end -->
@@ -7514,7 +7634,27 @@
 	
 	<!-- Vampire start -->
 		<armor_masquerade_binding>
-			<substringArmor>Vampire</substringArmor>
+			<substringArmor>Vampire Armor</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Vampire Boots</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Vampire Gauntlets</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Vampire Hood</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Vampire Royal</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Vampire Lord</substringArmor>
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Vampire end -->
