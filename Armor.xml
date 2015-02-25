@@ -7458,11 +7458,35 @@
 	
 	<!-- Forsworn start -->
 		<armor_masquerade_binding>
-			<substringArmor>Forsworn</substringArmor>
+			<substringArmor>Forsworn Boots</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Old Gods</substringArmor>
+			<substringArmor>Forsworn Armor</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Forsworn Headdress</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Forsworn Gauntlets</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Armor of the Old Gods</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Helmet of the Old Gods</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Gauntlets of the Old Gods</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Boots of the Old Gods</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Forsworn end -->
