@@ -783,7 +783,7 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
-			<substring>Stormcloak Ráoningar</substring>
+			<substring>Stormcloak Raoningar</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -1210,16 +1210,16 @@
 			<identifier>DaedricLight</identifier>
 			<substring>Gildergreen Light</substring>
 		</binding>
-		<binding> 
-			<identifier>Daedric</identifier> 
-			<substring>Æsir</substring> 
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>?sir</substring>
 		</binding>
-		<binding> 
-			<identifier>Daedric</identifier> 
-			<substring>Aesir</substring> 
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Aesir</substring>
 		</binding>
-		<binding> 
-			<identifier>Daedric</identifier> 
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Aedra</substring>
 		</binding>
 		<binding>
@@ -1790,11 +1790,11 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
-			 <substring>Dragon Knight Heavy</substring>
+			<substring>Dragon Knight Heavy</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
-			 <substring>Dragon Knight</substring>
+			<substring>Dragon Knight</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -1802,7 +1802,7 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
-			 <substring>Dragonknight</substring>
+			<substring>Dragonknight</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -1990,7 +1990,7 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
-			 <substring>Dragon Knight Light</substring>
+			<substring>Dragon Knight Light</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -2449,44 +2449,44 @@
 			<substring>Tribunal Heavy</substring>
 		</binding>
 		<binding>
-			<identifier>EbonyLow</identifier> 
-			<substring>Tribunal Robes Black HEAVY</substring> 
+			<identifier>EbonyLow</identifier>
+			<substring>Tribunal Robes Black HEAVY</substring>
 		</binding>
 		<binding>
-			<identifier>EbonyLow</identifier> 
-			<substring>Tribunal Robes Blue HEAVY</substring> 
-		</binding>
-		<binding> 
-			<identifier>EbonyLow</identifier> 
-			<substring>Tribunal Robes Red HEAVY</substring> 
-		</binding>
-		<binding> 
-			<identifier>EbonyLow</identifier> 
-			<substring>Tribunal Robes Green HEAVY</substring> 
-		</binding>
-		<binding> 
-			<identifier>EbonyLow</identifier> 
-			<substring>Tribunal Robes White HEAVY</substring> 
+			<identifier>EbonyLow</identifier>
+			<substring>Tribunal Robes Blue HEAVY</substring>
 		</binding>
 		<binding>
-			<identifier>EbonyLow</identifier> 
-			<substring>Tribunal Black Heavy</substring> 
+			<identifier>EbonyLow</identifier>
+			<substring>Tribunal Robes Red HEAVY</substring>
 		</binding>
 		<binding>
-			<identifier>EbonyLow</identifier> 
-			<substring>Tribunal Blue Heavy</substring> 
+			<identifier>EbonyLow</identifier>
+			<substring>Tribunal Robes Green HEAVY</substring>
 		</binding>
-		<binding> 
-			<identifier>EbonyLow</identifier> 
-			<substring>Tribunal Red Heavy</substring> 
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Tribunal Robes White HEAVY</substring>
 		</binding>
-		<binding> 
-			<identifier>EbonyLow</identifier> 
-			<substring>Tribunal Green Heavy</substring> 
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Tribunal Black Heavy</substring>
 		</binding>
-		<binding> 
-			<identifier>EbonyLow</identifier> 
-			<substring>Tribunal White Heavy</substring> 
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Tribunal Blue Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Tribunal Red Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Tribunal Green Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Tribunal White Heavy</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3336,45 +3336,45 @@
 			<identifier>GlassLow</identifier>
 			<substring>Tribunal Light</substring>
 		</binding>
-		<binding> 
-			<identifier>GlassLow</identifier> 
-			<substring>Tribunal Robes Black LIGHT</substring> 
-		</binding> 
-		<binding> 
-			<identifier>GlassLow</identifier> 
-			<substring>Tribunal Robes Blue LIGHT</substring> 
-		</binding>
-		<binding> 
-			<identifier>GlassLow</identifier> 
-			<substring>Tribunal Robes Red LIGHT</substring> 
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Tribunal Robes Black LIGHT</substring>
 		</binding>
 		<binding>
-			<identifier>GlassLow</identifier> 
-			<substring>Tribunal Robes Green LIGHT</substring> 
-		</binding>
-		<binding> 
-			<identifier>GlassLow</identifier> 
-			<substring>Tribunal Robes White LIGHT</substring> 
-		</binding>
-		<binding> 
-			<identifier>GlassLow</identifier> 
-			<substring>Tribunal Black Light</substring> 
-		</binding> 
-		<binding> 
-			<identifier>GlassLow</identifier> 
-			<substring>Tribunal Blue Light</substring> 
-		</binding>
-		<binding> 
-			<identifier>GlassLow</identifier> 
-			<substring>Tribunal Red Light</substring> 
+			<identifier>GlassLow</identifier>
+			<substring>Tribunal Robes Blue LIGHT</substring>
 		</binding>
 		<binding>
-			<identifier>GlassLow</identifier> 
-			<substring>Tribunal Green Light</substring> 
+			<identifier>GlassLow</identifier>
+			<substring>Tribunal Robes Red LIGHT</substring>
 		</binding>
-		<binding> 
-			<identifier>GlassLow</identifier> 
-			<substring>Tribunal White Light</substring> 
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Tribunal Robes Green LIGHT</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Tribunal Robes White LIGHT</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Tribunal Black Light</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Tribunal Blue Light</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Tribunal Red Light</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Tribunal Green Light</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Tribunal White Light</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -3946,7 +3946,7 @@
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
-			<substring>Iron Buckler</substring> 
+			<substring>Iron Buckler</substring>
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
@@ -4078,7 +4078,7 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
-			<substring>de la sorcière sauvage</substring>
+			<substring>de la sorciere sauvage</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -4167,7 +4167,7 @@
 		<binding>
 			<identifier>LeatherHeavy</identifier>
 			<substring>Wanderer Hood (heavy)</substring>
-		</binding> 
+		</binding>
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Nightshade</substring>
@@ -5010,7 +5010,7 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
-			<substring>Forester Mitts</substring> 
+			<substring>Forester Mitts</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
