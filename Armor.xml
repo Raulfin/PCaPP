@@ -7616,7 +7616,15 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Ulfric</substringArmor>
+			<substringArmor>Ulfric's Armor</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Ulfric's Boots</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Ulfric's Bracers</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
