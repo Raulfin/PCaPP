@@ -4,6 +4,7 @@
 Now covers:
 	Evil Mastermind Armor (25476)
 	Konahriks Accoutrements - Dragon Priest Armory (32458)
+	Skyrim Knights (28044)
 
 Blocklist:
 
@@ -22,6 +23,7 @@ Fixes:
 Changes:
 	Unenchanted, playable, Nightingale armor sets can now be Reforged and Warforged. Enchanted, non-playable, versions cannot.
 	Changed Dragon Priest bindings back to WAFR (Vokun Silver>Steel, Otar Gold>Glass, Konahrik Dwarven>DragonPlate, Morokei Glass>Clothing, Dukaan NordicLight>StalhrimLight, Ahzidal ScaledHeavy>Ebony)
+	Adjusted names of some Ancient Nord Armor to have better stats, Broken Ancient Nord Armor (Old)>Ancient Nord Armor (Broken). (SiC)
 
 Additions:
 	Moonbuckled, Neophyte, Cerulean Alchemist, Solace, Ebon Shroud and Eternal Magus bindings (TERA Armors)
@@ -35,7 +37,7 @@ Renamed:
 
 Updated Patches:
 	Immersive Armors: Bosmer Engraved set will now benefit from the Ebony perk and not the Glass perk.
-	SIC
+	SiC: Name and keyword adjustments.
 
 New Patches:
 </v2.3.2>
