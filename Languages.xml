@@ -6532,7 +6532,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wizard Sunder</identifier>
-			<outputString>Separación del hechicero </outputString>
+			<outputString>Separación del hechicero</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wizard Wrack</identifier>
@@ -7060,7 +7060,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Morning star</identifier>
-			<outputString>Lucero del alba </outputString>
+			<outputString>Lucero del alba</outputString>
 		</stringBinding>
 	</language>
 
