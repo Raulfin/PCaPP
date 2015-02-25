@@ -7554,7 +7554,27 @@
 	
 	<!-- Vampire start -->
 		<armor_masquerade_binding>
-			<substringArmor>Vampire</substringArmor>
+			<substringArmor>Vampire Armor</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Vampire Boots</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Vampire Gauntlets</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Vampire Hood</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Vampire Royal</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Vampire Lord</substringArmor>
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Vampire end -->
