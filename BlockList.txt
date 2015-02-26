@@ -2,52 +2,53 @@
 //Add a mod names or keywords to look for to block
 //One per line
 Animated Dragon Wings.esp
+Chesko_WearableLantern.esp
+CollegeDaysWinterhold.esp
 Convenient Horses.esp
-HorseCloakCH.esp
-HorseCloak.esp
-PSQ PlayerSuccubusQuest.esm
-DSLight.esm
+DA-Survival.esp
 daymoyl.esm
 daymoyl_DawnguardAddon.esp
-DA-Survival.esp
+DeadlyCombat.esp
+dD - Enhanced Blood Main.esp
+DreadPrison.esm
+DreadPrisonUpdate.esp
+ds_database.esp
+DSLight.esm
+Dual Sheath Redux.esp
+Dual Sheath Redux Patch.esp
+Dwemertech - Magic of the Dwarves.esp
+Dwemertech - PerMa Compatibility Patch.esp
+Footprints.esp
+Headtracking.esp
+HDTPhysicsWeaponSling.esp
+HorseCloakCH.esp
+HorseCloak.esp
+iNeed.esp
+Ish's Respec Mod.esp
+kuerteeEatAndSleep.esp
+LongerDurationsandAnnoyanceFixes - Perma Patch.esp
+LootandDegradation.esp
+Magic of the Magna-Ge.esp
+NonSexLabAnimationPack.esp
+NordicCooking.esp
+NordicCooking_RND.esp
+Post PatchusMaximus Perma Mods and Tweaks.esp
+Post_PatchusMaximus_GiantsAIFix.esp
+PSQ PlayerSuccubusQuest.esm
+Rainbows.esp
+sandboxcylinderheight.esp
 SexLab.esm
 SexLabDefeat.esp
 SexLab Romance.esp
-SexLabMassMatchMaker.esp
 SexLab-AmorousAdventures.esp
-NonSexLabAnimationPack.esp
-CollegeDaysWinterhold.esp
-DeadlyCombat.esp
-ds_database.esp
+SexLabMassMatchMaker.esp
 ShakeIt.esp
-DreadPrison.esm
-DreadPrisonUpdate.esp
-sandboxcylinderheight.esp
-Dual Sheath Redux.esp
-Dual Sheath Redux Patch.esp
-kuerteeEatAndSleep.esp
-HDTPhysicsWeaponSling.esp
-Ish's Respec Mod.esp
-Dwemertech - Magic of the Dwarves.esp
-Dwemertech - PerMa Compatibility Patch.esp
-Magic of the Magna-Ge.esp
+ShootingStars.esp
+SoS - Civilization.esp
 Spectraverse - PerMa Compatibility Patch.esp
 Spectraverse - Only After Dragon Rising.esp
-NordicCooking.esp
-NordicCooking_RND.esp
-Post_PatchusMaximus_GiantsAIFix.esp
-Post PatchusMaximus Perma Mods and Tweaks.esp
-LongerDurationsandAnnoyanceFixes - Perma Patch.esp
-zzEstrus.esp
-LootandDegradation.esp
-iNeed.esp
-WetandCold - Ashes.esp
-SoS - Civilization.esp
-dD - Enhanced Blood Main.esp
-Rainbows.esp
-Headtracking.esp
-Footprints.esp
 SplashofRain.esp
-ShootingStars.esp
 VioLens.esp
-Chesko_WearableLantern.esp
+WetandCold - Ashes.esp
+zzEstrus.esp
+
