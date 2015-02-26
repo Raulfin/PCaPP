@@ -807,7 +807,23 @@
 	<!-- Bindings allowed: Bone, Mammoth Bone, Bonemold, BonemoldHigh -->
 		<binding>
 			<identifier>Mammoth Bone</identifier>
-			<substring>Bone</substring>
+			<substring>Mammoth Bone</substring>
+		</binding>
+		<binding>
+			<identifier>Mammoth BoneHigh</identifier>
+			<substring>Bone Axe (Masterwork)</substring>
+		</binding>
+		<binding>
+			<identifier>Mammoth BoneHigh</identifier>
+			<substring>Bone Bow (Masterwork)</substring>
+		</binding>
+		<binding>
+			<identifier>Mammoth BoneHigh</identifier>
+			<substring>Bone Sword (Masterwork)</substring>
+		</binding>
+		<binding>
+			<identifier>Mammoth BoneHigh</identifier>
+			<substring>Mammoth Bone Club (Masterwork)</substring>
 		</binding>
 		<binding>
 			<identifier>Bone</identifier>
@@ -3653,7 +3669,7 @@
 
 	<!-- Bonemold Material Listings start -->
 		<weapon_material>
-			<damageModifier>0.25</damageModifier>
+			<damageModifier>0.9</damageModifier>
 			<identifier>Bone</identifier>
 			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
 			<materialTemper>BONEMOLD_HEAVY</materialTemper>
@@ -3661,7 +3677,15 @@
 			<speedModifier>-0.02</speedModifier>
 		</weapon_material>
 		<weapon_material>
-			<damageModifier>0.5</damageModifier>
+			<damageModifier>0.95</damageModifier>
+			<identifier>BoneHigh</identifier>
+			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
+			<materialTemper>BONEMOLD_HEAVY</materialTemper>
+			<reachModifier>0.01</reachModifier>
+			<speedModifier>-0.02</speedModifier>
+		</weapon_material>
+		<weapon_material>
+			<damageModifier>1.2</damageModifier>
 			<identifier>Mammoth Bone</identifier>
 			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
 			<materialTemper>BONEMOLD_HEAVY</materialTemper>
@@ -3669,7 +3693,15 @@
 			<speedModifier>-0.02</speedModifier>
 		</weapon_material>
 		<weapon_material>
-			<damageModifier>1.05</damageModifier>
+			<damageModifier>1.5</damageModifier>
+			<identifier>Mammoth BoneHigh</identifier>
+			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
+			<materialTemper>BONEMOLD_HEAVY</materialTemper>
+			<reachModifier>0.01</reachModifier>
+			<speedModifier>-0.02</speedModifier>
+		</weapon_material>
+		<weapon_material>
+			<damageModifier>1.05</damageModifier> <!-- SteelHigh -->
 			<identifier>Bonemold</identifier>
 			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
 			<materialTemper>BONEMOLD_HEAVY</materialTemper>
@@ -3677,7 +3709,7 @@
 			<speedModifier>-0.02</speedModifier>
 		</weapon_material>
 		<weapon_material>
-			<damageModifier>1.1</damageModifier>
+			<damageModifier>1.1</damageModifier> <!-- Dwarven -->
 			<identifier>BonemoldHigh</identifier>
 			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
 			<materialTemper>BONEMOLD_HEAVY</materialTemper>
@@ -3688,7 +3720,7 @@
 
 	<!-- Bound Material Listings start -->
 		<weapon_material>
-			<damageModifier>1.95</damageModifier>
+			<damageModifier>1.9</damageModifier>
 			<identifier>BoundLow</identifier>
 			<materialMeltdown>NONE</materialMeltdown>
 			<materialTemper>NONE</materialTemper>

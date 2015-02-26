@@ -8,6 +8,7 @@ Now covers:
 
 Blocklist:
 	Combat Evolved.esp
+	SkyTweak.esp
 
 Exclusions:
 	Gharol's Iron Sword can no longer be Reforge and will not have enchanted variants made or distributed.
@@ -31,7 +32,6 @@ Fixes:
 	Fur Kilt and Fur Kilt with Mantle now have missing bandit masquerade keyword
 	Fur Gauntlets and Boots now have only stormcloak masquerade keyword (bandit keyword removed)
 	Fur Pant Armor now have missing bandit masquerade keyword (SIC)
-	Added missed model to Ancient Nord Helmet (SIC)
 	Masquerade keywords on Stormcloak, Imperial, Forsworn, Falmer, Vampire Circlets and Ulfric's Gag are removed.
 	Masquerade keywords on Imperial and Falmer Shields are removed.
 
@@ -48,16 +48,19 @@ Balancing:
 	Lowered base damage of Sabre from 12 to 11.
 	Increased base damage of Scimitar from 11 to 12.
 	Cutlass weapons will now bind to Sabre not Scimitar.
-	New materials BoundLow and BoundHigh.
+	New materials BoundLow(1.9) and BoundHigh(2.05).
+	Increased Bone material damage from 0.25 to 0.9 (just above Wood)
+	Increased Mammoth Bone material damage from 0.5 to 1.2
+	New materials BoneHigh(0.95) and Mammoth BoneHigh(1.5).
 
 Renamed:
 	Ancient Nord Helmet -> Ancient Nord Light Helmet (WAFR, not playable)
 
 Updated Patches:
 	Immersive Armors: Bosmer Engraved set will now benefit from the Ebony perk and not the Glass perk.
-	SiC: Name and keyword adjustments, added missed model
-	CCOR, WAFR: Name and keyword adjustments
+	SiC, CCOR, WAFR: Name and keyword adjustments
 	CCF: Keyword adjustments.
+	Wind Magic: Corrected Spell costs. Removed Update.esm and Dawnguard.esm as masters.
 
 New Patches:
 </v2.4>

@@ -7801,7 +7801,7 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
-	<!-- OBIS start -->
+	<!-- OBIS -->
 		<exclusion>
 			<text>Bounty</text>
 			<target>EDID</target>
@@ -7822,7 +7822,19 @@
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-	<!-- OBIS end -->
+	<!-- OBIS -->
+	<!-- OBIS Loot -->
+		<exclusion>
+			<text>JVD_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>FZ</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- OBIS Loot -->
 	<!-- Wyrmstooth-->
 		<exclusion>
 			<text>WT</text>
@@ -7905,21 +7917,21 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Ultimate Assortment end -->
-	<!-- Brhuce: Legacy-->
+	<!-- Brhuce: Legacy -->
 		<exclusion>
 			<text>_tw_</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-	<!-- Brhuce: Legacy-->
-	<!-- World Eater Beater-->
+	<!-- Brhuce: Legacy -->
+	<!-- World Eater Beater -->
 		<exclusion>
 			<text>_AA_</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-	<!-- World Eater Beater-->
-	<!--Lost Wonders of Mzark-->
+	<!-- World Eater Beater -->
+	<!-- Lost Wonders of Mzark -->
 		<exclusion>
 			<text>_lw_</text>
 			<target>EDID</target>
@@ -7935,8 +7947,8 @@
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-	<!--Lost Wonders of Mzark-->
-	<!--Aethernautics-->
+	<!-- Lost Wonders of Mzark -->
+	<!-- Aethernautics -->
 		<exclusion>
 			<text>_an_</text>
 			<target>EDID</target>
@@ -7962,7 +7974,7 @@
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-	<!--Aethernautics-->
+	<!-- Aethernautics -->
 	<!-- Aetherium Arms and Armor -->
 	<!-- EggOver -->
 		<exclusion>
@@ -8012,13 +8024,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Faction Pitfighter -->
-	<!--  Death Alternative -->
+	<!-- Death Alternative -->
 		<exclusion>
 			<text>daymoyl_</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-	<!--  Death Alternative -->
+	<!-- Death Alternative -->
 	<!-- Ghosus Weapon Pack -->
 		<exclusion>
 			<text>Aegis of Champions</text>
@@ -8353,18 +8365,6 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Daedric Artifacts Improved Dawnguard -->
-	<!-- OBIS Loot -->
-		<exclusion>
-			<text>JVD_</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>FZ</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-	<!-- OBIS Loot -->
 	<!-- Dragonbone Barbarian Armor -->
 		<exclusion>
 			<text>Shockero_Cloth_</text>
@@ -8410,6 +8410,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+	<!-- S7B Lady Draak BBP -->
+		<exclusion>
+			<text>ArmorLadyDraak</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- S7B Lady Draak BBP -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
