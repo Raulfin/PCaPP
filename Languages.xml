@@ -1669,7 +1669,7 @@
 	</stringBinding>
 	<stringBinding>
 		<identifier>Executioner's</identifier>
-		<outputString>Executioner's</outputString>
+		<outputString>Карающий</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Mortality</identifier>
@@ -8456,7 +8456,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Burning</identifier>
-			<outputString>Горения</outputString>
+			<outputString>Горящий</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Cinder</identifier>
@@ -8650,7 +8650,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hexward</identifier>
-			<outputString>Защиты от чар</outputString>
+			<outputString>Защищающ. от чар</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deceit</identifier>
@@ -9569,7 +9569,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Weaponward</identifier>
-			<outputString>Защиты от оружия</outputString>
+			<outputString>Защищающ. от оружия</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Weaponbane</identifier>
@@ -9581,7 +9581,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Magickguard</identifier>
-			<outputString>Защиты от магии</outputString>
+			<outputString>Защищающ. от магии</outputString>
 		</stringBinding>
 		<!--Cornucopia-->
 		<!--WINTERMYST WEAPONS NAMES-->
