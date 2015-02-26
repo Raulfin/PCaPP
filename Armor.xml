@@ -44,10 +44,6 @@
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
-			<substring>Damaged</substring>
-			<identifier>broken</identifier>
-		</binding>
-		<binding>
 			<substring>Worn</substring>
 			<identifier>worn</identifier>
 		</binding>
@@ -5975,14 +5971,6 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Steel Fancy</substring><!-- winter is coming -->
-		</binding>
-		<binding>
-			<identifier>Steel Heavy</identifier>
-			<substring>Damaged Ceremonial</substring>
-		</binding>
-		<binding>
-			<identifier>Steel Heavy</identifier>
-			<substring>Fixed Ceremonial</substring>
 		</binding>
 	<!-- Steel Material Bindings end -->
 	
