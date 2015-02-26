@@ -804,6 +804,7 @@
 	<!-- Advance bindings end -->
 
 	<!-- Bonemold bindings start -->
+	<!-- Bindings allowed: Bone, Mammoth Bone, Bonemold, BonemoldHigh -->
 		<binding>
 			<identifier>Mammoth Bone</identifier>
 			<substring>Bone</substring>
@@ -823,12 +824,13 @@
 	<!-- Bonemold bindings end -->
 	
 	<!-- Bound Weapon bindings start -->
+	<!-- Bindings allowed: BoundLow, Bound, BoundHigh -->
 		<binding>
-			<identifier>Bound</identifier>
+			<identifier>BoundLow</identifier>
 			<substring>Hammer of Justice</substring>
 		</binding>
 		<binding>
-			<identifier>Bound</identifier>
+			<identifier>BoundLow</identifier>
 			<substring>Divine Hammer</substring>
 		</binding>
 	<!-- Bound Weapon bindings end -->
@@ -3686,8 +3688,24 @@
 
 	<!-- Bound Material Listings start -->
 		<weapon_material>
+			<damageModifier>1.95</damageModifier>
+			<identifier>BoundLow</identifier>
+			<materialMeltdown>NONE</materialMeltdown>
+			<materialTemper>NONE</materialTemper>
+			<reachModifier>0.00</reachModifier>
+			<speedModifier>0.05</speedModifier>
+		</weapon_material>
+		<weapon_material>
 			<damageModifier>2</damageModifier>
 			<identifier>Bound</identifier>
+			<materialMeltdown>NONE</materialMeltdown>
+			<materialTemper>NONE</materialTemper>
+			<reachModifier>0.00</reachModifier>
+			<speedModifier>0.05</speedModifier>
+		</weapon_material>
+		<weapon_material>
+			<damageModifier>2.05</damageModifier>
+			<identifier>BoundHigh</identifier>
 			<materialMeltdown>NONE</materialMeltdown>
 			<materialTemper>NONE</materialTemper>
 			<reachModifier>0.00</reachModifier>
