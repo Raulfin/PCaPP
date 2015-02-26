@@ -32,7 +32,19 @@
 			<identifier>alduin</identifier>
 		</binding>
 		<binding>
+			<substring>Алдуин</substring>
+			<identifier>alduin</identifier>
+		</binding>
+		<binding>
 			<substring>Old</substring>
+			<identifier>old</identifier>
+		</binding>
+		<binding>
+			<substring>Стар</substring>
+			<identifier>old</identifier>
+		</binding>
+		<binding>
+			<substring>стар</substring>
 			<identifier>old</identifier>
 		</binding>
 		<binding>
@@ -40,7 +52,23 @@
 			<identifier>dented</identifier>
 		</binding>
 		<binding>
+			<substring>Помят</substring>
+			<identifier>dented</identifier>
+		</binding>
+		<binding>
+			<substring>помят</substring>
+			<identifier>dented</identifier>
+		</binding>
+		<binding>
 			<substring>Broken</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
+			<substring>Сломан</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
+			<substring>сломан</substring>
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
@@ -48,7 +76,23 @@
 			<identifier>worn</identifier>
 		</binding>
 		<binding>
+			<substring>Изношен</substring>
+			<identifier>worn</identifier>
+		</binding>
+		<binding>
+			<substring>изношен</substring>
+			<identifier>worn</identifier>
+		</binding>
+		<binding>
 			<substring>Raddled</substring>
+			<identifier>raddled</identifier>
+		</binding>
+		<binding>
+			<substring>Плетен</substring>
+			<identifier>raddled</identifier>
+		</binding>
+		<binding>
+			<substring>плетен</substring>
 			<identifier>raddled</identifier>
 		</binding>
 		<binding>
@@ -56,7 +100,23 @@
 			<identifier>ragged</identifier>
 		</binding>
 		<binding>
+			<substring>Рван</substring>
+			<identifier>ragged</identifier>
+		</binding>
+		<binding>
+			<substring>рван</substring>
+			<identifier>ragged</identifier>
+		</binding>
+		<binding>
 			<substring>Primitive</substring>
+			<identifier>old</identifier>
+		</binding>
+		<binding>
+			<substring>Древн</substring>
+			<identifier>old</identifier>
+		</binding>
+		<binding>
+			<substring>древн</substring>
 			<identifier>old</identifier>
 		</binding>
 		<binding>
@@ -64,7 +124,23 @@
 			<identifier>raddled</identifier>
 		</binding>
 		<binding>
+			<substring>Обычн</substring>
+			<identifier>raddled</identifier>
+		</binding>
+		<binding>
+			<substring>обычн</substring>
+			<identifier>raddled</identifier>
+		</binding>
+		<binding>
 			<substring>Thin</substring>
+			<identifier>thin</identifier>
+		</binding>
+		<binding>
+			<substring>Тонк</substring>
+			<identifier>thin</identifier>
+		</binding>
+		<binding>
+			<substring>тонк</substring>
 			<identifier>thin</identifier>
 		</binding>
 		<!-- Bindings that lower the quality of armor end-->
@@ -76,11 +152,35 @@
 			<identifier>quality</identifier>
 		</binding>
 		<binding>
+			<substring>Качеств</substring>
+			<identifier>quality</identifier>
+		</binding>
+		<binding>
+			<substring>качеств</substring>
+			<identifier>quality</identifier>
+		</binding>
+		<binding>
 			<substring>Reforged</substring>
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
+			<substring>Переков</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
+			<substring>переков</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
 			<substring>Warforged</substring>
+			<identifier>warforged</identifier>
+		</binding>
+		<binding>
+			<substring>Закален</substring>
+			<identifier>warforged</identifier>
+		</binding>
+		<binding>
+			<substring>Закален</substring>
 			<identifier>warforged</identifier>
 		</binding>
 	<!-- Armor variants created by PaMa (do not edit) end -->
