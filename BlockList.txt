@@ -44,6 +44,7 @@ SexLab-AmorousAdventures.esp
 SexLabMassMatchMaker.esp
 ShakeIt.esp
 ShootingStars.esp
+SkyTweak.esp
 SoS - Civilization.esp
 Spectraverse - PerMa Compatibility Patch.esp
 Spectraverse - Only After Dragon Rising.esp
