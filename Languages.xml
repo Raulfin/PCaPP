@@ -9577,7 +9577,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Novicebane</identifier>
-			<outputString>Грозы новичков</outputString>
+			<outputString>Погибели новичков</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Magickguard</identifier>
