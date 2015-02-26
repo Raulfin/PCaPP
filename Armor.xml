@@ -7463,7 +7463,19 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Falmer Heavy</substringArmor>
+			<substringArmor>Falmer Heavy Armor</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Heavy Boots</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Heavy Gauntlets</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Heavy Helm</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
