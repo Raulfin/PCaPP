@@ -858,7 +858,7 @@
 			<substring>Molag Bal</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier>
+			<identifier>DaedricLow</identifier>
 			<substring>Rusty Mace</substring>
 		</binding>
 		<binding>
