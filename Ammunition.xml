@@ -38,6 +38,10 @@
 			<substring>стрела</substring>
 		</binding>
 		<binding>
+			<identifier>Standard Arrow</identifier>
+			<substring>Стрела</substring>
+		</binding>
+		<binding>
 			<identifier>Standard Bolt</identifier>
 			<substring>Bolt</substring>
 		</binding>
@@ -46,12 +50,20 @@
 			<substring>болт</substring>
 		</binding>
 		<binding>
+			<identifier>Standard Bolt</identifier>
+			<substring>Болт</substring>
+		</binding>
+		<binding>
 			<identifier>Standard Javelin</identifier>
 			<substring>Javelin</substring>
 		</binding>
 		<binding>
 			<identifier>Standard Javelin</identifier>
 			<substring>дротик</substring>
+		</binding>
+		<binding>
+			<identifier>Standard Javelin</identifier>
+			<substring>Дротик</substring>
 		</binding>
 	</ammunition_type_bindings>
 
