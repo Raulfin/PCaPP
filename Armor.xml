@@ -7589,6 +7589,10 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Studded Imperial</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Tattered</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
