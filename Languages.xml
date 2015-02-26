@@ -1669,7 +1669,7 @@
 	</stringBinding>
 	<stringBinding>
 		<identifier>Executioner's</identifier>
-		<outputString>Карающий</outputString>
+		<outputString>Executioner's</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Mortality</identifier>
@@ -9819,7 +9819,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Executioner's</identifier>
-			<outputString>Палача</outputString>
+			<outputString>Карающий</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mortality</identifier>
