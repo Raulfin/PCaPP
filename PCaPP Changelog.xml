@@ -33,7 +33,8 @@ Fixes:
 	Fur Gauntlets and Boots now have only stormcloak masquerade keyword (bandit keyword removed)
 	Fur Pant Armor now have missing bandit masquerade keyword (SIC)
 	Masquerade keywords on Stormcloak, Imperial, Forsworn, Falmer, Vampire Circlets and Ulfric's Gag are removed.
-	Masquerade keywords on Imperial and Falmer Shields are removed.
+	Masquerade keywords on Imperial and Falmer Shields are removed
+	Added missed model to Ancient Nord Helmet (SIC)
 
 Changes:
 	Unenchanted, playable, Nightingale armor sets can now be Reforged and Warforged. Enchanted, non-playable, versions cannot.
@@ -58,7 +59,8 @@ Renamed:
 
 Updated Patches:
 	Immersive Armors: Bosmer Engraved set will now benefit from the Ebony perk and not the Glass perk.
-	SiC, CCOR, WAFR: Name and keyword adjustments
+	SiC: Name and keyword adjustments, added missed model
+	CCOR, WAFR: Name and keyword adjustments
 	CCF: Keyword adjustments.
 	Wind Magic: Corrected Spell costs. Removed Update.esm and Dawnguard.esm as masters.
 
