@@ -48,7 +48,10 @@ Balancing:
 	Lowered base damage of Sabre from 12 to 11.
 	Increased base damage of Scimitar from 11 to 12.
 	Cutlass weapons will now bind to Sabre not Scimitar.
-	New materials BoundLow and BoundHigh.
+	New materials BoundLow(1.9) and BoundHigh(2.05).
+	Increased Bone material damage from 0.25 to 0.9 (just above Wood)
+	Increased Mammoth Bone material damage from 0.5 to 1.2
+	New materials BoneHigh(0.95) and Mammoth BoneHigh(1.5).
 
 Renamed:
 	Ancient Nord Helmet -> Ancient Nord Light Helmet (WAFR, not playable)
