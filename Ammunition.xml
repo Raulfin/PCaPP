@@ -153,7 +153,7 @@
 	<!-- Nock to Tip -->
 	<!-- Bosmer Armor -->
 		<ammunition_modifier>
-			<identifier> Elder </identifier>
+			<identifier>Elder</identifier>
 			<damageModifier>2</damageModifier>
 			<rangeModifier>0</rangeModifier>
 			<speedModifier>0</speedModifier>
@@ -830,7 +830,7 @@
 	<!-- Sands of Time Ammo end -->
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Paladin</substring> 
+			<substring>Paladin</substring>
 		</binding>
 		<binding>
 			<identifier>None</identifier>

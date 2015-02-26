@@ -32,7 +32,7 @@
 			<identifier>ancient</identifier>
 		</binding>
 		<binding>
-			<substring>Light </substring>
+			<substring>Light</substring>
 			<identifier>light</identifier>
 		</binding>
 	<!-- Bindings that lower the quality of weapons end-->
@@ -66,7 +66,7 @@
 			<identifier>great</identifier>
 		</binding>
 		<binding>
-			<substring>Great </substring>
+			<substring>Great</substring>
 			<identifier>great</identifier>
 		</binding>
 		<binding>
@@ -126,19 +126,19 @@
 	<!-- PerMa modifiers (do not change) end-->
 	<!-- Nock to Tip start -->
 		<binding>
-			<substring> (Improved)</substring>
+			<substring>(Improved)</substring>
 			<identifier>80</identifier>
 		</binding>
 		<binding>
-			<substring> (Legendary)</substring>
+			<substring>(Legendary)</substring>
 			<identifier>120</identifier>
 		</binding>
 		<binding>
-			<substring> (High Speed)</substring>
+			<substring>(High Speed)</substring>
 			<identifier>speed</identifier>
 		</binding>
 		<binding>
-			<substring> (High Tension)</substring>
+			<substring>(High Tension)</substring>
 			<identifier>tension</identifier>
 		</binding>
 	<!-- Nock to Tip end -->
@@ -804,6 +804,7 @@
 	<!-- Advance bindings end -->
 
 	<!-- Bonemold bindings start -->
+	<!-- Bindings allowed: Bone, Mammoth Bone, Bonemold, BonemoldHigh -->
 		<binding>
 			<identifier>Mammoth Bone</identifier>
 			<substring>Bone</substring>
@@ -823,12 +824,13 @@
 	<!-- Bonemold bindings end -->
 	
 	<!-- Bound Weapon bindings start -->
+	<!-- Bindings allowed: BoundLow, Bound, BoundHigh -->
 		<binding>
-			<identifier>Bound</identifier>
+			<identifier>BoundLow</identifier>
 			<substring>Hammer of Justice</substring>
 		</binding>
 		<binding>
-			<identifier>Bound</identifier>
+			<identifier>BoundLow</identifier>
 			<substring>Divine Hammer</substring>
 		</binding>
 	<!-- Bound Weapon bindings end -->
@@ -858,7 +860,7 @@
 			<substring>Molag Bal</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier>
+			<identifier>DaedricLow</identifier>
 			<substring>Rusty Mace</substring>
 		</binding>
 		<binding>
@@ -919,7 +921,7 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
-			<substring> Zahkrii Do Dovahkiin</substring><!-- the leading space is intended do not remove it -->
+			<substring>Zahkrii Do Dovahkiin</substring> <!-- the leading space is intended do not remove it -->
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -942,15 +944,15 @@
 			<substring>Volendrung</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>Rune</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
-			<substring>Stormbringer Rune</substring> 
+			<substring>Stormbringer Rune</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>Shadowsting</substring>
 		</binding>
 		<binding>
@@ -978,15 +980,15 @@
 			<substring>Lustmord Crossbow</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>Black Hands Dagger</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>Soul Drinker</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>Veloth's Judgement</substring>
 		</binding>
 		<binding>
@@ -994,27 +996,27 @@
 			<substring>El'druin</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>Cursed Dagger</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>DarkOne Bow</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>Scempio</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>Strazio</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>Shadowsting</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier> 
+			<identifier>Daedric</identifier>
 			<substring>Memodermic</substring>
 		</binding>
 		<binding>
@@ -1292,10 +1294,10 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
-			<substring>Cavalry Broadsword</substring> 
+			<substring>Cavalry Broadsword</substring>
 		</binding>
 		<binding>
-			<identifier>Draugr</identifier> 
+			<identifier>Draugr</identifier>
 			<substring>Nordic War Pick</substring>
 		</binding>
 		<binding>
@@ -1308,7 +1310,7 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
-			<substring>Riders Blade</substring> 
+			<substring>Riders Blade</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
@@ -1479,7 +1481,7 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
-			<substring>Force Bow</substring> 
+			<substring>Force Bow</substring>
 		</binding>
 		<binding>
 			<identifier>DwarvenHigh</identifier>
@@ -1709,7 +1711,7 @@
 			<substring>Bone Hilt</substring>
 		</binding>
 		<binding>
-			<identifier>Ebony</identifier> 
+			<identifier>Ebony</identifier>
 			<substring>Assassin</substring>
 		</binding>
 		<binding>
@@ -1894,7 +1896,7 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
-			<substring>Cluny </substring>
+			<substring>Cluny</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -2354,7 +2356,7 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
-			<substring>Mephala Battleaxe</substring> 
+			<substring>Mephala Battleaxe</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -2460,7 +2462,7 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
-			<substring>Spider </substring>
+			<substring>Spider</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -2700,7 +2702,7 @@
 			<substring>Marshborn Blight</substring>
 		</binding>
 		<binding>
-			<identifier>NordHigh</identifier> 
+			<identifier>NordHigh</identifier>
 			<substring>Noroknos</substring>
 		</binding>
 		<binding>
@@ -3686,8 +3688,24 @@
 
 	<!-- Bound Material Listings start -->
 		<weapon_material>
+			<damageModifier>1.95</damageModifier>
+			<identifier>BoundLow</identifier>
+			<materialMeltdown>NONE</materialMeltdown>
+			<materialTemper>NONE</materialTemper>
+			<reachModifier>0.00</reachModifier>
+			<speedModifier>0.05</speedModifier>
+		</weapon_material>
+		<weapon_material>
 			<damageModifier>2</damageModifier>
 			<identifier>Bound</identifier>
+			<materialMeltdown>NONE</materialMeltdown>
+			<materialTemper>NONE</materialTemper>
+			<reachModifier>0.00</reachModifier>
+			<speedModifier>0.05</speedModifier>
+		</weapon_material>
+		<weapon_material>
+			<damageModifier>2.05</damageModifier>
+			<identifier>BoundHigh</identifier>
 			<materialMeltdown>NONE</materialMeltdown>
 			<materialTemper>NONE</materialTemper>
 			<reachModifier>0.00</reachModifier>
@@ -4294,7 +4312,7 @@
 		</weapon_material>
 		<weapon_material>
 			<damageModifier>1.1</damageModifier>
-			<identifier>Ashwood</identifier> 
+			<identifier>Ashwood</identifier>
 			<materialMeltdown>WOOD</materialMeltdown>
 			<materialTemper>WOOD</materialTemper>
 			<reachModifier>0.0</reachModifier>
@@ -4302,7 +4320,7 @@
 		</weapon_material>
 		<weapon_material>
 			<damageModifier>1.1</damageModifier>
-			<identifier>Steelwood</identifier> 
+			<identifier>Steelwood</identifier>
 			<materialMeltdown>STEEL</materialMeltdown>
 			<materialTemper>STEEL</materialTemper>
 			<reachModifier>0.0</reachModifier>
@@ -4553,7 +4571,7 @@
 
 	<!-- Ranged Weapon bindings start -->
 		<binding>
-			<substring>Crossbow</substring> 
+			<substring>Crossbow</substring>
 			<identifier>Crossbow</identifier>
 		</binding>
 		<binding>
@@ -4626,7 +4644,7 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
-			<substring>Hollow Blade</substring> 
+			<substring>Hollow Blade</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -4654,7 +4672,7 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
-			<substring> Zahkrii Do Dovahkiin</substring><!-- The leading space is intended do not remove it -->
+			<substring>Zahkrii Do Dovahkiin</substring> <!-- The leading space is intended do not remove it -->
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -5370,7 +5388,7 @@
 		</binding>
 		<binding>
 			<substring>Spider Sword</substring>
-			<identifier>Longsword</identifier> 
+			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
 			<substring>Shadowsting</substring>
@@ -5441,55 +5459,55 @@
 		</binding>
 		<binding>
 			<substring>Horksbane</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
-			<substring>Rod</substring> 
+			<substring>Rod</substring>
 			<identifier>Spiked Mace</identifier>
 		</binding>
 		<binding>
 			<substring>War Pick</substring>
-			<identifier>Spiked Mace</identifier> 
+			<identifier>Spiked Mace</identifier>
 		</binding>
 		<binding>
 			<substring>Warpick</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
 			<substring>Icebreaker</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
 			<substring>Marshborn Blight</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
 			<substring>Light of Day</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
 			<substring>Ironhart's Might</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
 			<substring>The Giving Star</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
 			<substring>Bells of Sotha Ehn</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
 			<substring>Dwemeri Cutting Sphere</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
 			<substring>Scourge</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
 			<substring>Sunder</substring>
-			<identifier>Mace</identifier> 
+			<identifier>Mace</identifier>
 		</binding>
 		<binding>
 			<identifier>Mace</identifier>
@@ -5501,7 +5519,7 @@
 		</binding>
 		<binding>
 			<substring>Mace of Molag Bal</substring>
-			<identifier>Spiked Mace</identifier> 
+			<identifier>Spiked Mace</identifier>
 		</binding>
 	<!-- Mace bindings end -->
 
@@ -5527,7 +5545,7 @@
 		</binding>
 		<binding>
 			<substring>Emfy Mace</substring>
-			<identifier>Morning Star</identifier> 
+			<identifier>Morning Star</identifier>
 		</binding>
 	<!-- Morning Star -->
 
@@ -5860,7 +5878,7 @@
 			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
-			<substring>Dragonbrand</substring> 
+			<substring>Dragonbrand</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
@@ -5940,7 +5958,7 @@
 		</binding>
 		<binding>
 			<substring>Balestarius</substring>
-			<identifier>Battleaxe</identifier> 
+			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
 			<substring>Hoth's Bonestaff</substring>
@@ -6189,20 +6207,20 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
-			<substring>Rune Blade</substring> 
+			<substring>Rune Blade</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
 			<substring>Great Blade</substring>
-			<identifier>Greatsword</identifier> 
+			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
-			<substring>Great Crescent</substring> 
-			<identifier>Greatsword</identifier> 
+			<substring>Great Crescent</substring>
+			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
 			<substring>Greyblade</substring>
-			<identifier>Greatsword</identifier> 
+			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
 			<substring>Ebony Longblade</substring>
@@ -7823,12 +7841,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
-			<text>Zth_</text> 
+			<text>Zth_</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
-			<text>ZW_</text> 
+			<text>ZW_</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
