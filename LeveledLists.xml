@@ -5380,6 +5380,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+		<!-- S7B Lady Draak BBP -->
+			<exclusion>
+				<text>ArmorLadyDraak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- S7B Lady Draak BBP -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
