@@ -58,6 +58,7 @@ Updated Patches:
 	SiC: Name and keyword adjustments, added missed model
 	CCOR, WAFR: Name and keyword adjustments
 	CCF: Keyword adjustments.
+	Wind Magic: Corrected Spell costs. Removed Update.esm and Dawnguard.esm as masters.
 
 New Patches:
 </v2.4>
