@@ -4938,13 +4938,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Nock to Tip end -->
-		<!--  Death Alternative -->
+		<!-- Death Alternative -->
 			<exclusion>
 				<text>daymoyl_</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-		<!--  Death Alternative -->
+		<!-- Death Alternative -->
 		<!-- Ghosus Weapon Pack -->
 			<exclusion>
 				<text>Aegis of Champions</text>
@@ -4963,25 +4963,13 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-					<!-- For the follower mod "Hoth" -->
+				<!-- For the follower mod "Hoth" -->
 			<exclusion>
 				<text>Hoth</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
 			<!-- EggOver -->
-		<!-- Contractor and Mavari armors -->
-			<exclusion>
-				<text>Contractor</text>
-				<target>NAME</target>
-				<type>CONTAINS</type>
-			</exclusion>
-			<exclusion>
-				<text>Mavari</text>
-				<target>NAME</target>
-				<type>CONTAINS</type>
-			</exclusion>
-		<!-- Contractor and Mavari armors -->
 		<!-- Contractor and Mavari armors -->
 			<exclusion>
 				<text>Contractor</text>
