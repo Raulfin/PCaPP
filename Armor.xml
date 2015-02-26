@@ -7483,7 +7483,23 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Falmer Hardened</substringArmor>
+			<substringArmor>Falmer Hardened Armor</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Hardened Boots</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Hardened Bracers</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Hardened Gauntlets</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Hardened Helm</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
