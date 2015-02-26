@@ -8,6 +8,7 @@ Now covers:
 
 Blocklist:
 	Combat Evolved.esp
+	SkyTweak.esp
 
 Exclusions:
 	Gharol's Iron Sword can no longer be Reforge and will not have enchanted variants made or distributed.
@@ -31,7 +32,6 @@ Fixes:
 	Fur Kilt and Fur Kilt with Mantle now have missing bandit masquerade keyword
 	Fur Gauntlets and Boots now have only stormcloak masquerade keyword (bandit keyword removed)
 	Fur Pant Armor now have missing bandit masquerade keyword (SIC)
-	Added missed model to Ancient Nord Helmet (SIC)
 	Masquerade keywords on Stormcloak, Imperial, Forsworn, Falmer, Vampire Circlets and Ulfric's Gag are removed.
 	Masquerade keywords on Imperial and Falmer Shields are removed.
 
@@ -58,8 +58,7 @@ Renamed:
 
 Updated Patches:
 	Immersive Armors: Bosmer Engraved set will now benefit from the Ebony perk and not the Glass perk.
-	SiC: Name and keyword adjustments, added missed model
-	CCOR, WAFR: Name and keyword adjustments
+	SiC, CCOR, WAFR: Name and keyword adjustments
 	CCF: Keyword adjustments.
 	Wind Magic: Corrected Spell costs. Removed Update.esm and Dawnguard.esm as masters.
 
