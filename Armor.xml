@@ -172,10 +172,6 @@
 			<substring>Perfect</substring>
 			<identifier>officer</identifier>
 		</binding>
-		<binding>
-			<substring>Superior</substring>
-			<identifier>veteran</identifier>
-		</binding>
 	</armor_modifier_bindings>
 
 	<armor_modifiers> 
@@ -7959,22 +7955,7 @@
 	<!-- Wyrmstooth-->
 	<!-- Falskaar-->
 		<exclusion>
-			<text>FSArmor</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>FSMQ</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>FSSQ</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>FSTest</text>
+			<text>FS</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
