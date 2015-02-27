@@ -2257,11 +2257,6 @@
 		<!-- Wheels Of Lull-->
 		<!-- Falskaar-->
 			<exclusion>
-				<text>Vanvir</text>
-				<target>NAME</target>
-				<type>CONTAINS</type>
-			</exclusion>
-			<exclusion>
 				<text>FS</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
@@ -3521,11 +3516,6 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Falskaar-->
-			<exclusion>
-				<text>Vanvir</text>
-				<target>NAME</target>
-				<type>CONTAINS</type>
-			</exclusion>
 			<exclusion>
 				<text>FS</text>
 				<target>EDID</target>
@@ -5423,22 +5413,7 @@
 		<!-- Skyrim Knights -->
 		<!-- Falskaar-->
 			<exclusion>
-				<text>FSArmor</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-			<exclusion>
-				<text>FSMQ</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-			<exclusion>
-				<text>FSSQ</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-			<exclusion>
-				<text>FSTest</text>
+				<text>FS</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
@@ -6803,22 +6778,7 @@
 		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
 		<!-- Falskaar -->
 			<exclusion>
-				<text>FSArmor</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-			<exclusion>
-				<text>FSMQ</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-			<exclusion>
-				<text>FSSQ</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-			<exclusion>
-				<text>FSTest</text>
+				<text>FS</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
