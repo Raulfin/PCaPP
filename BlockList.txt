@@ -4,6 +4,7 @@
 Animated Dragon Wings.esp
 Chesko_WearableLantern.esp
 CollegeDaysWinterhold.esp
+Combat Evolved.esp
 Convenient Horses.esp
 DA-Survival.esp
 daymoyl.esm

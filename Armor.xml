@@ -72,6 +72,10 @@
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
+			<substring>Damaged</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
 			<substring>Worn</substring>
 			<identifier>worn</identifier>
 		</binding>
@@ -6072,6 +6076,10 @@
 			<identifier>Steel</identifier>
 			<substring>Steel Fancy</substring><!-- winter is coming -->
 		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Damaged Ceremonial</substring>
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
@@ -7583,7 +7591,23 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Falmer Hardened</substringArmor>
+			<substringArmor>Falmer Hardened Armor</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Hardened Boots</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Hardened Bracers</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Hardened Gauntlets</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Falmer Hardened Helm</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7670,6 +7694,10 @@
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
 			<substringArmor>Imperial Studded</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Studded Imperial</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -8031,7 +8059,22 @@
 	<!-- Wyrmstooth-->
 	<!-- Falskaar-->
 		<exclusion>
+			<text>FSArmor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>FSMQ</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
 			<text>FSSQ</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>FSTest</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
