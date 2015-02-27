@@ -4209,7 +4209,7 @@
 			<exclusion>
 				<text>SkyforgeSteelSwordReforged</text>
 				<target>EDID</target>
-				<type>CONTAINS</type>
+				<type>EQUALS</type>
 			</exclusion>
 		<!-- Skyrim Knights -->
 		</distribution_exclusions_list_enchanted>
