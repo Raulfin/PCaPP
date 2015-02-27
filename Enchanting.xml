@@ -6808,11 +6808,6 @@
 	<!-- Wyrmstooth-->
 	<!-- Falskaar-->
 		<exclusion>
-			<text>Vanvir</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
 			<text>FS</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
@@ -6849,24 +6844,9 @@
 	<!-- Anna's NPCs end -->
 	<!-- Hunterborn start -->
 		<exclusion>
-			<text>Heartwood</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>_DS_HuntingKnife_</text>
+			<text>_DS_</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>_Masterwork</text>
-			<target>EDID</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>_DS_WEAP_</text>
-			<target>EDID</target>
-			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Hunterborn end -->
 	<!-- Ultimate Assortment start -->
@@ -7810,22 +7790,7 @@
 		</exclusion>
 	<!-- Falskaar -->
 		<exclusion>
-			<text>FSArmor</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>FSMQ</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>FSSQ</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>FSTest</text>
+			<text>FS</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
@@ -7870,24 +7835,7 @@
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-	<!-- Wyrmstooth-->
-	<!-- Falskaar-->
-		<exclusion>
-			<text>FSM</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>FSS</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>FST</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-	<!-- Falskaar-->
+	<!-- Wyrmstooth -->
 	<!-- Anna's NPCs start -->
 		<exclusion>
 			<text>Mareen</text>
