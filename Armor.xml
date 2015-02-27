@@ -694,7 +694,6 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Clothing</substring>
-		</binding>
 		<binding>
 			<identifier>HorkerL</identifier>
 			<substring>Horker Light</substring>
