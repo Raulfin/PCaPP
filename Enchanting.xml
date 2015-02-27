@@ -7501,6 +7501,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+	<!-- Skyrim Knights -->
+		<exclusion>
+			<text>Uznahgaar</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Skyrim Knights -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8417,6 +8424,28 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- S7B Lady Draak BBP -->
+	<!-- Skyrim Knights -->
+		<exclusion>
+			<text>ArmorDragonscaleHelmetDragonthanereforged</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ArmorReforgedSteelPlateDragonthane</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ArmorSteelPlateBootsReforgedDragonthane</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ArmorSteelPlateGauntletsreforgedDragonthane</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Skyrim Knights -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

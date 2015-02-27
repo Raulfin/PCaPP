@@ -4198,6 +4198,13 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- EggOver -->
+		<!-- Skyrim Knights -->
+			<exclusion>
+				<text>Uznahgaar</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Skyrim Knights -->
 		</distribution_exclusions_list_enchanted>
 	</distribution_exclusions_weapon>
 
@@ -5375,6 +5382,28 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- S7B Lady Draak BBP -->
+		<!-- Skyrim Knights -->
+			<exclusion>
+				<text>ArmorDragonscaleHelmetDragonthanereforged</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorReforgedSteelPlateDragonthane</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorSteelPlateBootsReforgedDragonthane</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorSteelPlateGauntletsreforgedDragonthane</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Skyrim Knights -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
