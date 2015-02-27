@@ -694,7 +694,6 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Clothing</substring>
-		</binding>
 		<binding>
 			<identifier>HorkerL</identifier>
 			<substring>Horker Light</substring>
@@ -716,100 +715,258 @@
 			<substring>Daedric</substring>
 		</binding>
 		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Даэдрич</substring>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>даэдрич</substring>
+		</binding>
+		<binding>
 			<identifier>Dragonplate</identifier>
 			<substring>Dragonplate</substring>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконий панцирный</substring>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконьи панцирные</substring>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконья панцирная</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
 			<substring>Dragonscale</substring>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Драконий чешуйчатый</substring>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Драконьи чешуйчатые</substring>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Драконья чешуйчатая броня</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Dwarven</substring>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Двемерск</substring>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>двемерск</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Ebony</substring>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Эбонит</substring>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>эбонит</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Elven</substring>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Эльфийск</substring>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>эльфийск</substring>
 		</binding>
 		<binding>
 			<identifier>Falmer</identifier>
 			<substring>Falmer</substring>
+		<binding>
+			<identifier>Falmer</identifier>
+			<substring>Фалмерск</substring>
+		<binding>
+			<identifier>Falmer</identifier>
+			<substring>фалмерск</substring>
 		</binding>
 		<binding>
 			<identifier>Ancient Falmer</identifier>
 			<substring>Ancient Falmer</substring>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древние фалмерские</substring>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древняя фалмерская</substring>
 		</binding>
 		<binding>
 			<identifier>Forsworn</identifier>
 			<substring>Forsworn</substring>
+		<binding>
+			<identifier>Forsworn</identifier>
+			<substring>Изгоев</substring>
 		</binding>
 		<binding>
 			<identifier>Fur</identifier>
 			<substring>Fur</substring>
+		<binding>
+			<identifier>Fur</identifier>
+			<substring>Мехов</substring>
+		<binding>
+			<identifier>Fur</identifier>
+			<substring>мехов</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Glass</substring>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Стеклян</substring>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>стеклян</substring>
 		</binding>
 		<binding>
 			<identifier>Gold</identifier>
 			<substring>Gold</substring>
 		</binding>
 		<binding>
+			<identifier>Gold</identifier>
+			<substring>Золот</substring>
+		</binding>
+		<binding>
+			<identifier>Gold</identifier>
+			<substring>золот</substring>
+		</binding>
+		<binding>
 			<identifier>Hide</identifier>
 			<substring>Hide</substring>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Сыромятн</substring>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>сыромятн</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Iron</substring>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Железн</substring>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>железн</substring>
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
 			<substring>Banded Iron</substring>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Прочная железная</substring>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Прочный железный</substring>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Прочные железные</substring>
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
 			<substring>Banded Armor</substring>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Прочная броня</substring>
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
 			<substring>Banded Shield</substring>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Прочный щит</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Leather</substring>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Кожан</substring>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>кожан</substring>
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
 			<substring>Nordic</substring>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордск</substring>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордск</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Orcish</substring>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ороч</substring>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ороч</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Scaled</substring>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Ламеллярн</substring>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>ламеллярн</substring>
 		</binding>
 		<binding>
 			<identifier>Silver</identifier>
 			<substring>Silver</substring>
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>Серебрян</substring>
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>серебрян</substring>
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
 			<substring>Studded</substring>
 		</binding>
 		<binding>
+			<identifier>Studded</identifier>
+			<substring>Клепан</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>клепан</substring>
+		</binding>
+		<binding>
 			<identifier>Steel</identifier>
 			<substring>Steel</substring>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальн</substring>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>стальн</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Steel Plate</substring>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Стальная пластинчатая</substring>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Стальной пластинчатый</substring>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Стальные пластинчатые</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -818,6 +975,15 @@
 		<binding>
 			<identifier>HStalhrim</identifier>
 			<substring>Stalhrim Heavy</substring>
+		<binding>
+			<identifier>HStalhrim</identifier>
+			<substring>Сталгримовая тяжелая</substring>
+		<binding>
+			<identifier>HStalhrim</identifier>
+			<substring>Сталгримовые тяжелые</substring>
+		<binding>
+			<identifier>HStalhrim</identifier>
+			<substring>Сталгримовый тяжелый</substring>
 		</binding>
 		<binding>
 			<identifier>HStalhrim</identifier>
@@ -826,6 +992,15 @@
 		<binding>
 			<identifier>LStalhrim</identifier>
 			<substring>Stalhrim Light</substring>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Сталгримовая легкая</substring>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Сталгримовые легкие</substring>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Сталгримовый легкий</substring>
 		</binding>
 		<binding>
 			<identifier>LStalhrim</identifier>
@@ -834,14 +1009,32 @@
 		<binding>
 			<identifier>Unarmored</identifier>
 			<substring>Clothing</substring>
+		<binding>
+			<identifier>Unarmored</identifier>
+			<substring>Одеяние</substring>
+		<binding>
+			<identifier>Unarmored</identifier>
+			<substring>одеяние</substring>
 		</binding>
 		<binding>
 			<identifier>Vampire</identifier>
 			<substring>Vampire</substring>
+		<binding>
+			<identifier>Vampire</identifier>
+			<substring>Вампирск</substring>
+		<binding>
+			<identifier>Vampire</identifier>
+			<substring>вампирск</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Wooden</substring>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>Деревян</substring>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>деревян</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
