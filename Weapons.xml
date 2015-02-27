@@ -877,7 +877,7 @@
 		</binding>
 		<binding>
 			<identifier>DaedricLow</identifier>
-			<substring>Rusty Mace</substring>
+			<substring>Daedric Rusty</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
@@ -1185,6 +1185,10 @@
 		<binding>
 			<identifier>Dragonplate</identifier>
 			<substring>Dragon's Fang</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Uznahgaar</substring>
 		</binding>
 	<!-- Dragonplate bindings end -->
 	
@@ -2784,12 +2788,20 @@
 			<substring>Silver Orcish</substring>
 		</binding>
 		<binding>
+			<identifier>RSilver</identifier>
+			<substring>Refined Silver Orcish</substring>
+		</binding>
+		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Rueful Axe</substring>
 		</binding>
 		<binding>
 			<identifier>Silver</identifier>
 			<substring>Bloodskal</substring>
+		</binding>
+		<binding>
+			<identifier>RSilver</identifier>
+			<substring>Refined Bloodskal</substring>
 		</binding>
 		<binding>
 			<identifier>Silver</identifier>
@@ -2800,12 +2812,24 @@
 			<substring>Luna</substring>
 		</binding>
 		<binding>
+			<identifier>RSilver</identifier>
+			<substring>Refined Luna</substring>
+		</binding>
+		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Luna II</substring>
 		</binding>
 		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Luna II</substring>
+		</binding>
+		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Deep-Rout</substring>
+		</binding>
+		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Deep-Rout</substring>
 		</binding>
 		<binding>
 			<identifier>SilverHigh</identifier>
@@ -2816,12 +2840,32 @@
 			<substring>Cyrodiilic Silver</substring>
 		</binding>
 		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Cyrodiilic Silver</substring>
+		</binding>
+		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Eltonbrand</substring>
 		</binding>
 		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Eltonbrand</substring>
+		</binding>
+		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Thornblade</substring>
+		</binding>
+		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Thornblade</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Noble Silver</substring>
+		</binding>
+		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Noble Silver</substring>
 		</binding>
 	<!-- Silver bindings end -->
 	
@@ -4961,6 +5005,10 @@
 		</binding>
 		<binding>
 			<substring>Windhelm sword</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Uznahgaar</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 	<!-- Arming Sword bindings end -->
@@ -8057,6 +8105,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- SkyRe Races -->
+	<!-- Skyrim Knights -->
+		<exclusion>
+			<text>Uznahgaar</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Skyrim Knights -->
 	</reforge_exclusions>
 
 </ns2:weapons>
