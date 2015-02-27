@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <ns2:languages xmlns:ns2="PatchusMaximus.languageXML">
 	<default_language>ENGLISH</default_language> <!-- Do not use this to change your language, only change it in GeneralSettings.xml -->
 
@@ -8155,16 +8155,2453 @@
 	<language><!-- Русский -->
 		<languageID>RUSSIAN</languageID>
 		<stringBinding>
-			<identifier>Bastard Sword</identifier>
-			<outputString>Меч-бастард</outputString>
+			<identifier>Hunting Knife</identifier>
+			<outputString>Охотничий нож</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Morning star</identifier>
+			<outputString>Моргенштерн</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shiv</identifier>
+			<outputString>Заточка</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Broadsword</identifier>
+			<outputString>Широкий меч</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>The Longhammer</identifier>
+			<outputString>Длинный молот</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Spiked Mace</identifier>
+			<outputString>Шипастая булава</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Pickaxe</identifier>
+			<outputString>Кирка</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Katana</identifier>
+			<outputString>Катана</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Nodachi</identifier>
+			<outputString>Нодати</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Tanto</identifier>
+			<outputString>Танто</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dagger</identifier>
+			<outputString>Кинжал</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Knuckles</identifier>
+			<outputString>Кастет</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Katar</identifier>
+			<outputString>Катар</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mace</identifier>
+			<outputString>Булава</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Crossbow</identifier>
+			<outputString>Арбалет</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Club</identifier>
+			<outputString>Дубина</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warhammer</identifier>
+			<outputString>Боевой молот</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Armingsword</identifier>
+			<outputString>Боевой меч</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Battleaxe</identifier>
+			<outputString>Секира</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Battlestaff</identifier>
+			<outputString>Боевой посох</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Volendrung</identifier>
+			<outputString>Волдеранг</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Partisan</identifier>
+			<outputString>Протазан</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hatchet</identifier>
+			<outputString>Топорик</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Longsword</identifier>
+			<outputString>Длинный меч</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Scimitar</identifier>
+			<outputString>Скимитар</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shortsword</identifier>
+			<outputString>Короткий меч</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Bastard Sword</identifier>
+			<outputString>Полуторный меч</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Sabre</identifier>
+			<outputString>Сабля</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wakizashi</identifier>
+			<outputString>Вакидзаси</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Maul</identifier>
+			<outputString>Кувалда</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shortspear</identifier>
+			<outputString>Короткое копье</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Halberd</identifier>
+			<outputString>Алебарда</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Longmace</identifier>
+			<outputString>Длинная булава</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Claw</identifier>
+			<outputString>Коготь</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Arming Sword</identifier>
+			<outputString>Боевой меч</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Waraxe</identifier>
 			<outputString>Боевой топор</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>War Axe</identifier>
+			<outputString>Боевой топор</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Greatsword</identifier>
+			<outputString>Двуручный меч</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Staff</identifier>
+			<outputString>Посох</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Scroll</identifier>
+			<outputString>Свиток</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Refined</identifier>
+			<outputString>Очищенный</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Reforged</identifier>
+			<outputString>Переков.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warforged</identifier>
+			<outputString>Закален.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Replica</identifier>
+			<outputString>Реплика</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Quality</identifier>
+			<outputString>Качеств.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Strong</identifier>
+			<outputString>Крепкий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Strongest</identifier>
+			<outputString>Усиленный</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Poisoned</identifier>
+			<outputString>Отравленый</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Fire</identifier>
+			<outputString>Огня</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Frost</identifier>
+			<outputString>Холода</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shock</identifier>
+			<outputString>Электричества</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lightsource</identifier>
+			<outputString>Осветительная</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explosive</identifier>
+			<outputString>Взрывчатый</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Timebomb</identifier>
+			<outputString>Замедл. взрыв</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Barbed</identifier>
+			<outputString>С насечками</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Silenced</identifier>
+			<outputString>Бесшумный</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Arbalest</identifier>
+			<outputString>Тяжелый арбалет</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Recurve</identifier>
+			<outputString>Изогнутый</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lightweight</identifier>
+			<outputString>Легкий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shortbow</identifier>
+			<outputString>Короткий лук</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Longbow</identifier>
+			<outputString>Длинный лук</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Duration</identifier>
+			<outputString>Длительность</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>seconds</identifier>
+			<outputString>с.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Deals more bonus damage to undead, and is easier to handle than regular silver weapons.</identifier>
+			<outputString>Наносит дополнительный урон нежити, а также легче в обращении чем обычное серебряное оружие.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explodes upon impact, dealing 10 points of poison damage per second for 3 seconds.</identifier>
+			<outputString>Взрывается при ударе, нанося 10 ед. урона ядом в секунду на протяжении 3 с.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explodes upon impact, dealing 60 points of non-elemental damage.</identifier>
+			<outputString>Взрывается при ударе, нанося 60 ед. не-стихийного урона</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explodes 4 seconds after being fired into a surface, dealing 120 points of non-elemental damage.</identifier>
+			<outputString>Взрывается через 4 с. после установки на поверхность, нанося 120 ед. не-стихийного урона.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explodes 3 seconds after being fired into a surface, dealing 150 points of non-elemental damage.</identifier>
+			<outputString>Взрывается через 3 с. после установки на поверхность, нанося 150 ед. не-стихийного урона.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explodes upon impact, dealing 30 points of frost damage.</identifier>
+			<outputString>Взрывается при ударе, нанося 30 ед. урона холодом.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explodes upon impact, dealing 30 points of fire damage.</identifier>
+			<outputString>Взрывается при ударе, нанося 30 ед. урона огнем.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explodes upon impact, dealing 30 points of shock damage.</identifier>
+			<outputString>Взрывается при ударе, нанося 30 ед. урона электричеством.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Emits light after being fired.</identifier>
+			<outputString>Начинает светиться после выстрела.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Deals 6 points of bleeding damag per second over 8 seconds, and slows the target down by 20%.</identifier>
+			<outputString>Наносит 6 ед. урона от кровотечения в секунду в течение 8 с. и замедляет цель на 20%.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>of</identifier>
 			<outputString></outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Fire</identifier>
+			<outputString>Огня</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Burning</identifier>
+			<outputString>Горящий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Cinder</identifier>
+			<outputString>Испепеления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blisters</identifier>
+			<outputString>Нарывов</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Flaming</identifier>
+			<outputString>Пылающий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Eruption</identifier>
+			<outputString>Извержения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Infernal</identifier>
+			<outputString>Адский</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Panic</identifier>
+			<outputString>Паники</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hysteria</identifier>
+			<outputString>Истерии</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Fear</identifier>
+			<outputString>Страха</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dismay</identifier>
+			<outputString>Испуга</outputString>
+		</stringBinding>
+		<!-- Wind Destruction Magic -->
+		<stringBinding>
+			<identifier>Drafts</identifier>
+			<outputString>Осадков</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Breezes</identifier>
+			<outputString>Ветерка</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Flurries</identifier>
+			<outputString>Шквала</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wind</identifier>
+			<outputString>Ветра</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Typhoons</identifier>
+			<outputString>Ураганов</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hurricanes</identifier>
+			<outputString>Штормов</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Gust</identifier>
+			<outputString>Порыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Tempest</identifier>
+			<outputString>Бури</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Tornado</identifier>
+			<outputString>Торнадо</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wall Of Wind</identifier>
+			<outputString>Стены ветра</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Whirlwind</identifier>
+			<outputString>Вихря</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wind Rune</identifier>
+			<outputString>Руны ветра</outputString>
+		</stringBinding>
+		<!-- Wind Destruction Magic -->
+		<!--Misc-->
+		<!--WINTERMYST ARMORS NAMES-->
+		<stringBinding>
+			<identifier>the Bulwark</identifier>
+			<outputString>Оплота</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Rampart</identifier>
+			<outputString>Обороны</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Tower</identifier>
+			<outputString>Башни</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Castle</identifier>
+			<outputString>Замка</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Fortress</identifier>
+			<outputString>Крепости</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Bastion</identifier>
+			<outputString>Бастиона</outputString>
+		</stringBinding>
+		<!--Bulwark-->
+		<stringBinding>
+			<identifier>the Maze</identifier>
+			<outputString>Замешательства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rebuking</identifier>
+			<outputString>Отпора</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Labyrinth</identifier>
+			<outputString>Путаницы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Reckoning</identifier>
+			<outputString>Расплаты</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Hollow</identifier>
+			<outputString>Пустоты</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Sanctuary</identifier>
+			<outputString>Неприкосновенности</outputString>
+		</stringBinding>
+		<!--Maze/Rebuke-->
+		<stringBinding>
+			<identifier>Spurs</identifier>
+			<outputString>Шпор</outputString>
+		</stringBinding>
+		<!--Spurs-->
+		<stringBinding>
+			<identifier>Starlight</identifier>
+			<outputString>Звездного света</outputString>
+		</stringBinding>
+		<!--Light-->
+		<stringBinding>
+			<identifier>Gremlin Gold</identifier>
+			<outputString>Золота гремлина</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Troll Gold</identifier>
+			<outputString>Золота тролля</outputString>
+		</stringBinding>
+		<!--Fool's Gold-->
+		<stringBinding>
+			<identifier>the Executioner</identifier>
+			<outputString>Палача</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Guard Breaking</identifier>
+			<outputString>Преодоления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Murder</identifier>
+			<outputString>Убийства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Block Breaking</identifier>
+			<outputString>Пробития</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mercy Killing</identifier>
+			<outputString>Милосердного убийства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>of Guard Crushing</identifier>
+			<outputString>Разгрома</outputString>
+		</stringBinding>
+		<!--Execute/Fortify Power Attack-->
+		<stringBinding>
+			<identifier>Mage Ward</identifier>
+			<outputString>Магического оберега</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Smoke and Mirrors</identifier>
+			<outputString>Сокрытия</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hexward</identifier>
+			<outputString>Защищающ. от чар</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Deceit</identifier>
+			<outputString>Лукавства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizardward</identifier>
+			<outputString>Волшебного оберега</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lies</identifier>
+			<outputString>Выдумок</outputString>
+		</stringBinding>
+		<!--Mage Ward/Smoke and Mirrors-->
+		<stringBinding>
+			<identifier>Totems</identifier>
+			<outputString>Тотемов</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dark Woods</identifier>
+			<outputString>Темных лесов</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Moonlit Woods</identifier>
+			<outputString>Лунных лесов</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Heer</identifier>
+			<outputString>Шерсти</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Fell</identifier>
+			<outputString>Шкуры</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Primal</identifier>
+			<outputString>Первобытности</outputString>
+		</stringBinding>
+		<!--Phantoms of the Wild-->
+		<stringBinding>
+			<identifier>Experience</identifier>
+			<outputString>Опыта</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Training</identifier>
+			<outputString>Тренировки</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Acumen</identifier>
+			<outputString>Проницательности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Knowledge</identifier>
+			<outputString>Знаний</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Understanding</identifier>
+			<outputString>Понимания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wisdom</identifier>
+			<outputString>Мудрости</outputString>
+		</stringBinding>
+		<!--Increased Experience-->
+		<stringBinding>
+			<identifier>Sprinting</identifier>
+			<outputString>Бега</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Quickness</identifier>
+			<outputString>Быстроты</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Acceleration</identifier>
+			<outputString>Ускорения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Chasing</identifier>
+			<outputString>Погони</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Panther</identifier>
+			<outputString>Пантеры</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Cheetah</identifier>
+			<outputString>Гепарда</outputString>
+		</stringBinding>
+		<!--Fortify Sprint-->
+		<stringBinding>
+			<identifier>Swimming</identifier>
+			<outputString>Плавания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Fins</identifier>
+			<outputString>Плавников</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Dolphin</identifier>
+			<outputString>Пловца</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Piranha</identifier>
+			<outputString>Пираньи</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Slaughterfish</identifier>
+			<outputString>Рыбы-убийцы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Shark</identifier>
+			<outputString>Акулы</outputString>
+		</stringBinding>
+		<!--Fortify Swim Speed-->
+		<stringBinding>
+			<identifier>the Gladiator</identifier>
+			<outputString>Гладиатора</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blood Sport</identifier>
+			<outputString>Кровавой забавы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Arena</identifier>
+			<outputString>Арены</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Prize Fighter</identifier>
+			<outputString>Зрелища</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Bounty Hunter</identifier>
+			<outputString>Охотника за головами</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Showmanship</identifier>
+			<outputString>Мастера зрелищ</outputString>
+		</stringBinding>
+		<!--Gladiator's Glory-->
+		<stringBinding>
+			<identifier>Hardening Armor</identifier>
+			<outputString>Закалки</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Thickening Armor</identifier>
+			<outputString>Уплотнения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Toughening Armor</identifier>
+			<outputString>Жесткости</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Solidifying Armor</identifier>
+			<outputString>Отвердения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Annealing Armor</identifier>
+			<outputString>Стойкости</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Crystalizing Armor</identifier>
+			<outputString>Кристаллизации</outputString>
+		</stringBinding>
+		<!--Hardening Armor-->
+		<stringBinding>
+			<identifier>Curing</identifier>
+			<outputString>Исцеления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Convalescence</identifier>
+			<outputString>Выздоровления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Vivication</identifier>
+			<outputString>Обновления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rilm's Gift</identifier>
+			<outputString>Подарка Рилмс</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Daydene's Panacea</identifier>
+			<outputString>Панацеи Дайден</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Vivec's Touch</identifier>
+			<outputString>Касания Вивека</outputString>
+		</stringBinding>
+		<!--Cure Disease-->
+		<stringBinding>
+			<identifier>Body and Mind</identifier>
+			<outputString>Тела и Разума</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Body and Spirit</identifier>
+			<outputString>Тела и Духа</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Spirit and Mind</identifier>
+			<outputString>Духа и Разума</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blood and Power</identifier>
+			<outputString>Крови и Могущества</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blood and Might</identifier>
+			<outputString>Крови и Силы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Might and Power</identifier>
+			<outputString>Силы и могущества</outputString>
+		</stringBinding>
+		<!--Link Attribute-->
+		<stringBinding>
+			<identifier>Abyssal Bond</identifier>
+			<outputString>Тайной связи</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Abyssal Pact</identifier>
+			<outputString>Тайного соглашения</outputString>
+		</stringBinding>
+		<!--Powerbond-->
+		<stringBinding>
+			<identifier>Careful Study</identifier>
+			<outputString>Тщательного анализа</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Cautious Study</identifier>
+			<outputString>Осторожного анализа</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Prudent Study</identifier>
+			<outputString>Расчетливого анализа</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Sublime Analysis</identifier>
+			<outputString>Совершенного анализа</outputString>
+		</stringBinding>
+		<!--Enchanter's Touch-->
+		<stringBinding>
+			<identifier>Grunt's</identifier>
+			<outputString>Ворчуна</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ogre's</identifier>
+			<outputString>Огра</outputString>
+		</stringBinding>
+		<!--Brawn over Brains-->
+		<stringBinding>
+			<identifier>Piercing</identifier>
+			<outputString>Пронзания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Impaling</identifier>
+			<outputString>Протыкания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rending</identifier>
+			<outputString>Раздирания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Tearing</identifier>
+			<outputString>Разрывания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Puncturing</identifier>
+			<outputString>Прокалывания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shredding</identifier>
+			<outputString>Кромсания</outputString>
+		</stringBinding>
+		<!--Critical Strike-->
+		<stringBinding>
+			<identifier>Fencing</identifier>
+			<outputString>Прокола</outputString>
+		</stringBinding>
+		<!--Fence-->
+		<stringBinding>
+			<identifier>Perception</identifier>
+			<outputString>Восприятия</outputString>
+		</stringBinding>
+		<!--Perception-->
+		<stringBinding>
+			<identifier>Aldmeri Blood</identifier>
+			<outputString>Крови Альдмери</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Aldmeri Kin</identifier>
+			<outputString>Рода Альдмери</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Aldmeri Heritage</identifier>
+			<outputString>Наследия Альдмери</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Aldmeri Rule</identifier>
+			<outputString>Традиций Альдмери</outputString>
+		</stringBinding>
+		<!--Blood of the Aldmer-->
+		<stringBinding>
+			<identifier>Channeling</identifier>
+			<outputString>Течения магии</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Wraith-King</identifier>
+			<outputString>Короля призраков</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Source</identifier>
+			<outputString>Истока</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Storm-King</identifier>
+			<outputString>Повелителя бурь</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Fountain</identifier>
+			<outputString>Резервуара</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Three Stars</identifier>
+			<outputString>Трех Звезд</outputString>
+		</stringBinding>
+		<!--Channeling/King of the Lost-->
+		<stringBinding>
+			<identifier>Circle of Protection</identifier>
+			<outputString>Круга защиты</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Circle of Power</identifier>
+			<outputString>Круга могущества</outputString>
+		</stringBinding>
+		<!--Circle of Protection-->
+		<stringBinding>
+			<identifier>Deep Breathing</identifier>
+			<outputString>Глубокого дыхания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Word</identifier>
+			<outputString>Слова</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Dovah</identifier>
+			<outputString>Дова</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Speaker</identifier>
+			<outputString>Оратора</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Tongue</identifier>
+			<outputString>Языка</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Kyne's Wonders</identifier>
+			<outputString>Благоговений Кин</outputString>
+		</stringBinding>
+		<!--Deep Breath-->
+		<stringBinding>
+			<identifier>the Sky</identifier>
+			<outputString>Неба</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Moons</identifier>
+			<outputString>Лун</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Heavens</identifier>
+			<outputString>Небес</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Stars</identifier>
+			<outputString>Звезд</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Constellations</identifier>
+			<outputString>Звездных плеяд</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Zodiac</identifier>
+			<outputString>Созвездий</outputString>
+		</stringBinding>
+		<!--Fortify Attributes-->
+		<stringBinding>
+			<identifier>Healing Cloak</identifier>
+			<outputString>Лечащего плаща</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mending Cloak</identifier>
+			<outputString>Целебного плаща</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hearth Cloak</identifier>
+			<outputString>Очага</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Veloth's Aura</identifier>
+			<outputString>Ауры Велота</outputString>
+		</stringBinding>
+		<!--Healing Cloak-->
+		<stringBinding>
+			<identifier>Nedic Blood</identifier>
+			<outputString>Крови недийцев</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Nedic Kin</identifier>
+			<outputString>Рода недийцев</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Nedic Heritage</identifier>
+			<outputString>Наследия недийцев</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Nedic Rule</identifier>
+			<outputString>Традиций недийцев</outputString>
+		</stringBinding>
+		<!--Blood of the Nedes-->
+		<stringBinding>
+			<identifier>Rising Magicka</identifier>
+			<outputString>Повышения магии</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Flourishing Magicka</identifier>
+			<outputString>Восполнения магии</outputString>
+		</stringBinding>
+		<!--Rising Magicka-->
+		<stringBinding>
+			<identifier>Alteration</identifier>
+			<outputString>Изменения</outputString>
+		</stringBinding>
+		<!--Extended Alteration (College)-->
+		<stringBinding>
+			<identifier>Extended Alteration</identifier>
+			<outputString>Расширенного изменения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Durable Alteration</identifier>
+			<outputString>Стойкого изменения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Prolonged Alteration</identifier>
+			<outputString>Длительного изменения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lasting Alteration</identifier>
+			<outputString>Продолжительного изменения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Perpetual Alteration</identifier>
+			<outputString>Бесконечного изменения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Eternal Alteration</identifier>
+			<outputString>Вечного изменения</outputString>
+		</stringBinding>
+		<!--Extended Alteration (Vanilla)-->
+		<stringBinding>
+			<identifier>Conjuration</identifier>
+			<outputString>Колдовства</outputString>
+		</stringBinding>
+		<!--Extended Conjuration (College)-->
+		<stringBinding>
+			<identifier>Extended Conjuration</identifier>
+			<outputString>Расширенного колдовства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Durable Conjuration</identifier>
+			<outputString>Стойкого колдовства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Prolonged Conjuration</identifier>
+			<outputString>Длительного колдовства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lasting Conjuration</identifier>
+			<outputString>Продолжительного колдовства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Perpetual Conjuration</identifier>
+			<outputString>Бесконечного колдовства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Eternal Conjuration</identifier>
+			<outputString>Вечного колдовства</outputString>
+		</stringBinding>
+		<!--Extended Conjuration (Vanilla)-->
+		<stringBinding>
+			<identifier>Destruction</identifier>
+			<outputString>Разрушения</outputString>
+		</stringBinding>
+		<!--Empowered Destruction (College)-->
+		<stringBinding>
+			<identifier>Empowered Destruction</identifier>
+			<outputString>Усиленного разрушения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Potent Destruction</identifier>
+			<outputString>Сильного разрушения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Amplified Destruction</identifier>
+			<outputString>Расширенного разрушения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mighty Destruction</identifier>
+			<outputString>Мощного разрушения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Magnificent Destruction</identifier>
+			<outputString>Великолепного разрушения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Glorious Destruction</identifier>
+			<outputString>Несравненного разрушения</outputString>
+		</stringBinding>
+		<!--Empowered Destruction (Vanilla)-->
+		<stringBinding>
+			<identifier>Illusion</identifier>
+			<outputString>Иллюзий</outputString>
+		</stringBinding>
+		<!--Empowered Illusion (College)-->
+		<stringBinding>
+			<identifier>Empowered Illusion</identifier>
+			<outputString>Усиленных иллюзий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Potent Illusion</identifier>
+			<outputString>Сильных иллюзий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Amplified Illusion</identifier>
+			<outputString>Расширенных иллюзий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mighty Illusion</identifier>
+			<outputString>Мощных иллюзий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Magnificent Illusion</identifier>
+			<outputString>Великолепных иллюзий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Glorious Illusion</identifier>
+			<outputString>Несравненных иллюзий</outputString>
+		</stringBinding>
+		<!--Empowered Illusion (Vanilla)-->
+		<stringBinding>
+			<identifier>Restoration</identifier>
+			<outputString>Восстановления</outputString>
+		</stringBinding>
+		<!--Empowered Restoration (College)-->
+		<stringBinding>
+			<identifier>Empowered Restoration</identifier>
+			<outputString>Усиленного восстановления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Potent Restoration</identifier>
+			<outputString>Сильного восстановления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Amplified Restoration</identifier>
+			<outputString>Расширенного восстановления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mighty Restoration</identifier>
+			<outputString>Мощного восстановления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Magnificent Restoration</identifier>
+			<outputString>Великолепного восстановления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Glorious Restoration</identifier>
+			<outputString>Несравненного восстановления</outputString>
+		</stringBinding>
+		<!--Empowered Restoration (Vanilla)-->
+		<stringBinding>
+			<identifier>Shielding</identifier>
+			<outputString>Защиты</outputString>
+		</stringBinding>
+		<!--Shalidor's Shield (College)-->
+		<stringBinding>
+			<identifier>Residual Energy</identifier>
+			<outputString>Остатков энергии</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lingering Energy</identifier>
+			<outputString>Длительной энергии</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lasting Energy</identifier>
+			<outputString>Продолжительной энергии</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Willpower</identifier>
+			<outputString>Силы воли</outputString>
+		</stringBinding>
+		<!--Shalidor's Shield (Vanilla)-->
+		<stringBinding>
+			<identifier>Gold</identifier>
+			<outputString>Золота</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wealth</identifier>
+			<outputString>Изобилия</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Treasure</identifier>
+			<outputString>Сокровищ</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Riches</identifier>
+			<outputString>Богатства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Ouroboros</identifier>
+			<outputString>Уробороса</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Philosopher</identifier>
+			<outputString>Философа</outputString>
+		</stringBinding>
+		<!--Philosopher's Stone-->
+		<stringBinding>
+			<identifier>Nova</identifier>
+			<outputString>Новой</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Supernova</identifier>
+			<outputString>Суперновой</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Disasters</identifier>
+			<outputString>Бедствий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Calamities</identifier>
+			<outputString>Ненастий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Catastrophe</identifier>
+			<outputString>Катастроф</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Karma</identifier>
+			<outputString>Кармы</outputString>
+		</stringBinding>
+		<!--Nova-->
+		<stringBinding>
+			<identifier>Tremors</identifier>
+			<outputString>Дрожи</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Temblors</identifier>
+			<outputString>Толчков</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Trampling</identifier>
+			<outputString>Топота</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Pulverizing</identifier>
+			<outputString>Сокрушения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Earthquakes</identifier>
+			<outputString>Землетрясений</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dynamic Entry</identifier>
+			<outputString>Движущих сил</outputString>
+		</stringBinding>
+		<!--Tremor-->
+		<stringBinding>
+			<identifier>Soul Charging</identifier>
+			<outputString>Зарядки душ</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Soul Baiting</identifier>
+			<outputString>Приманки душ</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Soul Energy</identifier>
+			<outputString>Энергии душ</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Soul Attraction</identifier>
+			<outputString>Завлечения душ</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Soul Drawing</identifier>
+			<outputString>Привлечения душ</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Soul Lure</identifier>
+			<outputString>Притяжения душ</outputString>
+		</stringBinding>
+		<!--Soul Charge-->
+		<stringBinding>
+			<identifier>Souls</identifier>
+			<outputString>Душ</outputString>
+		</stringBinding>
+		<!--Soul Charge (Hoods)-->
+		<stringBinding>
+			<identifier>Spell Trapping</identifier>
+			<outputString>Ловушки заклинаний</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Spell Snagging</identifier>
+			<outputString>Перехвата заклинаний</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Spell Mire</identifier>
+			<outputString>Поглощения заклинаний</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Spell Snaring</identifier>
+			<outputString>Обмана заклинаний</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Spell Devouring</identifier>
+			<outputString>Пожирания заклинаний</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Spell Consumption</identifier>
+			<outputString>Увядания заклинаний</outputString>
+		</stringBinding>
+		<!--Spell Eater-->
+		<stringBinding>
+			<identifier>Dark Power</identifier>
+			<outputString>Темной силы</outputString>
+		</stringBinding>
+		<!--Spell Eater (Vampire)-->
+		<stringBinding>
+			<identifier>Magicka</identifier>
+			<outputString>Магии</outputString>
+		</stringBinding>
+		<!--Fortify Magicka (Warlock)-->
+		<stringBinding>
+			<identifier>the Explorer</identifier>
+			<outputString>Исследователя</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Traveler</identifier>
+			<outputString>Путешественника</outputString>
+		</stringBinding>
+		<!--Explorer-->
+		<stringBinding>
+			<identifier>Adaptation</identifier>
+			<outputString>Адаптации</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Excellence</identifier>
+			<outputString>Мастерства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Purity</identifier>
+			<outputString>Чистоты</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Perfection</identifier>
+			<outputString>Совершенства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Transcendence</identifier>
+			<outputString>Запредельности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Eidolon</identifier>
+			<outputString>Подобия</outputString>
+		</stringBinding>
+		<!--Optimize Attributes-->
+		<stringBinding>
+			<identifier>Growth</identifier>
+			<outputString>Укрепления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Pure Waters</identifier>
+			<outputString>Чистой воды</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mountaineering</identifier>
+			<outputString>Альпинизма</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Chantry</identifier>
+			<outputString>Прибавки</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Stormbringer</identifier>
+			<outputString>Буревестника</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Snow Prince</identifier>
+			<outputString>Снежного принца</outputString>
+		</stringBinding>
+		<!--Weather-->
+		<stringBinding>
+			<identifier>Blink Step</identifier>
+			<outputString>Мерцающего шага</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Flash Step</identifier>
+			<outputString>Быстрого шага</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shadow Step</identifier>
+			<outputString>Незаметного шага</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rift Step</identifier>
+			<outputString>Расщепленного шага</outputString>
+		</stringBinding>
+		<!--Blink Step-->
+		<stringBinding>
+			<identifier>Death Ward</identifier>
+			<outputString>Избежания смерти</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Lich</identifier>
+			<outputString>Лича</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Deathlessness</identifier>
+			<outputString>Бессмертия</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Immortality</identifier>
+			<outputString>Вечности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Divines</identifier>
+			<outputString>Божеств</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Athanasia</identifier>
+			<outputString>Атанасии</outputString>
+		</stringBinding>
+		<!--Cheat Death-->
+		<stringBinding>
+			<identifier>Aiming</identifier>
+			<outputString>Прицеливания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Accuracy</identifier>
+			<outputString>Меткости</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Precision</identifier>
+			<outputString>Точности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Sniping</identifier>
+			<outputString>Точной стрельбы</outputString>
+		</stringBinding>
+		<!--Fortify Long Range-->
+		<stringBinding>
+			<identifier>the Cavalry</identifier>
+			<outputString>Кавалерии</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Horsemanship</identifier>
+			<outputString>Выездки</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Lancer</identifier>
+			<outputString>Конницы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Dragoon</identifier>
+			<outputString>Драгуна</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Equitation</identifier>
+			<outputString>Верховой езды</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Ra Gada</identifier>
+			<outputString>Ра гада</outputString>
+		</stringBinding>
+		<!--Fortify Mounted Combat-->
+		<stringBinding>
+			<identifier>Regrowth</identifier>
+			<outputString>Возобновления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Resurgence</identifier>
+			<outputString>Возрождения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Phoenix</identifier>
+			<outputString>Феникса</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Unyielding</identifier>
+			<outputString>Непреклонности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Invincible</identifier>
+			<outputString>Непобедимости</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Unconquerable</identifier>
+			<outputString>Несокрушимости</outputString>
+		</stringBinding>
+		<!--Desperate-->
+		<stringBinding>
+			<identifier>Innocence</identifier>
+			<outputString>Безвредности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blade Turning</identifier>
+			<outputString>Отвода клинков</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Weaponward</identifier>
+			<outputString>Защищающ. от оружия</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Weaponbane</identifier>
+			<outputString>Сопротивления оружию</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Novicebane</identifier>
+			<outputString>Погибели новичков</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Magickguard</identifier>
+			<outputString>Защищающ. от магии</outputString>
+		</stringBinding>
+		<!--Cornucopia-->
+		<!--WINTERMYST WEAPONS NAMES-->
+		<stringBinding>
+			<identifier>Reforging</identifier>
+			<outputString>Перековки</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Electrolysis</identifier>
+			<outputString>Электролиза</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Galvanization</identifier>
+			<outputString>Гальванизации</outputString>
+		</stringBinding>
+		<!--Absorb Armor-->
+		<stringBinding>
+			<identifier>Burdens</identifier>
+			<outputString>Ноши</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hardship</identifier>
+			<outputString>Тяжести</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Oppression</identifier>
+			<outputString>Угнетения</outputString>
+		</stringBinding>
+		<!--Absorb Carry Weight-->
+		<stringBinding>
+			<identifier>Cunning</identifier>
+			<outputString>Хитрости</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wiles</identifier>
+			<outputString>Уловки</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Roguery</identifier>
+			<outputString>Жульничества</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mischief</identifier>
+			<outputString>Вреда</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Devilry</identifier>
+			<outputString>Коварства</outputString>
+		</stringBinding>
+		<!--Absorb Speed-->
+		<stringBinding>
+			<identifier>Hunting</identifier>
+			<outputString>Охоты</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Wild</identifier>
+			<outputString>Пустоши</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Poaching</identifier>
+			<outputString>Браконьерства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Predation</identifier>
+			<outputString>Истребления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Carnivore</identifier>
+			<outputString>Хищника</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Kyne's Gifts</identifier>
+			<outputString>Даров кин</outputString>
+		</stringBinding>
+		<!--Bountiful Hunt-->
+		<stringBinding>
+			<identifier>Denting</identifier>
+			<outputString>Вонзания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Crushing</identifier>
+			<outputString>Дробления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Bending</identifier>
+			<outputString>Сгибания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Buckling</identifier>
+			<outputString>Деформации</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Crumpling</identifier>
+			<outputString>Сминания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Perforating</identifier>
+			<outputString>Пробивания</outputString>
+		</stringBinding>
+		<!--Drain Armor-->
+		<stringBinding>
+			<identifier>Frailty</identifier>
+			<outputString>Немощности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Stifling</identifier>
+			<outputString>Удушения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Weakness</identifier>
+			<outputString>Слабости</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Futility</identifier>
+			<outputString>Тщетности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Incapacitation</identifier>
+			<outputString>Ограничения</outputString>
+		</stringBinding>
+		<!--Enfeeble-->
+		<stringBinding>
+			<identifier>Mugging</identifier>
+			<outputString>Ограбления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Plundering</identifier>
+			<outputString>Хищения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Pillaging</identifier>
+			<outputString>Мародерства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ransacking</identifier>
+			<outputString>Обыска</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Raiding</identifier>
+			<outputString>Грабежа</outputString>
+		</stringBinding>
+		<!--Mug-->
+		<stringBinding>
+			<identifier>Power Unbound</identifier>
+			<outputString>Освобождения силы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Power Unfettered</identifier>
+			<outputString>Высвобождения силы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Power Unleashed</identifier>
+			<outputString>Появления силы</outputString>
+		</stringBinding>
+		<!--Power Surge-->
+		<stringBinding>
+			<identifier>Storm Unbound</identifier>
+			<outputString>Освобождения бури</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Storm Unfettered</identifier>
+			<outputString>Высвобождения бури</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Storm Unleashed</identifier>
+			<outputString>Появления бури</outputString>
+		</stringBinding>
+		<!--Storm Surge-->
+		<stringBinding>
+			<identifier>Grappling</identifier>
+			<outputString>Абордажа</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hooking</identifier>
+			<outputString>Сцепки</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Snatching</identifier>
+			<outputString>Похищения</outputString>
+		</stringBinding>
+		<!--Steal Weapons-->
+		<stringBinding>
+			<identifier>Command</identifier>
+			<outputString>Приказа</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Domination</identifier>
+			<outputString>Превосходства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Conjurer</identifier>
+			<outputString>Чародея</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Coven</identifier>
+			<outputString>Ведьм</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Summoner</identifier>
+			<outputString>Призывателя</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Warlock</identifier>
+			<outputString>Чернокнижника</outputString>
+		</stringBinding>
+		<!--Command Daedra-->
+		<stringBinding>
+			<identifier>Vulnerability</identifier>
+			<outputString>Уязвимости</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Exposure</identifier>
+			<outputString>Незащищенности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Jinxes</identifier>
+			<outputString>Несчастий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Curses</identifier>
+			<outputString>Мучений</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hexes</identifier>
+			<outputString>Сглаза</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Malison</identifier>
+			<outputString>Проклятий</outputString>
+		</stringBinding>
+		<!--Drain Resistance-->
+		<stringBinding>
+			<identifier>Deadly</identifier>
+			<outputString>Смертоносн.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Executioner's</identifier>
+			<outputString>Карающий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mortality</identifier>
+			<outputString>Летальности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Decimation</identifier>
+			<outputString>Уничтожения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Death</identifier>
+			<outputString>Смерти</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the End</identifier>
+			<outputString>Конца</outputString>
+		</stringBinding>
+		<!--Deadly Strike-->
+		<stringBinding>
+			<identifier>Ember Blasts</identifier>
+			<outputString>Палящего взрыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Burning Blasts</identifier>
+			<outputString>Обжигающего взрыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Scorching Blasts</identifier>
+			<outputString>Опаляющего взрыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Fire Blasts</identifier>
+			<outputString>Огненного взрыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blazing Blasts</identifier>
+			<outputString>Пылающего взрыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Inferno Blasts</identifier>
+			<outputString>Адского взрыва</outputString>
+		</stringBinding>
+		<!--Fire Blast-->
+		<stringBinding>
+			<identifier>Smoldering</identifier>
+			<outputString>Тления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Slow Burning</identifier>
+			<outputString>Медленного жжения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lingering Fire</identifier>
+			<outputString>Длительного огня</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Everlasting Fire</identifier>
+			<outputString>Вечного огня</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Enduring Fire</identifier>
+			<outputString>Нескончаемого огня</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Eternal Fire</identifier>
+			<outputString>Бесконечного огня</outputString>
+		</stringBinding>
+		<!--Lingering Fire Damage-->
+		<stringBinding>
+			<identifier>Cold Blasts</identifier>
+			<outputString>Холодного ветра</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Frost Blasts</identifier>
+			<outputString>Морозного ветра</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ice Blasts</identifier>
+			<outputString>Ледяного ветра</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Freezing Blasts</identifier>
+			<outputString>Морозящего ветра</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Chilling Blasts</identifier>
+			<outputString>Леденящего ветра</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Winter Blasts</identifier>
+			<outputString>Зимнего ветра</outputString>
+		</stringBinding>
+		<!--Frost Blast-->
+		<stringBinding>
+			<identifier>Shards</identifier>
+			<outputString>Осколков</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Crystals</identifier>
+			<outputString>Кристаллов</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Fragments</identifier>
+			<outputString>Обломков</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hail</identifier>
+			<outputString>Града</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Black Frost</identifier>
+			<outputString>Гололедицы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Black Ice</identifier>
+			<outputString>Наледи</outputString>
+		</stringBinding>
+		<!--Piercing Frost Damage-->
+		<stringBinding>
+			<identifier>Slaying</identifier>
+			<outputString>Умерщвления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Cannibal</identifier>
+			<outputString>Каннибала</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Assassin</identifier>
+			<outputString>Ассасина</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Killer</identifier>
+			<outputString>Убийцы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Agent</identifier>
+			<outputString>Зачинщика</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Inquisitor</identifier>
+			<outputString>Мучителя</outputString>
+		</stringBinding>
+		<!--Killstreak-->
+		<stringBinding>
+			<identifier>Might</identifier>
+			<outputString>Силы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dominance</identifier>
+			<outputString>Господства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Authority</identifier>
+			<outputString>Власти</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Superiority</identifier>
+			<outputString>Преимущества</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Repression</identifier>
+			<outputString>Подавления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Supremacy</identifier>
+			<outputString>Верховенства</outputString>
+		</stringBinding>
+		<!--Overbearing Strike-->
+		<stringBinding>
+			<identifier>Spark Blasts</identifier>
+			<outputString>Искрящегося порыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Arcing Blasts</identifier>
+			<outputString>Оплавляющего порыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shock Blasts</identifier>
+			<outputString>Электрического порыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Thunder Blasts</identifier>
+			<outputString>Грохочущего порыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lightning Blasts</identifier>
+			<outputString>Грозового порыва</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Storm Blasts</identifier>
+			<outputString>Штормового порыва</outputString>
+		</stringBinding>
+		<!--Shock Blast-->
+		<stringBinding>
+			<identifier>Static</identifier>
+			<outputString>Статического разряда</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Jolts</identifier>
+			<outputString>Встряски</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Voltage</identifier>
+			<outputString>Вольтажа</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Surges</identifier>
+			<outputString>Перегрузки</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wrath</identifier>
+			<outputString>Гнева</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Electrocution</identifier>
+			<outputString>Индукции</outputString>
+		</stringBinding>
+		<!--Percentage Shock Damage-->
+		<stringBinding>
+			<identifier>Poison</identifier>
+			<outputString>Отравления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Venom</identifier>
+			<outputString>Яда</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blight</identifier>
+			<outputString>Увядания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rot</identifier>
+			<outputString>Гнили</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Corruption</identifier>
+			<outputString>Порчи</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Miasma</identifier>
+			<outputString>Миазм</outputString>
+		</stringBinding>
+		<!--Poison Damage-->
+		<stringBinding>
+			<identifier>Poison Blasts</identifier>
+			<outputString>Отравляющего потока</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Venom Blasts</identifier>
+			<outputString>Ядовитого потока</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blighted Blasts</identifier>
+			<outputString>Потока увядания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rotting Blasts</identifier>
+			<outputString>Потока гниения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Corruption Blasts</identifier>
+			<outputString>Потока порчи</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Miasma Blasts</identifier>
+			<outputString>Потока миазм</outputString>
+		</stringBinding>
+		<!--Poison Blast-->
+		<stringBinding>
+			<identifier>Wizard Rend</identifier>
+			<outputString>Волшебного раскола</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Ruin</identifier>
+			<outputString>Волшебного краха</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Bane</identifier>
+			<outputString>Волшебной напасти</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Sunder</identifier>
+			<outputString>Волшебного разлома</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Wrack</identifier>
+			<outputString>Волшебного возмездия</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Break</identifier>
+			<outputString>Волшебного перелома</outputString>
+		</stringBinding>
+		<!--Wizard Rend-->
+		<stringBinding>
+			<identifier>Warrior Rend</identifier>
+			<outputString>Воинского раскола</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Ruin</identifier>
+			<outputString>Воинского краха</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Bane</identifier>
+			<outputString>Воинской напасти</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Sunder</identifier>
+			<outputString>Воинского разлома</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Wrack</identifier>
+			<outputString>Воинского возмездия</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Break</identifier>
+			<outputString>Воинского перелома</outputString>
+		</stringBinding>
+		<!--Warrior Rend-->
+		<stringBinding>
+			<identifier>Interference</identifier>
+			<outputString>Препятствия</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Cancellation</identifier>
+			<outputString>Отмены</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Frustration</identifier>
+			<outputString>Фрустрации</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Thwarting</identifier>
+			<outputString>Противоречия</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Vexation</identifier>
+			<outputString>Досады</outputString>
+		</stringBinding>
+		<!--Counterspell-->
+		<stringBinding>
+			<identifier>Noise</identifier>
+			<outputString>Шума</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Annoyance</identifier>
+			<outputString>Раздражения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Irritation</identifier>
+			<outputString>Возмущения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Clamor</identifier>
+			<outputString>Шумихи</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ruckus</identifier>
+			<outputString>Перепалки</outputString>
+		</stringBinding>
+		<!--Sound-->
+		<stringBinding>
+			<identifier>Dispelling</identifier>
+			<outputString>Рассеивания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Grounding</identifier>
+			<outputString>Заземления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Negation</identifier>
+			<outputString>Отрицания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Abjuration</identifier>
+			<outputString>Отречения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Disjunction</identifier>
+			<outputString>Разобщения</outputString>
+		</stringBinding>
+		<!--Dispel-->
+		<stringBinding>
+			<identifier>Wailing</identifier>
+			<outputString>Стенаний</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Screaming</identifier>
+			<outputString>Крика</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shrieking</identifier>
+			<outputString>Воплей</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Keening</identifier>
+			<outputString>Причитаний</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Howling</identifier>
+			<outputString>Воя</outputString>
+		</stringBinding>
+		<!--Wailing-->
+		<stringBinding>
+			<identifier>Hidden Viper</identifier>
+			<outputString>Тайного коварства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hidden Adder</identifier>
+			<outputString>Тайного предательства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hidden Asp</identifier>
+			<outputString>Тайного зла</outputString>
+		</stringBinding>
+		<!--Hidden Serpent-->
+		<stringBinding>
+			<identifier>Ghosts</identifier>
+			<outputString>Привидений</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wraiths</identifier>
+			<outputString>Духов</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Specters</identifier>
+			<outputString>Спектров</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Phantoms</identifier>
+			<outputString>Фантомов</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wights</identifier>
+			<outputString>Призраков</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shadows</identifier>
+			<outputString>Теней</outputString>
+		</stringBinding>
+		<!--Phantom Strike-->
+		<stringBinding>
+			<identifier>Illusory Burden</identifier>
+			<outputString>Иллюзорной тяжести</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Illusory Weight</identifier>
+			<outputString>Иллюзорного бремени</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Illusory Load</identifier>
+			<outputString>Иллюзорной обузы</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Illusory Ballast</identifier>
+			<outputString>Иллюзорного груза</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Illusory Mass</identifier>
+			<outputString>Иллюзорной массы</outputString>
+		</stringBinding>
+		<!--Illusory Burden-->
+		<stringBinding>
+			<identifier>Doom</identifier>
+			<outputString>Гибели</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Culling</identifier>
+			<outputString>Отбора</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Abyss</identifier>
+			<outputString>Бездны</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Perdition</identifier>
+			<outputString>Погибели</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Pandemonium</identifier>
+			<outputString>Кромешного ада</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Annihilation</identifier>
+			<outputString>Аннигиляции</outputString>
+		</stringBinding>
+		<!--Slay Living-->
+		<stringBinding>
+			<identifier>Dawn</identifier>
+			<outputString>Зари</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Daylight</identifier>
+			<outputString>Дневного света</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Noon</identifier>
+			<outputString>Полудня</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Radiance</identifier>
+			<outputString>Сияния</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Resplendence</identifier>
+			<outputString>Блеска</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Brilliance</identifier>
+			<outputString>Великолепия</outputString>
+		</stringBinding>
+		<!--Sunlight-->
+		<stringBinding>
+			<identifier>Sorrow</identifier>
+			<outputString>Скорби</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Grief</identifier>
+			<outputString>Печали</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Failure</identifier>
+			<outputString>Неудачи</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Misery</identifier>
+			<outputString>Страданий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Tears</identifier>
+			<outputString>Слез</outputString>
+		</stringBinding>
+		<!--Drain Skills-->
+		<stringBinding>
+			<identifier>the Exemplar</identifier>
+			<outputString>Подражания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Pinnacle</identifier>
+			<outputString>Апофеоза</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Paragon</identifier>
+			<outputString>Безукоризненности</outputString>
+		</stringBinding>
+		<!--Exemplar-->
+		<stringBinding>
+			<identifier>Decay</identifier>
+			<outputString>Загнивания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wasting</identifier>
+			<outputString>Упадка</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Withering</identifier>
+			<outputString>Усыхания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wilting</identifier>
+			<outputString>Ослабления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Atrophy</identifier>
+			<outputString>Утраты</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Putrefaction</identifier>
+			<outputString>Гниения</outputString>
+		</stringBinding>
+		<!--Stunted Vitals-->
+		<stringBinding>
+			<identifier>Quickening</identifier>
+			<outputString>Учащения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Enlightenment</identifier>
+			<outputString>Просвещенности</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Lexicon</identifier>
+			<outputString>Лексики</outputString>
+		</stringBinding>
+		<!--Quicken Shouts-->
+		<stringBinding>
+			<identifier>Breaking</identifier>
+			<outputString>Поломки</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Cracking</identifier>
+			<outputString>Раскалывания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Breaching</identifier>
+			<outputString>Проламывания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lordslaying</identifier>
+			<outputString>Убийцы лордов</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Kingslaying</identifier>
+			<outputString>Убийцы королей</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Steel Coffin</identifier>
+			<outputString>Стального саркофага</outputString>
+		</stringBinding>
+		<!--Breach-->
+		<stringBinding>
+			<identifier>Healing</identifier>
+			<outputString>Лечения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mercy</identifier>
+			<outputString>Милосердия</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Compassion</identifier>
+			<outputString>Сочувствия</outputString>
+		</stringBinding>
+		<!--Healing-->
+		<stringBinding>
+			<identifier>Throwing</identifier>
+			<outputString>Бросания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Slinging</identifier>
+			<outputString>Отбрасывания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Pitching</identifier>
+			<outputString>Откидывания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hurling</identifier>
+			<outputString>Швыряния</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Catapulting</identifier>
+			<outputString>Выбрасывания</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Launching</identifier>
+			<outputString>Метания</outputString>
+		</stringBinding>
+		<!--Throw-->
+		<stringBinding>
+			<identifier>Conflict</identifier>
+			<outputString>Столкновения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rivalry</identifier>
+			<outputString>Соперничества</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Discord</identifier>
+			<outputString>Разногласий</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Disunity</identifier>
+			<outputString>Размолвки</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Strife</identifier>
+			<outputString>Раздора</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Genocide</identifier>
+			<outputString>Геноцида</outputString>
+		</stringBinding>
+		<!--Fratricide-->
+		<stringBinding>
+			<identifier>Countering</identifier>
+			<outputString>Противодействия</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Trickery</identifier>
+			<outputString>Обмана</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Opportunity</identifier>
+			<outputString>Возможностей</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ripostes</identifier>
+			<outputString>Ответных мер</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Reciprocation</identifier>
+			<outputString>Контратаки</outputString>
+		</stringBinding>
+		<!--Riposte-->
+		<stringBinding>
+			<identifier>Blistering</identifier>
+			<outputString>Мучения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Bubbling</identifier>
+			<outputString>Бурления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Festering</identifier>
+			<outputString>Нагноения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Seething</identifier>
+			<outputString>Кипения</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ulceration</identifier>
+			<outputString>Язвления</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Necrosis</identifier>
+			<outputString>Некроза</outputString>
+		</stringBinding>
+		<!--Delayed Poison Damage-->
+		<stringBinding>
+			<identifier>Harmonies</identifier>
+			<outputString>Гармонии</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dirges</identifier>
+			<outputString>Панихиды</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Elegies</identifier>
+			<outputString>Элегии</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Coronachs</identifier>
+			<outputString>Погребальной песни</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Threnodies</identifier>
+			<outputString>Тренодии</outputString>
+		</stringBinding>
+		<!--Harmonic Pain-->
+		<stringBinding>
+			<identifier>the Bull</identifier>
+			<outputString>Быка</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Ram</identifier>
+			<outputString>Барана</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Bear</identifier>
+			<outputString>Медведя</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Rhino</identifier>
+			<outputString>Носорога</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Elephant</identifier>
+			<outputString>Слона</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Mammoth</identifier>
+			<outputString>Мамонта</outputString>
+		</stringBinding>
+		<!--Pushback-->
+		<stringBinding>
+			<identifier>Twilight</identifier>
+			<outputString>Сумерек</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Voice</identifier>
+			<outputString>Голоса</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shalidor</identifier>
+			<outputString>Шалидора</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Arcana</identifier>
+			<outputString>Волшебства</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Infinite Energies</identifier>
+			<outputString>Бесконечных энергий</outputString>
 		</stringBinding>
 	</language>
 
