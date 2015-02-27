@@ -611,12 +611,51 @@
 			<substring>Bonemold</substring>
 		</binding>
 		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>Костян</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>костян</substring>
+		</binding>
+		<binding>
 			<identifier>Bound</identifier>
 			<substring>Bound</substring>
 		</binding>
 		<binding>
+			<identifier>Bound</identifier>
+			<substring>Призван</substring>
+		<binding>
+			<identifier>Bound</identifier>
+			<substring>призван</substring>
+		</binding>
+		<binding>
 			<identifier>Chitin</identifier>
 			<substring>Chitin Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Хитиновая тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>хитиновая тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Хитиновый тяжелый</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>хитиновый тяжелый</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Хитиновые тяжелые</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>хитиновые тяжелые</substring>
 		</binding>
 		<binding>
 			<identifier>Chitin Light</identifier>
@@ -624,7 +663,33 @@
 		</binding>
 		<binding>
 			<identifier>Chitin Light</identifier>
+			<substring>Хитинов</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Хитинов</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
 			<substring>Chitin Light</substring>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Хитиновая легкая</substring>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>хитиновая легкая</substring>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Хитиновый легкий</substring>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>хитиновый легкий</substring>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Хитиновые легкие</substring>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>хитиновые легкие</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
