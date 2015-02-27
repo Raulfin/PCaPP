@@ -192,7 +192,7 @@
 			<identifier>warforged</identifier>
 		</binding>
 		<binding>
-			<substring>Закален</substring>
+			<substring>закален</substring>
 			<identifier>warforged</identifier>
 		</binding>
 	<!-- Armor variants created by PaMa (do not edit) end -->
@@ -201,7 +201,23 @@
 			<identifier>superior</identifier>
 		</binding>
 		<binding>
+			<substring>Преимущ</substring>
+			<identifier>superior</identifier>
+		</binding>
+		<binding>
+			<substring>Преимущ</substring>
+			<identifier>superior</identifier>
+		</binding>
+		<binding>
 			<substring>Exceptional</substring>
+			<identifier>exceptional</identifier>
+		</binding>
+		<binding>
+			<substring>Исключит</substring>
+			<identifier>exceptional</identifier>
+		</binding>
+		<binding>
+			<substring>исключит</substring>
 			<identifier>exceptional</identifier>
 		</binding>
 		<binding>
@@ -209,7 +225,23 @@
 			<identifier>commander</identifier>
 		</binding>
 		<binding>
+			<substring>Командир</substring>
+			<identifier>commander</identifier>
+		</binding>
+		<binding>
+			<substring>командир</substring>
+			<identifier>commander</identifier>
+		</binding>
+		<binding>
 			<substring>Power</substring>
+			<identifier>veteran</identifier>
+		</binding>
+		<binding>
+			<substring>Мощн</substring>
+			<identifier>veteran</identifier>
+		</binding>
+		<binding>
+			<substring>мощн</substring>
 			<identifier>veteran</identifier>
 		</binding>
 		<binding>
@@ -217,7 +249,23 @@
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
+			<substring>Укреплен</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
+			<substring>укреплен</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
 			<substring>Padded</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
+			<substring>Утеплен</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
+			<substring>утеплен</substring>
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
@@ -225,7 +273,19 @@
 			<identifier>old god</identifier>
 		</binding>
 		<binding>
+			<substring>Старых богов</substring>
+			<identifier>old god</identifier>
+		</binding>
+		<binding>
 			<substring>Officer</substring>
+			<identifier>officer</identifier>
+		</binding>
+		<binding>
+			<substring>Офицерск</substring>
+			<identifier>officer</identifier>
+		</binding>
+		<binding>
+			<substring>офицерск</substring>
 			<identifier>officer</identifier>
 		</binding>
 		<binding>
@@ -233,7 +293,19 @@
 			<identifier>veteran</identifier>
 		</binding>
 		<binding>
+			<substring>Ветеранск</substring>
+			<identifier>veteran</identifier>
+		</binding>
+		<binding>
+			<substring>ветеранск</substring>
+			<identifier>veteran</identifier>
+		</binding>
+		<binding>
 			<substring>Lords</substring>
+			<identifier>lord</identifier>
+		</binding>
+		<binding>
+			<substring>Лордов</substring>
 			<identifier>lord</identifier>
 		</binding>
 		<binding>
@@ -241,7 +313,23 @@
 			<identifier>commander</identifier>
 		</binding>
 		<binding>
+			<substring>Генерал</substring>
+			<identifier>commander</identifier>
+		</binding>
+		<binding>
+			<substring>генерал</substring>
+			<identifier>commander</identifier>
+		</binding>
+		<binding>
 			<substring>Overlord</substring>
+			<identifier>lord</identifier>
+		</binding>
+		<binding>
+			<substring>Военачальн</substring>
+			<identifier>lord</identifier>
+		</binding>
+		<binding>
+			<substring>военачальн</substring>
 			<identifier>lord</identifier>
 		</binding>
 		<binding>
@@ -249,7 +337,23 @@
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
+			<substring>Улучш</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
+			<substring>улучш</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
 			<substring>Fine</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
+			<substring>Хорош</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
+			<substring>хорош</substring>
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
@@ -257,7 +361,23 @@
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
+			<substring>Вождя</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
+			<substring>вождя</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
 			<substring>Gilded</substring>
+			<identifier>gilded</identifier>
+		</binding>
+		<binding>
+			<substring>Золочен</substring>
+			<identifier>gilded</identifier>
+		</binding>
+		<binding>
+			<substring>золочен</substring>
 			<identifier>gilded</identifier>
 		</binding>
 		<binding>
@@ -265,7 +385,23 @@
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
+			<substring>Массивн</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
+			<substring>массивн</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
 			<substring>Noble</substring>
+			<identifier>noble</identifier>
+		</binding>
+		<binding>
+			<substring>Благород</substring>
+			<identifier>noble</identifier>
+		</binding>
+		<binding>
+			<substring>благород</substring>
 			<identifier>noble</identifier>
 		</binding>
 		<binding>
@@ -273,11 +409,35 @@
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
+			<substring>Героев</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
+			<substring>героев</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
 			<substring>Fortified</substring>
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
+			<substring>Укреплен</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
+			<substring>укреплен</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
 			<substring>Perfect</substring>
+			<identifier>officer</identifier>
+		</binding>
+		<binding>
+			<substring>Совершен</substring>
+			<identifier>officer</identifier>
+		</binding>
+		<binding>
+			<substring>совершен</substring>
 			<identifier>officer</identifier>
 		</binding>
 		<binding>
