@@ -172,10 +172,6 @@
 			<substring>Perfect</substring>
 			<identifier>officer</identifier>
 		</binding>
-		<binding>
-			<substring>Veteran</substring>
-			<identifier>superior</identifier>
-		</binding>
 	</armor_modifier_bindings>
 
 	<armor_modifiers> 
