@@ -76,6 +76,14 @@
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
+			<substring>Поврежден</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
+			<substring>поврежден</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
 			<substring>Worn</substring>
 			<identifier>worn</identifier>
 		</binding>
