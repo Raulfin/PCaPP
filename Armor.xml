@@ -7959,7 +7959,22 @@
 	<!-- Wyrmstooth-->
 	<!-- Falskaar-->
 		<exclusion>
+			<text>FSArmor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>FSMQ</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
 			<text>FSSQ</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>FSTest</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>

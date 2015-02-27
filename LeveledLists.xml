@@ -2261,6 +2261,11 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
+			<exclusion>
+				<text>FS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
 		<!-- Falskaar-->
 		<!-- Thunderchild - Epic Shout Package start -->
 			<exclusion>
@@ -3515,6 +3520,18 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
+		<!-- Falskaar-->
+			<exclusion>
+				<text>Vanvir</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>FS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Falskaar-->
 		<!-- Skyrim Immersive Creatures start -->
 			<exclusion>
 				<text>_00</text>
@@ -5404,6 +5421,28 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Skyrim Knights -->
+		<!-- Falskaar-->
+			<exclusion>
+				<text>FSArmor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>FSMQ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>FSSQ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>FSTest</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Falskaar-->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -6762,7 +6801,28 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
-
+		<!-- Falskaar -->
+			<exclusion>
+				<text>FSArmor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>FSMQ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>FSSQ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>FSTest</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Falskaar -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
