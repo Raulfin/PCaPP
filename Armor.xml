@@ -173,8 +173,8 @@
 			<identifier>officer</identifier>
 		</binding>
 		<binding>
-			<substring>Superior</substring>
-			<identifier>veteran</identifier>
+			<substring>Veteran</substring>
+			<identifier>superior</identifier>
 		</binding>
 	</armor_modifier_bindings>
 
