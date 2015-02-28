@@ -1434,8 +1434,16 @@
 			<substring>Nightingale</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Соловьин</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionHigh</identifier>
 			<substring>Guild Master</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>главы Гильдии</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -1443,7 +1451,23 @@
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
+			<substring>Гильдии Воров</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Гильдии воров</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
 			<substring>Dark Brotherhood</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Темного Братства</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Темного братства</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -1454,8 +1478,20 @@
 			<substring>Shrouded</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Теней</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>теней</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Black Sacrament</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Темного ритуала</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -1466,56 +1502,151 @@
 			<substring>Ancient Shrouded</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Древние перчатки теней</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Древние сапоги теней</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Древний капюшон теней</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Древний обруч теней</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Древняя броня теней</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFactionLow</identifier>
 			<substring>Dawnguard</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Стражи Рассвета</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Dawnguard Light</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкая броня Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкие перчатки Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкие сапоги Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкий обруч Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкий шлем Стражи Рассвета</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Dawnguard Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Тяжелая броня Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Тяжелые перчатки Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Тяжелые сапоги Стражи Рассвета</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionS</identifier>
 			<substring>Dawnguard Rune</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionS</identifier>
+			<substring>Рунный щит Стражи Рассвета</substring>
+		</binding>
+		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Dawnguard Ebony</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Эбонитовый щит Стражи Рассвета</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Silver Hand</substring>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Серебряной руки</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Silver Hand Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Тяжелая мантия "Серебряной руки"</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Silver Hand Light</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкая мантия "Серебряной руки"</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Wolf</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Волчь</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionLow</identifier>
 			<substring>Tumblerbane</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>замочных дел мастера</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Summerset</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Саммерсет</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionHigh</identifier>
 			<substring>Linwe</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Линви</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Blades</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Клинков</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -1527,6 +1658,14 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Акавир</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>акавир</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Blades Thigh</substring>
 		</binding>
 		<binding>
@@ -1534,24 +1673,48 @@
 			<substring>Blackguard</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Черного Стража</substring>
+		</binding>
+		<binding>
 			<identifier>Tong</identifier>
 			<substring>Morag Tong</substring>
+		</binding>
+		<binding>
+			<identifier>Tong</identifier>
+			<substring>Мораг Тонг</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Dragonguard Mantle</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Драконьего стража</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Aela's</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Эйлы</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Aela's Shield</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Щит Эйлы</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Imperial Tattered</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Потрепанная Имперская броня</substring>
 		</binding>
 	<!-- Faction material_Bindings end -->
 	
