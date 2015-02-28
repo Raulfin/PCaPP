@@ -46,6 +46,8 @@ Changes:
 
 Additions:
 	Moonbuckled, Neophyte, Cerulean Alchemist, Solace, Ebon Shroud and Eternal Magus bindings (TERA Armors)
+	Merged DevilDukes NPC Armor Balance fixes into the WAFR patches to stop NPCs from hitting armor cap in Fur.
+	WAFR patches will now have the Relev bash tag applied.
 
 Balancing:
 	Lowered base damage of Sabre from 12 to 11.
@@ -55,6 +57,7 @@ Balancing:
 	Increased Bone material damage from 0.25 to 0.9 (just above Wood)
 	Increased Mammoth Bone material damage from 0.5 to 1.2
 	New materials BoneHigh(0.95) and Mammoth BoneHigh(1.5).
+	Giant Weapons Bleed increased to 3 from 2. Class changed from to Blunt_Blade from Blunt
 
 Renamed:
 	Ancient Nord Helmet -> Ancient Nord Light Helmet (WAFR, not playable)
