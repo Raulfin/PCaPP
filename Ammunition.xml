@@ -616,7 +616,7 @@
 		</binding>
 			<binding>
 			<identifier>Forsworn</identifier>
-			<substring>Изгоев</substring>
+			<substring>Стрела Изгоев</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -716,7 +716,7 @@
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
-			<substring>риклинг</substring>
+			<substring>Копье риклинга</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
@@ -766,7 +766,11 @@
 		</binding>
 		<binding>
 			<identifier>WoodNoMult</identifier>
-			<substring>с веревкой</substring>
+			<substring>Стрела с веревкой</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>Болт с веревкой</substring>
 		</binding>
 		<binding>
 			<identifier>WoodNoMult</identifier>
