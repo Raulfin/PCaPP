@@ -1837,11 +1837,9 @@
 			<substring>Centurion</substring>
 		</binding>
 		<binding>
-		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Центурион</substring>
 		</binding>
-		<binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>центурион</substring>
