@@ -1114,6 +1114,14 @@
 			<substring>Bosmer</substring>
 		</binding>
 		<binding>
+			<identifier>Elven</identifier>
+			<substring>Босмер</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>босмер</substring>
+		</binding>
+		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Bosmer Elder</substring>
 		</binding>
@@ -1126,12 +1134,44 @@
 			<substring>Bosmer Engraved</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Босмерская резная</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Босмерские резные</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Босмерский резной</substring>
+		</binding>
+		<binding>
 			<identifier>ElvenHeavy</identifier>
 			<substring>Bosmer Reinforced</substring>
 		</binding>
 		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Босмерская усиленная</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Босмерские усиленные</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Босмерский усиленный</substring>
+		</binding>
+		<binding>
 			<identifier>Glass</identifier>
 			<substring>Dunmer</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Данмерск</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>данмерск</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -1139,7 +1179,23 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Талморск</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>талморск</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Moonstone</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>из лунного камня</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>с лунным камнем</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -1151,11 +1207,47 @@
 		</binding>
 		<binding>
 			<identifier>DragonplateHigh</identifier>
+			<substring>Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
 			<substring>Wild Hunt Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Тяжелая кираса Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Тяжелые перчатки Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Тяжелые сапоги Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Тяжелый шлем Дикой охоты</substring>
 		</binding>
 		<binding>
 			<identifier>DragonscaleHigh</identifier>
 			<substring>Wild Hunt Light</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Легкая кираса Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Легкие перчатки Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Легкие сапоги Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Легкий шлем Дикой охоты</substring>
 		</binding>
 		<binding>
 			<identifier>DragonscaleHigh</identifier>
@@ -1174,20 +1266,64 @@
 			<substring>Falmer Hardened</substring>
 		</binding>
 		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Фалмерская усиленная</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Фалмерские усиленные</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Фалмерский усиленный</substring>
+		</binding>
+		<binding>
 			<identifier>Falmer Heavy</identifier>
 			<substring>Falmer Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Heavy</identifier>
+			<substring>Фалмерская тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Heavy</identifier>
+			<substring>Фалмерские тяжелые</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Heavy</identifier>
+			<substring>Фалмерский тяжелый</substring>
 		</binding>
 		<binding>
 			<identifier>ForswornHigh</identifier>
 			<substring>Old Gods</substring>
 		</binding>
 		<binding>
+			<identifier>ForswornHigh</identifier>
+			<substring>Старых богов</substring>
+		</binding>
+		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Dwemer</substring>
 		</binding>
 		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Двемер</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>двемер</substring>
+		</binding>
+		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Dremora</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Дремор</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>дремор</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
@@ -1195,11 +1331,35 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
+			<substring>Каджит</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>каджит</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
 			<substring>Argonian</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Аргониан</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>аргониан</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Breton</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Бретон</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>бретон</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -1207,7 +1367,23 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Ороч</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>ороч</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Redguard</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Редгард</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>редгард</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -1222,8 +1398,32 @@
 			<substring>Redguard Knight Light</substring>
 		</binding>
 		<binding>
+			<identifier>Studded</identifier>
+			<substring>Редгардская рыцарская легкая</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Редгардские рыцарские легкие</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Редгардский рыцарский легкий</substring>
+		</binding>
+		<binding>
 			<identifier>Steel Heavy</identifier>
 			<substring>Redguard Knight Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Редгардская рыцарская тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Редгардские рыцарские тяжелые</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Редгардский рыцарский тяжелый</substring>
 		</binding>
 	<!-- Racial material_Bindings end -->
 	
