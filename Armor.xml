@@ -1725,12 +1725,36 @@
 			<substring>Ulfric</substring>
 		</binding>
 		<binding>
+			<identifier>Tong</identifier>
+			<substring>Ульфрика</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionLow</identifier>
 			<substring>Stormcloak</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Братьев Бури</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Heroic Stormcloak</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройская броня Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройские перчатки Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройские сапоги Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройский шлем Братьев Бури</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -1773,12 +1797,28 @@
 			<substring>Tullius</substring>
 		</binding>
 		<binding>
+			<identifier>HTong</identifier>
+			<substring>Туллия</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionHigh</identifier>
 			<substring>Penitus Oculatus</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Пенитус Окулатус</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFactionLow</identifier>
 			<substring>Imperial</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Имперск</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>имперск</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -1786,7 +1826,25 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Легион</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>легион</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Centurion</substring>
+		</binding>
+		<binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Центурион</substring>
+		</binding>
+		<binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>центурион</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFactionLow</identifier>
@@ -1795,6 +1853,18 @@
 		<binding>
 			<identifier>LightFactionLow</identifier>
 			<substring>Studded Imperial</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Клепаная имперская</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Клепаные имперские</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Клепаный имперский</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -1826,11 +1896,31 @@
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
+			<substring>Имперский круглый щит</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
 			<substring>Imperial Studded</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
+			<substring>Имперская клепаная</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
 			<substring>Imperial Light</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Имперская легкая</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Имперские легкие</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Имперский легкий</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -1842,6 +1932,18 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFactionLow</identifier>
+			<substring>Стальная имперская</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Стальные имперские</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Стальной имперский</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
 			<substring>Imperial Steel</substring>
 		</binding>
 		<binding>
@@ -1849,8 +1951,36 @@
 			<substring>Imperial Knight</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Имперская рыцарская</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Имперские рыцарские</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Имперский рыцарский</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Heroic Imperial</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройская броня Имперцев</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройские наручи Имперцев</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройские сапоги Имперцев</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройский шлем Имперцев</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -1858,7 +1988,19 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Стальгард</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Legate</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легат</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>легат</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFactionLow</identifier>
