@@ -7396,10 +7396,10 @@
 			<critDamageFactor>0.5</critDamageFactor>
 			<meltdownOutput>0</meltdownOutput>
 			<meltdownInput>0</meltdownInput>
-			<bleedTier>TWO</bleedTier>
+			<bleedTier>THREE</bleedTier>
 			<debuffTier>THREE</debuffTier>
 			<staggerTier>THREE</staggerTier>
-			<weaponClass>BLUNT</weaponClass>
+			<weaponClass>BLUNT_BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Battlestaff</identifier>

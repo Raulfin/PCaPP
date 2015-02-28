@@ -1,0 +1,335 @@
+The book text below is for a new book added by the WAFR patches injected into PerMa_Master FormID: XX70753C the book is distributed via LL "LItemBook2All" the Valuable book list. Balance changes made to weapons Bleed, Debuff, Stagger or Class in Weapon_types should be changed here also to keep the book as up to date as possible.
+
+=========================================Include only below this line in the book=========================================
+[pagebreak]
+<p align="center">
+
+
+Weapons Manual v24
+
+by
+<img src='img://Textures/Interface/Books/Illuminated_Letters/C_letter.png'>pt. Jaymz A. Tiberius Raulfin III, Thane of Bruma
+
+
+</p>
+[pagebreak]
+<p align="left"><img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he art or war has changed little since the Merethic Era, but the weapons have. Here I will give basic descriptions of several weapons and their primary use in combat. Most weapons fit into one or more overly simplified types, these are;
+[pagebreak]
+<img src='img://Textures/Interface/Books/Illuminated_Letters/B_letter.png'>lade: Any edged slashing weapon, like a sword or dagger.
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/B_letter.png'>lunt: Any solid weighted weapon, like a club or mace.
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/P_letter.png'>iercing: Any pointed thrusting weapon, like a spear.
+[pagebreak]
+After years training new recruits I have developed a basic system to classify weapons. It makes weapon cross-training much easier for the fresh recruit and the more experienced solider can confidently grab a new weapon in battle, proper training may lack with it, general knowledge will be second nature. The following details primary weapons and several improvised weapons.
+[pagebreak]
+
+
+
+
+<p align="center">
+<img src='img://Textures/Interface/Books/Illuminated_Letters/L_letter.png'><font size='20' face='$HandwrittenFont'>ight</font>
+</p>
+[pagebreak]
+Weapon: Pickaxe
+Type: Waraxe
+Bleed Tier: I
+Debuff Tier: 0
+Stagger Tier: II
+Weapon Class:Blunt_Piercing
+
+Weapon: Hatchet
+Type: Hatchet
+Bleed Tier: I
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Blunt_Blade
+[pagebreak]
+Weapon: Broadsword
+Type: Armingsword
+Bleed Tier: II
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Blade
+
+Weapon: Armingsword
+Type: Armingsword
+Bleed Tier: II
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Blade
+[pagebreak]
+Weapon: Waraxe
+Type: Waraxe
+Bleed Tier: I
+Debuff Tier: I
+Stagger Tier: II
+Weapon Class: Blunt_Blade
+
+Weapon: Shortspear
+Type: Shortspear
+Bleed Tier: II
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Piercing
+[pagebreak]
+Weapon: Spear
+Type: Shortspear
+Bleed Tier: II
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Piercing 
+
+Weapon: Mace
+Type: Mace
+Bleed Tier: 0
+Debuff Tier: II
+Stagger Tier: II
+Weapon Class: Blunt
+[pagebreak]
+Weapon: Spiked Mace
+Type: Mace
+Bleed Tier: II
+Debuff Tier: I
+Stagger Tier: II
+Weapon Class: Blunt_Piercing
+
+Weapon: Morning Star
+Type: Mace
+Bleed Tier: II
+Debuff Tier: II
+Stagger Tier: II
+Weapon Class: Blunt_Piercing
+[pagebreak]
+Weapon: Club
+Type: Club
+Bleed Tier: 0
+Debuff Tier: II
+Stagger Tier: II
+Weapon Class: Blunt
+
+Weapon: Spiked Club
+Type: Club
+Bleed Tier: I
+Debuff Tier: I
+Stagger Tier: II
+Weapon Class: Blunt_Piercing
+[pagebreak]
+Weapon: Maul
+Type: Maul
+Bleed Tier: 0
+Debuff Tier: III
+Stagger Tier: II
+Weapon Class: Blunt
+
+Weapon: Katana
+Type: Katana
+Bleed Tier: III
+Debuff Tier: 0
+Stagger Tier: I
+Weapon Class: Blade
+[pagebreak]
+Weapon: Longsword
+Type: Longsword
+Bleed Tier: II
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Blade
+
+Weapon: Wakizashi
+Type: Wakizashi
+Bleed Tier: II
+Debuff Tier: 0
+Stagger Tier: I
+Weapon Class: Blade_Piercing
+[pagebreak]
+Weapon: Sabre
+Type: Sabre
+Bleed Tier: II
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Blade
+
+Weapon: Scimitar
+Type: Scimitar
+Bleed Tier: II
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Blade
+[pagebreak]
+Weapon: Shortsword
+Type: Shortsword
+Bleed Tier: I
+Debuff Tier: II
+Stagger Tier: I
+Weapon Class: Blade
+
+Weapon: Tanto
+Type: Tanto
+Bleed Tier: II
+Debuff Tier: 0
+Stagger Tier: 0
+Weapon Class: Blade_Piercing
+[pagebreak]
+Weapon: Dagger
+Type: Dagger
+Bleed Tier: II
+Debuff Tier: 0
+Stagger Tier: 0
+Weapon Class: Blade_Piercing
+
+Weapon: Shiv
+Type: Dagger
+Bleed Tier: III
+Debuff Tier: 0
+Stagger Tier: 0
+Weapon Class: Piercing
+[pagebreak]
+Weapon: Hunting Knife
+Type: Dagger
+Bleed Tier: I
+Debuff Tier: 0
+Stagger Tier: 0
+Weapon Class: Blade_Piercing
+
+Weapon: Claw
+Type: Fist
+Bleed Tier: I
+Debuff Tier: I
+Stagger Tier: 0
+Weapon Class: Blade
+[pagebreak]
+Weapon: Katar
+Type: Fist
+Bleed Tier: II
+Debuff Tier: I
+Stagger Tier: 0
+Weapon Class: Piercing
+
+Weapon: Knuckles
+Type: Fist
+Bleed Tier: I
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Blunt
+[pagebreak]
+
+
+
+
+<p align="center">
+<img src='img://Textures/Interface/Books/Illuminated_Letters/H_letter.png'><font size='20' face='$HandwrittenFont'>eavy</font>
+</p>
+[pagebreak]
+Weapon: Battleaxe
+Type: Battleaxe
+Bleed Tier: II
+Debuff Tier: II
+Stagger Tier: II
+Weapon Class: Blunt_Blade
+
+Weapon: Partisan
+Type: Partisan
+Bleed Tier: III
+Debuff Tier: I
+Stagger Tier: II
+Weapon Class: Blade_Piercing
+[pagebreak]
+Weapon: Halberd
+Type: Halberd
+Bleed Tier: II
+Debuff Tier: III
+Stagger Tier: III
+Weapon Class: All
+
+Weapon: Warhammer
+Type: Warhammer
+Bleed Tier: 0
+Debuff Tier: III
+Stagger Tier: III
+Weapon Class: Blunt
+[pagebreak]
+Weapon: Volendrung
+Type: Warhammer
+Bleed Tier: II
+Debuff Tier: III
+Stagger Tier: III
+Weapon Class: Blunt_Piercing
+
+Weapon: Longmace
+Type: Longmace
+Bleed Tier: I
+Debuff Tier: III
+Stagger Tier: III
+Weapon Class: Blunt
+[pagebreak]
+Weapon: Giant weapons
+Type: Longmace
+Bleed Tier: III
+Debuff Tier: III
+Stagger Tier: III
+Weapon Class: Blunt_Blade
+
+Weapon: Battlestaff
+Type: Battlestaff
+Bleed Tier: 0
+Debuff Tier: II
+Stagger Tier: II
+Weapon Class: Blunt
+[pagebreak]
+Weapon: Greatsword
+Type: Greatsword
+Bleed Tier: III
+Debuff Tier: II
+Stagger Tier: III
+Weapon Class: Blunt_Blade
+
+Weapon: Bastard Sword
+Type: Bastard Sword
+Bleed Tier: III
+Debuff Tier: II
+Stagger Tier: II
+Weapon Class: Blade
+[pagebreak]
+Weapon: Nodachi
+Type: Nodachi
+Bleed Tier: III
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Blade
+[pagebreak]
+
+
+
+
+<p align="center">
+<img src='img://Textures/Interface/Books/Illuminated_Letters/R_letter.png'><font size='20' face='$HandwrittenFont'>anged</font>
+</p>
+[pagebreak]
+Weapon: Shortbow
+Type: Shortbow
+Bleed Tier: I
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Piercing
+
+Weapon: Longbow
+Type: Longbow
+Bleed Tier: II
+Debuff Tier: II
+Stagger Tier: II
+Weapon Class: Piercing
+[pagebreak]
+Weapon: Crossbow
+Type: Crossbow
+Bleed Tier: II
+Debuff Tier: III
+Stagger Tier: II
+Weapon Class: Piercing
+
+Weapon: Javelin
+Type: Shortbow
+Bleed Tier: II 
+Debuff Tier: I
+Stagger Tier: I
+Weapon Class: Piercing
