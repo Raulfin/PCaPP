@@ -1,4 +1,4 @@
-The book text below is for a new book added by the WAFR patches injected into PerMa_Master FormID: XX70753C the book is distributed via LL "LItemBook3All" the Valuable book list. Balance changes made to weapons Bleed, Debuff, Stagger or Class in Weapon_types should be changed here also to keep the book as up to date as possible.
+The book text below is for a new book added by the WAFR patches injected into PerMa_Master FormID: XX70753C the book is distributed via LL "LItemBook2All" the Valuable book list. Balance changes made to weapons Bleed, Debuff, Stagger or Class in Weapon_types should be changed here also to keep the book as up to date as possible.
 
 =========================================Include only below this line in the book=========================================
 [pagebreak]
