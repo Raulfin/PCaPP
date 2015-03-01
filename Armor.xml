@@ -944,7 +944,7 @@
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
-			<substring>Нордск</substring>
+			<substring>нордск</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -1032,15 +1032,7 @@
 		</binding>
 		<binding>
 			<identifier>HStalhrim</identifier>
-			<substring>Сталгримовая тяжелая</substring>
-		</binding>
-		<binding>
-			<identifier>HStalhrim</identifier>
-			<substring>Сталгримовые тяжелые</substring>
-		</binding>
-		<binding>
-			<identifier>HStalhrim</identifier>
-			<substring>Сталгримовый тяжелый</substring>
+			<substring>Сталгрим</substring>
 		</binding>
 		<binding>
 			<identifier>HStalhrim</identifier>
@@ -1426,7 +1418,7 @@
 			<substring>Редгардский рыцарский тяжелый</substring>
 		</binding>
 	<!-- Racial material_Bindings end -->
-	
+
 	<!-- Faction material_Bindings start -->
 	<!-- Bindings allowed: LightFactionLow, LightFaction, LightFactionHigh, Tong, HeavyFactionLow, HeavyFaction, HeavyFactionHigh, HTong -->
 		<binding>
@@ -1588,6 +1580,7 @@
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Silver Hand</substring>
+		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Серебряной руки</substring>
@@ -1717,7 +1710,7 @@
 			<substring>Потрепанная Имперская броня</substring>
 		</binding>
 	<!-- Faction material_Bindings end -->
-	
+
 	<!-- Civil War material_Bindings Start -->
 	<!-- Bindings allowed: LightFactionLow, LightFaction, LightFactionHigh, Tong, HeavyFactionLow, HeavyFaction, HeavyFactionHigh, HTong -->
 		<binding>
@@ -1762,7 +1755,7 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
-			<substring>Stormcloak Ráoningar</substring>
+			<substring>Stormcloak Raoningar</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -2073,12 +2066,16 @@
 			<substring>Imperial Ward</substring>
 		</binding>
 	<!-- Civil War material_Bindings end -->
-	
+
 	<!-- City/Guard Armors start -->
 	<!-- Bindings allowed: LightFactionLow, LightFaction, LightFactionHigh, Tong, HeavyFactionLow, HeavyFaction, HeavyFactionHigh, HTong -->
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Guard</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Страж</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -2098,7 +2095,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Истмарк</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Windhelm</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Виндхельм</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -2106,15 +2111,31 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Фолкрит</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Haafingar</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Хаафингар</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Shield of Solitude</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Щит Солитьюда</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Solitude</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Солитьюд</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
@@ -2126,7 +2147,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Хьялмарк</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Morthal</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Морфал</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -2138,7 +2167,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Белого Берега</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Dawnstar</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Данстар</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -2146,7 +2183,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Предел</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Markarth</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Маркарт</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -2154,7 +2199,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Рифт</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Riften</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Рифтен</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -2162,11 +2215,23 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Вайтран</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Winterhold</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Винтерхолд</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Kvatch</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Кватч</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -2178,18 +2243,34 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Скинград</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Helgen Guard's Shield</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Щит стражи Хелгена</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Helgen Guard's Armor</substring>
 		</binding>
-	<!-- City/Guard Armors end -->
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Хелген</substring>
+		</binding>
+		<!-- City/Guard Armors end -->
 	
 	<!-- Dragon Priest Masks start -->
 		<binding>
 			<identifier>DragonplateHigh</identifier>
 			<substring>Konahrik</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Конарик</substring>
 		</binding>
 		<binding>
 			<identifier>DragonplateHigh</identifier>
@@ -2201,6 +2282,10 @@
 		</binding>
 		<binding>
 			<identifier>GlassHigh</identifier>
+			<substring>Отар</substring>
+		</binding>
+		<binding>
+			<identifier>GlassHigh</identifier>
 			<substring>Otar Circlet</substring>
 		</binding>
 		<binding>
@@ -2209,7 +2294,15 @@
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
+			<substring>Хевнорак</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
 			<substring>Hevnoraak Circlet</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Вокун</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
@@ -2225,6 +2318,10 @@
 		</binding>
 		<binding>
 			<identifier>OrcishHigh</identifier>
+			<substring>Рагот</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHigh</identifier>
 			<substring>Rahgot Circlet</substring>
 		</binding>
 		<binding>
@@ -2233,11 +2330,19 @@
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
+			<substring>Накрин</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
 			<substring>Nahkriin Circlet</substring>
 		</binding>
 		<binding>
 			<identifier>ScaledHigh</identifier>
 			<substring>Volsung</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Вольсунг</substring>
 		</binding>
 		<binding>
 			<identifier>ScaledHigh</identifier>
@@ -2257,11 +2362,19 @@
 		</binding>
 		<binding>
 			<identifier>ElvenHigh</identifier>
+			<substring>Кросис</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
 			<substring>Krosis Circlet</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Miraak</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Мираак</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricLight</identifier>
@@ -2276,18 +2389,34 @@
 			<substring>Zahkriisos</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Закрисош</substring>
+		</binding>		
+		<binding>
 			<identifier>LStalhrimHigh</identifier>
 			<substring>Dukaan</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrimHigh</identifier>
+			<substring>Дукан</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier> <!-- Draugr -->
 			<substring>Ahzidal</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier> <!-- Draugr -->
+			<substring>Азидал</substring>
+		</binding>
+		<binding>
 			<identifier>ScaledHigh</identifier> <!-- Konahriks Accoutrements -->
 			<substring>Vahlok</substring>
 		</binding>
-	<!-- Dragon Priest Masks end -->
+		<binding>
+			<identifier>ScaledHigh</identifier> <!-- Konahriks Accoutrements -->
+			<substring>Валок</substring>
+		</binding>
+		<!-- Dragon Priest Masks end -->
 	<!-- Artifacts -->
 		<binding>
 			<identifier>ElvenHigh</identifier>
@@ -2307,7 +2436,7 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
-			<substring>Æsir</substring>
+			<substring>Aesir</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -4609,6 +4738,10 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Мороке</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Morokei's Armored Robes</substring>
 		</binding>
 		<binding>
@@ -5173,11 +5306,15 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Перчатки борца</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Black Rose</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
-			<substring>de la sorcière sauvage</substring>
+			<substring>de la sorciere sauvage</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -6834,6 +6971,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Blooded</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Кровожадности</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -8778,7 +8919,10 @@
 			<substringArmor>Gloves of the Pugilist</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
-	<!-- Stormcloak end -->
+		<armor_masquerade_binding>
+			<substringArmor>Перчатки борца</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>	<!-- Stormcloak end -->
 	
 	<!-- Thalmor start -->
 		<armor_masquerade_binding>
@@ -8969,7 +9113,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Валок</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Ahzidal</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Азидал</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -8979,7 +9133,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Дукан</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>		
+		<exclusion>
 			<text>Hevnoraak</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Хевнорак</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -8989,7 +9153,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Конарик</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Krosis</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кросис</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -8999,7 +9173,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Мираак</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Morokei</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Мороке</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -9009,7 +9193,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Накрин</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Otar</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Отар</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -9019,7 +9213,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Рагот</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Vokun</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Вокун</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -9029,11 +9233,21 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Вольсунг</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Zahkriisos</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
-	<!-- Dragon Priest Masks end -->
+		<exclusion>
+			<text>Закрисош</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<!-- Dragon Priest Masks end -->
 	<!-- Complete Crafting Overhaul -->
 		<exclusion>
 			<text>ArmoredCirclet</text>
