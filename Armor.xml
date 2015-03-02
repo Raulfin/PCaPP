@@ -2079,15 +2079,67 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>страж</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Reinforced Guard</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Усиленная броня стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Усиленные перчатки стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Усиленные сапоги стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Усиленный шлем стражника</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Fitted Guard</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Ладная броня стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Ладные перчатки стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Ладные сапоги стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Ладный шлем стражника</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionLow</identifier>
 			<substring>Fur Guard's</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Меховая броня стражи</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Меховые перчатки стражи</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Меховые сапоги стражи</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Меховой шлем стражи</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -2236,6 +2288,10 @@
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Chorrol</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Коррол</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
