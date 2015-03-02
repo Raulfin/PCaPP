@@ -8422,7 +8422,7 @@
 			<target>NAME</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-	<!-- Skyrim Knights -->
+	<!-- Avatar of Grenth -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
