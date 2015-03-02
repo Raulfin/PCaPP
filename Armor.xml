@@ -3809,6 +3809,18 @@
 			<substring>Dwarven Light</substring>
 		</binding>
 		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерская легкая</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерский легкий</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерские легкие</substring>
+		</binding>
+		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Vicky</substring>
 		</binding>
@@ -3831,6 +3843,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>General Carius</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>генерала Кария</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -3890,6 +3906,10 @@
 		</binding>
 		<binding>
 			<identifier>DwarvenLight</identifier>
+			<substring>Двемерский круглый щит</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
 			<substring>Magnusian Visor</substring>
 		</binding>
 		<binding>
@@ -3903,6 +3923,10 @@
 		<binding>
 			<identifier>DwarvenHigh</identifier>
 			<substring>Aetherial</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>Этериев</substring>
 		</binding>
 		<binding>
 			<identifier>DwarvenHigh</identifier>
@@ -4009,12 +4033,48 @@
 			<substring>Stormlord</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier>
+			<substring>бури</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyLight</identifier>
 			<substring>Ebony Mage Light</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовая легкая роба мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовые легкие перчатки мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовые легкие сапоги мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовый легкий капюшон мага</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyLow</identifier>
 			<substring>Ebony Mage Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Эбонитовая тяжелая роба мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Эбонитовые тяжелые перчатки мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Эбонитовые тяжелые сапоги мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Эбонитовый тяжелый капюшон мага</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -4042,6 +4102,10 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Проницательность Мзунда</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Temptress</substring>
 		</binding>
 		<binding>
@@ -4063,6 +4127,14 @@
 		<binding>
 			<identifier>EbonyLow</identifier>
 			<substring>Tribunal Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Тяжелая мантия трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Тяжелая роба трибунала</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyLow</identifier>
@@ -4205,6 +4277,10 @@
 			<substring>Ebony Buckler</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовый круглый щит</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyLow</identifier>
 			<substring>Crimson Twilight</substring>
 		</binding>
@@ -4235,6 +4311,10 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Aetherial Crown</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Этериевая корона</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyLight</identifier>
@@ -4461,12 +4541,40 @@
 			<substring>Elven Light</substring>
 		</binding>
 		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Эльфийская легкая</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Эльфийские легкие</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Эльфийский легкий</substring>
+		</binding>
+		<binding>
 			<identifier>ElvenHeavy</identifier>
 			<substring>Elven Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Эльфийская тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Эльфийские тяжелые</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Эльфийский тяжелый</substring>
+		</binding>
+		<binding>
 			<identifier>Elven</identifier>
 			<substring>Snow Elf</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>снежных эльфов</substring>
 		</binding>
 		<binding>
 			<identifier>ElvenLow</identifier>
@@ -4777,8 +4885,16 @@
 			<substring>Auriel</substring>
 		</binding>
 		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Ауриэль</substring>
+		</binding>
+		<binding>
 			<identifier>Falmer Heavy</identifier>
 			<substring>Shellbug</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Heavy</identifier>
+			<substring>хитина жука</substring>
 		</binding>
 		<binding>
 			<identifier>Ancient Falmer</identifier>
@@ -4799,6 +4915,10 @@
 		<binding>
 			<identifier>Falmer Hardened</identifier>
 			<substring>Falmer Circlet</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Фалмерский обруч</substring>
 		</binding>
 	<!-- Falmer Material Bindings end -->
 	
