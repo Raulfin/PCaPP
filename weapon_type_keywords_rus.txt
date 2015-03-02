@@ -84,6 +84,8 @@ Spiked Club - BLUNT_PIERCING
 Maul - BLUNT
 	Киянка
 	киянка
+	Кувалда
+	кувалда
 	
 Shortspear- PIERCING
 	ороткое копье
@@ -115,8 +117,6 @@ Halberd - ALL
 Warhammer - BLUNT
 	Молот
 	молот
-	Кувалда
-	кувалда
 Volendrung - BLUNT_PIERCING
 	Волендранг
 Longmace - BLUNT
@@ -127,6 +127,8 @@ Longmace - BLUNT
 Battlestaff - BLUNT
 	оевой посох
 	оевой Посох
+	ороткий посох
+	ороткий Посох
 Greatsword - BLUNT_BLADE
 	уручный меч
 	уручный Меч
@@ -138,12 +140,13 @@ Bastard Sword - BLADE
 Nodachi - BLADE
 	Нодачи
 	нодачи
-	
+	Нодати
+	нодати	
 стреляющее
 
 Shortbow - PIERCING
-	ороткий Лук
-	ороткий лук
+	Лук
+	лук
 Longbow - PIERCING
 	линный Лук
 	линный лук

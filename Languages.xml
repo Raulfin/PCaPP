@@ -5,16 +5,12 @@
 	<language><!-- English -->
 		<languageID>ENGLISH</languageID>
 		<stringBinding>
-			<identifier>Great Morning Star</identifier>
-			<outputString>Great Morning Star</outputString>
-		</stringBinding>
-		<stringBinding>
 			<identifier>Hunting Knife</identifier>
 			<outputString>Hunting Knife</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Morning Star</identifier>
-			<outputString>Morning Star</outputString>
+			<identifier>Morning star</identifier>
+			<outputString>Morning star</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shiv</identifier>
@@ -2464,83 +2460,87 @@
 		<languageID>RUSSIAN</languageID>
 		<stringBinding>
 			<identifier>Hunting Knife</identifier>
-			<outputString>Охотничий нож</outputString>
+			<outputString>охот. нож</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Morning Star</identifier>
-			<outputString>Моргенштерн</outputString>
+			<identifier>Morning star</identifier>
+			<outputString>цеп</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shiv</identifier>
-			<outputString>Заточка</outputString>
+			<outputString>заточка</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Broadsword</identifier>
-			<outputString>Широкий меч</outputString>
+			<outputString>палаш</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>The Longhammer</identifier>
-			<outputString>Длинный молот</outputString>
+			<outputString>длинный молот</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Spear</identifier>
+			<outputString>копье</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Spiked Mace</identifier>
-			<outputString>Шипастая булава</outputString>
+			<outputString>шип. булава</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Pickaxe</identifier>
-			<outputString>Кирка</outputString>
+			<outputString>кирка</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Katana</identifier>
-			<outputString>Катана</outputString>
+			<outputString>катана</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Nodachi</identifier>
-			<outputString>Нодати</outputString>
+			<outputString>нодати</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Tanto</identifier>
-			<outputString>Танто</outputString>
+			<outputString>танто</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dagger</identifier>
-			<outputString>Кинжал</outputString>
+			<outputString>кинжал</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Knuckles</identifier>
-			<outputString>Кастет</outputString>
+			<outputString>кастет</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Katar</identifier>
-			<outputString>Катар</outputString>
+			<outputString>катар</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mace</identifier>
-			<outputString>Булава</outputString>
+			<outputString>булава</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Crossbow</identifier>
-			<outputString>Арбалет</outputString>
+			<outputString>арбалет</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Club</identifier>
-			<outputString>Дубина</outputString>
+			<outputString>дубина</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Warhammer</identifier>
-			<outputString>Боевой молот</outputString>
+			<outputString>молот</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Armingsword</identifier>
-			<outputString>Боевой меч</outputString>
+			<outputString>меч</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Battleaxe</identifier>
-			<outputString>Секира</outputString>
+			<outputString>cекира</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Battlestaff</identifier>
-			<outputString>Боевой посох</outputString>
+			<outputString>боевой посох</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Volendrung</identifier>
@@ -2548,71 +2548,75 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Partisan</identifier>
-			<outputString>Протазан</outputString>
+			<outputString>протазан</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hatchet</identifier>
-			<outputString>Топорик</outputString>
+			<outputString>топорик</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Longsword</identifier>
-			<outputString>Длинный меч</outputString>
+			<outputString>длинный меч</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Scimitar</identifier>
-			<outputString>Скимитар</outputString>
+			<outputString>скимитар</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shortsword</identifier>
-			<outputString>Короткий меч</outputString>
+			<outputString>короткий меч</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Bastard Sword</identifier>
-			<outputString>Полуторный меч</outputString>
+			<outputString>полуторный меч</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Sabre</identifier>
-			<outputString>Сабля</outputString>
+			<outputString>сабля</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wakizashi</identifier>
-			<outputString>Вакидзаси</outputString>
+			<outputString>вакидзаси</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Maul</identifier>
-			<outputString>Кувалда</outputString>
+			<outputString>кувалда</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shortspear</identifier>
-			<outputString>Короткое копье</outputString>
+			<outputString>короткое копье</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Halberd</identifier>
-			<outputString>Алебарда</outputString>
+			<outputString>алебарда</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Longmace</identifier>
-			<outputString>Длинная булава</outputString>
+			<outputString>длинная булава</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Claw</identifier>
-			<outputString>Коготь</outputString>
+			<outputString>коготь</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Arming Sword</identifier>
-			<outputString>Боевой меч</outputString>
+			<outputString>меч</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Waraxe</identifier>
-			<outputString>Боевой топор</outputString>
+			<identifier>Javelin</identifier>
+			<outputString>дротик</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>War Axe</identifier>
-			<outputString>Боевой топор</outputString>
+			<outputString>топор</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Waraxe</identifier>
+			<outputString>топор</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Greatsword</identifier>
-			<outputString>Двуручный меч</outputString>
+			<outputString>двуруч. меч</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Staff</identifier>
@@ -2652,7 +2656,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Poisoned</identifier>
-			<outputString>Отравы</outputString>
+			<outputString>Отравл.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Fire</identifier>
@@ -4912,5 +4916,7 @@
 			<outputString>Бесконечных энергий</outputString>
 		</stringBinding>
 	</language>
+
+	
 
 </ns2:languages>
