@@ -2515,10 +2515,6 @@
 			<substring>Златолиста (легкий)</substring>
 		</binding>
 		<binding>
-			<identifier>DaedricLight</identifier>
-			<substring>Златолиста [легкий</substring>
-		</binding>
-		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Aesir</substring>
 		</binding>
@@ -2617,12 +2613,52 @@
 			<substring>Trollsbane Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>погибели троллей</substring>
+		</binding>
+		<binding>
 			<identifier>Bonemold Light</identifier>
 			<substring>Trollsbane Light</substring>
 		</binding>
 		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкая броня погибели троллей</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкая маска погибели троллей</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкие наручи погибели троллей</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкие сапоги погибели троллей</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкий головной убор погибели троллей</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкий шлем погибели троллей</substring>
+		</binding>
+		<binding>
 			<identifier>BonemoldHigh</identifier>
 			<substring>Improved Bonemold</substring>
+		</binding>
+		<binding>
+			<identifier>BonemoldHigh</identifier>
+			<substring>Улучшенная костяная</substring>
+		</binding>
+		<binding>
+			<identifier>BonemoldHigh</identifier>
+			<substring>Улучшенные костяные</substring>
+		</binding>
+		<binding>
+			<identifier>BonemoldHigh</identifier>
+			<substring>Улучшенный костяной</substring>
 		</binding>
 		<binding>
 			<identifier>Bonemold Light</identifier>
@@ -2637,8 +2673,32 @@
 			<substring>Boiled Chitin Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Дубленая хитиновая тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Дубленые хитиновые тяжелые</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Дубленый хитиновый тяжелый</substring>
+		</binding>
+		<binding>
 			<identifier>Chitin Light</identifier>
 			<substring>Boiled Chitin Light</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Дубленая хитиновая легкая</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Дубленые хитиновые легкие</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Дубленый хитиновый легкий</substring>
 		</binding>
 		<binding>
 			<identifier>Chitin</identifier>
@@ -2654,7 +2714,27 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Одежд</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>одежд</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Одеяни</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>одеяни</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Shrouded Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Капюшон теней</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -2662,7 +2742,23 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Рюкзак</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>рюкзак</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Necklace</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ожерелье</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>ожерелье</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -2670,7 +2766,23 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Амулет</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>амулет</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Ring</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Кольцо</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>кольцо</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -2678,11 +2790,35 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Плащ</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>плащ</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Cape</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Накидка</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>накидка</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Saddle</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Седло</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>седло</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -2723,6 +2859,10 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Ulfric's Gag</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Обруч Ульфрика</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -2827,6 +2967,10 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Dark Jester's Hat Alternate</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Шутовск</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
