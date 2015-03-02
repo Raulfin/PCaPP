@@ -2488,15 +2488,35 @@
 		</binding>
 		<binding>
 			<identifier>ElvenHeavy</identifier>
+			<substring>Ауриэль</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
 			<substring>Auriel's</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Ауриэля</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Gildergreen</substring>
 		</binding>
 		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Златолист</substring>
+		</binding>
+		<binding>
 			<identifier>DaedricLight</identifier>
 			<substring>Gildergreen Light</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Златолиста (легкий)</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Златолиста [легкий</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -2512,11 +2532,27 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Аэдра</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>аэдра</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Azura</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Азур</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Clavicus Vile</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Клавикуса Вайла</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricLight</identifier>
@@ -2528,6 +2564,10 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Бич драконов</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Golden Azure</substring>
 		</binding>
 		<binding>
@@ -2535,8 +2575,16 @@
 			<substring>Boethiah</substring>
 		</binding>
 		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Боэтии</substring>
+		</binding>
+		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Spellbreaker</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Разрушитель Заклинаний</substring>
 		</binding>
 		<binding>
 			<identifier>DwarvenLight</identifier>
@@ -2545,6 +2593,14 @@
 		<binding>
 			<identifier>EbonyLight</identifier>
 			<substring>Ebony Light</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>эбонитовый легкий</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовая легкая</substring>
 		</binding>
 	<!-- Artifacts -->
 	
