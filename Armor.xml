@@ -1764,6 +1764,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Lady Draak</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Avatar Of Grenth</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
