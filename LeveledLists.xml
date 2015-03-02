@@ -5418,6 +5418,12 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Falskaar-->
+		<!-- Avatar Of Grenth -->
+			<exclusion>
+				<text>Avatar Of Grenth</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
