@@ -1,5 +1,29 @@
 <Versions>
 <Current>
+<v2.4.1>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v2.4.1>
+</Current>
+
+<Old>
 <v2.4>
 Now covers:
 	Evil Mastermind Armor (25476)
@@ -71,9 +95,6 @@ Updated Patches:
 
 New Patches:
 </v2.4>
-</Current>
-
-<Old>
 <2.3.1>
 Now covers:
 	Spears By Soolie (62609)
