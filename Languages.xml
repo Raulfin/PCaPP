@@ -2636,7 +2636,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Replica</identifier>
-			<outputString>Реплика</outputString>
+			<outputString>копия</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Quality</identifier>
