@@ -1,15 +1,35 @@
 <Versions>
 <Current>
+<v2.4.2>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v2.4.2>
+</Current>
+
+<Old>
 <v2.4.1>
 Updated Patches:
 	Pre PaMa WAFR Patch
 	Pre PaMa WAFR CCOR Patch
 	Pre PaMa WAFR CCOR BOYD Patch
-
 </v2.4.1>
-</Current>
-
-<Old>
 <v2.4>
 Now covers:
 	Evil Mastermind Armor (25476)
