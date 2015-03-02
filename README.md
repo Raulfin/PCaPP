@@ -33,4 +33,9 @@ PCaPP
 **Поддерживаемые моды:**
 
  - Skyrim
- -  
+ - Dawnguard
+ - Dragonborn
+ - Immersive Armors & Immersive Weapons
+ - Frostfall
+ - Cloaks of Skyrim
+ - Winter is Coming
