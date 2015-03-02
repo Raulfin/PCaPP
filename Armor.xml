@@ -2410,6 +2410,10 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Морокеи</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Morokei Circlet</substring>
 		</binding>
 		<binding>
@@ -2430,7 +2434,7 @@
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
-			<substring>Мираак</substring>
+			<substring>Мирак</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricLight</identifier>
@@ -2439,6 +2443,10 @@
 		<binding>
 			<identifier>DaedricLight</identifier>
 			<substring>Miraak's Light</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Легкая броня Мирака</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
