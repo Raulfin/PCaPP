@@ -5,12 +5,16 @@
 	<language><!-- English -->
 		<languageID>ENGLISH</languageID>
 		<stringBinding>
+			<identifier>Great Morning Star</identifier>
+			<outputString>Great Morning Star</outputString>
+		</stringBinding>
+		<stringBinding>
 			<identifier>Hunting Knife</identifier>
 			<outputString>Hunting Knife</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Morning star</identifier>
-			<outputString>Morning star</outputString>
+			<identifier>Morning Star</identifier>
+			<outputString>Morning Star</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shiv</identifier>
@@ -2463,7 +2467,7 @@
 			<outputString>охот. нож</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Morning star</identifier>
+			<identifier>Morning Star</identifier>
 			<outputString>цеп</outputString>
 		</stringBinding>
 		<stringBinding>
