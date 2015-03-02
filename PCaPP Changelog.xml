@@ -5,23 +5,12 @@ Now covers:
 	Avatar of Grenth (23165)
 	Kur0us Ebony Morning Star(22735)
 
-Blocklist:
-
-Exclusions:
-
 Fixes:
+	Corrected bad condition on Leather Strips to Leather recipe (WAFR, WAFR CCOR, WAFR CCOR BOYD)
+	Corrected name of NPCs Ma'jhad and Ra'zhinda. (WAFR CCOR BOYD)
 
 Changes:
-
-Additions:
-
-Balancing:
-
-Renamed:
-
-Updated Patches:
-
-New Patches:
+	Updated installer so NMM users are not forced to add an unneeded patch when selecting the WAFR CCOR BOYD merged patch option.
 </v2.4.2>
 </Current>
 
