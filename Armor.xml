@@ -5074,6 +5074,14 @@
 		</binding>
 		<binding>
 			<identifier>GlassLow</identifier>
+			<substring>Легкая мантия Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Легкая роба Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
 			<substring>Tribunal Robes Black LIGHT</substring>
 		</binding>
 		<binding>
@@ -5122,6 +5130,10 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Кинарет</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Vagabond Leather</substring>
 		</binding>
 		<binding>
@@ -5138,7 +5150,15 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>бродяги</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Sithis</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Ситис</substring>
 		</binding>
 		<binding>
 			<identifier>GlassHigh</identifier>
@@ -5210,6 +5230,14 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Thalmor</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Талмор</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Rothvine</substring>
 		</binding>
 		<binding>
@@ -5246,11 +5274,11 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
-			<substring>Мороке</substring>
+			<substring>Morokei's Armored Robes</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
-			<substring>Morokei's Armored Robes</substring>
+			<substring>Укрепленная роба Морокеи</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -5258,7 +5286,15 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Перчатки Морокеи</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Morokei's Greaves</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Поножи Морокеи</substring>
 		</binding>
 	<!-- Glass Material Bindings end -->
 	
@@ -5282,6 +5318,10 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
+			<substring>Жнеца</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
 			<substring>Bandit Bikini</substring>
 		</binding>
 		<binding>
@@ -5290,7 +5330,15 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
+			<substring>Моварта</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
 			<substring>Predator</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>хищника</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
@@ -5338,6 +5386,10 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
+			<substring>скаал</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
 			<substring>Skaal Horned</substring>
 		</binding>
 		<binding>
@@ -5351,6 +5403,10 @@
 		<binding>
 			<identifier>Hide</identifier>
 			<substring>Snow Bear</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>медведя</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
@@ -5445,8 +5501,12 @@
 			<substring>Chain</substring>
 		</binding>
 		<binding>
-		<identifier>IronHigh</identifier>
+			<identifier>IronHigh</identifier>
 			<substring>The Forgemaster's Fingers</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Перчатки мастера-кузнеца</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5469,8 +5529,20 @@
 			<substring>Heavy Painted</substring>
 		</binding>
 		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Тяжелый раскрашенный</substring>
+		</binding>
+		<binding>
 			<identifier>IronLight</identifier>
 			<substring>Light Painted</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Легкий раскрашенный</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Painted Iron</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5487,6 +5559,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>(old)</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>(стар</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5681,12 +5757,20 @@
 			<substring>Bone Breaker</substring>
 		</binding>
 		<binding>
+			<identifier>Iron</identifier>
+			<substring>Костолом</substring>
+		</binding>
+		<binding>
 			<identifier>IronLight</identifier>
 			<substring>Westland Rondache</substring>
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
 			<substring>Iron Buckler</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Железный круглый щит</substring>
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
@@ -5721,8 +5805,20 @@
 			<substring>Goblin</substring>
 		</binding>
 		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Гоблинск</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>гоблинск</substring>
+		</binding>
+		<binding>
 			<identifier>Iron</identifier>
 			<substring>Goblin Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Тяжелый гоблинский</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5782,7 +5878,15 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Капюшон порока</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Painted Hide</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Раскрашенный сыромятный</substring>
 		</binding>
 		<binding>
 			<identifier>LeatherHigh</identifier>
@@ -5814,7 +5918,7 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
-			<substring>Перчатки борца</substring>
+			<substring>борца</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -6066,6 +6170,10 @@
 		</binding>
 		<binding>
 			<identifier>LeatherHigh</identifier>
+			<substring>егеря</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
 			<substring>Ranger Boots</substring>
 		</binding>
 		<binding>
@@ -6162,6 +6270,10 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Атира</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Cerberus Leer</substring>
 		</binding>
 		<binding>
@@ -6191,6 +6303,10 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Karliah</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Карлии</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -6275,6 +6391,10 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Tsun's</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Тсуна</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
