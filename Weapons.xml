@@ -1947,6 +1947,14 @@
 			<substring>Wolf Bow</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ebony Morning Star</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ebony War Morning Star</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Boarding Axe</substring>
 		</binding>
@@ -4643,6 +4651,10 @@
 			<substring>warhammer</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
+		<binding>
+			<substring>Great Morning Star</substring>
+			<identifier>Great Morning Star</identifier>
+		</binding>
 	<!-- Heavy Weapon bindings end -->
 
 	<!-- Ranged Weapon bindings start -->
@@ -6633,6 +6645,16 @@
 			<identifier>Warhammer</identifier>
 		</binding>
 	<!-- Warhammer bindings end -->
+	<!-- Great Morning Star bindings start -->
+		<binding>
+			<substring>Great Morning Star</substring>
+			<identifier>Great Morning Star</identifier>
+		</binding>
+		<binding>
+			<substring>War Morning Star</substring>
+			<identifier>Great Morning Star</identifier>
+		</binding>
+	<!-- Great Morning Star bindings end -->
 	<!-- =====================================================Heavy Weapon bindings end ===================================================== -->
 
 	<!-- =====================================================Ranged Weapon bindings start ================================================== -->
@@ -7358,6 +7380,20 @@
 			<debuffTier>THREE</debuffTier>
 			<staggerTier>THREE</staggerTier>
 			<weaponClass>BLUNT</weaponClass>
+		</weapon_type>
+		<weapon_type>
+			<identifier>Great Morning Star</identifier>
+			<baseWeaponType>WARHAMMER</baseWeaponType>
+			<damageBase>27.0</damageBase>
+			<reachBase>1.05</reachBase>
+			<speedBase>0.75</speedBase>
+			<critDamageFactor>0.5</critDamageFactor>
+			<meltdownOutput>2</meltdownOutput>
+			<meltdownInput>1</meltdownInput>
+			<bleedTier>TWO</bleedTier>
+			<debuffTier>TWO</debuffTier>
+			<staggerTier>THREE</staggerTier>
+			<weaponClass>BLUNT_PIERCING</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Volendrung</identifier>

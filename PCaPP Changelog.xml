@@ -1,5 +1,37 @@
 <Versions>
 <Current>
+<v2.4.2>
+Now covers:
+	Avatar of Grenth (23165)
+	Kur0us Ebony Morning Star(22735)
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v2.4.2>
+</Current>
+
+<Old>
+<v2.4.1>
+Updated Patches:
+	Pre PaMa WAFR Patch
+	Pre PaMa WAFR CCOR Patch
+	Pre PaMa WAFR CCOR BOYD Patch
+</v2.4.1>
 <v2.4>
 Now covers:
 	Evil Mastermind Armor (25476)
@@ -71,9 +103,6 @@ Updated Patches:
 
 New Patches:
 </v2.4>
-</Current>
-
-<Old>
 <2.3.1>
 Now covers:
 	Spears By Soolie (62609)
