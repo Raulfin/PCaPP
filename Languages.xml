@@ -5,12 +5,16 @@
 	<language><!-- English -->
 		<languageID>ENGLISH</languageID>
 		<stringBinding>
+			<identifier>Great Morning Star</identifier>
+			<outputString>Great Morning Star</outputString>
+		</stringBinding>
+		<stringBinding>
 			<identifier>Hunting Knife</identifier>
 			<outputString>Hunting Knife</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Morning star</identifier>
-			<outputString>Morning star</outputString>
+			<identifier>Morning Star</identifier>
+			<outputString>Morning Star</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shiv</identifier>
@@ -2475,7 +2479,7 @@
 			<outputString>Stachelkolben</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Morning star</identifier>
+			<identifier>Morning Star</identifier>
 			<outputString>Morgenstern</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7059,7 +7063,7 @@
 			<outputString>Maza de pinchos</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Morning star</identifier>
+			<identifier>Morning Star</identifier>
 			<outputString>Lucero del alba</outputString>
 		</stringBinding>
 	</language>
