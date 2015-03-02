@@ -9427,7 +9427,7 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Реплика</text>
+			<text>копия</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
