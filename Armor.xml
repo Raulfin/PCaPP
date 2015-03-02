@@ -3009,6 +3009,10 @@
 			<substring>Daedric Buckler</substring>
 		</binding>
 		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Даэдрический круглый щит</substring>
+		</binding>
+		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Lilith's</substring>
 		</binding>
@@ -3031,6 +3035,10 @@
 		<binding>
 			<identifier>DaedricLight</identifier>
 			<substring>Suleyk</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Сулейк</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3082,7 +3090,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Кулаки Рандагульфа</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Eleidon's Ward</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Символ Элейдона</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3265,8 +3281,16 @@
 			<substring>Revered Dragon</substring>
 		</binding>
 		<binding>
+			<identifier>DragonplateLow</identifier>
+			<substring>Благородный дракон</substring>
+		</binding>
+		<binding>
 			<identifier>DragonplateHigh</identifier>
 			<substring>Legendary Dragon</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Легендарный дракон</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -3274,7 +3298,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Древний дракон</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Jagged Crown</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Зубчатая корона</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -3283,6 +3315,10 @@
 		<binding>
 			<identifier>DragonplateHigh</identifier>
 			<substring>Alduin</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Алдуин</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -3294,7 +3330,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Dragonhide Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>драконьей шкуры</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -3306,7 +3350,31 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Драконий эбонитовый</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконьи эбонитовые</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконья эбонитовая</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Dragonbone</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконий костяной</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконья костяная</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконьий костяные</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -3331,6 +3399,10 @@
 		<binding>
 			<identifier>Dragonplate</identifier>
 			<substring>Dragonslayer's Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -3490,6 +3562,26 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Легкая броня драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкие перчатки драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкие сапоги драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкий шлем драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкий щит драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Dragonhide</substring>
 		</binding>
 		<binding>
@@ -3498,7 +3590,35 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Легкая роба из драконьей шкуры</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкие перчатки из драконьей шкуры</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкие сапоги из драконьей шкуры</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкий капюшон из драконьей шкуры</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Dragonscale Ebonsteel</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатая эбонитовая</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатые эбонитовые</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатый эбонитовый</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
