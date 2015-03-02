@@ -1,25 +1,11 @@
 <Versions>
 <Current>
 <v2.4.1>
-Now covers:
-
-Blocklist:
-
-Exclusions:
-
-Fixes:
-
-Changes:
-
-Additions:
-
-Balancing:
-
-Renamed:
-
 Updated Patches:
+	Pre PaMa WAFR Patch
+	Pre PaMa WAFR CCOR Patch
+	Pre PaMa WAFR CCOR BOYD Patch
 
-New Patches:
 </v2.4.1>
 </Current>
 
