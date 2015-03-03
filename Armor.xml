@@ -6669,6 +6669,14 @@
 			<substring>Nord</substring>
 		</binding>
 		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Норд</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>норд</substring>
+		</binding>
+		<binding>
 			<identifier>LNordic</identifier>
 			<substring>Nord Light</substring>
 		</binding>
@@ -6685,12 +6693,60 @@
 			<substring>Primitive Nord Light</substring>
 		</binding>
 		<binding>
+			<identifier>LNordic</identifier>
+			<substring>легкие перчатки нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>легкие сапоги нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>легкий шлем нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>легкая кираса нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>Легкий церемониальный шлем нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>нордские легкие</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>нордский легкий</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>нордская легкая</substring>
+		</binding>
+		<binding>
 			<identifier>HNordic</identifier>
 			<substring>Nordic Dwemer</substring>
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
+			<substring>Нордский двемерский</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>нордский двемерский</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
 			<substring>Nordic Ebony</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордский эбонитовый</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>нордский эбонитовый</substring>
 		</binding>
 		<binding>
 			<identifier>LNordic</identifier>
@@ -6698,27 +6754,71 @@
 		</binding>
 		<binding>
 			<identifier>LNordic</identifier>
+			<substring>Нордский эбонитовый легкий щит</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
 			<substring>Nordic Moonstone</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>Нордский щит из лунного камня</substring>
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
 			<substring>Nordic Orichalcum</substring>
 		</binding>
 		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордский орихалковый</substring>
+		</binding>
+		<binding>
 			<identifier>LNordic</identifier>
 			<substring>Nordic Orichalcum Light</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>Нордский орихалковый легкий щит</substring>
 		</binding>
 		<binding>
 			<identifier>Ancient Nord</identifier>
 			<substring>Ancient Nord</substring>
 		</binding>
 		<binding>
+			<identifier>Ancient Nord</identifier>
+			<substring>Древние нордские</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Nord</identifier>
+			<substring>Древний нордский</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Nord</identifier>
+			<substring>Древняя нордская</substring>
+		</binding>
+		<binding>
 			<identifier>Ancient NordL</identifier>
 			<substring>Ancient Nord Light</substring>
 		</binding>
 		<binding>
+			<identifier>Ancient NordL</identifier>
+			<substring>Древние нордские легкие</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient NordL</identifier>
+			<substring>Древняя нордская легкая</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient NordL</identifier>
+			<substring>Древний нордский легкий</substring>
+		</binding>
+		<binding>
 			<identifier>LNordicLow</identifier>
 			<substring>Nord Mail</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicLow</identifier>
+			<substring>кольчуга нордов</substring>
 		</binding>
 		<binding>
 			<identifier>HNordicLow</identifier>
@@ -6726,7 +6826,23 @@
 		</binding>
 		<binding>
 			<identifier>HNordicLow</identifier>
+			<substring>Тяжелые кольчужные наручи нордов</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicLow</identifier>
+			<substring>Тяжелые кольчужные сапоги нордов</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicLow</identifier>
+			<substring>Тяжелый кольчужный койф нордов</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicLow</identifier>
 			<substring>Nord Mail Hauberk</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicLow</identifier>
+			<substring>Кольчужный хауберг нордов</substring>
 		</binding>
 		<binding>
 			<identifier>LNordicLow</identifier>
@@ -6734,15 +6850,39 @@
 		</binding>
 		<binding>
 			<identifier>LNordicLow</identifier>
+			<substring>Легкие кольчужные наручи нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicLow</identifier>
+			<substring>Легкие кольчужные сапоги нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicLow</identifier>
+			<substring>Легкий кольчужный шлем нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicLow</identifier>
 			<substring>Nord Mail Shirt</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicLow</identifier>
+			<substring>Короткая кольчуга нордов</substring>
 		</binding>
 		<binding>
 			<identifier>HNordicHigh</identifier>
 			<substring>Ysgramor</substring>
 		</binding>
 		<binding>
+			<identifier>HNordicHigh</identifier>
+			<substring>Исграмор</substring>
+		</binding>
+		<binding>
 			<identifier>LNordicHigh</identifier>
 			<substring>Buckler of Ysgramor</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicHigh</identifier>
+			<substring>Круглый щит Исграмора</substring>
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
@@ -6750,7 +6890,27 @@
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
+			<substring>Нордская резная</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордские резные</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордский резной</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
 			<substring>Nordic</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордск</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>нордск</substring>
 		</binding>
 		<binding>
 			<identifier>HNordicHigh</identifier>
@@ -6759,6 +6919,18 @@
 		<binding>
 			<identifier>HNordicHigh</identifier>
 			<substring>Steel Nordic</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicHigh</identifier>
+			<substring>Стальные нордские</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicHigh</identifier>
+			<substring>Стальная нордская</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicHigh</identifier>
+			<substring>Стальной нордский</substring>
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
@@ -6814,6 +6986,14 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Орихалк</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>орихалк</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Orcish Thigh</substring>
 		</binding>
 		<binding>
@@ -6821,16 +7001,60 @@
 			<substring>Warchief</substring>
 		</binding>
 		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>военачальника</substring>
+		</binding>
+		<binding>
 			<identifier>OrcishLight</identifier>
 			<substring>Warchief Light</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкая поступь военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкая хватка военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкий боевой венец военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкий боевой шлем военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкий оплот военачальника</substring>
 		</binding>
 		<binding>
 			<identifier>OrcishLight</identifier>
 			<substring>Shaman</substring>
 		</binding>
 		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Шаман</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>шаман</substring>
+		</binding>
+		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Berserker</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Берсерк</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>берсерк</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -6909,6 +7133,10 @@
 			<substring>Orcish Buckler</substring>
 		</binding>
 		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Орочий круглый щит</substring>
+		</binding>
+		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Rubicite</substring>
 		</binding>
@@ -6927,6 +7155,10 @@
 		<binding>
 			<identifier>OrcishLight</identifier>
 			<substring>Ghorza</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Горзы</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
