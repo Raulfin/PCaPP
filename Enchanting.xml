@@ -3724,8 +3724,8 @@
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage02</edidEnchantment>
-			<name>Горящий</name>
-			<type>PREFIX</type>
+			<name>горения</name>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage03</edidEnchantment>
@@ -3744,13 +3744,13 @@
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage06</edidEnchantment>
-			<name>Адский</name>
-			<type>PREFIX</type>
+			<name>адского пламени</name>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFrostDamage02</edidEnchantment>
-			<name>Морозящ.</name>
-			<type>PREFIX</type>
+			<name>морозов</name>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFrostDamage03</edidEnchantment>
@@ -3774,8 +3774,8 @@
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponShockDamage02</edidEnchantment>
-			<name>Щипающий</name>
-			<type>PREFIX</type>
+			<name>покалывания</name>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponShockDamage03</edidEnchantment>
@@ -5245,23 +5245,23 @@
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia03</edidEnchantment>
-			<name>Защищающ. от оружия</name>
-			<type>PREFIX</type>
+			<name>защиты от оружия</name>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia04</edidEnchantment>
-			<name>Отводящ. оружие</name>
-			<type>PREFIX</type>
+			<name>отвода оружия</name>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia05</edidEnchantment>
-			<name>Карающ.</name>
-			<type>PREFIX</type>
+			<name>грозы новичков</name>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia06</edidEnchantment>
-			<name>Защищающ. от магии</name>
-			<type>PREFIX</type>
+			<name>защиты от магии</name>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 <!--Cornucopia-->
 <!--WINTERMYST WEAPONS NAMES-->
@@ -5554,8 +5554,8 @@
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike02</edidEnchantment>
-			<name>Карающ.</name>
-			<type>PREFIX</type>
+			<name>палача</name>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike03</edidEnchantment>
