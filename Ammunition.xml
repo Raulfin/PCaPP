@@ -182,7 +182,7 @@
 		</binding>
 		<binding>
 			<identifier>Explosive</identifier>
-			<substring>Взрыва</substring>
+			<substring>взрыва</substring>
 		</binding>
 		<binding>
 			<identifier>Poisoned</identifier>
@@ -190,7 +190,7 @@
 		</binding>
 		<binding>
 			<identifier>Poisoned</identifier>
-			<substring>Отравы</substring>
+			<substring>отравл.</substring>
 		</binding>
 		<binding>
 			<identifier>Strong</identifier>
@@ -198,7 +198,7 @@
 		</binding>
 		<binding>
 			<identifier>Strong</identifier>
-			<substring>Крепк.</substring>
+			<substring>крепкий</substring>
 		</binding>
 		<binding>
 			<identifier>Strongest</identifier>
@@ -206,7 +206,7 @@
 		</binding>
 		<binding>
 			<identifier>Strongest</identifier>
-			<substring>Усил.</substring>
+			<substring>усиленный</substring>
 		</binding>
 		<binding>
 			<identifier>Fire</identifier>
@@ -214,7 +214,7 @@
 		</binding>
 		<binding>
 			<identifier>Fire</identifier>
-			<substring>Огня</substring>
+			<substring>огня</substring>
 		</binding>
 		<binding>
 			<identifier>Frost</identifier>
@@ -222,7 +222,7 @@
 		</binding>
 		<binding>
 			<identifier>Frost</identifier>
-			<substring>Холода</substring>
+			<substring>холода</substring>
 		</binding>
 		<binding>
 			<identifier>Shock</identifier>
@@ -230,7 +230,7 @@
 		</binding>
 		<binding>
 			<identifier>Shock</identifier>
-			<substring>Электричества</substring>
+			<substring>электричества</substring>
 		</binding>
 		<binding>
 			<identifier>Timebomb</identifier>
@@ -238,7 +238,7 @@
 		</binding>
 		<binding>
 			<identifier>Timebomb</identifier>
-			<substring>Замедл. взрыв</substring>
+			<substring>замедл. взрыва</substring>
 		</binding>
 		<binding>
 			<identifier>Barbed</identifier>
@@ -246,7 +246,7 @@
 		</binding>
 		<binding>
 			<identifier>Barbed</identifier>
-			<substring>С насечками</substring>
+			<substring>с насечками</substring>
 		</binding>
 		<binding>
 			<identifier>Lightsource</identifier>
@@ -254,7 +254,7 @@
 		</binding>
 		<binding>
 			<identifier>Lightsource</identifier>
-			<substring>Освещения</substring>
+			<substring>осветительн.</substring>
 		</binding>
 		<binding>
 			<identifier>Noisemaker</identifier>
@@ -262,7 +262,7 @@
 		</binding>
 		<binding>
 			<identifier>Noisemaker</identifier>
-			<substring>Шума</substring>
+			<substring>шума</substring>
 		</binding>
 	<!-- PerMa -->
 		<binding>
