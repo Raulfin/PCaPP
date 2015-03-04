@@ -5872,6 +5872,10 @@
 			<identifier>Iron</identifier>
 			<substring>Fodiiz's Armored Robes</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Укрепленная роба Фодиза</substring>
+		</binding>
 	<!-- Iron Material Bindings end -->
 	
 	<!-- Leather Material Bindings start -->
@@ -9887,9 +9891,20 @@
 			<substringArmor>Bandit</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Бандит</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		<armor_masquerade_binding>
+			<substringArmor>бандит</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
 		<!-- Fur set is listed individually to prevent several cloaks, capes and backpacks from flagging the player as a bandit -->
 		<armor_masquerade_binding>
 			<substringArmor>Fur Armor</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховая броня</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -9897,7 +9912,15 @@
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Меховые наручи</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Kilt</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховой килт</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -9905,11 +9928,23 @@
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Меховой шлем</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Shoes</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Меховые ботинки</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Pant</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховая броня со штанами</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Bandit end -->
@@ -9917,6 +9952,10 @@
 	<!-- Cultist start -->
 		<armor_masquerade_binding>
 			<substringArmor>Cultist</substringArmor>
+			<masqueradeFaction>CULTIST</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>члена культа</substringArmor>
 			<masqueradeFaction>CULTIST</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Cultist end -->
@@ -9927,7 +9966,15 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерский шлем</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Armor</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерская броня</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -9935,7 +9982,19 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерские сапоги</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Древние фалмерские сапоги</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Bracers</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерские наручи</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -9943,7 +10002,23 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерская тяжелая броня</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелая фалмерская броня</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Heavy Boots</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерские тяжелые сапоги</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелые фалмерские сапоги</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -9951,7 +10026,23 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерские тяжелые перчатки</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелые фалмерские перчатки</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Heavy Helm</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерский тяжелый шлем</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый фалмерский шлем</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -9959,7 +10050,23 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерская усиленная броня</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Укрепленная фалмерская броня</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Hardened Boots</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерские усиленные сапоги</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Укрепленные фалмерские сапоги</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -9967,7 +10074,23 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерские усиленные наручи</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Укрепленные фалмерские наручи</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Hardened Gauntlets</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерские усиленные перчатки</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Укрепленные фалмерские перчатки</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -9975,11 +10098,27 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерский усиленный шлем</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Укрепленный фалмерский шлем</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Shaman</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерская броня шамана</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Shellbug Helmet</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Шлем из хитина жука</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Falmer end -->
@@ -9990,7 +10129,15 @@
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Сапоги Изгоев</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Forsworn Armor</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Броня Изгоев</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -9998,7 +10145,15 @@
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Головной убор Изгоев</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Forsworn Gauntlets</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Перчатки Изгоев</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10006,7 +10161,15 @@
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Броня Старых богов</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Helmet of the Old Gods</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Шлем Старых богов</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10014,7 +10177,15 @@
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Перчатки Старых богов</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Boots of the Old Gods</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Сапоги Старых богов</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Forsworn end -->
@@ -10025,7 +10196,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперская легкая броня</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Light Boots</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперские легкие сапоги</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10033,7 +10212,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперские легкие наручи</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Light Helmet</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперский легкий шлем</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10041,7 +10228,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперские сапоги</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Bracers</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперские наручи</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10049,7 +10244,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперская броня</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Helmet</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперский шлем</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10057,7 +10260,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперский шлем с гребнем</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Studded</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперская клепаная броня</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10065,7 +10276,19 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Клепаная имперская</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Tattered</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Потрепанная Имперская броня</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Потрепанная имперская броня</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10073,7 +10296,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперский офицерский шлем</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial General's</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперская генеральская броня</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10081,11 +10312,23 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Пенитус</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>General</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>генерала</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Legate</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>легата</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Imperial end -->
@@ -10096,7 +10339,15 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Кираса Братьев Бури</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Stormcloak Helmet</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Шлем Братьев Бури</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10104,7 +10355,27 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Офицерская броня Братьев Бури</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Офицерские наручи Братьев Бури</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Офицерские сапоги Братьев Бури</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Офицерский шлем Братьев Бури</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Gauntlets</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховые перчатки</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10112,7 +10383,19 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Меховые сапоги</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Guard's</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховые перчатки стражи</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховые сапоги стражи</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10120,7 +10403,15 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Шлем стражи Истмарка</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Reinforced Guard Boots</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Усиленные сапоги стражника</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10128,7 +10419,15 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Усиленные перчатки стражника</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fitted Guard Boots</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Ладные сапоги стражника</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10136,7 +10435,15 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Ладные перчатки стражника</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Ulfric's Armor</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Броня Ульфрика</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10144,7 +10451,15 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Сапоги Ульфрика</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Ulfric's Bracers</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Наручи Ульфрика</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10161,6 +10476,10 @@
 			<substringArmor>Thalmor</substringArmor>
 			<masqueradeFaction>THALMOR</masqueradeFaction>
 		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Талмор</substringArmor>
+			<masqueradeFaction>THALMOR</masqueradeFaction>
+		</armor_masquerade_binding>
 	<!-- Thalmor end -->
 	
 	<!-- Vampire start -->
@@ -10169,7 +10488,15 @@
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Вампирская броня</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Vampire Boots</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Вампирские сапоги</substringArmor>
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10177,7 +10504,23 @@
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Вампирские перчатки</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Вампирские окованные перчатки</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Vampire Hood</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Капюшон вампира</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Вампирский капюшон</substringArmor>
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -10185,7 +10528,15 @@
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Вампирская королевская броня</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Vampire Lord</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Броня вампира-лорда</substringArmor>
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Vampire end -->
@@ -10199,7 +10550,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Разрушитель Заклинаний</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Bound</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Призван</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -10229,7 +10590,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Обруч Ульфрика</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Aela's</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Эйлы</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -10239,7 +10610,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Шлем Винтерхолда</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Hrolfdir's Shield</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Щит Хролфдира</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -10249,7 +10630,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Зубчатая корона</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Mystic Tuning Gloves</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Мистические настроечные перчатки</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -10259,12 +10650,27 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Шлем Ностера</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Roggi's Ancestral Shield</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Щит предков Рогги</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Forgemaster's Fingers</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Перчатки мастера-кузнеца</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -10279,12 +10685,27 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Этериевая корона</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>NPC</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
 			<text>Backpack</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Рюкзак</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>рюкзак</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -10335,6 +10756,11 @@
 		</exclusion>
 		<exclusion>
 			<text>Replica</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>копия</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -10405,7 +10831,7 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Мираак</text>
+			<text>Мирак</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
