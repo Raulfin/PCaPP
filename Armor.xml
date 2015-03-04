@@ -9894,6 +9894,7 @@
 		<armor_masquerade_binding>
 			<substringArmor>Бандит</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
 		<armor_masquerade_binding>
 			<substringArmor>бандит</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
