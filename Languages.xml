@@ -2648,19 +2648,19 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Quality</identifier>
-			<outputString>Качеств.</outputString>
+			<outputString>качеств.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Strong</identifier>
-			<outputString>Крепк.</outputString>
+			<outputString>крепкий</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Strongest</identifier>
-			<outputString>Усил.</outputString>
+			<outputString>усиленный</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Poisoned</identifier>
-			<outputString>Отравл.</outputString>
+			<outputString>отравл.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Fire</identifier>
@@ -2676,7 +2676,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lightsource</identifier>
-			<outputString>света</outputString>
+			<outputString>осветительн.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explosive</identifier>
