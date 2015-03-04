@@ -5654,6 +5654,10 @@
 			<substring>Cutlass</substring>
 			<identifier>Sabre</identifier>
 		</binding>
+		<binding>
+			<substring>Corsair's Sword</substring>
+			<identifier>Sabre</identifier>
+		</binding>
 	<!-- Sabre bindings end -->
 
 	<!-- Scimitar bindings start -->
