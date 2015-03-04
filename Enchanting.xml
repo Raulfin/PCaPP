@@ -7863,7 +7863,6 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-		<exclusion>
 			<text>Серебряное кольцо Мадези</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>

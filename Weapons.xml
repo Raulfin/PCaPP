@@ -598,12 +598,16 @@
 			<substring>Лук Анги</substring>
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Лук Дравина</substring>
+		</binding>
+		<binding>
 			<identifier>Iron</identifier>
 			<substring>Лук Фроки</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
-			<substring>Проклятие Эгиды</substring>
+			<substring>Эгиды</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -611,19 +615,43 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Штормовой Клык</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
 			<substring>Бич Хоркеров</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
-			<substring>Шагрола</substring>
+			<substring>Шагрол</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Балгруфа</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Борвира</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Рунди</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Меч королевы Фрейдис</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Мужество Гербена</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Секира Тсуна</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Топор предков Горбаша</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Фамильный меч Амрена</substring>
 		</binding>
 		<!-- не обрабатываемое родным патчером ваниль стоп -->
 		<binding>
@@ -1370,11 +1398,11 @@
 		</binding>
 		<binding>
 			<identifier>Nord</identifier>
-			<substring>Драконобой</substring>
+			<substring>нордск</substring>
 		</binding>
 		<binding>
 			<identifier>Nord</identifier>
-			<substring>нордск</substring>
+			<substring>Драконобой</substring>
 		</binding>
 		<binding>
 			<identifier>Nord</identifier>
@@ -1943,6 +1971,22 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Драконий костяной</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконья костяная</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконье костяное</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконьи костяные</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Dragon Plate</substring>
 		</binding>
 		<binding>
@@ -2507,6 +2551,10 @@
 			<substring>Akaviri</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Акавирский</substring>
+		</binding>
+		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Akavirii</substring>
 		</binding>
@@ -2624,6 +2672,14 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>черный лук</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Черный лук</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Bone Hilt</substring>
 		</binding>
 		<binding>
@@ -2697,10 +2753,6 @@
 		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Harkon's Dai-Katana</substring>
-		</binding>
-		<binding>
-			<identifier>EbonyHigh</identifier>
-			<substring>Меч Харкона</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -2988,6 +3040,10 @@
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Firiniel's End</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Смерть Фириниэла</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -3312,6 +3368,10 @@
 		</binding>
 		<binding>
 			<identifier>GlassHigh</identifier>
+			<substring>Харкона</substring>
+		</binding>
+		<binding>
+			<identifier>GlassHigh</identifier>
 			<substring>Chillrend</substring>
 		</binding>
 		<binding>
@@ -3526,6 +3586,10 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>браконьера</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Woodsman's</substring>
 		</binding>
 		<binding>
@@ -3636,7 +3700,11 @@
 			<identifier>Iron</identifier>
 			<substring>Dragon Priest Dagger</substring>
 		</binding>
-	<!-- Iron bindings end -->
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Кинжал драконьего жреца</substring>
+		</binding>
+		<!-- Iron bindings end -->
 	
 	<!-- Iron/Wood Clutter bindings start -->
 		<binding>
@@ -4067,6 +4135,10 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>порождения пепла</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Crusader</substring>
 		</binding>
 		<binding>
@@ -4184,6 +4256,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Stormfang</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Штормовой Клык</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -4328,10 +4404,6 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Akaviri Warblade</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Акавирский меч</substring>
 		</binding>		
 		<binding>
 			<identifier>Steel</identifier>
@@ -4400,6 +4472,14 @@
 		<binding>
 			<identifier>SteelHigh</identifier>
 			<substring>Black Bow</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>черный лук</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Черный лук</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
@@ -4630,7 +4710,39 @@
 		</binding>
 		<binding>
 			<identifier>Skyforge</identifier>
+			<substring>Небесный орихалк</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесная орихалк</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесное орихалк</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесные орихалк</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
 			<substring>Skyforge Dwemer</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесный двемер</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесная двемер</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесное двемер</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесные двемер</substring>
 		</binding>
 		<binding>
 			<identifier>Skyforge</identifier>
@@ -4638,7 +4750,39 @@
 		</binding>
 		<binding>
 			<identifier>Skyforge</identifier>
+			<substring>Небесный эльф</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесная эльф</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесное эльф</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесные эльф</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
 			<substring>Skyforge Ebony</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесный эбонит</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесная эбонит</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесное эбонит</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесные эбонит</substring>
 		</binding>
 		<binding>
 			<identifier>Skyforge</identifier>
@@ -4651,6 +4795,22 @@
 		<binding>
 			<identifier>Skyforge</identifier>
 			<substring>Skyforge Steel</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесный стальной</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесная стальная</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесное стальное</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесные стальные</substring>
 		</binding>
 		<binding>
 			<identifier>Skyforge</identifier>
@@ -4787,6 +4947,10 @@
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Ash</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>Пепельный</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
@@ -6269,7 +6433,11 @@
 			<identifier>Javelin</identifier>
 		</binding>
 		<binding>
-			<substring>Проклятие Эгиды</substring>
+			<substring>Эгиды</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Боевой молот Шагрола</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
@@ -6291,8 +6459,19 @@
 		<binding>
 			<substring>Этериевая эмблема</substring>
 			<identifier>Dagger</identifier>
-		</binding>		
-		
+		</binding>
+		<binding>
+			<substring>Мужество Гербена</substring>
+			<identifier>Waraxe</identifier>
+		</binding>			
+		<binding>
+			<substring>Окин</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
+		<binding>
+			<substring>Эдуж</substring>
+			<identifier>Armingsword</identifier>
+		</binding>
 		<!-- Russian Weapon bindings end -->
 	
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
@@ -7043,10 +7222,6 @@
 		<binding>
 			<substring>Akaviri Katana</substring>
 			<identifier>Katana</identifier>
-		</binding>
-		<binding>
-			<substring>Акавирский меч</substring>
-			<identifier>Katana</identifier>
 		</binding>		
 		<binding>
 			<substring>Dragonbane</substring>
@@ -7127,8 +7302,8 @@
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
-			<substring>Dawnbreaker</substring>
-			<identifier>Сияние Рассвета</identifier>
+			<substring>Сияние Рассвета</substring>
+			<identifier>Longsword</identifier>
 		</binding>		
 		<binding>
 			<substring>Lilith's Harbinger</substring>
@@ -7412,10 +7587,6 @@
 		</binding>
 		<binding>
 			<substring>Cutlass</substring>
-			<identifier>Sabre</identifier>
-		</binding>
-		<binding>
-			<substring>Corsair's Sword</substring>
 			<identifier>Sabre</identifier>
 		</binding>
 	<!-- Sabre bindings end -->
@@ -7817,8 +7988,8 @@
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
-			<substring>Rueful Axe</substring>
-			<identifier>Топор Скорби</identifier>
+			<substring>Топор Скорби</substring>
+			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
 			<substring>Executioner's Hook</substring>
@@ -8547,8 +8718,8 @@
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
-			<substring>Dragonrend</substring>
-			<identifier>Драконобой</identifier>
+			<substring>Драконобой</substring>
+			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
 			<substring>Elberond</substring>
@@ -8564,6 +8735,10 @@
 		</binding>
 		<binding>
 			<substring>Firiniel's End</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Смерть Фириниэла</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
