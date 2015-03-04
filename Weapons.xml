@@ -272,7 +272,15 @@
 			<identifier>used</identifier>
 		</binding>
 		<binding>
+			<substring> (использованный)</substring>
+			<identifier>used</identifier>
+		</binding>
+		<binding>
 			<substring>(Worn)</substring>
+			<identifier>worn</identifier>
+		</binding>
+		<binding>
+			<substring>(изношенный)</substring>
 			<identifier>worn</identifier>
 		</binding>
 		<binding>
@@ -280,7 +288,15 @@
 			<identifier>reliable</identifier>
 		</binding>
 		<binding>
+			<substring>(прочный)</substring>
+			<identifier>reliable</identifier>
+		</binding>
+		<binding>
 			<substring>(Solid)</substring>
+			<identifier>solid</identifier>
+		</binding>
+		<binding>
+			<substring>(крепкий)</substring>
 			<identifier>solid</identifier>
 		</binding>
 		<binding>
@@ -288,7 +304,15 @@
 			<identifier>damaged</identifier>
 		</binding>
 		<binding>
+			<substring>(поврежденный)</substring>
+			<identifier>damaged</identifier>
+		</binding>
+		<binding>
 			<substring>(Broken)</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
+			<substring>(сломанный)</substring>
 			<identifier>broken</identifier>
 		</binding>
 	<!-- Frostfall end-->
