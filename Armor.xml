@@ -5658,6 +5658,10 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Перчатки зубного врача</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Cerberus Ire</substring>
 		</binding>
 		<binding>
@@ -7253,8 +7257,16 @@
 			<substring>Crimson Archer</substring>
 		</binding>
 		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Багров</substring>
+		</binding>
+		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Einherjar Brigandine</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>одинокого воина</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -7262,11 +7274,23 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Морского волка</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Hunter</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Mercenary</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>наемника</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -7470,6 +7494,10 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>апофеоза</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Chain Mail</substring>
 		</binding>
 		<binding>
@@ -7483,6 +7511,10 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Savior's Hide</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Шкура Спасителя</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -7606,7 +7638,15 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Корундовая маска</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Copper Plate Robes</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Корундовая панцирная роба</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -7614,7 +7654,15 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Корундовые чешуйчатые перчатки</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Copper Scale Greaves</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Корундовые чешуйчатые поножи</substring>
 		</binding>
 	<!-- Scaled Material Bindings end -->
 	
@@ -7634,7 +7682,15 @@
 		</binding>
 		<binding>
 			<identifier>SilverHeavy</identifier>
+			<substring>Серебряная маска</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
 			<substring>Silver Plate Robes</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
+			<substring>Серебряная панцирная роба</substring>
 		</binding>
 		<binding>
 			<identifier>SilverHeavy</identifier>
@@ -7642,7 +7698,15 @@
 		</binding>
 		<binding>
 			<identifier>SilverHeavy</identifier>
+			<substring>Серебряные чешуйчатые перчатки</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
 			<substring>Silver Scale Greaves</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
+			<substring>Серебряные чешуйчатые поножи</substring>
 		</binding>
 	<!-- Silver Material Bindings end -->
 	
@@ -7662,7 +7726,19 @@
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
+			<substring>Кольчат</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
 			<substring>Studded</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Клепан</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>клепан</substring>
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
@@ -7671,6 +7747,22 @@
 		<binding>
 			<identifier>Studded</identifier>
 			<substring>Barbarian Hero</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Варварская броня героя</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Варварские наручи героя</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Варварские сапоги героя</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Варварский шлем героя</substring>
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
@@ -7710,6 +7802,14 @@
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
+			<substring>Утепленная меховая</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Утепленный меховой</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
 			<substring>Empire Royal</substring>
 		</binding>
 		<binding>
@@ -7738,6 +7838,10 @@
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
+			<substring>Стендарр</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
 			<substring>Blade Dancer</substring>
 		</binding>
 		<binding>
@@ -7761,8 +7865,16 @@
 			<substring>Steel Armor with Pauldrons</substring>
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальная броня с наплечниками</substring>
+		</binding>
+		<binding>
 			<identifier>SteelHigh</identifier>
 			<substring>Tsun</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Тсун</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7785,16 +7897,32 @@
 			<substring>Heavy Splinted</substring>
 		</binding>
 		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Тяжелый лубяной</substring>
+		</binding>
+		<binding>
 			<identifier>SteelLight</identifier>
 			<substring>Light Splinted</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Легкий лубяной</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Painted Spiked</substring>
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Раскрашенный шипастый</substring>
+		</binding>
+		<binding>
 			<identifier>SteelLight</identifier>
 			<substring>Light Target Shield</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Легкий щит-мишень</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7802,7 +7930,19 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Тяжелый щит-мишень</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Knight</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Рыцар</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Рыцар</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7810,7 +7950,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Старк</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Sons of Skyrim</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Сынов Скайрима</substring>
 		</binding>
 		<binding>
 			<identifier>Steelow</identifier>
@@ -7829,16 +7977,24 @@
 			<substring>Cultist Mask</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Маска члена культа</substring>
+		</binding>
+		<binding>
 			<identifier>Steel</identifier>
 			<substring>Blooded</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Кровожадности</substring>
+			<substring>кровожадности</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Telvanni</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Телванни</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7854,11 +8010,23 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>викинг</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Lannister</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Ланнистер</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Thane</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>тана</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7905,8 +8073,20 @@
 			<substring>Armored Fur</substring>
 		</binding>
 		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Укрепленная меховая</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Укрепленный меховой</substring>
+		</binding>
+		<binding>
 			<identifier>SteelLight</identifier>
 			<substring>Steel Buckler</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Стальной круглый щит</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -8062,15 +8242,31 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Стальной капюшон когтей белого медведя</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Steel Ornate</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальной украш. капюшон когтей</substring><!-- winter is coming -->
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Steel Fancy</substring><!-- winter is coming -->
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальной меховой капюшон когтей</substring><!-- winter is coming -->
+		</binding>
+		<binding>
 			<identifier>Steel Heavy</identifier>
 			<substring>Damaged Ceremonial</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Попорченная церемониальная</substring>
 		</binding>
 	<!-- Steel Material Bindings end -->
 	
@@ -8079,6 +8275,10 @@
 		<binding>
 			<identifier>Steel PlateHigh</identifier>
 			<substring>Yngol</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateHigh</identifier>
+			<substring>Ингола</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -8098,31 +8298,71 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>Йоррваскра</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Ritual</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Ритуал</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>ритуал</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Heavy Spiked</substring>
 		</binding>
 		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Тяжелый шипастый</substring>
+		</binding>
+		<binding>
 			<identifier>Steel PlateLight</identifier>
 			<substring>Light Spiked</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Легкий шипастый</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Heavy Jorrvaskr Shield</substring>
 		</binding>
 		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Тяжелый щит Йоррваскра</substring>
+		</binding>
+		<binding>
 			<identifier>Steel PlateLight</identifier>
 			<substring>Light Skyforge</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Легкий небесный щит</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Skyforge</substring>
 		</binding>
 		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Небесн</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>небесн</substring>
+		</binding>
+		<binding>
 			<identifier>Steel PlateHigh</identifier>
 			<substring>Heavy Skyforge</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateHigh</identifier>
+			<substring>Тяжелый небесный щит</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -8130,7 +8370,23 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>Крестоносца</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>крестоносца</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Witchplate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Чародеев</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>чародеев</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -8138,7 +8394,27 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>Горы</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Einherjar Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>панцирная кираса одинокого воина</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>панцирные перчатки одинокого воина</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>панцирные сапоги одинокого воина</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>панцирный капюшон одинокого воина</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -8146,7 +8422,27 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>Винтерфелл</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Champion</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Защитника</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>защитника</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Чемпиона</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>чемпиона</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -8158,11 +8454,23 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>авангарда</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Spellbinder</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>ткача заклинаний</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Hedge</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>межевого рыцаря</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -8211,6 +8519,10 @@
 		<binding>
 			<identifier>Steel PlateLight</identifier>
 			<substring>Light Jorrvaskr Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Легкий щит Йоррваскра</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -8278,7 +8590,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>пластинчатые сапоги</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Plate Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>пластинчатая броня</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -8286,7 +8606,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>пластинчатые перчатки</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Plate Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>пластинчатый шлем</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -8373,8 +8701,32 @@
 			<substring>Glacial Crystal Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>HStalhrim</identifier>
+			<substring>Ледяная кристальная тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>HStalhrim</identifier>
+			<substring>Ледяной кристальный тяжелый</substring>
+		</binding>
+		<binding>
+			<identifier>HStalhrim</identifier>
+			<substring>Ледяные кристальные тяжелые</substring>
+		</binding>
+		<binding>
 			<identifier>LStalhrim</identifier>
 			<substring>Glacial Crystal Light</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Ледяная кристальная легкая</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Ледяной кристальный легкий</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Ледяные кристальные легкие</substring>
 		</binding>
 		<binding>
 			<identifier>LStalhrim</identifier>
@@ -8382,7 +8734,19 @@
 		</binding>
 		<binding>
 			<identifier>LStalhrim</identifier>
+			<substring>Печати Смерти</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
 			<substring>Stalhrim</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Сталгрим</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>сталгрим</substring>
 		</binding>
 		<binding>
 			<identifier>HStalhrim</identifier>
@@ -8395,6 +8759,10 @@
 		<binding>
 			<identifier>LStalhrim</identifier>
 			<substring>Bloodskal</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Бладскал</substring>
 		</binding>
 		<binding>
 			<identifier>HStalhrim</identifier>
@@ -8423,6 +8791,10 @@
 		<binding>
 			<identifier>Vampire Royal</identifier>
 			<substring>Vampire Royal</substring>
+		</binding>
+		<binding>
+			<identifier>Vampire Royal</identifier>
+			<substring>Вампирская королевская</substring>
 		</binding>
 		<binding>
 			<identifier>Vampire Royal</identifier>
