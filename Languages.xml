@@ -2607,10 +2607,6 @@
 			<outputString>меч</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Arming Sword</identifier>
-			<outputString>меч</outputString>
-		</stringBinding>
-		<stringBinding>
 			<identifier>Javelin</identifier>
 			<outputString>дротик</outputString>
 		</stringBinding>
@@ -2680,27 +2676,27 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lightsource</identifier>
-			<outputString>Освещения</outputString>
+			<outputString>света</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explosive</identifier>
-			<outputString>Взрыва</outputString>
+			<outputString>взрыва</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Timebomb</identifier>
-			<outputString>Замедл. взрыва</outputString>
+			<outputString>замедл. взрыва</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Barbed</identifier>
-			<outputString>С насечками</outputString>
+			<outputString>с насечками</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Silenced</identifier>
-			<outputString>бесшумн.</outputString>
+			<outputString>бесшумный</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Arbalest</identifier>
-			<outputString>тяжелый арбалет</outputString>
+			<outputString>утяжеленный</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Recurve</identifier>
@@ -2708,7 +2704,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lightweight</identifier>
-			<outputString>легк.</outputString>
+			<outputString>легкий</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shortbow</identifier>
