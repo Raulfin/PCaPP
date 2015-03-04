@@ -3885,19 +3885,19 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Weaponward</identifier>
-			<outputString>защищающ. от оружия</outputString>
+			<outputString>Защищающ. от оружия</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Weaponbane</identifier>
-			<outputString>сопротивления оружию</outputString>
+			<outputString>Отводящ. оружие</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Novicebane</identifier>
-			<outputString>погибели новичков</outputString>
+			<outputString>Карающ.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Magickguard</identifier>
-			<outputString>защищающ. от магии</outputString>
+			<outputString>Защищающ. от магии</outputString>
 		</stringBinding>
 		<!--Cornucopia-->
 		<!--WINTERMYST WEAPONS NAMES-->
@@ -4135,7 +4135,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Executioner's</identifier>
-			<outputString>Карающий</outputString>
+			<outputString>Карающ.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mortality</identifier>
