@@ -142,6 +142,32 @@
 			<identifier>tension</identifier>
 		</binding>
 	<!-- Nock to Tip end -->
+	<!-- Frostfall start-->
+		<binding>
+			<substring>(Used)</substring>
+			<identifier>used</identifier>
+		</binding>
+		<binding>
+			<substring>(Worn)</substring>
+			<identifier>worn</identifier>
+		</binding>
+		<binding>
+			<substring>(Reliable)</substring>
+			<identifier>reliable</identifier>
+		</binding>
+		<binding>
+			<substring>(Solid)</substring>
+			<identifier>solid</identifier>
+		</binding>
+		<binding>
+			<substring>(Damaged)</substring>
+			<identifier>damaged</identifier>
+		</binding>
+		<binding>
+			<substring>(Broken)</substring>
+			<identifier>broken</identifier>
+		</binding>
+	<!-- Frostfall end-->
 	</weapon_modifier_bindings>
 
 	<weapon_modifiers>
@@ -175,12 +201,6 @@
 			<factorAttackSpeed>1.1</factorAttackSpeed>
 			<factorValue>0.75</factorValue>
 		</weapon_modifier>
-		<armor_modifier>
-			<identifier>old</identifier>
-			<factorArmor>0.95</factorArmor>
-			<factorValue>0.95</factorValue>
-			<factorWeight>1.05</factorWeight>
-		</armor_modifier>
 		<weapon_modifier>
 			<identifier>light</identifier>
 			<factorDamage>0.9</factorDamage>
@@ -386,6 +406,62 @@
 			<factorValue>1</factorValue>
 		</weapon_modifier>
 	<!-- Nock to Tip end -->
+	<!-- Frostfall start-->
+		<weapon_modifier>
+			<identifier>broken</identifier>
+			<factorDamage>0.1</factorDamage>
+			<factorCritDamage>1.1</factorCritDamage>
+			<factorWeight>0.8</factorWeight>
+			<factorReach>1.0</factorReach>
+			<factorAttackSpeed>1.1</factorAttackSpeed>
+			<factorValue>0.2</factorValue>
+		</weapon_modifier>
+		<weapon_modifier>
+			<identifier>damaged</identifier>
+			<factorDamage>0.6</factorDamage>
+			<factorCritDamage>1.1</factorCritDamage>
+			<factorWeight>0.9</factorWeight>
+			<factorReach>1.0</factorReach>
+			<factorAttackSpeed>1.0</factorAttackSpeed>
+			<factorValue>0.5</factorValue>
+		</weapon_modifier>
+		<weapon_modifier>
+			<identifier>worn</identifier>
+			<factorDamage>0.7</factorDamage>
+			<factorCritDamage>1.1</factorCritDamage>
+			<factorWeight>1.0</factorWeight>
+			<factorReach>1.0</factorReach>
+			<factorAttackSpeed>1.0</factorAttackSpeed>
+			<factorValue>0.7</factorValue>
+		</weapon_modifier>
+		<weapon_modifier>
+			<identifier>used</identifier>
+			<factorDamage>0.9</factorDamage>
+			<factorCritDamage>1.1</factorCritDamage>
+			<factorWeight>1.0</factorWeight>
+			<factorReach>1.0</factorReach>
+			<factorAttackSpeed>1.0</factorAttackSpeed>
+			<factorValue>1.0</factorValue>
+		</weapon_modifier>
+		<weapon_modifier>
+			<identifier>solid</identifier>
+			<factorDamage>1.1</factorDamage>
+			<factorCritDamage>1.1</factorCritDamage>
+			<factorWeight>1.0</factorWeight>
+			<factorReach>1.0</factorReach>
+			<factorAttackSpeed>1.0</factorAttackSpeed>
+			<factorValue>1.5</factorValue>
+		</weapon_modifier>
+		<weapon_modifier>
+			<identifier>reliable</identifier>
+			<factorDamage>1.2</factorDamage>
+			<factorCritDamage>1.1</factorCritDamage>
+			<factorWeight>1.0</factorWeight>
+			<factorReach>1.0</factorReach>
+			<factorAttackSpeed>1.0</factorAttackSpeed>
+			<factorValue>2.0</factorValue>
+		</weapon_modifier>
+	<!-- Frostfall end-->
 	</weapon_modifiers>
 
 	<weapon_material_bindings>
