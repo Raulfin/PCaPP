@@ -3704,2828 +3704,2828 @@
 	<enchantment_name_bindings>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFear01</edidEnchantment>
-			<name>Dismay</name>
+			<name>испуга</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFear02</edidEnchantment>
-			<name>Panic</name>
+			<name>паники</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFear03</edidEnchantment>
-			<name>Hysteria</name>
+			<name>истерии</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage01</edidEnchantment>
-			<name>Fire</name>
+			<name>огня</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage02</edidEnchantment>
-			<name>Burning</name>
+			<name>Горящий</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage03</edidEnchantment>
-			<name>Cinder</name>
+			<name>испепеления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage04</edidEnchantment>
-			<name>Blisters</name>
+			<name>нарывов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage05</edidEnchantment>
-			<name>Eruption</name>
+			<name>извержения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage06</edidEnchantment>
-			<name>Infernal</name>
+			<name>Адский</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFrostDamage02</edidEnchantment>
-			<name>Cool</name>
+			<name>Морозящ.</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFrostDamage03</edidEnchantment>
-			<name>Chills</name>
+			<name>озноба</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFrostDamage04</edidEnchantment>
-			<name>Blisters</name>
+			<name>нарывов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFrostDamage05</edidEnchantment>
-			<name>Freezing</name>
+			<name>стужи</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFrostDamage06</edidEnchantment>
-			<name>Frozon</name>
+			<name>замерзания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponShockDamage02</edidEnchantment>
-			<name>Tingling</name>
+			<name>Щипающий</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponShockDamage03</edidEnchantment>
-			<name>Cinder</name>
+			<name>испепеления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponShockDamage04</edidEnchantment>
-			<name>Blisters</name>
+			<name>нарывов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponShockDamage05</edidEnchantment>
-			<name>Eruption</name>
+			<name>извержения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponShockDamage06</edidEnchantment>
-			<name>Jolts</name>
+			<name>встряски</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-		
-	<!--Wind Magic start -->
+
+<!--Wind Magic start -->
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponWindDamage01</edidEnchantment>
-			<name>Drafts</name>
+			<name>осадков</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponWindDamage02</edidEnchantment>
-			<name>Breezes</name>
+			<name>ветерка</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponWindDamage03</edidEnchantment>
-			<name>Flurries</name>
+			<name>шквала</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponWindDamage04</edidEnchantment>
-			<name>Wind</name>
+			<name>ветра</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponWindDamage05</edidEnchantment>
-			<name>Typhoons</name>
+			<name>ураганов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponWindDamage06</edidEnchantment>
-			<name>Hurricanes</name>
+			<name>штормов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>StaffEnchGust</edidEnchantment>
-			<name>Gust</name>
+			<name>порыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>StaffEnchTempest</edidEnchantment>
-			<name>Tempest</name>
+			<name>бури</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>StaffEnchTornado</edidEnchantment>
-			<name>Tornado</name>
+			<name>торнадо</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>StaffEnchWallOfWind</edidEnchantment>
-			<name>Wall Of Wind</name>
+			<name>стены ветра</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>StaffEnchWhirlwind</edidEnchantment>
-			<name>Whirlwind</name>
+			<name>вихря</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>StaffEnchWindRune</edidEnchantment>
-			<name>Wind Rune</name>
+			<name>руны ветра</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Wind Magic end -->
+<!--Wind Magic end -->
 
-	<!--WINTERMYST ARMORS NAMES-->
+<!--WINTERMYST ARMORS NAMES-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BlockResist01</edidEnchantment>
-			<name>Defiance</name>
+			<name>неповиновения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Bulwark01</edidEnchantment>
-			<name>the Bulwark</name>
+			<name>оплота</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Bulwark02</edidEnchantment>
-			<name>the Rampart</name>
+			<name>обороны</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Bulwark03</edidEnchantment>
-			<name>the Tower</name>
+			<name>башни</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Bulwark04</edidEnchantment>
-			<name>the Castle</name>
+			<name>замка</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Bulwark05</edidEnchantment>
-			<name>the Fortress</name>
+			<name>крепости</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Bulwark06</edidEnchantment>
-			<name>the Bastion</name>
+			<name>бастиона</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Bulwark-->
+<!--Bulwark-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Ill_Ench_Maze01</edidEnchantment>
-			<name>the Maze</name>
+			<name>замешательства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Rebuke02</edidEnchantment>
-			<name>Rebuking</name>
+			<name>отпора</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Ill_Ench_Maze03</edidEnchantment>
-			<name>the Labyrinth</name>
+			<name>путаницы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Rebuke04</edidEnchantment>
-			<name>Reckoning</name>
+			<name>расплаты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Ill_Ench_Maze05</edidEnchantment>
-			<name>the Hollow</name>
+			<name>пустоты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Rebuke06</edidEnchantment>
-			<name>Sanctuary</name>
+			<name>неприкосновенности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Maze/Rebuke-->
+<!--Maze/Rebuke-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Spurs01</edidEnchantment>
-			<name>Spurs</name>
+			<name>шпор</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Spurs-->
+<!--Spurs-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FoolsGold01</edidEnchantment>
-			<name>Gremlin Gold</name>
+			<name>золота гремлина</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FoolsGold02</edidEnchantment>
-			<name>Troll Gold</name>
+			<name>золота тролля</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fool's Gold-->
+<!--Fool's Gold-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Execute01</edidEnchantment>
-			<name>the Executioner</name>
+			<name>палача</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyPowerAttack02</edidEnchantment>
-			<name>Guard Breaking</name>
+			<name>преодоления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Execute03</edidEnchantment>
-			<name>Murder</name>
+			<name>убийства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyPowerAttack04</edidEnchantment>
-			<name>Block Breaking</name>
+			<name>пробития</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Execute05</edidEnchantment>
-			<name>Mercy Killing</name>
+			<name>милосердного убийства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyPowerAttack06</edidEnchantment>
-			<name>of Guard Crushing</name>
+			<name>разгрома</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Execute/Fortify Power Attack-->
+<!--Execute/Fortify Power Attack-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Mageward01</edidEnchantment>
-			<name>Mage Ward</name>
+			<name>магического оберега</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Ill_Ench_SmokeAndMirrors02</edidEnchantment>
-			<name>Smoke and Mirrors</name>
+			<name>сокрытия</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Mageward03</edidEnchantment>
-			<name>Hexward</name>
+			<name>защиты от чар</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Ill_Ench_SmokeAndMirrors04</edidEnchantment>
-			<name>Deceit</name>
+			<name>лукавства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Mageward05</edidEnchantment>
-			<name>Wizardward</name>
+			<name>волшебного оберега</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Ill_Ench_SmokeAndMirrors06</edidEnchantment>
-			<name>Lies</name>
+			<name>выдумок</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Mage Ward/Smoke and Mirrors-->
+<!--Mage Ward/Smoke and Mirrors-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_PhantomsOfTheWild01</edidEnchantment>
-			<name>Totems</name>
+			<name>тотемов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_PhantomsOfTheWild02</edidEnchantment>
-			<name>Dark Woods</name>
+			<name>темных лесов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_PhantomsOfTheWild03</edidEnchantment>
-			<name>Moonlit Woods</name>
+			<name>лунных лесов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_PhantomsOfTheWild04</edidEnchantment>
-			<name>the Heer</name>
+			<name>шерсти</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_PhantomsOfTheWild05</edidEnchantment>
-			<name>the Fell</name>
+			<name>шкуры</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_PhantomsOfTheWild06</edidEnchantment>
-			<name>the Primal</name>
+			<name>первобытности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Phantoms of the Wild-->
+<!--Phantoms of the Wild-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_IncreasedExperience01</edidEnchantment>
-			<name>Experience</name>
+			<name>опыта</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_IncreasedExperience02</edidEnchantment>
-			<name>Training</name>
+			<name>тренировки</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_IncreasedExperience03</edidEnchantment>
-			<name>Acumen</name>
+			<name>проницательности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_IncreasedExperience04</edidEnchantment>
-			<name>Knowledge</name>
+			<name>знаний</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_IncreasedExperience05</edidEnchantment>
-			<name>Understanding</name>
+			<name>понимания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_IncreasedExperience06</edidEnchantment>
-			<name>Wisdom</name>
+			<name>мудрости</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Increased Experience-->
+<!--Increased Experience-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint01</edidEnchantment>
-			<name>Sprinting</name>
+			<name>бега</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint02</edidEnchantment>
-			<name>Quickness</name>
+			<name>быстроты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint03</edidEnchantment>
-			<name>Acceleration</name>
+			<name>ускорения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint04</edidEnchantment>
-			<name>Chasing</name>
+			<name>погони</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint05</edidEnchantment>
-			<name>the Panther</name>
+			<name>пантеры</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint06</edidEnchantment>
-			<name>the Cheetah</name>
+			<name>гепарда</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fortify Sprint-->
+<!--Fortify Sprint-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySwimSpeed01</edidEnchantment>
-			<name>Swimming</name>
+			<name>плавания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySwimSpeed02</edidEnchantment>
-			<name>Fins</name>
+			<name>плавников</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySwimSpeed03</edidEnchantment>
-			<name>the Dolphin</name>
+			<name>пловца</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySwimSpeed04</edidEnchantment>
-			<name>the Piranha</name>
+			<name>пираньи</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySwimSpeed05</edidEnchantment>
-			<name>the Slaughterfish</name>
+			<name>рыбы-убийцы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySwimSpeed06</edidEnchantment>
-			<name>the Shark</name>
+			<name>акулы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fortify Swim Speed-->
+<!--Fortify Swim Speed-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_GladiatorsGlory01</edidEnchantment>
-			<name>the Gladiator</name>
+			<name>гладиатора</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_GladiatorsGlory02</edidEnchantment>
-			<name>Blood Sport</name>
+			<name>кровавой забавы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_GladiatorsGlory03</edidEnchantment>
-			<name>the Arena</name>
+			<name>арены</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_GladiatorsGlory04</edidEnchantment>
-			<name>the Prize Fighter</name>
+			<name>зрелища</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_GladiatorsGlory05</edidEnchantment>
-			<name>the Bounty Hunter</name>
+			<name>охотника за головами</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_GladiatorsGlory06</edidEnchantment>
-			<name>Showmanship</name>
+			<name>мастера зрелищ</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Gladiator's Glory-->
+<!--Gladiator's Glory-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_HardeningArmor01</edidEnchantment>
-			<name>Hardening Armor</name>
+			<name>закалки</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_HardeningArmor02</edidEnchantment>
-			<name>Thickening Armor</name>
+			<name>уплотнения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_HardeningArmor03</edidEnchantment>
-			<name>Toughening Armor</name>
+			<name>жесткости</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_HardeningArmor04</edidEnchantment>
-			<name>Solidifying Armor</name>
+			<name>отвердения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_HardeningArmor05</edidEnchantment>
-			<name>Annealing Armor</name>
+			<name>стойкости</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_HardeningArmor06</edidEnchantment>
-			<name>Crystalizing Armor</name>
+			<name>кристаллизации</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Hardening Armor-->
+<!--Hardening Armor-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Light01</edidEnchantment>
-			<name>Starlight</name>
+			<name>звездного света</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Light-->
+<!--Light-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CureDisease01</edidEnchantment>
-			<name>Curing</name>
+			<name>исцеления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CureDisease02</edidEnchantment>
-			<name>Convalescence</name>
+			<name>выздоровления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CureDisease03</edidEnchantment>
-			<name>Vivication</name>
+			<name>обновления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CureDisease04</edidEnchantment>
-			<name>Rilm's Gift</name>
+			<name>подарка Рилмс</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CureDisease05</edidEnchantment>
-			<name>Daydene's Panacea</name>
+			<name>панацеи Дайден</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CureDisease06</edidEnchantment>
-			<name>Vivec's Touch</name>
+			<name>касания Вивека</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Cure Disease-->
+<!--Cure Disease-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_LinkAttributes01</edidEnchantment>
-			<name>Body and Mind</name>
+			<name>тела и разума</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_LinkAttributes02</edidEnchantment>
-			<name>Body and Spirit</name>
+			<name>тела и духа</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_LinkAttributes03</edidEnchantment>
-			<name>Spirit and Mind</name>
+			<name>духа и разума</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_LinkAttributes04</edidEnchantment>
-			<name>Blood and Power</name>
+			<name>крови и могущества</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_LinkAttributes05</edidEnchantment>
-			<name>Blood and Might</name>
+			<name>крови и силы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_LinkAttributes06</edidEnchantment>
-			<name>Might and Power</name>
+			<name>силы и могущества</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Link Attributes-->
+<!--Link Attributes-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_Powerbond01</edidEnchantment>
-			<name>Abyssal Bond</name>
+			<name>тайной связи</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_Powerbond02</edidEnchantment>
-			<name>Abyssal Pact</name>
+			<name>тайного соглашения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Powerbond-->
+<!--Powerbond-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_BrawnOverBrains01</edidEnchantment>
-			<name>Grunt's</name>
+			<name>Борцовское</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_BrawnOverBrains02</edidEnchantment>
-			<name>Ogre's</name>
+			<name>Огрово</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
-	<!--Brawn over Brains-->
+<!--Brawn over Brains-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Ill_Ench_Fence01</edidEnchantment>
-			<name>Fencing</name>
+			<name>прокола</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fence-->
+<!--Fence-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Ill_Ench_Perception01</edidEnchantment>
-			<name>Perception</name>
+			<name>восприятия</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Perception-->
+<!--Perception-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheAldmeri03</edidEnchantment>
-			<name>Aldmeri Blood</name>
+			<name>крови альдмери</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheAldmeri04</edidEnchantment>
-			<name>Aldmeri Kin</name>
+			<name>рода альдмери</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheAldmeri05</edidEnchantment>
-			<name>Aldmeri Heritage</name>
+			<name>наследия альдмери</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheAldmeri06</edidEnchantment>
-			<name>Aldmeri Rule</name>
+			<name>традиций альдмери</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Blood of the Aldmer-->
+<!--Blood of the Aldmer-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Channeling01</edidEnchantment>
-			<name>Channeling</name>
+			<name>течения магии</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_KingOfTheLost02</edidEnchantment>
-			<name>the Wraith-King</name>
+			<name>короля призраков</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Channeling03</edidEnchantment>
-			<name>the Source</name>
+			<name>истока</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_KingOfTheLost04</edidEnchantment>
-			<name>the Storm-King</name>
+			<name>повелителя бурь</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Channeling05</edidEnchantment>
-			<name>the Fountain</name>
+			<name>резервуара</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_KingOfTheLost06</edidEnchantment>
-			<name>Three Stars</name>
+			<name>трех звезд</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Channeling/King of the Lost-->
+<!--Channeling/King of the Lost-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CircleOfProtection01</edidEnchantment>
-			<name>Circle of Protection</name>
+			<name>круга защиты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CircleOfProtection02</edidEnchantment>
-			<name>Circle of Power</name>
+			<name>круга могущества</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Circle of Protection-->
+<!--Circle of Protection-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_DeepBreath01</edidEnchantment>
-			<name>Deep Breathing</name>
+			<name>глубокого дыхания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_DeepBreath02</edidEnchantment>
-			<name>the Word</name>
+			<name>слова</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_DeepBreath03</edidEnchantment>
-			<name>the Dovah</name>
+			<name>Дова</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_DeepBreath04</edidEnchantment>
-			<name>the Speaker</name>
+			<name>оратора</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_DeepBreath05</edidEnchantment>
-			<name>the Tongue</name>
+			<name>Языка</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_DeepBreath06</edidEnchantment>
-			<name>Kyne's Wonders</name>
+			<name>благоговений Кин</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Deep Breath-->
+<!--Deep Breath-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAttributes01</edidEnchantment>
-			<name>the Sky</name>
+			<name>неба</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAttributes02</edidEnchantment>
-			<name>the Moons</name>
+			<name>лун</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAttributes03</edidEnchantment>
-			<name>the Heavens</name>
+			<name>небес</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAttributes04</edidEnchantment>
-			<name>the Stars</name>
+			<name>звезд</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAttributes05</edidEnchantment>
-			<name>the Constellations</name>
+			<name>звездных плеяд</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAttributes06</edidEnchantment>
-			<name>the Zodiac</name>
+			<name>созвездий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fortify Attributes-->
+<!--Fortify Attributes-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_HealingCloak03</edidEnchantment>
-			<name>Healing Cloak</name>
+			<name>лечащего плаща</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_HealingCloak04</edidEnchantment>
-			<name>Mending Cloak</name>
+			<name>целебного плаща</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_HealingCloak05</edidEnchantment>
-			<name>Hearth Cloak</name>
+			<name>очага</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_HealingCloak06</edidEnchantment>
-			<name>Veloth's Aura</name>
+			<name>ауры Велота</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Healing Cloak-->
+<!--Healing Cloak-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheNedes03</edidEnchantment>
-			<name>Nedic Blood</name>
+			<name>крови недийцев</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheNedes04</edidEnchantment>
-			<name>Nedic Kin</name>
+			<name>рода недийцев</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheNedes05</edidEnchantment>
-			<name>Nedic Heritage</name>
+			<name>наследия недийцев</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheNedes06</edidEnchantment>
-			<name>Nedic Rule</name>
+			<name>традиций недийцев</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Blood of the Nedes-->
+<!--Blood of the Nedes-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_RisingMagicka01</edidEnchantment>
-			<name>Rising Magicka</name>
+			<name>повышения магии</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_RisingMagicka02</edidEnchantment>
-			<name>Flourishing Magicka</name>
+			<name>восполнения магии</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Rising Magicka-->
+<!--Rising Magicka-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration01College</edidEnchantment>
-			<name>Alteration</name>
+			<name>изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration02College</edidEnchantment>
-			<name>Alteration</name>
+			<name>изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration03College</edidEnchantment>
-			<name>Alteration</name>
+			<name>изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration04College</edidEnchantment>
-			<name>Alteration</name>
+			<name>изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration05College</edidEnchantment>
-			<name>Alteration</name>
+			<name>изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Extend Alteration (College)-->
+<!--Extend Alteration (College)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration01</edidEnchantment>
-			<name>Extended Alteration</name>
+			<name>расширенного изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration02</edidEnchantment>
-			<name>Durable Alteration</name>
+			<name>стойкого изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration03</edidEnchantment>
-			<name>Prolonged Alteration</name>
+			<name>длительного изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration04</edidEnchantment>
-			<name>Lasting Alteration</name>
+			<name>продолжительного изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration05</edidEnchantment>
-			<name>Perpetual Alteration</name>
+			<name>бесконечного изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyAlterationDuration06</edidEnchantment>
-			<name>Eternal Alteration</name>
+			<name>вечного изменения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Extend Alteration (Vanilla)-->
+<!--Extend Alteration (Vanilla)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration01College</edidEnchantment>
-			<name>Conjuration</name>
+			<name>колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration02College</edidEnchantment>
-			<name>Conjuration</name>
+			<name>колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration03College</edidEnchantment>
-			<name>Conjuration</name>
+			<name>колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration04College</edidEnchantment>
-			<name>Conjuration</name>
+			<name>колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration05College</edidEnchantment>
-			<name>Conjuration</name>
+			<name>колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Extend Conjuration (College)-->
+<!--Extend Conjuration (College)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration01</edidEnchantment>
-			<name>Extended Conjuration</name>
+			<name>расширенного колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration02</edidEnchantment>
-			<name>Durable Conjuration</name>
+			<name>стойкого колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration03</edidEnchantment>
-			<name>Prolonged Conjuration</name>
+			<name>длительного колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration04</edidEnchantment>
-			<name>Lasting Conjuration</name>
+			<name>продолжительного колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration05</edidEnchantment>
-			<name>Perpetual Conjuration</name>
+			<name>бесконечного колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyConjurationDuration06</edidEnchantment>
-			<name>Eternal Conjuration</name>
+			<name>вечного колдовства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Extend Conjuration (Vanilla)-->
+<!--Extend Conjuration (Vanilla)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower01College</edidEnchantment>
-			<name>Destruction</name>
+			<name>разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower02College</edidEnchantment>
-			<name>Destruction</name>
+			<name>разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower03College</edidEnchantment>
-			<name>Destruction</name>
+			<name>разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower04College</edidEnchantment>
-			<name>Destruction</name>
+			<name>разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower05College</edidEnchantment>
-			<name>Destruction</name>
+			<name>разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Empower Destruction (College)-->
+<!--Empower Destruction (College)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower01</edidEnchantment>
-			<name>Empowered Destruction</name>
+			<name>усиленного разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower02</edidEnchantment>
-			<name>Potent Destruction</name>
+			<name>сильного разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower03</edidEnchantment>
-			<name>Amplified Destruction</name>
+			<name>расширенного разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower04</edidEnchantment>
-			<name>Mighty Destruction</name>
+			<name>мощного разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower05</edidEnchantment>
-			<name>Magnificent Destruction</name>
+			<name>великолепного разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyDestructionPower06</edidEnchantment>
-			<name>Glorious Destruction</name>
+			<name>несравненного разрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Empower Destruction (Vanilla)-->
+<!--Empower Destruction (Vanilla)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower01College</edidEnchantment>
-			<name>Illusion</name>
+			<name>иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower02College</edidEnchantment>
-			<name>Illusion</name>
+			<name>иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower03College</edidEnchantment>
-			<name>Illusion</name>
+			<name>иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower04College</edidEnchantment>
-			<name>Illusion</name>
+			<name>иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower05College</edidEnchantment>
-			<name>Illusion</name>
+			<name>иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Empower Illusion (College)-->
+<!--Empower Illusion (College)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower01</edidEnchantment>
-			<name>Empowered Illusion</name>
+			<name>усиленных иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower02</edidEnchantment>
-			<name>Potent Illusion</name>
+			<name>сильных иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower03</edidEnchantment>
-			<name>Amplified Illusion</name>
+			<name>расширенных иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower04</edidEnchantment>
-			<name>Mighty Illusion</name>
+			<name>мощных иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower05</edidEnchantment>
-			<name>Magnificent Illusion</name>
+			<name>великолепных иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyIllusionPower06</edidEnchantment>
-			<name>Glorious Illusion</name>
+			<name>несравненных иллюзий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Empower Illusion (Vanilla)-->
+<!--Empower Illusion (Vanilla)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower01College</edidEnchantment>
-			<name>Restoration</name>
+			<name>восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower02College</edidEnchantment>
-			<name>Restoration</name>
+			<name>восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower03College</edidEnchantment>
-			<name>Restoration</name>
+			<name>восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower04College</edidEnchantment>
-			<name>Restoration</name>
+			<name>восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower05College</edidEnchantment>
-			<name>Restoration</name>
+			<name>восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Empower Restoration (College)-->
+<!--Empower Restoration (College)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower01</edidEnchantment>
-			<name>Empowered Restoration</name>
+			<name>усиленного восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower02</edidEnchantment>
-			<name>Potent Restoration</name>
+			<name>сильного восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower03</edidEnchantment>
-			<name>Amplified Restoration</name>
+			<name>расширенного восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower04</edidEnchantment>
-			<name>Mighty Restoration</name>
+			<name>мощного восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower05</edidEnchantment>
-			<name>Magnificent Restoration</name>
+			<name>великолепного восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyRestorationPower06</edidEnchantment>
-			<name>Glorious Restoration</name>
+			<name>несравненного восстановления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Empower Restoration (Vanilla)-->
+<!--Empower Restoration (Vanilla)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_ShalidorsShield01College</edidEnchantment>
-			<name>Shielding</name>
+			<name>защиты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_ShalidorsShield02College</edidEnchantment>
-			<name>Shielding</name>
+			<name>защиты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_ShalidorsShield03College</edidEnchantment>
-			<name>Shielding</name>
+			<name>защиты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_ShalidorsShield04College</edidEnchantment>
-			<name>Shielding</name>
+			<name>защиты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_ShalidorsShield05College</edidEnchantment>
-			<name>Shielding</name>
+			<name>защиты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Shalidor's Shield (College)-->
+<!--Shalidor's Shield (College)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_ShalidorsShield02</edidEnchantment>
-			<name>Residual Energy</name>
+			<name>остатков энергии</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_ShalidorsShield03</edidEnchantment>
-			<name>Lingering Energy</name>
+			<name>длительной энергии</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_ShalidorsShield04</edidEnchantment>
-			<name>Lasting Energy</name>
+			<name>продолжительной энергии</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_ShalidorsShield05</edidEnchantment>
-			<name>Willpower</name>
+			<name>силы воли</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Shalidor's Shield (Vanilla)-->
+<!--Shalidor's Shield (Vanilla)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_PhilosophersStone01</edidEnchantment>
-			<name>Gold</name>
+			<name>золота</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_PhilosophersStone02</edidEnchantment>
-			<name>Wealth</name>
+			<name>изобилия</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_PhilosophersStone03</edidEnchantment>
-			<name>Treasure</name>
+			<name>сокровищ</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_PhilosophersStone04</edidEnchantment>
-			<name>Riches</name>
+			<name>богатства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_PhilosophersStone05</edidEnchantment>
-			<name>the Ouroboros</name>
+			<name>уробороса</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_PhilosophersStone06</edidEnchantment>
-			<name>the Philosopher</name>
+			<name>философа</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Philosopher's Stone-->
+<!--Philosopher's Stone-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Nova01</edidEnchantment>
-			<name>Nova</name>
+			<name>новой</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Nova02</edidEnchantment>
-			<name>Supernova</name>
+			<name>суперновой</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Nova03</edidEnchantment>
-			<name>Disasters</name>
+			<name>бедствий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Nova04</edidEnchantment>
-			<name>Calamities</name>
+			<name>ненастий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Nova05</edidEnchantment>
-			<name>Catastrophe</name>
+			<name>катастроф</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_Nova06</edidEnchantment>
-			<name>Karma</name>
+			<name>кармы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Nova-->
+<!--Nova-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Tremor01</edidEnchantment>
-			<name>Tremors</name>
+			<name>дрожи</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Tremor02</edidEnchantment>
-			<name>Temblors</name>
+			<name>толчков</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Tremor03</edidEnchantment>
-			<name>Trampling</name>
+			<name>топота</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Tremor04</edidEnchantment>
-			<name>Pulverizing</name>
+			<name>сокрушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Tremor05</edidEnchantment>
-			<name>Earthquakes</name>
+			<name>землетрясений</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_Tremor06</edidEnchantment>
-			<name>Dynamic Entry</name>
+			<name>движущих сил</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Tremor-->
+<!--Tremor-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge01</edidEnchantment>
-			<name>Soul Charging</name>
+			<name>зарядки душ</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge02</edidEnchantment>
-			<name>Soul Baiting</name>
+			<name>приманки душ</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge03</edidEnchantment>
-			<name>Soul Energy</name>
+			<name>энергии душ</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge04</edidEnchantment>
-			<name>Soul Attraction</name>
+			<name>завлечения душ</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge05</edidEnchantment>
-			<name>Soul Drawing</name>
+			<name>привлечения душ</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge06</edidEnchantment>
-			<name>Soul Lure</name>
+			<name>притяжения душ</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Soul Charge-->
+<!--Soul Charge-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge01Hood</edidEnchantment>
-			<name>Souls</name>
+			<name>душ</name>
 			<type>NONE</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge02Hood</edidEnchantment>
-			<name>Souls</name>
+			<name>душ</name>
 			<type>NONE</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge03Hood</edidEnchantment>
-			<name>Souls</name>
+			<name>душ</name>
 			<type>NONE</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge04Hood</edidEnchantment>
-			<name>Souls</name>
+			<name>душ</name>
 			<type>NONE</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge05Hood</edidEnchantment>
-			<name>Souls</name>
+			<name>душ</name>
 			<type>NONE</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Con_Ench_SoulCharge06Hood</edidEnchantment>
-			<name>Souls</name>
+			<name>душ</name>
 			<type>NONE</type>
 		</enchantment_name_binding>
-	<!--Soul Charge (Hoods)-->
+<!--Soul Charge (Hoods)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_SpellEater01</edidEnchantment>
-			<name>Spell Trapping</name>
+			<name>ловушки заклинаний</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_SpellEater02</edidEnchantment>
-			<name>Spell Snagging</name>
+			<name>перехвата заклинаний</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_SpellEater03</edidEnchantment>
-			<name>the Spell Mire</name>
+			<name>поглощения заклинаний</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_SpellEater04</edidEnchantment>
-			<name>Spell Snaring</name>
+			<name>обмана заклинаний</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_SpellEater05</edidEnchantment>
-			<name>Spell Devouring</name>
+			<name>пожирания заклинаний</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_SpellEater06</edidEnchantment>
-			<name>Spell Consumption</name>
+			<name>увядания заклинаний</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Spell Eater-->
+<!--Spell Eater-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_SpellEater01Vampire</edidEnchantment>
-			<name>Dark Power</name>
+			<name>темной силы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Spell Eater (Vampire)-->
+<!--Spell Eater (Vampire)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_FortifyMagicka01Warlock</edidEnchantment>
-			<name>Magicka</name>
+			<name>магии</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fortify Magicka (Warlock)-->
+<!--Fortify Magicka (Warlock)-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Ill_Ench_Explorer01</edidEnchantment>
-			<name>the Explorer</name>
+			<name>исследователя</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Ill_Ench_Explorer02</edidEnchantment>
-			<name>the Traveler</name>
+			<name>путешественника</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Explorer-->
+<!--Explorer-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_OptimizeAttributes01</edidEnchantment>
-			<name>Adaptation</name>
+			<name>адаптации</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_OptimizeAttributes02</edidEnchantment>
-			<name>Excellence</name>
+			<name>мастерства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_OptimizeAttributes03</edidEnchantment>
-			<name>Purity</name>
+			<name>чистоты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_OptimizeAttributes04</edidEnchantment>
-			<name>Perfection</name>
+			<name>совершенства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_OptimizeAttributes05</edidEnchantment>
-			<name>Transcendence</name>
+			<name>запредельности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_OptimizeAttributes06</edidEnchantment>
-			<name>the Eidolon</name>
+			<name>подобия</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Optimize Attributes-->
+<!--Optimize Attributes-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Weather01</edidEnchantment>
-			<name>Growth</name>
+			<name>укрепления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Weather02</edidEnchantment>
-			<name>Pure Waters</name>
+			<name>чистой воды</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Weather03</edidEnchantment>
-			<name>Mountaineering</name>
+			<name>альпинизма</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Weather04</edidEnchantment>
-			<name>the Chantry</name>
+			<name>прибавки</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Weather05</edidEnchantment>
-			<name>the Stormbringer</name>
+			<name>буревестника</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Weather06</edidEnchantment>
-			<name>the Snow Prince</name>
+			<name>Снежного принца</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Weather-->
+<!--Weather-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_BlinkStep03</edidEnchantment>
-			<name>Blink Step</name>
+			<name>мерцающего шага</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_BlinkStep04</edidEnchantment>
-			<name>Flash Step</name>
+			<name>быстрого шага</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_BlinkStep05</edidEnchantment>
-			<name>Shadow Step</name>
+			<name>незаметного шага</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_BlinkStep06</edidEnchantment>
-			<name>Rift Step</name>
+			<name>расщепленного шага</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Blink Step-->
+<!--Blink Step-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CheatDeath01</edidEnchantment>
-			<name>Death Ward</name>
+			<name>избежания смерти</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CheatDeath02</edidEnchantment>
-			<name>the Lich</name>
+			<name>лича</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CheatDeath03</edidEnchantment>
-			<name>Deathlessness</name>
+			<name>бессмертия</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CheatDeath04</edidEnchantment>
-			<name>Immortality</name>
+			<name>вечности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CheatDeath05</edidEnchantment>
-			<name>the Divines</name>
+			<name>божеств</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CheatDeath06</edidEnchantment>
-			<name>Athanasia</name>
+			<name>атанасии</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Cheat Death-->
+<!--Cheat Death-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_EnchantersTouch03</edidEnchantment>
-			<name>Careful Study</name>
+			<name>тщательного анализа</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_EnchantersTouch04</edidEnchantment>
-			<name>Cautious Study</name>
+			<name>осторожного анализа</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_EnchantersTouch05</edidEnchantment>
-			<name>Prudent Study</name>
+			<name>расчетливого анализа</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_EnchantersTouch06</edidEnchantment>
-			<name>Sublime Analysis</name>
+			<name>совершенного анализа</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Enchanter's Touch-->
+<!--Enchanter's Touch-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyLongRange03</edidEnchantment>
-			<name>Aiming</name>
+			<name>прицеливания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyLongRange04</edidEnchantment>
-			<name>Accuracy</name>
+			<name>меткости</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyLongRange05</edidEnchantment>
-			<name>Precision</name>
+			<name>точности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyLongRange06</edidEnchantment>
-			<name>Sniping</name>
+			<name>точной стрельбы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fortify Long Range-->
+<!--Fortify Long Range-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyMountedCombat01</edidEnchantment>
-			<name>the Cavalry</name>
+			<name>кавалерии</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyMountedCombat02</edidEnchantment>
-			<name>Horsemanship</name>
+			<name>выездки</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyMountedCombat03</edidEnchantment>
-			<name>the Lancer</name>
+			<name>конницы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyMountedCombat04</edidEnchantment>
-			<name>the Dragoon</name>
+			<name>драгуна</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyMountedCombat05</edidEnchantment>
-			<name>Equitation</name>
+			<name>верховой езды</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyMountedCombat06</edidEnchantment>
-			<name>the Ra Gada</name>
+			<name>Ра гада</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fortify Mounted Combat-->
+<!--Fortify Mounted Combat-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Desperate01</edidEnchantment>
-			<name>Regrowth</name>
+			<name>возобновления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Desperate02</edidEnchantment>
-			<name>Resurgence</name>
+			<name>возрождения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Desperate03</edidEnchantment>
-			<name>the Phoenix</name>
+			<name>феникса</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Desperate04</edidEnchantment>
-			<name>the Unyielding</name>
+			<name>непреклонности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Desperate05</edidEnchantment>
-			<name>the Invincible</name>
+			<name>непобедимости</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Desperate06</edidEnchantment>
-			<name>the Unconquerable</name>
+			<name>несокрушимости</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Desperate-->
+<!--Desperate-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia01</edidEnchantment>
-			<name>Innocence</name>
+			<name>безвредности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia02</edidEnchantment>
-			<name>Blade Turning</name>
+			<name>отвода клинков</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia03</edidEnchantment>
-			<name>Weaponward</name>
+			<name>Защищающ. от оружия</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia04</edidEnchantment>
-			<name>Weaponbane</name>
+			<name>Отводящ. оружие</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia05</edidEnchantment>
-			<name>Novicebane</name>
+			<name>Карающ.</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia06</edidEnchantment>
-			<name>Magickguard</name>
+			<name>Защищающ. от магии</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
-	<!--Cornucopia-->
-	<!--WINTERMYST WEAPONS NAMES-->
+<!--Cornucopia-->
+<!--WINTERMYST WEAPONS NAMES-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbArmor04</edidEnchantment>
-			<name>Reforging</name>
+			<name>перековки</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbArmor05</edidEnchantment>
-			<name>Electrolysis</name>
+			<name>электролиза</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbArmor06</edidEnchantment>
-			<name>Galvanization</name>
+			<name>гальванизации</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Absorb Armor-->
+<!--Absorb Armor-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbCarryWeight04</edidEnchantment>
-			<name>Burdens</name>
+			<name>ноши</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbCarryWeight05</edidEnchantment>
-			<name>Hardship</name>
+			<name>тяжести</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbCarryWeight06</edidEnchantment>
-			<name>Oppression</name>
+			<name>угнетения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Absorb Carry Weight-->
+<!--Absorb Carry Weight-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbSpeed02</edidEnchantment>
-			<name>Cunning</name>
+			<name>хитрости</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbSpeed03</edidEnchantment>
-			<name>Wiles</name>
+			<name>уловки</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbSpeed04</edidEnchantment>
-			<name>Roguery</name>
+			<name>жульничества</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbSpeed05</edidEnchantment>
-			<name>Mischief</name>
+			<name>вреда</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbSpeed06</edidEnchantment>
-			<name>Devilry</name>
+			<name>коварства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Absorb Speed-->
+<!--Absorb Speed-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_BountifulHunt01</edidEnchantment>
-			<name>Hunting</name>
+			<name>охоты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_BountifulHunt02</edidEnchantment>
-			<name>the Wild</name>
+			<name>пустоши</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_BountifulHunt03</edidEnchantment>
-			<name>Poaching</name>
+			<name>браконьерства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_BountifulHunt04</edidEnchantment>
-			<name>Predation</name>
+			<name>истребления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_BountifulHunt05</edidEnchantment>
-			<name>the Carnivore</name>
+			<name>хищника</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_BountifulHunt06</edidEnchantment>
-			<name>Kyne's Gifts</name>
+			<name>даров Кин</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Bountiful Hunt-->
+<!--Bountiful Hunt-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_DrainArmor01</edidEnchantment>
-			<name>Denting</name>
+			<name>вонзания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_DrainArmor02</edidEnchantment>
-			<name>Crushing</name>
+			<name>дробления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_DrainArmor03</edidEnchantment>
-			<name>Bending</name>
+			<name>сгибания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_DrainArmor04</edidEnchantment>
-			<name>Buckling</name>
+			<name>деформации</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_DrainArmor05</edidEnchantment>
-			<name>Crumpling</name>
+			<name>сминания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_DrainArmor06</edidEnchantment>
-			<name>Perforating</name>
+			<name>пробивания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Drain Armor-->
+<!--Drain Armor-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_Enfeeble02</edidEnchantment>
-			<name>Frailty</name>
+			<name>немощности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_Enfeeble03</edidEnchantment>
-			<name>Stifling</name>
+			<name>удушения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_Enfeeble04</edidEnchantment>
-			<name>Weakness</name>
+			<name>слабости</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_Enfeeble05</edidEnchantment>
-			<name>Futility</name>
+			<name>тщетности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_Enfeeble06</edidEnchantment>
-			<name>Incapacitation</name>
+			<name>ограничения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Enfeeble-->
+<!--Enfeeble-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_Mug02</edidEnchantment>
-			<name>Mugging</name>
+			<name>ограбления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_Mug03</edidEnchantment>
-			<name>Plundering</name>
+			<name>хищения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_Mug04</edidEnchantment>
-			<name>Pillaging</name>
+			<name>мародерства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_Mug05</edidEnchantment>
-			<name>Ransacking</name>
+			<name>обыска</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_Mug06</edidEnchantment>
-			<name>Raiding</name>
+			<name>грабежа</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Mug-->
+<!--Mug-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_PowerSurge04</edidEnchantment>
-			<name>Power Unbound</name>
+			<name>освобождения силы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_PowerSurge05</edidEnchantment>
-			<name>Power Unfettered</name>
+			<name>высвобождения силы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_PowerSurge06</edidEnchantment>
-			<name>Power Unleashed</name>
+			<name>появления силы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Power Surge-->
+<!--Power Surge-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_StormSurge04</edidEnchantment>
-			<name>Storm Unbound</name>
+			<name>освобождения бури</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_StormSurge05</edidEnchantment>
-			<name>Storm Unfettered</name>
+			<name>высвобождения бури</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_StormSurge06</edidEnchantment>
-			<name>Storm Unleashed</name>
+			<name>появления бури</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Storm Surge-->
+<!--Storm Surge-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_StealWeapons04</edidEnchantment>
-			<name>Grappling</name>
+			<name>абордажа</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_StealWeapons05</edidEnchantment>
-			<name>Hooking</name>
+			<name>сцепки</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_StealWeapons06</edidEnchantment>
-			<name>Snatching</name>
+			<name>похищения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Steal Weapons-->
+<!--Steal Weapons-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Con_Ench_CommandDaedra01</edidEnchantment>
-			<name>Command</name>
+			<name>приказа</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Con_Ench_CommandDaedra02</edidEnchantment>
-			<name>Domination</name>
+			<name>превосходства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Con_Ench_CommandDaedra03</edidEnchantment>
-			<name>the Conjurer</name>
+			<name>чародея</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Con_Ench_CommandDaedra04</edidEnchantment>
-			<name>the Coven</name>
+			<name>ведьм</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Con_Ench_CommandDaedra05</edidEnchantment>
-			<name>the Summoner</name>
+			<name>призывателя</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Con_Ench_CommandDaedra06</edidEnchantment>
-			<name>the Warlock</name>
+			<name>чернокнижника</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Command Daedra-->
+<!--Command Daedra-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance01</edidEnchantment>
-			<name>Vulnerability</name>
+			<name>уязвимости</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance02</edidEnchantment>
-			<name>Exposure</name>
+			<name>незащищенности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance03</edidEnchantment>
-			<name>Jinxes</name>
+			<name>несчастий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance04</edidEnchantment>
-			<name>Curses</name>
+			<name>мучений</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance05</edidEnchantment>
-			<name>Hexes</name>
+			<name>сглаза</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance06</edidEnchantment>
-			<name>Malison</name>
+			<name>проклятий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Drain Resistance-->
+<!--Drain Resistance-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike01</edidEnchantment>
-			<name>Deadly</name>
+			<name>Смертоносн.</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike02</edidEnchantment>
-			<name>Executioner's</name>
+			<name>Карающ.</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike03</edidEnchantment>
-			<name>Mortality</name>
+			<name>летальности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike04</edidEnchantment>
-			<name>Decimation</name>
+			<name>уничтожения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike05</edidEnchantment>
-			<name>Death</name>
+			<name>смерти</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike06</edidEnchantment>
-			<name>the End</name>
+			<name>конца</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Deadly Strike-->
+<!--Deadly Strike-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FireBlast01</edidEnchantment>
-			<name>Ember Blasts</name>
+			<name>палящего взрыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FireBlast02</edidEnchantment>
-			<name>Burning Blasts</name>
+			<name>обжигающего взрыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FireBlast03</edidEnchantment>
-			<name>Scorching Blasts</name>
+			<name>опаляющего взрыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FireBlast04</edidEnchantment>
-			<name>Fire Blasts</name>
+			<name>огненного взрыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FireBlast05</edidEnchantment>
-			<name>Blazing Blasts</name>
+			<name>пылающего взрыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FireBlast06</edidEnchantment>
-			<name>Inferno Blasts</name>
+			<name>адского взрыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fire Blast-->
+<!--Fire Blast-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_LingeringFireDamage01</edidEnchantment>
-			<name>Smoldering</name>
+			<name>тления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_LingeringFireDamage02</edidEnchantment>
-			<name>Slow Burning</name>
+			<name>медленного жжения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_LingeringFireDamage03</edidEnchantment>
-			<name>Lingering Fire</name>
+			<name>длительного огня</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_LingeringFireDamage04</edidEnchantment>
-			<name>Everlasting Fire</name>
+			<name>вечного огня</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_LingeringFireDamage05</edidEnchantment>
-			<name>Enduring Fire</name>
+			<name>нескончаемого огня</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_LingeringFireDamage06</edidEnchantment>
-			<name>Eternal Fire</name>
+			<name>бесконечного огня</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Lingering Fire Damage-->
+<!--Lingering Fire Damage-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FrostBlast01</edidEnchantment>
-			<name>Cold Blasts</name>
+			<name>холодного ветра</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FrostBlast02</edidEnchantment>
-			<name>Frost Blasts</name>
+			<name>морозного ветра</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FrostBlast03</edidEnchantment>
-			<name>Ice Blasts</name>
+			<name>ледяного ветра</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FrostBlast04</edidEnchantment>
-			<name>Freezing Blasts</name>
+			<name>морозящего ветра</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FrostBlast05</edidEnchantment>
-			<name>Chilling Blasts</name>
+			<name>леденящего ветра</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FrostBlast06</edidEnchantment>
-			<name>Winter Blasts</name>
+			<name>зимнего ветра</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Frost Blast-->
+<!--Frost Blast-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PiercingFrostDamage01</edidEnchantment>
-			<name>Shards</name>
+			<name>осколков</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PiercingFrostDamage02</edidEnchantment>
-			<name>Crystals</name>
+			<name>кристаллов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PiercingFrostDamage03</edidEnchantment>
-			<name>Fragments</name>
+			<name>обломков</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PiercingFrostDamage04</edidEnchantment>
-			<name>Hail</name>
+			<name>града</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PiercingFrostDamage05</edidEnchantment>
-			<name>Black Frost</name>
+			<name>гололедицы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PiercingFrostDamage06</edidEnchantment>
-			<name>Black Ice</name>
+			<name>наледи</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Piercing Frost Damage-->
+<!--Piercing Frost Damage-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_Killstreak01</edidEnchantment>
-			<name>Slaying</name>
+			<name>умерщвления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_Killstreak02</edidEnchantment>
-			<name>the Cannibal</name>
+			<name>каннибала</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_Killstreak03</edidEnchantment>
-			<name>the Assassin</name>
+			<name>ассасина</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_Killstreak04</edidEnchantment>
-			<name>the Killer</name>
+			<name>убийцы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_Killstreak05</edidEnchantment>
-			<name>the Agent</name>
+			<name>зачинщика</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_Killstreak06</edidEnchantment>
-			<name>the Inquisitor</name>
+			<name>мучителя</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Killstreak-->
+<!--Killstreak-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_OverbearingStrike01</edidEnchantment>
-			<name>Might</name>
+			<name>силы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_OverbearingStrike02</edidEnchantment>
-			<name>Dominance</name>
+			<name>господства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_OverbearingStrike03</edidEnchantment>
-			<name>Authority</name>
+			<name>власти</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_OverbearingStrike04</edidEnchantment>
-			<name>Superiority</name>
+			<name>преимущества</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_OverbearingStrike05</edidEnchantment>
-			<name>Repression</name>
+			<name>подавления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_OverbearingStrike06</edidEnchantment>
-			<name>Supremacy</name>
+			<name>верховенства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Overbearing Strike-->
+<!--Overbearing Strike-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_ShockBlast01</edidEnchantment>
-			<name>Spark Blasts</name>
+			<name>искрящегося порыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_ShockBlast02</edidEnchantment>
-			<name>Arcing Blasts</name>
+			<name>оплавляющего порыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_ShockBlast03</edidEnchantment>
-			<name>Shock Blasts</name>
+			<name>электрического порыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_ShockBlast04</edidEnchantment>
-			<name>Thunder Blasts</name>
+			<name>грохочущего порыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_ShockBlast05</edidEnchantment>
-			<name>Lightning Blasts</name>
+			<name>грозового порыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_ShockBlast06</edidEnchantment>
-			<name>Storm Blasts</name>
+			<name>штормового порыва</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Shock Blast-->
+<!--Shock Blast-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PercentageShockDamage01</edidEnchantment>
-			<name>Static</name>
+			<name>статического разряда</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PercentageShockDamage02</edidEnchantment>
-			<name>Jolts</name>
+			<name>встряски</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PercentageShockDamage03</edidEnchantment>
-			<name>Voltage</name>
+			<name>вольтажа</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PercentageShockDamage04</edidEnchantment>
-			<name>Surges</name>
+			<name>перегрузки</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PercentageShockDamage05</edidEnchantment>
-			<name>Wrath</name>
+			<name>гнева</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PercentageShockDamage06</edidEnchantment>
-			<name>Electrocution</name>
+			<name>индукции</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Percentage Shock Damage-->
+<!--Percentage Shock Damage-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonDamage01</edidEnchantment>
-			<name>Poison</name>
+			<name>отравления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonDamage02</edidEnchantment>
-			<name>Venom</name>
+			<name>яда</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonDamage03</edidEnchantment>
-			<name>Blight</name>
+			<name>увядания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonDamage04</edidEnchantment>
-			<name>Rot</name>
+			<name>гнили</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonDamage05</edidEnchantment>
-			<name>Corruption</name>
+			<name>порчи</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonDamage06</edidEnchantment>
-			<name>Miasma</name>
+			<name>миазм</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Poison Damage-->
+<!--Poison Damage-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonBlast01</edidEnchantment>
-			<name>Poison Blasts</name>
+			<name>отравляющего потока</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonBlast02</edidEnchantment>
-			<name>Venom Blasts</name>
+			<name>ядовитого потока</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonBlast03</edidEnchantment>
-			<name>Blighted Blasts</name>
+			<name>потока увядания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonBlast04</edidEnchantment>
-			<name>Rotting Blasts</name>
+			<name>потока гниения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonBlast05</edidEnchantment>
-			<name>Corruption Blasts</name>
+			<name>потока порчи</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_PoisonBlast06</edidEnchantment>
-			<name>Miasma Blasts</name>
+			<name>потока миазм</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Poison Blast-->
+<!--Poison Blast-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WizardRend01</edidEnchantment>
-			<name>Wizard Rend</name>
+			<name>волшебного раскола</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WizardRend02</edidEnchantment>
-			<name>Wizard Ruin</name>
+			<name>волшебного краха</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WizardRend03</edidEnchantment>
-			<name>Wizard Bane</name>
+			<name>волшебной напасти</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WizardRend04</edidEnchantment>
-			<name>Wizard Sunder</name>
+			<name>волшебного разлома</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WizardRend05</edidEnchantment>
-			<name>Wizard Wrack</name>
+			<name>волшебного возмездия</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WizardRend06</edidEnchantment>
-			<name>Wizard Break</name>
+			<name>волшебного перелома</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Wizard Rend-->
+<!--Wizard Rend-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WarriorRend01</edidEnchantment>
-			<name>Warrior Rend</name>
+			<name>воинского раскола</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WarriorRend02</edidEnchantment>
-			<name>Warrior Ruin</name>
+			<name>воинского краха</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WarriorRend03</edidEnchantment>
-			<name>Warrior Bane</name>
+			<name>воинской напасти</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WarriorRend04</edidEnchantment>
-			<name>Warrior Sunder</name>
+			<name>воинского разлома</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WarriorRend05</edidEnchantment>
-			<name>Warrior Wrack</name>
+			<name>воинского возмездия</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_WarriorRend06</edidEnchantment>
-			<name>Warrior Break</name>
+			<name>воинского перелома</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Warrior Rend-->
+<!--Warrior Rend-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Counterspell02</edidEnchantment>
-			<name>Interference</name>
+			<name>препятствия</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Counterspell03</edidEnchantment>
-			<name>Cancellation</name>
+			<name>отмены</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Counterspell04</edidEnchantment>
-			<name>Frustration</name>
+			<name>фрустрации</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Counterspell05</edidEnchantment>
-			<name>Thwarting</name>
+			<name>противоречия</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Counterspell06</edidEnchantment>
-			<name>Vexation</name>
+			<name>досады</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Counterspell-->
+<!--Counterspell-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Sound02</edidEnchantment>
-			<name>Noise</name>
+			<name>шума</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Sound03</edidEnchantment>
-			<name>Annoyance</name>
+			<name>раздражения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Sound04</edidEnchantment>
-			<name>Irritation</name>
+			<name>возмущения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Sound05</edidEnchantment>
-			<name>Clamor</name>
+			<name>шумихи</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Sound06</edidEnchantment>
-			<name>Ruckus</name>
+			<name>перепалки</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Sound-->
+<!--Sound-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Dispel02</edidEnchantment>
-			<name>Dispelling</name>
+			<name>рассеивания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Dispel03</edidEnchantment>
-			<name>Grounding</name>
+			<name>заземления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Dispel04</edidEnchantment>
-			<name>Negation</name>
+			<name>отрицания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Dispel05</edidEnchantment>
-			<name>Abjuration</name>
+			<name>отречения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Dispel06</edidEnchantment>
-			<name>Disjunction</name>
+			<name>разобщения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Dispel-->
+<!--Dispel-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Wailing02</edidEnchantment>
-			<name>Wailing</name>
+			<name>стенаний</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Wailing03</edidEnchantment>
-			<name>Screaming</name>
+			<name>крика</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Wailing04</edidEnchantment>
-			<name>Shrieking</name>
+			<name>воплей</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Wailing05</edidEnchantment>
-			<name>Keening</name>
+			<name>причитаний</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_Wailing06</edidEnchantment>
-			<name>Howling</name>
+			<name>воя</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Wailing-->
+<!--Wailing-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_HiddenSerpent04</edidEnchantment>
-			<name>Hidden Viper</name>
+			<name>тайного коварства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_HiddenSerpent05</edidEnchantment>
-			<name>Hidden Adder</name>
+			<name>тайного предательства</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_HiddenSerpent06</edidEnchantment>
-			<name>Hidden Asp</name>
+			<name>тайного зла</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Hidden Serpent-->
+<!--Hidden Serpent-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_PhantomStrike01</edidEnchantment>
-			<name>Ghosts</name>
+			<name>привидений</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_PhantomStrike02</edidEnchantment>
-			<name>Wraiths</name>
+			<name>духов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_PhantomStrike03</edidEnchantment>
-			<name>Specters</name>
+			<name>спектров</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_PhantomStrike04</edidEnchantment>
-			<name>Phantoms</name>
+			<name>фантомов</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_PhantomStrike05</edidEnchantment>
-			<name>Wights</name>
+			<name>призраков</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_PhantomStrike06</edidEnchantment>
-			<name>Shadows</name>
+			<name>теней</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Phantom Strike-->
+<!--Phantom Strike-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_IllusoryBurden02</edidEnchantment>
-			<name>Illusory Burden</name>
+			<name>иллюзорной тяжести</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_IllusoryBurden03</edidEnchantment>
-			<name>Illusory Weight</name>
+			<name>иллюзорного бремени</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_IllusoryBurden04</edidEnchantment>
-			<name>Illusory Load</name>
+			<name>иллюзорной обузы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_IllusoryBurden05</edidEnchantment>
-			<name>Illusory Ballast</name>
+			<name>иллюзорного груза</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Ill_Ench_IllusoryBurden06</edidEnchantment>
-			<name>Illusory Mass</name>
+			<name>иллюзорной массы</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Illusory Burden-->
+<!--Illusory Burden-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_SlayLiving01</edidEnchantment>
-			<name>Doom</name>
+			<name>гибели</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_SlayLiving02</edidEnchantment>
-			<name>Culling</name>
+			<name>отбора</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_SlayLiving03</edidEnchantment>
-			<name>the Abyss</name>
+			<name>бездны</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_SlayLiving04</edidEnchantment>
-			<name>Perdition</name>
+			<name>погибели</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_SlayLiving05</edidEnchantment>
-			<name>Pandemonium</name>
+			<name>кромешного ада</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_SlayLiving06</edidEnchantment>
-			<name>Annihilation</name>
+			<name>аннигиляции</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Slay Living-->
+<!--Slay Living-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_Sunlight01</edidEnchantment>
-			<name>Dawn</name>
+			<name>зари</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_Sunlight02</edidEnchantment>
-			<name>Daylight</name>
+			<name>дневного света</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_Sunlight03</edidEnchantment>
-			<name>Noon</name>
+			<name>полудня</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_Sunlight04</edidEnchantment>
-			<name>Radiance</name>
+			<name>сияния</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_Sunlight05</edidEnchantment>
-			<name>Resplendence</name>
+			<name>блеска</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_Sunlight06</edidEnchantment>
-			<name>Brilliance</name>
+			<name>великолепия</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Sunlight-->
+<!--Sunlight-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_DrainSkill02</edidEnchantment>
-			<name>Sorrow</name>
+			<name>скорби</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_DrainSkill03</edidEnchantment>
-			<name>Grief</name>
+			<name>печали</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_DrainSkill04</edidEnchantment>
-			<name>Failure</name>
+			<name>неудачи</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_DrainSkill05</edidEnchantment>
-			<name>Misery</name>
+			<name>страданий</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_DrainSkill06</edidEnchantment>
-			<name>Tears</name>
+			<name>слез</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Drain Skills-->
+<!--Drain Skills-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_Exemplar04</edidEnchantment>
-			<name>the Exemplar</name>
+			<name>подражания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_Exemplar05</edidEnchantment>
-			<name>the Pinnacle</name>
+			<name>апофеоза</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_Exemplar06</edidEnchantment>
-			<name>the Paragon</name>
+			<name>безукоризненности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Exemplar-->
+<!--Exemplar-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_StuntedVitals01</edidEnchantment>
-			<name>Decay</name>
+			<name>загнивания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_StuntedVitals02</edidEnchantment>
-			<name>Wasting</name>
+			<name>упадка</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_StuntedVitals03</edidEnchantment>
-			<name>Withering</name>
+			<name>усыхания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_StuntedVitals04</edidEnchantment>
-			<name>Wilting</name>
+			<name>ослабления</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_StuntedVitals05</edidEnchantment>
-			<name>Atrophy</name>
+			<name>утраты</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_StuntedVitals06</edidEnchantment>
-			<name>Putrefaction</name>
+			<name>гниения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Stunted Vitals-->
+<!--Stunted Vitals-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_QuickenShouts04</edidEnchantment>
-			<name>Quickening</name>
+			<name>учащения</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_QuickenShouts05</edidEnchantment>
-			<name>Enlightenment</name>
+			<name>просвещенности</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Res_Ench_QuickenShouts06</edidEnchantment>
-			<name>the Lexicon</name>
+			<name>лексики</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Quicken Shouts-->
+<!--Quicken Shouts-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_Breach01</edidEnchantment>
-			<name>Breaking</name>
+			<name>поломки</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_Breach02</edidEnchantment>
-			<name>Cracking</name>
+			<name>раскалывания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_Breach03</edidEnchantment>
-			<name>Breaching</name>
+			<name>проламывания</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Breach04</edidEnchantment>
-		<name>Lordslaying</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Breach05</edidEnchantment>
-		<name>Kingslaying</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Breach06</edidEnchantment>
-		<name>the Steel Coffin</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<!--Breach-->
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Res_Ench_Heal04</edidEnchantment>
-		<name>Healing</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Res_Ench_Heal05</edidEnchantment>
-		<name>Mercy</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Res_Ench_Heal06</edidEnchantment>
-		<name>Compassion</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<!--Heal-->
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Throw01</edidEnchantment>
-		<name>Throwing</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Throw02</edidEnchantment>
-		<name>Slinging</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Throw03</edidEnchantment>
-		<name>Pitching</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Throw04</edidEnchantment>
-		<name>Hurling</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Throw05</edidEnchantment>
-		<name>Catapulting</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Throw06</edidEnchantment>
-		<name>Launching</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<!--Throw-->
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide01</edidEnchantment>
-		<name>Conflict</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide02</edidEnchantment>
-		<name>Rivalry</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide03</edidEnchantment>
-		<name>Discord</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide04</edidEnchantment>
-		<name>Disunity</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide05</edidEnchantment>
-		<name>Strife</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide06</edidEnchantment>
-		<name>Genocide</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<!--Fratricide-->
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Riposte02</edidEnchantment>
-		<name>Countering</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Riposte03</edidEnchantment>
-		<name>Trickery</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Riposte04</edidEnchantment>
-		<name>Opportunity</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Riposte05</edidEnchantment>
-		<name>Ripostes</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Riposte06</edidEnchantment>
-		<name>Reciprocation</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<!--Riposte-->
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage01</edidEnchantment>
-		<name>Blistering</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage02</edidEnchantment>
-		<name>Bubbling</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage03</edidEnchantment>
-		<name>Festering</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage04</edidEnchantment>
-		<name>Seething</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage05</edidEnchantment>
-		<name>Ulceration</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage06</edidEnchantment>
-		<name>Necrosis</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<!--Delayed Poison Damage-->
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain02</edidEnchantment>
-		<name>Harmonies</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain03</edidEnchantment>
-		<name>Dirges</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain04</edidEnchantment>
-		<name>Elegies</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain05</edidEnchantment>
-		<name>Coronachs</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain06</edidEnchantment>
-		<name>Threnodies</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<!--Harmonic Pain-->
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback01</edidEnchantment>
-		<name>the Bull</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback02</edidEnchantment>
-		<name>the Ram</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback03</edidEnchantment>
-		<name>the Bear</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback04</edidEnchantment>
-		<name>the Rhino</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback05</edidEnchantment>
-		<name>the Elephant</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback06</edidEnchantment>
-		<name>the Mammoth</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<!--Pushback-->
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Beaconbound02</edidEnchantment>
-		<name>Twilight</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Beaconbound03</edidEnchantment>
-		<name>the Voice</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Beaconbound04</edidEnchantment>
-		<name>Shalidor</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Beaconbound05</edidEnchantment>
-		<name>Arcana</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
-	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Beaconbound06</edidEnchantment>
-		<name>Infinite Energies</name>
-		<type>SUFFIX</type>
-	</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Breach04</edidEnchantment>
+			<name>убийцы лордов</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Breach05</edidEnchantment>
+			<name>убийцы королей</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Breach06</edidEnchantment>
+			<name>стального саркофага</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+<!--Breach-->
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Res_Ench_Heal04</edidEnchantment>
+			<name>лечения</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Res_Ench_Heal05</edidEnchantment>
+			<name>милосердия</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Res_Ench_Heal06</edidEnchantment>
+			<name>сочувствия</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+<!--Heal-->
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Throw01</edidEnchantment>
+			<name>бросания</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Throw02</edidEnchantment>
+			<name>отбрасывания</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Throw03</edidEnchantment>
+			<name>откидывания</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Throw04</edidEnchantment>
+			<name>швыряния</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Throw05</edidEnchantment>
+			<name>выбрасывания</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Throw06</edidEnchantment>
+			<name>метания</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+<!--Throw-->
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide01</edidEnchantment>
+			<name>столкновения</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide02</edidEnchantment>
+			<name>соперничества</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide03</edidEnchantment>
+			<name>разногласий</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide04</edidEnchantment>
+			<name>размолвки</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide05</edidEnchantment>
+			<name>раздора</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Fratricide06</edidEnchantment>
+			<name>геноцида</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+<!--Fratricide-->
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Riposte02</edidEnchantment>
+			<name>противодействия</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Riposte03</edidEnchantment>
+			<name>обмана</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Riposte04</edidEnchantment>
+			<name>возможностей</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Riposte05</edidEnchantment>
+			<name>ответных мер</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Riposte06</edidEnchantment>
+			<name>контратаки</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+<!--Riposte-->
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage01</edidEnchantment>
+			<name>мучения</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage02</edidEnchantment>
+			<name>бурления</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage03</edidEnchantment>
+			<name>нагноения</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage04</edidEnchantment>
+			<name>кипения</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage05</edidEnchantment>
+			<name>язвления</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage06</edidEnchantment>
+			<name>некроза</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+<!--Delayed Poison Damage-->
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain02</edidEnchantment>
+			<name>гармонии</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain03</edidEnchantment>
+			<name>панихиды</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain04</edidEnchantment>
+			<name>элегии</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain05</edidEnchantment>
+			<name>погребальной песни</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain06</edidEnchantment>
+			<name>тренодии</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+<!--Harmonic Pain-->
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback01</edidEnchantment>
+			<name>быка</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback02</edidEnchantment>
+			<name>барана</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback03</edidEnchantment>
+			<name>медведя</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback04</edidEnchantment>
+			<name>носорога</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback05</edidEnchantment>
+			<name>слона</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Alt_Ench_Pushback06</edidEnchantment>
+			<name>мамонта</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+<!--Pushback-->
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Beaconbound02</edidEnchantment>
+			<name>сумерек</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Beaconbound03</edidEnchantment>
+			<name>голоса</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Beaconbound04</edidEnchantment>
+			<name>Шалидора</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Beaconbound05</edidEnchantment>
+			<name>волшебства</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
+		<enchantment_name_binding>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Beaconbound06</edidEnchantment>
+			<name>бесконечных энергий</name>
+			<type>SUFFIX</type>
+		</enchantment_name_binding>
 	<!--Beaconbound-->
 	</enchantment_name_bindings>
 
@@ -6537,7 +6537,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>меч Гарол</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Alessandra's Dagger</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кинжал Алессандры</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6547,7 +6557,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Фамильный меч Амрена</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Balgruuf's Greatsword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Двуручный меч Балгруфа</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6557,7 +6577,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Церемониальный топор</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Ceremonial Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Церемониальный меч</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6567,12 +6597,27 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Посох драконьего жреца</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Dravin's Bow</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Лук Дравина</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Grimsever</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Лютый</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6587,7 +6632,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Меч Хьялти</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Kahvozein's Fang</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Клык Кавозеина</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6597,7 +6652,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Фантомный меч</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Queen Freydis's Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Меч королевы Фрейдис</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6607,7 +6672,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Красный Орел</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Rusty Mace</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Ржавая булава</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6617,7 +6692,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Боевой молот Шагрола</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Rueful Axe</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Топор Скорби</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6627,11 +6712,26 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Меч Вилкаса</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Wuuthrad</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
+		<exclusion>
+			<text>Вутрад</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
 	<!-- Quest Items end -->
+		<exclusion>
+			<text>Scamp's Hammer</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
 		<exclusion>
 			<text>Scamp's Hammer</text>
 			<target>NAME</target>
@@ -6678,7 +6778,22 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Бич Хоркеров</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Blade of Sacrifice</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Blade of Sacrifice</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Жертвенный клинок</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6688,7 +6803,7 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Horksbane</text>
+			<text>Меч Клинков</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6698,7 +6813,22 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Мерунес</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Pickaxe</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кирка</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>кирка</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6708,7 +6838,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Камнеруб</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Longhammer</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Длинный молот</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6718,7 +6858,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Вутрад</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Shiv</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Заточка</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6728,12 +6878,32 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Небесная стальная</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Небесный стальной</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Solonor</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Солонор</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Woodsman</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>лесника</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6753,7 +6923,32 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Нордская броня героя</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Нордская геройская</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Нордский геройский</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>героя</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Nettlebane</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Крапивник</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6773,7 +6968,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Вальдр</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Harkon</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Харкон</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6788,7 +6993,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Учебная стрела</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Woodsman's Friend</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Друг лесника</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7503,7 +7718,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>архимага</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Aela's</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Эйлы</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7513,7 +7738,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Амулет Аркея, принадлежащий Андурсу</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Asgeir's Wedding Band</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Обручальное кольцо Асгейра</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7523,7 +7758,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Кольцо костяного ястреба</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Calcelmo's Ring</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кольцо Колсельмо</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7533,7 +7778,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Проклятое кольцо Хирсина</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Fjola's Wedding Band</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Обручальное кольцо Фьолы</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7543,7 +7798,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Серебряный кулон Фьотли</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Gauldur Amulet Fragment</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>амулета Голдура</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7553,7 +7818,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Шлем Винтерхолда</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Hrolfdir's Shield</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Щит Хролфдира</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7563,7 +7838,22 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Зубчатая корона</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Jeweled Amulet</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Амулет с самоцветами</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Драгоценный амулет</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7573,7 +7863,18 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+		<exclusion>
+			<text>Серебряное кольцо Мадези</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Moon Amulet</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Лунный амулет</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7583,7 +7884,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Мистические настроечные перчатки</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Noster's Helmet</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Шлем Ностера</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7593,7 +7904,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Амулет Талоса, принадлежащий Огмунду</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Raerek's Inscribed Amulet of Talos</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Амулет Талоса, принадлежащий Рерику</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7603,7 +7924,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Ожерелье Рейды</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Ring of Pure Mixtures</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кольцо чистейшей смеси</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7613,7 +7944,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Щит предков Рогги</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Shahvee's Amulet of Zenithar</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Амулет Зенитара, принадлежащий Шави</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7623,12 +7964,27 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Странный амулет</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Forgemaster's Fingers</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Перчатки мастера-кузнеца</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Viola's Gold Ring</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Золотое кольцо Виолы</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
