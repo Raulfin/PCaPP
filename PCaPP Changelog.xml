@@ -1,5 +1,32 @@
 <Versions>
 <Current>
+<v2.4.3>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+	Corsair's Sword will now bind as a Sabre not an Arming Sword. (Jswords)
+
+Additions:
+	Weapon Modifiers for (Broken), (Damaged), (Worn), (Used), (Solid) and (Reliable). Primarily affects Frostfall.
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+	1nivWICCloaks.esp (WiC) adjusting keywords.
+
+New Patches:
+</v2.4.3>
+</Current>
+
+<Old>
 <v2.4.2>
 Now covers:
 	Avatar of Grenth (23165)
@@ -12,9 +39,6 @@ Fixes:
 Changes:
 	Updated installer so NMM users are not forced to add an unneeded patch when selecting the WAFR CCOR BOYD merged patch option.
 </v2.4.2>
-</Current>
-
-<Old>
 <v2.4.1>
 Updated Patches:
 	Pre PaMa WAFR Patch
@@ -89,8 +113,6 @@ Updated Patches:
 	CCOR, WAFR: Name and keyword adjustments
 	CCF: Keyword adjustments.
 	Wind Magic: Corrected Spell costs. Removed Update.esm and Dawnguard.esm as masters.
-
-New Patches:
 </v2.4>
 <2.3.1>
 Now covers:
