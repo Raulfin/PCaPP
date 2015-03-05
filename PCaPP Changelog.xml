@@ -9,9 +9,11 @@ Changes:
 	Horker weapons and armor recipes now require one or more Horker Tusk in your inventory to show. (GHWP)
 	Honed Horker weapons and armor now require you to know how to make Improved Bonemold. (GHWP)
 	Removed localization from the three WAFR patches as it was being a poo-poo head.
+	Torch, Stone and Riekling Arrows/Bolts will no longer have variants made.
 
 Additions:
 	Weapon Modifiers for (Broken), (Damaged), (Worn), (Used), (Solid) and (Reliable). Primarily affects Frostfall.
+	Several new Ammo materials added, mainly duplicate versions of existing materials, but with <multiply> set to false.
 
 Updated Patches:
 	1nivWICCloaks.esp (WiC) Removed Clothing keywords from two Leather helms I missed.
