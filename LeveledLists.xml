@@ -1043,6 +1043,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- More Interesting Loot end -->
+		<!-- Torch Arrow start-->
+			<exclusion>
+				<text>JooFireBoltHazardSpell</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>JooFireArrowHazardSpell</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Torch Arrow end-->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
