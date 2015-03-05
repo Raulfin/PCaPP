@@ -1,0 +1,158 @@
+1-но ручное
+Armingsword - BLADE
+	меч
+	Меч
+Broadsword - BLADE
+	палаш
+	Палаш
+	ирокий меч
+	ирокий Меч	
+Katana - BLADE
+	Катана
+	катана
+Longsword - BLADE
+	линный меч
+	линный Меч
+Wakizashi - BLADE_PIERCING
+	акидзаси
+	акидзаши
+Sabre - BLADE
+	Сабля
+	сабля
+	Шашка
+	шашка
+Scimitar - BLADE
+	кимитар
+Shortsword - BLADE
+	ороткий меч
+	ороткий Меч
+	
+Tanto - BLADE_PIERCING
+	Танто
+	танто
+Dagger - BLADE_PIERCING
+	Кинжал
+	кинжал
+Shiv -  PIERCING
+	Финка
+	финка
+	заточка
+	Заточка
+Hunting Knife - BLADE_PIERCING
+	хотничий нож		
+	хотничий Нож 
+	хотничий кинжал		
+	хотничий Кинжал	
+Katar - PIERCING
+	Катар
+	катар
+
+Pickaxe - BLUNT_PIERCING
+	Кирка
+	кирка	
+Hatchet - BLUNT_BLADE
+	топорик
+	Топорик
+Waraxe - BLUNT_BLADE
+	топор
+	Топор
+	
+Mace - BLUNT
+	Булава
+	Палица
+	булава
+	палица
+Spiked Mace - BLUNT_PIERCING
+	ипованная булава
+	ипованная Булава
+	ипованная Палица
+	ипованная палица
+Morning Star - BLUNT_PIERCING
+	Цеп
+	цеп
+Club - BLUNT
+	убинка
+	Дубина
+	дубина
+Spiked Club - BLUNT_PIERCING
+	ипованная дубинка
+	ипованная Дубинка
+	ипастая дубинка
+	ипастая Дубинка	
+	Шестопер
+	шестопер
+Maul - BLUNT
+	Киянка
+	киянка
+	Кувалда
+	кувалда
+	
+Shortspear- PIERCING
+	ороткое копье
+	ороткое Копье	
+Spear - PIERCING
+	Копье
+	копье
+
+Claw - BLADE
+	Когти
+	Коготь
+	когти
+	коготь
+Knuckles - BLUNT
+	Кастет
+	кастет
+
+2-ручное
+Battleaxe - BLUNT_BLADE
+	вуручный топор
+	вуручный Топор
+	Секира
+	секира	
+Partisan - BLADE_PIERCING
+	протазан
+	Протазан	
+Halberd - ALL
+	лебарда
+Warhammer - BLUNT
+	Молот
+	молот
+Volendrung - BLUNT_PIERCING
+	Волендранг
+Longmace - BLUNT
+	линная Булава
+	линная булава
+	линная Палица
+	линная палица
+Battlestaff - BLUNT
+	оевой посох
+	оевой Посох
+	ороткий посох
+	ороткий Посох
+Greatsword - BLUNT_BLADE
+	уручный меч
+	уручный Меч
+	ольшой меч
+	ольшой Меч
+Bastard Sword - BLADE
+	олуторный Меч
+	олуторный меч
+Nodachi - BLADE
+	Нодачи
+	нодачи
+	Нодати
+	нодати	
+стреляющее
+
+Shortbow - PIERCING
+	Лук
+	лук
+Longbow - PIERCING
+	линный Лук
+	линный лук
+Crossbow - PIERCING
+	рбалет
+Javelin - PIERCING
+	Дротик
+	дротик
+

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <ns2:enchanting xmlns:ns2="PatchusMaximus.enchantingXML">
 
 	<!-- better for regular armor -->
@@ -3725,7 +3725,7 @@
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage02</edidEnchantment>
 			<name>Burning</name>
-			<type>PREFIX</type>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage03</edidEnchantment>
@@ -3745,12 +3745,12 @@
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFireDamage06</edidEnchantment>
 			<name>Infernal</name>
-			<type>PREFIX</type>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFrostDamage02</edidEnchantment>
 			<name>Cool</name>
-			<type>PREFIX</type>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponFrostDamage03</edidEnchantment>
@@ -3775,7 +3775,7 @@
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponShockDamage02</edidEnchantment>
 			<name>Tingling</name>
-			<type>PREFIX</type>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>EnchWeaponShockDamage03</edidEnchantment>
@@ -5246,22 +5246,22 @@
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia03</edidEnchantment>
 			<name>Weaponward</name>
-			<type>PREFIX</type>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia04</edidEnchantment>
 			<name>Weaponbane</name>
-			<type>PREFIX</type>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia05</edidEnchantment>
 			<name>Novicebane</name>
-			<type>PREFIX</type>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia06</edidEnchantment>
 			<name>Magickguard</name>
-			<type>PREFIX</type>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 	<!--Cornucopia-->
 	<!--WINTERMYST WEAPONS NAMES-->
@@ -5555,7 +5555,7 @@
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike02</edidEnchantment>
 			<name>Executioner's</name>
-			<type>PREFIX</type>
+			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike03</edidEnchantment>
@@ -6537,7 +6537,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>меч Гарол</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Alessandra's Dagger</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кинжал Алессандры</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6547,7 +6557,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Фамильный меч Амрена</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Balgruuf's Greatsword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Двуручный меч Балгруфа</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6557,7 +6577,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Церемониальный топор</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Ceremonial Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Церемониальный меч</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6567,12 +6597,27 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Посох драконьего жреца</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Dravin's Bow</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Лук Дравина</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Grimsever</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Лютый</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6587,7 +6632,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Меч Хьялти</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Kahvozein's Fang</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Клык Кавозеина</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6597,7 +6652,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Фантомный меч</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Queen Freydis's Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Меч королевы Фрейдис</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6607,7 +6672,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Красный Орел</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Rusty Mace</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Ржавая булава</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6617,7 +6692,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Боевой молот Шагрола</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Rueful Axe</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Топор Скорби</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6627,11 +6712,26 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Меч Вилкаса</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Wuuthrad</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
+		<exclusion>
+			<text>Вутрад</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
 	<!-- Quest Items end -->
+		<exclusion>
+			<text>Scamp's Hammer</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
 		<exclusion>
 			<text>Scamp's Hammer</text>
 			<target>NAME</target>
@@ -6678,7 +6778,22 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Бич Хоркеров</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Blade of Sacrifice</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Blade of Sacrifice</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Жертвенный клинок</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6688,7 +6803,7 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Horksbane</text>
+			<text>Меч Клинков</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6698,7 +6813,22 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Мерунес</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Pickaxe</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кирка</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>кирка</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6708,7 +6838,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Камнеруб</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Longhammer</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Длинный молот</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6718,7 +6858,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Вутрад</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Shiv</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Заточка</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6728,12 +6878,32 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Небесная стальная</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Небесный стальной</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Solonor</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Солонор</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Woodsman</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>лесника</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6753,7 +6923,32 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Нордская броня героя</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Нордская геройская</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Нордский геройский</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>героя</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Nettlebane</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Крапивник</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6773,7 +6968,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Вальдр</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Harkon</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Харкон</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -6788,7 +6993,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Учебная стрела</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Woodsman's Friend</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Друг лесника</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7503,7 +7718,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>архимага</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Aela's</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Эйлы</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7513,7 +7738,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Амулет Аркея, принадлежащий Андурсу</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Asgeir's Wedding Band</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Обручальное кольцо Асгейра</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7523,7 +7758,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Кольцо костяного ястреба</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Calcelmo's Ring</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кольцо Колсельмо</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7533,7 +7778,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Проклятое кольцо Хирсина</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Fjola's Wedding Band</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Обручальное кольцо Фьолы</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7543,7 +7798,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Серебряный кулон Фьотли</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Gauldur Amulet Fragment</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>амулета Голдура</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7553,7 +7818,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Шлем Винтерхолда</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Hrolfdir's Shield</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Щит Хролфдира</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7563,7 +7838,22 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Зубчатая корона</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Jeweled Amulet</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Амулет с самоцветами</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Драгоценный амулет</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7573,7 +7863,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Серебряное кольцо Мадези</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Moon Amulet</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Лунный амулет</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7583,7 +7883,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Мистические настроечные перчатки</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Noster's Helmet</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Шлем Ностера</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7593,7 +7903,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Амулет Талоса, принадлежащий Огмунду</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Raerek's Inscribed Amulet of Talos</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Амулет Талоса, принадлежащий Рерику</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7603,7 +7923,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Ожерелье Рейды</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Ring of Pure Mixtures</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кольцо чистейшей смеси</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7613,7 +7943,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Щит предков Рогги</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Shahvee's Amulet of Zenithar</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Амулет Зенитара, принадлежащий Шави</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7623,12 +7963,27 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Странный амулет</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Forgemaster's Fingers</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Перчатки мастера-кузнеца</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Viola's Gold Ring</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Золотое кольцо Виолы</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>

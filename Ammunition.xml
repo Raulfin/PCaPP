@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <ns2:ammunition xmlns:ns2="PatchusMaximus.ammunitionXML">
 
 	<ammunition_types>
@@ -34,12 +34,36 @@
 			<substring>Arrow</substring>
 		</binding>
 		<binding>
+			<identifier>Standard Arrow</identifier>
+			<substring>стрела</substring>
+		</binding>
+		<binding>
+			<identifier>Standard Arrow</identifier>
+			<substring>Стрела</substring>
+		</binding>
+		<binding>
 			<identifier>Standard Bolt</identifier>
 			<substring>Bolt</substring>
 		</binding>
 		<binding>
+			<identifier>Standard Bolt</identifier>
+			<substring>болт</substring>
+		</binding>
+		<binding>
+			<identifier>Standard Bolt</identifier>
+			<substring>Болт</substring>
+		</binding>
+		<binding>
 			<identifier>Standard Javelin</identifier>
 			<substring>Javelin</substring>
+		</binding>
+		<binding>
+			<identifier>Standard Javelin</identifier>
+			<substring>дротик</substring>
+		</binding>
+		<binding>
+			<identifier>Standard Javelin</identifier>
+			<substring>Дротик</substring>
 		</binding>
 	</ammunition_type_bindings>
 
@@ -157,44 +181,88 @@
 			<substring>Explosive</substring>
 		</binding>
 		<binding>
+			<identifier>Explosive</identifier>
+			<substring>взрыва</substring>
+		</binding>
+		<binding>
 			<identifier>Poisoned</identifier>
 			<substring>Poisoned</substring>
+		</binding>
+		<binding>
+			<identifier>Poisoned</identifier>
+			<substring>отравл.</substring>
 		</binding>
 		<binding>
 			<identifier>Strong</identifier>
 			<substring>Strong</substring>
 		</binding>
 		<binding>
+			<identifier>Strong</identifier>
+			<substring>крепкий</substring>
+		</binding>
+		<binding>
 			<identifier>Strongest</identifier>
 			<substring>Strongest</substring>
+		</binding>
+		<binding>
+			<identifier>Strongest</identifier>
+			<substring>усиленный</substring>
 		</binding>
 		<binding>
 			<identifier>Fire</identifier>
 			<substring>Fire</substring>
 		</binding>
 		<binding>
+			<identifier>Fire</identifier>
+			<substring>огня</substring>
+		</binding>
+		<binding>
 			<identifier>Frost</identifier>
 			<substring>Frost</substring>
+		</binding>
+		<binding>
+			<identifier>Frost</identifier>
+			<substring>холода</substring>
 		</binding>
 		<binding>
 			<identifier>Shock</identifier>
 			<substring>Shock</substring>
 		</binding>
 		<binding>
+			<identifier>Shock</identifier>
+			<substring>электричества</substring>
+		</binding>
+		<binding>
 			<identifier>Timebomb</identifier>
 			<substring>Timebomb</substring>
+		</binding>
+		<binding>
+			<identifier>Timebomb</identifier>
+			<substring>замедл. взрыва</substring>
 		</binding>
 		<binding>
 			<identifier>Barbed</identifier>
 			<substring>Barbed</substring>
 		</binding>
 		<binding>
+			<identifier>Barbed</identifier>
+			<substring>с насечками</substring>
+		</binding>
+		<binding>
 			<identifier>Lightsource</identifier>
 			<substring>Lightsource</substring>
 		</binding>
 		<binding>
+			<identifier>Lightsource</identifier>
+			<substring>осветительн.</substring>
+		</binding>
+		<binding>
 			<identifier>Noisemaker</identifier>
 			<substring>Noisemaker</substring>
+		</binding>
+		<binding>
+			<identifier>Noisemaker</identifier>
+			<substring>шума</substring>
 		</binding>
 	<!-- PerMa -->
 		<binding>
@@ -631,12 +699,20 @@
 			<substring>Ancient Nord</substring>
 		</binding>
 		<binding>
+			<identifier>Ancient Nord</identifier>
+			<substring>Древняя нордская</substring>
+		</binding>
+		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Black Sacrament</substring>
 		</binding>
 		<binding>
 			<identifier>Bound</identifier>
 			<substring>Bound</substring>
+		</binding>
+		<binding>
+			<identifier>Bound</identifier>
+			<substring>Призванн</substring>
 		</binding>
 		<binding>
 			<identifier>Corundum</identifier>
@@ -647,16 +723,36 @@
 			<substring>Daedric</substring>
 		</binding>
 		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Даэдрическ</substring>
+		</binding>		
+		<binding>
 			<identifier>Dragonbone</identifier>
 			<substring>Dragonbone</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonbone</identifier>
+			<substring>Драконья костяная стрела</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Dwarven</substring>
 		</binding>
 		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Двемерск</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>двемерск</substring>
+		</binding>
+		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Ebony</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Эбонитов</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -664,7 +760,15 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Босмерск</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Elven</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Эльфийск</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -672,15 +776,35 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Эльфийская стрела кровавого проклятья</substring>
+		</binding>		
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Sunhallowed</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Солнечн</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Scoia'tael</substring>
 		</binding>
 		<binding>
+			<identifier>Elven</identifier>
+			<substring>Скоя'тель</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>скоя'тель</substring>
+		</binding>
+		<binding>
 			<identifier>Falmer</identifier>
 			<substring>Falmer</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer</identifier>
+			<substring>Фалмерск</substring>
 		</binding>
 		<binding>
 			<identifier>FalmerH</identifier>
@@ -691,6 +815,14 @@
 			<substring>Horker</substring>
 		</binding>
 		<binding>
+			<identifier>Iron</identifier>
+			<substring>Хоркер</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>хоркер</substring>
+		</binding>
+		<binding>
 			<identifier>FalmerH</identifier>
 			<substring>Horker Honed</substring>
 		</binding>
@@ -699,8 +831,16 @@
 			<substring>Forsworn</substring>
 		</binding>
 		<binding>
+			<identifier>Forsworn</identifier>
+			<substring>Стрела Изгоев</substring>
+		</binding>
+		<binding>
 			<identifier>Glass</identifier>
 			<substring>Glass</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Стеклянн</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -708,39 +848,91 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Железн</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Rusty</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Ржав</substring>
 		</binding>
 		<binding>
 			<identifier>Nord Hero</identifier>
 			<substring>Nord Hero</substring>
 		</binding>
 		<binding>
+			<identifier>Nord Hero</identifier>
+			<substring>Нордская стрела героя</substring>
+		</binding>
+		<binding>
 			<identifier>Nordic</identifier>
 			<substring>Nordic</substring>
+		</binding>
+		<binding>
+			<identifier>Nordic</identifier>
+			<substring>Нордск</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Orcish</substring>
 		</binding>
 		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ороч</substring>
+		</binding>
+		<binding>
 			<identifier>Practice</identifier>
 			<substring>Practice</substring>
+		</binding>
+		<binding>
+			<identifier>Practice</identifier>
+			<substring>Учебн</substring>
 		</binding>
 		<binding>
 			<identifier>Stalhrim</identifier>
 			<substring>Stalhrim</substring>
 		</binding>
 		<binding>
+			<identifier>Stalhrim</identifier>
+			<substring>Сталгрим</substring>
+		</binding>		
+		<binding>
 			<identifier>Silver</identifier>
 			<substring>Silver</substring>
+		</binding>
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>Серебрянн</substring>
+		</binding>
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>серебрянн</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Steel</substring>
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальн</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>стальн</substring>
+		</binding>
+		<binding>
 			<identifier>Skyforge</identifier>
 			<substring>Skyforge</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>небесн</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Небесн</substring>
 		</binding>
 		<binding>
 			<identifier>Falmer</identifier>
@@ -751,12 +943,32 @@
 			<substring>Bone</substring>
 		</binding>
 		<binding>
+			<identifier>Wood</identifier>
+			<substring>костян</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>Костян</substring>
+		</binding>
+		<binding>
 			<identifier>WoodNoMult</identifier>
 			<substring>Riekling</substring>
 		</binding>
 		<binding>
 			<identifier>WoodNoMult</identifier>
+			<substring>Копье риклинга</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
 			<substring>Stone</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>камен</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>Камен</substring>
 		</binding>
 		<binding>
 			<identifier>WoodNoMult</identifier>
@@ -765,6 +977,14 @@
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Wood</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>Деревян</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>деревян</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
@@ -778,7 +998,15 @@
 		</binding>
 		<binding>
 			<identifier>WoodNoMult</identifier>
+			<substring>Огня</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
 			<substring>Noisemaker</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>Шума</substring>
 		</binding>
 		<binding>
 			<identifier>WoodNoMult</identifier>
@@ -786,13 +1014,29 @@
 		</binding>
 		<binding>
 			<identifier>WoodNoMult</identifier>
+			<substring>Маслян</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
 			<substring>Rope</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>Стрела с веревкой</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>Болт с веревкой</substring>
 		</binding>
 		<binding>
 			<identifier>WoodNoMult</identifier>
 			<substring>Water</substring>
 		</binding>
-	<!-- PerMa end -->
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>Водян</substring>
+		</binding>
+		<!-- PerMa end -->
 	<!-- Hunterborn -->
 		<binding>
 			<identifier>Crude</identifier>
@@ -974,12 +1218,72 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Огня</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>огня</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>		
+		<exclusion>
 			<text>of Frost</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>мороза</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Мороза</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>		
+		<exclusion>
+			<text>холода</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Холода</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>	
+		<exclusion>
+			<text>Льда</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>	
+		<exclusion>
+			<text>льда</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>	
+		<exclusion>
 			<text>of Shock</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>грозы</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>	
+		<exclusion>
+			<text>Грозы</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>			
+		<exclusion>
+			<text>электричества</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>	
+		<exclusion>
+			<text>Электричества</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -989,17 +1293,47 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Солнечн</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Bloodcurse</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
+		<exclusion>
+			<text>кровавого проклятья</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>		
 		<exclusion>
 			<text>Exploding</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Взрыва</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>взрыва</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Wood</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>деревян</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Деревян</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>

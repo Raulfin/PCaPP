@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <ns2:armor xmlns:ns2="PatchusMaximus.armorXML">
 
 	<armor_settings>
@@ -32,7 +32,19 @@
 			<identifier>alduin</identifier>
 		</binding>
 		<binding>
+			<substring>Алдуин</substring>
+			<identifier>alduin</identifier>
+		</binding>
+		<binding>
 			<substring>Old</substring>
+			<identifier>old</identifier>
+		</binding>
+		<binding>
+			<substring>Стар</substring>
+			<identifier>old</identifier>
+		</binding>
+		<binding>
+			<substring>стар</substring>
 			<identifier>old</identifier>
 		</binding>
 		<binding>
@@ -40,7 +52,23 @@
 			<identifier>dented</identifier>
 		</binding>
 		<binding>
+			<substring>Помят</substring>
+			<identifier>dented</identifier>
+		</binding>
+		<binding>
+			<substring>помят</substring>
+			<identifier>dented</identifier>
+		</binding>
+		<binding>
 			<substring>Broken</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
+			<substring>Сломан</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
+			<substring>сломан</substring>
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
@@ -48,7 +76,23 @@
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
+			<substring>Поврежден</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
+			<substring>поврежден</substring>
+			<identifier>broken</identifier>
+		</binding>
+		<binding>
 			<substring>Worn</substring>
+			<identifier>worn</identifier>
+		</binding>
+		<binding>
+			<substring>Изношен</substring>
+			<identifier>worn</identifier>
+		</binding>
+		<binding>
+			<substring>изношен</substring>
 			<identifier>worn</identifier>
 		</binding>
 		<binding>
@@ -56,7 +100,23 @@
 			<identifier>raddled</identifier>
 		</binding>
 		<binding>
+			<substring>Плетен</substring>
+			<identifier>raddled</identifier>
+		</binding>
+		<binding>
+			<substring>плетен</substring>
+			<identifier>raddled</identifier>
+		</binding>
+		<binding>
 			<substring>Ragged</substring>
+			<identifier>ragged</identifier>
+		</binding>
+		<binding>
+			<substring>Рван</substring>
+			<identifier>ragged</identifier>
+		</binding>
+		<binding>
+			<substring>рван</substring>
 			<identifier>ragged</identifier>
 		</binding>
 		<binding>
@@ -64,11 +124,35 @@
 			<identifier>old</identifier>
 		</binding>
 		<binding>
+			<substring>Древн</substring>
+			<identifier>old</identifier>
+		</binding>
+		<binding>
+			<substring>древн</substring>
+			<identifier>old</identifier>
+		</binding>
+		<binding>
 			<substring>Charred</substring>
 			<identifier>raddled</identifier>
 		</binding>
 		<binding>
+			<substring>Обычн</substring>
+			<identifier>raddled</identifier>
+		</binding>
+		<binding>
+			<substring>обычн</substring>
+			<identifier>raddled</identifier>
+		</binding>
+		<binding>
 			<substring>Thin</substring>
+			<identifier>thin</identifier>
+		</binding>
+		<binding>
+			<substring>Тонк</substring>
+			<identifier>thin</identifier>
+		</binding>
+		<binding>
+			<substring>тонк</substring>
 			<identifier>thin</identifier>
 		</binding>
 		<!-- Bindings that lower the quality of armor end-->
@@ -80,11 +164,35 @@
 			<identifier>quality</identifier>
 		</binding>
 		<binding>
+			<substring>Качеств</substring>
+			<identifier>quality</identifier>
+		</binding>
+		<binding>
+			<substring>качеств</substring>
+			<identifier>quality</identifier>
+		</binding>
+		<binding>
 			<substring>Reforged</substring>
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
+			<substring>Переков</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
+			<substring>переков</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
 			<substring>Warforged</substring>
+			<identifier>warforged</identifier>
+		</binding>
+		<binding>
+			<substring>Закален</substring>
+			<identifier>warforged</identifier>
+		</binding>
+		<binding>
+			<substring>закален</substring>
 			<identifier>warforged</identifier>
 		</binding>
 	<!-- Armor variants created by PaMa (do not edit) end -->
@@ -93,7 +201,23 @@
 			<identifier>superior</identifier>
 		</binding>
 		<binding>
+			<substring>Преимущ</substring>
+			<identifier>superior</identifier>
+		</binding>
+		<binding>
+			<substring>Преимущ</substring>
+			<identifier>superior</identifier>
+		</binding>
+		<binding>
 			<substring>Exceptional</substring>
+			<identifier>exceptional</identifier>
+		</binding>
+		<binding>
+			<substring>Исключит</substring>
+			<identifier>exceptional</identifier>
+		</binding>
+		<binding>
+			<substring>исключит</substring>
 			<identifier>exceptional</identifier>
 		</binding>
 		<binding>
@@ -101,7 +225,23 @@
 			<identifier>commander</identifier>
 		</binding>
 		<binding>
+			<substring>Командир</substring>
+			<identifier>commander</identifier>
+		</binding>
+		<binding>
+			<substring>командир</substring>
+			<identifier>commander</identifier>
+		</binding>
+		<binding>
 			<substring>Power</substring>
+			<identifier>veteran</identifier>
+		</binding>
+		<binding>
+			<substring>Мощн</substring>
+			<identifier>veteran</identifier>
+		</binding>
+		<binding>
+			<substring>мощн</substring>
 			<identifier>veteran</identifier>
 		</binding>
 		<binding>
@@ -109,7 +249,23 @@
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
+			<substring>Укреплен</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
+			<substring>укреплен</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
 			<substring>Padded</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
+			<substring>Утеплен</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
+			<substring>утеплен</substring>
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
@@ -117,7 +273,19 @@
 			<identifier>old god</identifier>
 		</binding>
 		<binding>
+			<substring>Старых богов</substring>
+			<identifier>old god</identifier>
+		</binding>
+		<binding>
 			<substring>Officer</substring>
+			<identifier>officer</identifier>
+		</binding>
+		<binding>
+			<substring>Офицерск</substring>
+			<identifier>officer</identifier>
+		</binding>
+		<binding>
+			<substring>офицерск</substring>
 			<identifier>officer</identifier>
 		</binding>
 		<binding>
@@ -125,7 +293,19 @@
 			<identifier>veteran</identifier>
 		</binding>
 		<binding>
+			<substring>Ветеранск</substring>
+			<identifier>veteran</identifier>
+		</binding>
+		<binding>
+			<substring>ветеранск</substring>
+			<identifier>veteran</identifier>
+		</binding>
+		<binding>
 			<substring>Lords</substring>
+			<identifier>lord</identifier>
+		</binding>
+		<binding>
+			<substring>Лордов</substring>
 			<identifier>lord</identifier>
 		</binding>
 		<binding>
@@ -133,7 +313,23 @@
 			<identifier>commander</identifier>
 		</binding>
 		<binding>
+			<substring>Генерал</substring>
+			<identifier>commander</identifier>
+		</binding>
+		<binding>
+			<substring>генерал</substring>
+			<identifier>commander</identifier>
+		</binding>
+		<binding>
 			<substring>Overlord</substring>
+			<identifier>lord</identifier>
+		</binding>
+		<binding>
+			<substring>Военачальн</substring>
+			<identifier>lord</identifier>
+		</binding>
+		<binding>
+			<substring>военачальн</substring>
 			<identifier>lord</identifier>
 		</binding>
 		<binding>
@@ -141,7 +337,23 @@
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
+			<substring>Улучш</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
+			<substring>улучш</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
 			<substring>Fine</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
+			<substring>Хорош</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
+			<substring>хорош</substring>
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
@@ -149,7 +361,23 @@
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
+			<substring>Вождя</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
+			<substring>вождя</substring>
+			<identifier>fine</identifier>
+		</binding>
+		<binding>
 			<substring>Gilded</substring>
+			<identifier>gilded</identifier>
+		</binding>
+		<binding>
+			<substring>Золочен</substring>
+			<identifier>gilded</identifier>
+		</binding>
+		<binding>
+			<substring>золочен</substring>
 			<identifier>gilded</identifier>
 		</binding>
 		<binding>
@@ -157,7 +385,23 @@
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
+			<substring>Массивн</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
+			<substring>массивн</substring>
+			<identifier>thick</identifier>
+		</binding>
+		<binding>
 			<substring>Noble</substring>
+			<identifier>noble</identifier>
+		</binding>
+		<binding>
+			<substring>Благород</substring>
+			<identifier>noble</identifier>
+		</binding>
+		<binding>
+			<substring>благород</substring>
 			<identifier>noble</identifier>
 		</binding>
 		<binding>
@@ -165,11 +409,35 @@
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
+			<substring>Героев</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
+			<substring>героев</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
 			<substring>Fortified</substring>
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
+			<substring>Укреплен</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
+			<substring>укреплен</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
 			<substring>Perfect</substring>
+			<identifier>officer</identifier>
+		</binding>
+		<binding>
+			<substring>Совершен</substring>
+			<identifier>officer</identifier>
+		</binding>
+		<binding>
+			<substring>совершен</substring>
 			<identifier>officer</identifier>
 		</binding>
 	</armor_modifier_bindings>
@@ -343,12 +611,52 @@
 			<substring>Bonemold</substring>
 		</binding>
 		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>Костян</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>костян</substring>
+		</binding>
+		<binding>
 			<identifier>Bound</identifier>
 			<substring>Bound</substring>
 		</binding>
 		<binding>
+			<identifier>Bound</identifier>
+			<substring>Призван</substring>
+		</binding>
+		<binding>
+			<identifier>Bound</identifier>
+			<substring>призван</substring>
+		</binding>
+		<binding>
 			<identifier>Chitin</identifier>
 			<substring>Chitin Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Хитиновая тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>хитиновая тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Хитиновый тяжелый</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>хитиновый тяжелый</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Хитиновые тяжелые</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>хитиновые тяжелые</substring>
 		</binding>
 		<binding>
 			<identifier>Chitin Light</identifier>
@@ -356,7 +664,39 @@
 		</binding>
 		<binding>
 			<identifier>Chitin Light</identifier>
+			<substring>Хитинов</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Хитинов</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
 			<substring>Chitin Light</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Хитиновая легкая</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>хитиновая легкая</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Хитиновый легкий</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>хитиновый легкий</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Хитиновые легкие</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>хитиновые легкие</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -383,56 +723,172 @@
 			<substring>Daedric</substring>
 		</binding>
 		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Даэдрич</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>даэдрич</substring>
+		</binding>
+		<binding>
 			<identifier>Dragonplate</identifier>
 			<substring>Dragonplate</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконий панцирный</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконьи панцирные</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконья панцирная</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
 			<substring>Dragonscale</substring>
 		</binding>
 		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Драконий чешуйчатый</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Драконьи чешуйчатые</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Драконья чешуйчатая</substring>
+		</binding>
+		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Dwarven</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Двемерск</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>двемерск</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Ebony</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Эбонит</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>эбонит</substring>
+		</binding>
+		<binding>
 			<identifier>Elven</identifier>
 			<substring>Elven</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Эльфийск</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>эльфийск</substring>
 		</binding>
 		<binding>
 			<identifier>Falmer</identifier>
 			<substring>Falmer</substring>
 		</binding>
 		<binding>
+			<identifier>Falmer</identifier>
+			<substring>Фалмерск</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer</identifier>
+			<substring>фалмерск</substring>
+		</binding>
+		<binding>
 			<identifier>Ancient Falmer</identifier>
 			<substring>Ancient Falmer</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древние фалмерские</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древняя фалмерская</substring>
 		</binding>
 		<binding>
 			<identifier>Forsworn</identifier>
 			<substring>Forsworn</substring>
 		</binding>
 		<binding>
+			<identifier>Forsworn</identifier>
+			<substring>Изгоев</substring>
+		</binding>
+		<binding>
 			<identifier>Fur</identifier>
 			<substring>Fur</substring>
+		</binding>
+		<binding>
+			<identifier>Fur</identifier>
+			<substring>Мехов</substring>
+		</binding>
+		<binding>
+			<identifier>Fur</identifier>
+			<substring>мехов</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Glass</substring>
 		</binding>
 		<binding>
+			<identifier>Glass</identifier>
+			<substring>Стеклян</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>стеклян</substring>
+		</binding>
+		<binding>
 			<identifier>Gold</identifier>
 			<substring>Gold</substring>
+		</binding>
+		<binding>
+			<identifier>Gold</identifier>
+			<substring>Золот</substring>
+		</binding>
+		<binding>
+			<identifier>Gold</identifier>
+			<substring>золот</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
 			<substring>Hide</substring>
 		</binding>
 		<binding>
+			<identifier>Hide</identifier>
+			<substring>Сыромятн</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>сыромятн</substring>
+		</binding>
+		<binding>
 			<identifier>Iron</identifier>
 			<substring>Iron</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Железн</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>железн</substring>
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
@@ -440,43 +896,131 @@
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
+			<substring>Прочная железная</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Прочный железный</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Прочные железные</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
 			<substring>Banded Armor</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Прочная броня</substring>
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
 			<substring>Banded Shield</substring>
 		</binding>
 		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Прочный щит</substring>
+		</binding>
+		<binding>
 			<identifier>Leather</identifier>
 			<substring>Leather</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Кожан</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>кожан</substring>
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
 			<substring>Nordic</substring>
 		</binding>
 		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордск</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>нордск</substring>
+		</binding>
+		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Orcish</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ороч</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ороч</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Scaled</substring>
 		</binding>
 		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Ламеллярн</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>ламеллярн</substring>
+		</binding>
+		<binding>
 			<identifier>Silver</identifier>
 			<substring>Silver</substring>
+		</binding>
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>Серебрян</substring>
+		</binding>
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>серебрян</substring>
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
 			<substring>Studded</substring>
 		</binding>
 		<binding>
+			<identifier>Studded</identifier>
+			<substring>Клепан</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>клепан</substring>
+		</binding>
+		<binding>
 			<identifier>Steel</identifier>
 			<substring>Steel</substring>
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальн</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>стальн</substring>
+		</binding>
+		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Steel Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Стальная пластинчатая</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Стальной пластинчатый</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Стальные пластинчатые</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -488,11 +1032,27 @@
 		</binding>
 		<binding>
 			<identifier>HStalhrim</identifier>
+			<substring>Сталгрим</substring>
+		</binding>
+		<binding>
+			<identifier>HStalhrim</identifier>
 			<substring>Heavy Stalhrim</substring>
 		</binding>
 		<binding>
 			<identifier>LStalhrim</identifier>
 			<substring>Stalhrim Light</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Сталгримовая легкая</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Сталгримовые легкие</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Сталгримовый легкий</substring>
 		</binding>
 		<binding>
 			<identifier>LStalhrim</identifier>
@@ -503,12 +1063,36 @@
 			<substring>Clothing</substring>
 		</binding>
 		<binding>
+			<identifier>Unarmored</identifier>
+			<substring>Одеяние</substring>
+		</binding>
+		<binding>
+			<identifier>Unarmored</identifier>
+			<substring>одеяние</substring>
+		</binding>
+		<binding>
 			<identifier>Vampire</identifier>
 			<substring>Vampire</substring>
 		</binding>
 		<binding>
+			<identifier>Vampire</identifier>
+			<substring>Вампирск</substring>
+		</binding>
+		<binding>
+			<identifier>Vampire</identifier>
+			<substring>вампирск</substring>
+		</binding>
+		<binding>
 			<identifier>Wood</identifier>
 			<substring>Wooden</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>Деревян</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>деревян</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
@@ -520,6 +1104,14 @@
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Bosmer</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Босмер</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>босмер</substring>
 		</binding>
 		<binding>
 			<identifier>ElvenHigh</identifier>
@@ -534,12 +1126,44 @@
 			<substring>Bosmer Engraved</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Босмерская резная</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Босмерские резные</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Босмерский резной</substring>
+		</binding>
+		<binding>
 			<identifier>ElvenHeavy</identifier>
 			<substring>Bosmer Reinforced</substring>
 		</binding>
 		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Босмерская усиленная</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Босмерские усиленные</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Босмерский усиленный</substring>
+		</binding>
+		<binding>
 			<identifier>Glass</identifier>
 			<substring>Dunmer</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Данмерск</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>данмерск</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -547,7 +1171,23 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Талморск</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>талморск</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Moonstone</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>из лунного камня</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>с лунным камнем</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -559,11 +1199,47 @@
 		</binding>
 		<binding>
 			<identifier>DragonplateHigh</identifier>
+			<substring>Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
 			<substring>Wild Hunt Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Тяжелая кираса Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Тяжелые перчатки Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Тяжелые сапоги Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Тяжелый шлем Дикой охоты</substring>
 		</binding>
 		<binding>
 			<identifier>DragonscaleHigh</identifier>
 			<substring>Wild Hunt Light</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Легкая кираса Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Легкие перчатки Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Легкие сапоги Дикой охоты</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Легкий шлем Дикой охоты</substring>
 		</binding>
 		<binding>
 			<identifier>DragonscaleHigh</identifier>
@@ -582,20 +1258,64 @@
 			<substring>Falmer Hardened</substring>
 		</binding>
 		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Фалмерская усиленная</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Фалмерские усиленные</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Фалмерский усиленный</substring>
+		</binding>
+		<binding>
 			<identifier>Falmer Heavy</identifier>
 			<substring>Falmer Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Heavy</identifier>
+			<substring>Фалмерская тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Heavy</identifier>
+			<substring>Фалмерские тяжелые</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Heavy</identifier>
+			<substring>Фалмерский тяжелый</substring>
 		</binding>
 		<binding>
 			<identifier>ForswornHigh</identifier>
 			<substring>Old Gods</substring>
 		</binding>
 		<binding>
+			<identifier>ForswornHigh</identifier>
+			<substring>Старых богов</substring>
+		</binding>
+		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Dwemer</substring>
 		</binding>
 		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Двемер</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>двемер</substring>
+		</binding>
+		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Dremora</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Дремор</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>дремор</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
@@ -603,11 +1323,35 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
+			<substring>Каджит</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>каджит</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
 			<substring>Argonian</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Аргониан</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>аргониан</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Breton</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Бретон</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>бретон</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -615,7 +1359,23 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Ороч</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>ороч</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Redguard</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Редгард</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>редгард</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -630,11 +1390,35 @@
 			<substring>Redguard Knight Light</substring>
 		</binding>
 		<binding>
+			<identifier>Studded</identifier>
+			<substring>Редгардская рыцарская легкая</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Редгардские рыцарские легкие</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Редгардский рыцарский легкий</substring>
+		</binding>
+		<binding>
 			<identifier>Steel Heavy</identifier>
 			<substring>Redguard Knight Heavy</substring>
 		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Редгардская рыцарская тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Редгардские рыцарские тяжелые</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Редгардский рыцарский тяжелый</substring>
+		</binding>
 	<!-- Racial material_Bindings end -->
-	
+
 	<!-- Faction material_Bindings start -->
 	<!-- Bindings allowed: LightFactionLow, LightFaction, LightFactionHigh, Tong, HeavyFactionLow, HeavyFaction, HeavyFactionHigh, HTong -->
 		<binding>
@@ -642,8 +1426,16 @@
 			<substring>Nightingale</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Соловьин</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionHigh</identifier>
 			<substring>Guild Master</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>главы Гильдии</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -651,7 +1443,23 @@
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
+			<substring>Гильдии Воров</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Гильдии воров</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
 			<substring>Dark Brotherhood</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Темного Братства</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Темного братства</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -662,8 +1470,20 @@
 			<substring>Shrouded</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Теней</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>теней</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Black Sacrament</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Темного ритуала</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -674,24 +1494,88 @@
 			<substring>Ancient Shrouded</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Древние перчатки теней</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Древние сапоги теней</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Древний капюшон теней</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Древний обруч теней</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Древняя броня теней</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFactionLow</identifier>
 			<substring>Dawnguard</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Стражи Рассвета</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Dawnguard Light</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкая броня Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкие перчатки Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкие сапоги Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкий обруч Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкий шлем Стражи Рассвета</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Dawnguard Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Тяжелая броня Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Тяжелые перчатки Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Тяжелые сапоги Стражи Рассвета</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionS</identifier>
 			<substring>Dawnguard Rune</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionS</identifier>
+			<substring>Рунный щит Стражи Рассвета</substring>
+		</binding>
+		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Dawnguard Ebony</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Эбонитовый щит Стражи Рассвета</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -699,31 +1583,63 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Серебряной руки</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Silver Hand Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Тяжелая мантия "Серебряной руки"</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Silver Hand Light</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легкая мантия "Серебряной руки"</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Wolf</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Волчь</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
 			<substring>Tumblerbane</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>замочных дел мастера</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Summerset</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Саммерсет</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionHigh</identifier>
 			<substring>Linwe</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Линви</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Blades</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Клинков</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -735,6 +1651,14 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Акавир</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>акавир</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Blades Thigh</substring>
 		</binding>
 		<binding>
@@ -742,27 +1666,51 @@
 			<substring>Blackguard</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Черного Стража</substring>
+		</binding>
+		<binding>
 			<identifier>Tong</identifier>
 			<substring>Morag Tong</substring>
+		</binding>
+		<binding>
+			<identifier>Tong</identifier>
+			<substring>Мораг Тонг</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Dragonguard Mantle</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Драконьего стража</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Aela's</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Эйлы</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Aela's Shield</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Щит Эйлы</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Imperial Tattered</substring>
 		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Потрепанная Имперская броня</substring>
+		</binding>
 	<!-- Faction material_Bindings end -->
-	
+
 	<!-- Civil War material_Bindings Start -->
 	<!-- Bindings allowed: LightFactionLow, LightFaction, LightFactionHigh, Tong, HeavyFactionLow, HeavyFaction, HeavyFactionHigh, HTong -->
 		<binding>
@@ -770,12 +1718,36 @@
 			<substring>Ulfric</substring>
 		</binding>
 		<binding>
+			<identifier>Tong</identifier>
+			<substring>Ульфрика</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionLow</identifier>
 			<substring>Stormcloak</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Братьев Бури</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Heroic Stormcloak</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройская броня Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройские перчатки Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройские сапоги Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройский шлем Братьев Бури</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -783,7 +1755,7 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
-			<substring>Stormcloak Ráoningar</substring>
+			<substring>Stormcloak Raoningar</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -818,12 +1790,28 @@
 			<substring>Tullius</substring>
 		</binding>
 		<binding>
+			<identifier>HTong</identifier>
+			<substring>Туллия</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionHigh</identifier>
 			<substring>Penitus Oculatus</substring>
 		</binding>
 		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Пенитус Окулатус</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFactionLow</identifier>
 			<substring>Imperial</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Имперск</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>имперск</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -831,7 +1819,23 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Легион</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>легион</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Centurion</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Центурион</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>центурион</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFactionLow</identifier>
@@ -840,6 +1844,18 @@
 		<binding>
 			<identifier>LightFactionLow</identifier>
 			<substring>Studded Imperial</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Клепаная имперская</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Клепаные имперские</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Клепаный имперский</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -871,11 +1887,31 @@
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
+			<substring>Имперский круглый щит</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
 			<substring>Imperial Studded</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
+			<substring>Имперская клепаная</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
 			<substring>Imperial Light</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Имперская легкая</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Имперские легкие</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Имперский легкий</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -887,6 +1923,18 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFactionLow</identifier>
+			<substring>Стальная имперская</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Стальные имперские</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Стальной имперский</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
 			<substring>Imperial Steel</substring>
 		</binding>
 		<binding>
@@ -894,8 +1942,36 @@
 			<substring>Imperial Knight</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Имперская рыцарская</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Имперские рыцарские</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Имперский рыцарский</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Heroic Imperial</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройская броня Имперцев</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройские наручи Имперцев</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройские сапоги Имперцев</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Геройский шлем Имперцев</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -903,7 +1979,19 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Стальгард</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Legate</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Легат</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>легат</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFactionLow</identifier>
@@ -978,7 +2066,7 @@
 			<substring>Imperial Ward</substring>
 		</binding>
 	<!-- Civil War material_Bindings end -->
-	
+
 	<!-- City/Guard Armors start -->
 	<!-- Bindings allowed: LightFactionLow, LightFaction, LightFactionHigh, Tong, HeavyFactionLow, HeavyFaction, HeavyFactionHigh, HTong -->
 		<binding>
@@ -987,15 +2075,71 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Страж</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>страж</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Reinforced Guard</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Усиленная броня стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Усиленные перчатки стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Усиленные сапоги стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Усиленный шлем стражника</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Fitted Guard</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Ладная броня стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Ладные перчатки стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Ладные сапоги стражника</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Ладный шлем стражника</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionLow</identifier>
 			<substring>Fur Guard's</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Меховая броня стражи</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Меховые перчатки стражи</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Меховые сапоги стражи</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Меховой шлем стражи</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -1003,7 +2147,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Истмарк</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Windhelm</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Виндхельм</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -1011,15 +2163,31 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Фолкрит</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Haafingar</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Хаафингар</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Shield of Solitude</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Щит Солитьюда</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Solitude</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Солитьюд</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
@@ -1031,7 +2199,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Хьялмарк</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Morthal</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Морфал</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -1043,7 +2219,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Белого Берега</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Dawnstar</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Данстар</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -1051,7 +2235,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Предел</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Markarth</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Маркарт</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -1059,7 +2251,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Рифт</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Riften</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Рифтен</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -1067,7 +2267,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
+			<substring>Вайтран</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
 			<substring>Winterhold</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Винтерхолд</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -1075,7 +2283,15 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Кватч</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Chorrol</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Коррол</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -1083,18 +2299,34 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Скинград</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Helgen Guard's Shield</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Щит стражи Хелгена</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Helgen Guard's Armor</substring>
 		</binding>
-	<!-- City/Guard Armors end -->
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Хелген</substring>
+		</binding>
+		<!-- City/Guard Armors end -->
 	
 	<!-- Dragon Priest Masks start -->
 		<binding>
 			<identifier>DragonplateHigh</identifier>
 			<substring>Konahrik</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Конарик</substring>
 		</binding>
 		<binding>
 			<identifier>DragonplateHigh</identifier>
@@ -1106,6 +2338,10 @@
 		</binding>
 		<binding>
 			<identifier>GlassHigh</identifier>
+			<substring>Отар</substring>
+		</binding>
+		<binding>
+			<identifier>GlassHigh</identifier>
 			<substring>Otar Circlet</substring>
 		</binding>
 		<binding>
@@ -1114,7 +2350,15 @@
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
+			<substring>Хевнорак</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
 			<substring>Hevnoraak Circlet</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Вокун</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
@@ -1130,11 +2374,19 @@
 		</binding>
 		<binding>
 			<identifier>OrcishHigh</identifier>
+			<substring>Рагот</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHigh</identifier>
 			<substring>Rahgot Circlet</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Nahkriin</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Накрин</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
@@ -1146,11 +2398,19 @@
 		</binding>
 		<binding>
 			<identifier>ScaledHigh</identifier>
+			<substring>Вольсунг</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
 			<substring>Volsung Circlet</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Morokei</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Морокеи</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -1162,11 +2422,19 @@
 		</binding>
 		<binding>
 			<identifier>ElvenHigh</identifier>
+			<substring>Кросис</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
 			<substring>Krosis Circlet</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Miraak</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Мирак</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricLight</identifier>
@@ -1177,22 +2445,42 @@
 			<substring>Miraak's Light</substring>
 		</binding>
 		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Легкая броня Мирака</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Zahkriisos</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Закрисош</substring>
+		</binding>		
+		<binding>
 			<identifier>LStalhrimHigh</identifier>
 			<substring>Dukaan</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrimHigh</identifier>
+			<substring>Дукан</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier> <!-- Draugr -->
 			<substring>Ahzidal</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier> <!-- Draugr -->
+			<substring>Азидал</substring>
+		</binding>
+		<binding>
 			<identifier>ScaledHigh</identifier> <!-- Konahriks Accoutrements -->
 			<substring>Vahlok</substring>
 		</binding>
-	<!-- Dragon Priest Masks end -->
+		<binding>
+			<identifier>ScaledHigh</identifier> <!-- Konahriks Accoutrements -->
+			<substring>Валок</substring>
+		</binding>
+		<!-- Dragon Priest Masks end -->
 	<!-- Artifacts -->
 		<binding>
 			<identifier>ElvenHigh</identifier>
@@ -1200,19 +2488,35 @@
 		</binding>
 		<binding>
 			<identifier>ElvenHeavy</identifier>
+			<substring>Ауриэль</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
 			<substring>Auriel's</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Ауриэля</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Gildergreen</substring>
 		</binding>
 		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Златолист</substring>
+		</binding>
+		<binding>
 			<identifier>DaedricLight</identifier>
 			<substring>Gildergreen Light</substring>
 		</binding>
 		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Златолиста (легкий)</substring>
+		</binding>
+		<binding>
 			<identifier>Daedric</identifier>
-			<substring>Æsir</substring>
+			<substring>Aesir</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -1224,11 +2528,27 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Аэдра</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>аэдра</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Azura</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Азур</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Clavicus Vile</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Клавикуса Вайла</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricLight</identifier>
@@ -1240,6 +2560,10 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Бич драконов</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Golden Azure</substring>
 		</binding>
 		<binding>
@@ -1247,8 +2571,16 @@
 			<substring>Boethiah</substring>
 		</binding>
 		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Боэтии</substring>
+		</binding>
+		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Spellbreaker</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Разрушитель Заклинаний</substring>
 		</binding>
 		<binding>
 			<identifier>DwarvenLight</identifier>
@@ -1257,6 +2589,14 @@
 		<binding>
 			<identifier>EbonyLight</identifier>
 			<substring>Ebony Light</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>эбонитовый легкий</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовая легкая</substring>
 		</binding>
 	<!-- Artifacts -->
 	
@@ -1273,12 +2613,52 @@
 			<substring>Trollsbane Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>погибели троллей</substring>
+		</binding>
+		<binding>
 			<identifier>Bonemold Light</identifier>
 			<substring>Trollsbane Light</substring>
 		</binding>
 		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкая броня погибели троллей</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкая маска погибели троллей</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкие наручи погибели троллей</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкие сапоги погибели троллей</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкий головной убор погибели троллей</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Легкий шлем погибели троллей</substring>
+		</binding>
+		<binding>
 			<identifier>BonemoldHigh</identifier>
 			<substring>Improved Bonemold</substring>
+		</binding>
+		<binding>
+			<identifier>BonemoldHigh</identifier>
+			<substring>Улучшенная костяная</substring>
+		</binding>
+		<binding>
+			<identifier>BonemoldHigh</identifier>
+			<substring>Улучшенные костяные</substring>
+		</binding>
+		<binding>
+			<identifier>BonemoldHigh</identifier>
+			<substring>Улучшенный костяной</substring>
 		</binding>
 		<binding>
 			<identifier>Bonemold Light</identifier>
@@ -1293,8 +2673,32 @@
 			<substring>Boiled Chitin Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Дубленая хитиновая тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Дубленые хитиновые тяжелые</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin</identifier>
+			<substring>Дубленый хитиновый тяжелый</substring>
+		</binding>
+		<binding>
 			<identifier>Chitin Light</identifier>
 			<substring>Boiled Chitin Light</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Дубленая хитиновая легкая</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Дубленые хитиновые легкие</substring>
+		</binding>
+		<binding>
+			<identifier>Chitin Light</identifier>
+			<substring>Дубленый хитиновый легкий</substring>
 		</binding>
 		<binding>
 			<identifier>Chitin</identifier>
@@ -1310,7 +2714,27 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Одежд</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>одежд</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Одеяни</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>одеяни</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Shrouded Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Капюшон теней</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -1318,7 +2742,23 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Рюкзак</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>рюкзак</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Necklace</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ожерелье</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>ожерелье</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -1326,7 +2766,23 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Амулет</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>амулет</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Ring</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Кольцо</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>кольцо</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -1334,11 +2790,35 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Плащ</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>плащ</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Cape</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Накидка</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>накидка</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>Saddle</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Седло</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>седло</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -1379,6 +2859,10 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Ulfric's Gag</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Обруч Ульфрика</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -1486,6 +2970,10 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
+			<substring>Шутовск</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
 			<substring>PotW Wig</substring>
 		</binding>
 		<binding>
@@ -1521,6 +3009,10 @@
 			<substring>Daedric Buckler</substring>
 		</binding>
 		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Даэдрический круглый щит</substring>
+		</binding>
+		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Lilith's</substring>
 		</binding>
@@ -1543,6 +3035,10 @@
 		<binding>
 			<identifier>DaedricLight</identifier>
 			<substring>Suleyk</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Сулейк</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -1594,7 +3090,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Кулаки Рандагульфа</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Eleidon's Ward</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Символ Элейдона</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -1777,8 +3281,16 @@
 			<substring>Revered Dragon</substring>
 		</binding>
 		<binding>
+			<identifier>DragonplateLow</identifier>
+			<substring>Благородный дракон</substring>
+		</binding>
+		<binding>
 			<identifier>DragonplateHigh</identifier>
 			<substring>Legendary Dragon</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Легендарный дракон</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -1786,7 +3298,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Древний дракон</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Jagged Crown</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Зубчатая корона</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -1795,6 +3315,10 @@
 		<binding>
 			<identifier>DragonplateHigh</identifier>
 			<substring>Alduin</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Алдуин</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -1806,7 +3330,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Dragonhide Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>драконьей шкуры</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -1818,7 +3350,31 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Драконий эбонитовый</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконьи эбонитовые</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконья эбонитовая</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Dragonbone</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконий костяной</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконья костяная</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконьий костяные</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -1843,6 +3399,10 @@
 		<binding>
 			<identifier>Dragonplate</identifier>
 			<substring>Dragonslayer's Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -2002,6 +3562,26 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Легкая броня драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкие перчатки драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкие сапоги драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкий шлем драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкий щит драконьего рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Dragonhide</substring>
 		</binding>
 		<binding>
@@ -2010,7 +3590,35 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Легкая роба из драконьей шкуры</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкие перчатки из драконьей шкуры</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкие сапоги из драконьей шкуры</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкий капюшон из драконьей шкуры</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Dragonscale Ebonsteel</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатая эбонитовая</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатые эбонитовые</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатый эбонитовый</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -2201,6 +3809,18 @@
 			<substring>Dwarven Light</substring>
 		</binding>
 		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерская легкая</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерский легкий</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерские легкие</substring>
+		</binding>
+		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Vicky</substring>
 		</binding>
@@ -2223,6 +3843,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>General Carius</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>генерала Кария</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -2282,6 +3906,10 @@
 		</binding>
 		<binding>
 			<identifier>DwarvenLight</identifier>
+			<substring>Двемерский круглый щит</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
 			<substring>Magnusian Visor</substring>
 		</binding>
 		<binding>
@@ -2295,6 +3923,10 @@
 		<binding>
 			<identifier>DwarvenHigh</identifier>
 			<substring>Aetherial</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>Этериев</substring>
 		</binding>
 		<binding>
 			<identifier>DwarvenHigh</identifier>
@@ -2401,12 +4033,48 @@
 			<substring>Stormlord</substring>
 		</binding>
 		<binding>
+			<identifier>Ebony</identifier>
+			<substring>бури</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyLight</identifier>
 			<substring>Ebony Mage Light</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовая легкая роба мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовые легкие перчатки мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовые легкие сапоги мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовый легкий капюшон мага</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyLow</identifier>
 			<substring>Ebony Mage Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Эбонитовая тяжелая роба мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Эбонитовые тяжелые перчатки мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Эбонитовые тяжелые сапоги мага</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Эбонитовый тяжелый капюшон мага</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -2434,6 +4102,10 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Проницательность Мзунда</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Temptress</substring>
 		</binding>
 		<binding>
@@ -2455,6 +4127,14 @@
 		<binding>
 			<identifier>EbonyLow</identifier>
 			<substring>Tribunal Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Тяжелая мантия трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Тяжелая роба трибунала</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyLow</identifier>
@@ -2597,6 +4277,10 @@
 			<substring>Ebony Buckler</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовый круглый щит</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyLow</identifier>
 			<substring>Crimson Twilight</substring>
 		</binding>
@@ -2627,6 +4311,10 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Aetherial Crown</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Этериевая корона</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyLight</identifier>
@@ -2853,12 +4541,40 @@
 			<substring>Elven Light</substring>
 		</binding>
 		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Эльфийская легкая</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Эльфийские легкие</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Эльфийский легкий</substring>
+		</binding>
+		<binding>
 			<identifier>ElvenHeavy</identifier>
 			<substring>Elven Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Эльфийская тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Эльфийские тяжелые</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Эльфийский тяжелый</substring>
+		</binding>
+		<binding>
 			<identifier>Elven</identifier>
 			<substring>Snow Elf</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>снежных эльфов</substring>
 		</binding>
 		<binding>
 			<identifier>ElvenLow</identifier>
@@ -3169,8 +4885,16 @@
 			<substring>Auriel</substring>
 		</binding>
 		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Ауриэль</substring>
+		</binding>
+		<binding>
 			<identifier>Falmer Heavy</identifier>
 			<substring>Shellbug</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Heavy</identifier>
+			<substring>хитина жука</substring>
 		</binding>
 		<binding>
 			<identifier>Ancient Falmer</identifier>
@@ -3191,6 +4915,10 @@
 		<binding>
 			<identifier>Falmer Hardened</identifier>
 			<substring>Falmer Circlet</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Фалмерский обруч</substring>
 		</binding>
 	<!-- Falmer Material Bindings end -->
 	
@@ -3346,6 +5074,14 @@
 		</binding>
 		<binding>
 			<identifier>GlassLow</identifier>
+			<substring>Легкая мантия Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Легкая роба Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
 			<substring>Tribunal Robes Black LIGHT</substring>
 		</binding>
 		<binding>
@@ -3394,6 +5130,10 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Кинарет</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Vagabond Leather</substring>
 		</binding>
 		<binding>
@@ -3410,7 +5150,15 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>бродяги</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Sithis</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Ситис</substring>
 		</binding>
 		<binding>
 			<identifier>GlassHigh</identifier>
@@ -3482,6 +5230,14 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Thalmor</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Талмор</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Rothvine</substring>
 		</binding>
 		<binding>
@@ -3522,11 +5278,23 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Укрепленная роба Морокеи</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Morokei's Gloves</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Перчатки Морокеи</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Morokei's Greaves</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Поножи Морокеи</substring>
 		</binding>
 	<!-- Glass Material Bindings end -->
 	
@@ -3550,6 +5318,10 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
+			<substring>Жнеца</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
 			<substring>Bandit Bikini</substring>
 		</binding>
 		<binding>
@@ -3558,7 +5330,15 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
+			<substring>Моварта</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
 			<substring>Predator</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>хищника</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
@@ -3606,6 +5386,10 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
+			<substring>скаал</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
 			<substring>Skaal Horned</substring>
 		</binding>
 		<binding>
@@ -3619,6 +5403,10 @@
 		<binding>
 			<identifier>Hide</identifier>
 			<substring>Snow Bear</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>медведя</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
@@ -3713,8 +5501,12 @@
 			<substring>Chain</substring>
 		</binding>
 		<binding>
-		<identifier>IronHigh</identifier>
+			<identifier>IronHigh</identifier>
 			<substring>The Forgemaster's Fingers</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Перчатки мастера-кузнеца</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -3737,8 +5529,20 @@
 			<substring>Heavy Painted</substring>
 		</binding>
 		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Тяжелый раскрашенный</substring>
+		</binding>
+		<binding>
 			<identifier>IronLight</identifier>
 			<substring>Light Painted</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Легкий раскрашенный</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Painted Iron</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -3755,6 +5559,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>(old)</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>(стар</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -3847,6 +5655,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Gauntlets of Dentistry</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Перчатки зубного врача</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -3949,12 +5761,20 @@
 			<substring>Bone Breaker</substring>
 		</binding>
 		<binding>
+			<identifier>Iron</identifier>
+			<substring>Костолом</substring>
+		</binding>
+		<binding>
 			<identifier>IronLight</identifier>
 			<substring>Westland Rondache</substring>
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
 			<substring>Iron Buckler</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Железный круглый щит</substring>
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
@@ -3989,8 +5809,20 @@
 			<substring>Goblin</substring>
 		</binding>
 		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Гоблинск</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>гоблинск</substring>
+		</binding>
+		<binding>
 			<identifier>Iron</identifier>
 			<substring>Goblin Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Тяжелый гоблинский</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -4040,6 +5872,10 @@
 			<identifier>Iron</identifier>
 			<substring>Fodiiz's Armored Robes</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Укрепленная роба Фодиза</substring>
+		</binding>
 	<!-- Iron Material Bindings end -->
 	
 	<!-- Leather Material Bindings start -->
@@ -4050,7 +5886,15 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Капюшон порока</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Painted Hide</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Раскрашенный сыромятный</substring>
 		</binding>
 		<binding>
 			<identifier>LeatherHigh</identifier>
@@ -4082,11 +5926,15 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>борца</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Black Rose</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
-			<substring>de la sorcière sauvage</substring>
+			<substring>de la sorciere sauvage</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -4330,6 +6178,10 @@
 		</binding>
 		<binding>
 			<identifier>LeatherHigh</identifier>
+			<substring>егеря</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
 			<substring>Ranger Boots</substring>
 		</binding>
 		<binding>
@@ -4426,6 +6278,10 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Атира</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Cerberus Leer</substring>
 		</binding>
 		<binding>
@@ -4455,6 +6311,10 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Karliah</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Карлии</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -4539,6 +6399,10 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Tsun's</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Тсуна</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -4813,6 +6677,14 @@
 			<substring>Nord</substring>
 		</binding>
 		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Норд</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>норд</substring>
+		</binding>
+		<binding>
 			<identifier>LNordic</identifier>
 			<substring>Nord Light</substring>
 		</binding>
@@ -4829,12 +6701,60 @@
 			<substring>Primitive Nord Light</substring>
 		</binding>
 		<binding>
+			<identifier>LNordic</identifier>
+			<substring>легкие перчатки нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>легкие сапоги нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>легкий шлем нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>легкая кираса нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>Легкий церемониальный шлем нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>нордские легкие</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>нордский легкий</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>нордская легкая</substring>
+		</binding>
+		<binding>
 			<identifier>HNordic</identifier>
 			<substring>Nordic Dwemer</substring>
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
+			<substring>Нордский двемерский</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>нордский двемерский</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
 			<substring>Nordic Ebony</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордский эбонитовый</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>нордский эбонитовый</substring>
 		</binding>
 		<binding>
 			<identifier>LNordic</identifier>
@@ -4842,27 +6762,71 @@
 		</binding>
 		<binding>
 			<identifier>LNordic</identifier>
+			<substring>Нордский эбонитовый легкий щит</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
 			<substring>Nordic Moonstone</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>Нордский щит из лунного камня</substring>
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
 			<substring>Nordic Orichalcum</substring>
 		</binding>
 		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордский орихалковый</substring>
+		</binding>
+		<binding>
 			<identifier>LNordic</identifier>
 			<substring>Nordic Orichalcum Light</substring>
+		</binding>
+		<binding>
+			<identifier>LNordic</identifier>
+			<substring>Нордский орихалковый легкий щит</substring>
 		</binding>
 		<binding>
 			<identifier>Ancient Nord</identifier>
 			<substring>Ancient Nord</substring>
 		</binding>
 		<binding>
+			<identifier>Ancient Nord</identifier>
+			<substring>Древние нордские</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Nord</identifier>
+			<substring>Древний нордский</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Nord</identifier>
+			<substring>Древняя нордская</substring>
+		</binding>
+		<binding>
 			<identifier>Ancient NordL</identifier>
 			<substring>Ancient Nord Light</substring>
 		</binding>
 		<binding>
+			<identifier>Ancient NordL</identifier>
+			<substring>Древние нордские легкие</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient NordL</identifier>
+			<substring>Древняя нордская легкая</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient NordL</identifier>
+			<substring>Древний нордский легкий</substring>
+		</binding>
+		<binding>
 			<identifier>LNordicLow</identifier>
 			<substring>Nord Mail</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicLow</identifier>
+			<substring>кольчуга нордов</substring>
 		</binding>
 		<binding>
 			<identifier>HNordicLow</identifier>
@@ -4870,7 +6834,23 @@
 		</binding>
 		<binding>
 			<identifier>HNordicLow</identifier>
+			<substring>Тяжелые кольчужные наручи нордов</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicLow</identifier>
+			<substring>Тяжелые кольчужные сапоги нордов</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicLow</identifier>
+			<substring>Тяжелый кольчужный койф нордов</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicLow</identifier>
 			<substring>Nord Mail Hauberk</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicLow</identifier>
+			<substring>Кольчужный хауберг нордов</substring>
 		</binding>
 		<binding>
 			<identifier>LNordicLow</identifier>
@@ -4878,15 +6858,39 @@
 		</binding>
 		<binding>
 			<identifier>LNordicLow</identifier>
+			<substring>Легкие кольчужные наручи нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicLow</identifier>
+			<substring>Легкие кольчужные сапоги нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicLow</identifier>
+			<substring>Легкий кольчужный шлем нордов</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicLow</identifier>
 			<substring>Nord Mail Shirt</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicLow</identifier>
+			<substring>Короткая кольчуга нордов</substring>
 		</binding>
 		<binding>
 			<identifier>HNordicHigh</identifier>
 			<substring>Ysgramor</substring>
 		</binding>
 		<binding>
+			<identifier>HNordicHigh</identifier>
+			<substring>Исграмор</substring>
+		</binding>
+		<binding>
 			<identifier>LNordicHigh</identifier>
 			<substring>Buckler of Ysgramor</substring>
+		</binding>
+		<binding>
+			<identifier>LNordicHigh</identifier>
+			<substring>Круглый щит Исграмора</substring>
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
@@ -4894,7 +6898,27 @@
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
+			<substring>Нордская резная</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордские резные</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордский резной</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
 			<substring>Nordic</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>Нордск</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>нордск</substring>
 		</binding>
 		<binding>
 			<identifier>HNordicHigh</identifier>
@@ -4903,6 +6927,18 @@
 		<binding>
 			<identifier>HNordicHigh</identifier>
 			<substring>Steel Nordic</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicHigh</identifier>
+			<substring>Стальные нордские</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicHigh</identifier>
+			<substring>Стальная нордская</substring>
+		</binding>
+		<binding>
+			<identifier>HNordicHigh</identifier>
+			<substring>Стальной нордский</substring>
 		</binding>
 		<binding>
 			<identifier>HNordic</identifier>
@@ -4958,6 +6994,14 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Орихалк</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>орихалк</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Orcish Thigh</substring>
 		</binding>
 		<binding>
@@ -4965,16 +7009,60 @@
 			<substring>Warchief</substring>
 		</binding>
 		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>военачальника</substring>
+		</binding>
+		<binding>
 			<identifier>OrcishLight</identifier>
 			<substring>Warchief Light</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкая поступь военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкая хватка военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкий боевой венец военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкий боевой шлем военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкий оплот военачальника</substring>
 		</binding>
 		<binding>
 			<identifier>OrcishLight</identifier>
 			<substring>Shaman</substring>
 		</binding>
 		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Шаман</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>шаман</substring>
+		</binding>
+		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Berserker</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Берсерк</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>берсерк</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -5053,6 +7141,10 @@
 			<substring>Orcish Buckler</substring>
 		</binding>
 		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Орочий круглый щит</substring>
+		</binding>
+		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Rubicite</substring>
 		</binding>
@@ -5071,6 +7163,10 @@
 		<binding>
 			<identifier>OrcishLight</identifier>
 			<substring>Ghorza</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Горзы</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -5165,8 +7261,16 @@
 			<substring>Crimson Archer</substring>
 		</binding>
 		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Багров</substring>
+		</binding>
+		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Einherjar Brigandine</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>одинокого воина</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -5174,11 +7278,23 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Морского волка</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Hunter</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Mercenary</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>наемника</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -5382,6 +7498,10 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>апофеоза</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Chain Mail</substring>
 		</binding>
 		<binding>
@@ -5395,6 +7515,10 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Savior's Hide</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Шкура Спасителя</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -5518,7 +7642,15 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Корундовая маска</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Copper Plate Robes</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Корундовая панцирная роба</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -5526,7 +7658,15 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Корундовые чешуйчатые перчатки</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Copper Scale Greaves</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Корундовые чешуйчатые поножи</substring>
 		</binding>
 	<!-- Scaled Material Bindings end -->
 	
@@ -5546,7 +7686,15 @@
 		</binding>
 		<binding>
 			<identifier>SilverHeavy</identifier>
+			<substring>Серебряная маска</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
 			<substring>Silver Plate Robes</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
+			<substring>Серебряная панцирная роба</substring>
 		</binding>
 		<binding>
 			<identifier>SilverHeavy</identifier>
@@ -5554,7 +7702,15 @@
 		</binding>
 		<binding>
 			<identifier>SilverHeavy</identifier>
+			<substring>Серебряные чешуйчатые перчатки</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
 			<substring>Silver Scale Greaves</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHeavy</identifier>
+			<substring>Серебряные чешуйчатые поножи</substring>
 		</binding>
 	<!-- Silver Material Bindings end -->
 	
@@ -5574,7 +7730,19 @@
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
+			<substring>Кольчат</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
 			<substring>Studded</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Клепан</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>клепан</substring>
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
@@ -5583,6 +7751,22 @@
 		<binding>
 			<identifier>Studded</identifier>
 			<substring>Barbarian Hero</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Варварская броня героя</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Варварские наручи героя</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Варварские сапоги героя</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Варварский шлем героя</substring>
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
@@ -5622,6 +7806,14 @@
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
+			<substring>Утепленная меховая</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Утепленный меховой</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
 			<substring>Empire Royal</substring>
 		</binding>
 		<binding>
@@ -5650,6 +7842,10 @@
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
+			<substring>Стендарр</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
 			<substring>Blade Dancer</substring>
 		</binding>
 		<binding>
@@ -5673,8 +7869,16 @@
 			<substring>Steel Armor with Pauldrons</substring>
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальная броня с наплечниками</substring>
+		</binding>
+		<binding>
 			<identifier>SteelHigh</identifier>
 			<substring>Tsun</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Тсун</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5697,16 +7901,32 @@
 			<substring>Heavy Splinted</substring>
 		</binding>
 		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Тяжелый лубяной</substring>
+		</binding>
+		<binding>
 			<identifier>SteelLight</identifier>
 			<substring>Light Splinted</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Легкий лубяной</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Painted Spiked</substring>
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Раскрашенный шипастый</substring>
+		</binding>
+		<binding>
 			<identifier>SteelLight</identifier>
 			<substring>Light Target Shield</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Легкий щит-мишень</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5714,7 +7934,19 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Тяжелый щит-мишень</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Knight</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Рыцар</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Рыцар</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5722,7 +7954,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Старк</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Sons of Skyrim</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Сынов Скайрима</substring>
 		</binding>
 		<binding>
 			<identifier>Steelow</identifier>
@@ -5741,12 +7981,24 @@
 			<substring>Cultist Mask</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Маска члена культа</substring>
+		</binding>
+		<binding>
 			<identifier>Steel</identifier>
 			<substring>Blooded</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>кровожадности</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Telvanni</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Телванни</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5762,11 +8014,23 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>викинг</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Lannister</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Ланнистер</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Thane</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>тана</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5813,8 +8077,20 @@
 			<substring>Armored Fur</substring>
 		</binding>
 		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Укрепленная меховая</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Укрепленный меховой</substring>
+		</binding>
+		<binding>
 			<identifier>SteelLight</identifier>
 			<substring>Steel Buckler</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Стальной круглый щит</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5970,15 +8246,31 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Стальной капюшон когтей белого медведя</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Steel Ornate</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальной украш. капюшон когтей</substring><!-- winter is coming -->
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Steel Fancy</substring><!-- winter is coming -->
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальной меховой капюшон когтей</substring><!-- winter is coming -->
+		</binding>
+		<binding>
 			<identifier>Steel Heavy</identifier>
 			<substring>Damaged Ceremonial</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Попорченная церемониальная</substring>
 		</binding>
 	<!-- Steel Material Bindings end -->
 	
@@ -5987,6 +8279,10 @@
 		<binding>
 			<identifier>Steel PlateHigh</identifier>
 			<substring>Yngol</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateHigh</identifier>
+			<substring>Ингола</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -6006,31 +8302,71 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>Йоррваскра</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Ritual</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Ритуал</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>ритуал</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Heavy Spiked</substring>
 		</binding>
 		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Тяжелый шипастый</substring>
+		</binding>
+		<binding>
 			<identifier>Steel PlateLight</identifier>
 			<substring>Light Spiked</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Легкий шипастый</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Heavy Jorrvaskr Shield</substring>
 		</binding>
 		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Тяжелый щит Йоррваскра</substring>
+		</binding>
+		<binding>
 			<identifier>Steel PlateLight</identifier>
 			<substring>Light Skyforge</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Легкий небесный щит</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Skyforge</substring>
 		</binding>
 		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Небесн</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>небесн</substring>
+		</binding>
+		<binding>
 			<identifier>Steel PlateHigh</identifier>
 			<substring>Heavy Skyforge</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateHigh</identifier>
+			<substring>Тяжелый небесный щит</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -6038,7 +8374,23 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>Крестоносца</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>крестоносца</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Witchplate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Чародеев</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>чародеев</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -6046,7 +8398,27 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>Горы</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Einherjar Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>панцирная кираса одинокого воина</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>панцирные перчатки одинокого воина</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>панцирные сапоги одинокого воина</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>панцирный капюшон одинокого воина</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -6054,7 +8426,27 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>Винтерфелл</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Champion</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Защитника</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>защитника</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Чемпиона</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>чемпиона</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -6066,11 +8458,23 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>авангарда</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Spellbinder</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>ткача заклинаний</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Hedge</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>межевого рыцаря</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -6119,6 +8523,10 @@
 		<binding>
 			<identifier>Steel PlateLight</identifier>
 			<substring>Light Jorrvaskr Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Легкий щит Йоррваскра</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -6186,7 +8594,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>пластинчатые сапоги</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Plate Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>пластинчатая броня</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -6194,7 +8610,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
+			<substring>пластинчатые перчатки</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
 			<substring>Plate Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>пластинчатый шлем</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -6281,8 +8705,32 @@
 			<substring>Glacial Crystal Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>HStalhrim</identifier>
+			<substring>Ледяная кристальная тяжелая</substring>
+		</binding>
+		<binding>
+			<identifier>HStalhrim</identifier>
+			<substring>Ледяной кристальный тяжелый</substring>
+		</binding>
+		<binding>
+			<identifier>HStalhrim</identifier>
+			<substring>Ледяные кристальные тяжелые</substring>
+		</binding>
+		<binding>
 			<identifier>LStalhrim</identifier>
 			<substring>Glacial Crystal Light</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Ледяная кристальная легкая</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Ледяной кристальный легкий</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Ледяные кристальные легкие</substring>
 		</binding>
 		<binding>
 			<identifier>LStalhrim</identifier>
@@ -6290,7 +8738,19 @@
 		</binding>
 		<binding>
 			<identifier>LStalhrim</identifier>
+			<substring>Печати Смерти</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
 			<substring>Stalhrim</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Сталгрим</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>сталгрим</substring>
 		</binding>
 		<binding>
 			<identifier>HStalhrim</identifier>
@@ -6303,6 +8763,10 @@
 		<binding>
 			<identifier>LStalhrim</identifier>
 			<substring>Bloodskal</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Бладскал</substring>
 		</binding>
 		<binding>
 			<identifier>HStalhrim</identifier>
@@ -6331,6 +8795,10 @@
 		<binding>
 			<identifier>Vampire Royal</identifier>
 			<substring>Vampire Royal</substring>
+		</binding>
+		<binding>
+			<identifier>Vampire Royal</identifier>
+			<substring>Вампирская королевская</substring>
 		</binding>
 		<binding>
 			<identifier>Vampire Royal</identifier>
@@ -7423,9 +9891,21 @@
 			<substringArmor>Bandit</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Бандит</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>бандит</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
 		<!-- Fur set is listed individually to prevent several cloaks, capes and backpacks from flagging the player as a bandit -->
 		<armor_masquerade_binding>
 			<substringArmor>Fur Armor</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховая броня</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7433,7 +9913,15 @@
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Меховые наручи</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Kilt</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховой килт</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7441,11 +9929,23 @@
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Меховой шлем</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Shoes</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Меховые ботинки</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Pant</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховая броня со штанами</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Bandit end -->
@@ -7453,6 +9953,10 @@
 	<!-- Cultist start -->
 		<armor_masquerade_binding>
 			<substringArmor>Cultist</substringArmor>
+			<masqueradeFaction>CULTIST</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>члена культа</substringArmor>
 			<masqueradeFaction>CULTIST</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Cultist end -->
@@ -7463,7 +9967,15 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерский шлем</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Armor</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерская броня</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7471,7 +9983,19 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерские сапоги</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Древние фалмерские сапоги</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Bracers</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерские наручи</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7479,7 +10003,23 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерская тяжелая броня</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелая фалмерская броня</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Heavy Boots</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерские тяжелые сапоги</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелые фалмерские сапоги</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7487,7 +10027,23 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерские тяжелые перчатки</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелые фалмерские перчатки</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Heavy Helm</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерский тяжелый шлем</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый фалмерский шлем</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7495,7 +10051,23 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерская усиленная броня</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Укрепленная фалмерская броня</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Hardened Boots</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерские усиленные сапоги</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Укрепленные фалмерские сапоги</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7503,7 +10075,23 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерские усиленные наручи</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Укрепленные фалмерские наручи</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Hardened Gauntlets</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Фалмерские усиленные перчатки</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Укрепленные фалмерские перчатки</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7511,11 +10099,27 @@
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерский усиленный шлем</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Укрепленный фалмерский шлем</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Falmer Shaman</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Фалмерская броня шамана</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Shellbug Helmet</substringArmor>
+			<masqueradeFaction>FALMER</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Шлем из хитина жука</substringArmor>
 			<masqueradeFaction>FALMER</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Falmer end -->
@@ -7526,7 +10130,15 @@
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Сапоги Изгоев</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Forsworn Armor</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Броня Изгоев</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7534,7 +10146,15 @@
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Головной убор Изгоев</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Forsworn Gauntlets</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Перчатки Изгоев</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7542,7 +10162,15 @@
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Броня Старых богов</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Helmet of the Old Gods</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Шлем Старых богов</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7550,7 +10178,15 @@
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Перчатки Старых богов</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Boots of the Old Gods</substringArmor>
+			<masqueradeFaction>FORSWORN</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Сапоги Старых богов</substringArmor>
 			<masqueradeFaction>FORSWORN</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Forsworn end -->
@@ -7561,7 +10197,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперская легкая броня</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Light Boots</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперские легкие сапоги</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7569,7 +10213,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперские легкие наручи</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Light Helmet</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперский легкий шлем</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7577,7 +10229,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперские сапоги</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Bracers</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперские наручи</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7585,7 +10245,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперская броня</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Helmet</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперский шлем</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7593,7 +10261,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперский шлем с гребнем</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Studded</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперская клепаная броня</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7601,7 +10277,19 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Клепаная имперская</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial Tattered</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Потрепанная Имперская броня</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Потрепанная имперская броня</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7609,7 +10297,15 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Имперский офицерский шлем</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Imperial General's</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Имперская генеральская броня</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7617,11 +10313,23 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Пенитус</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>General</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>генерала</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Legate</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>легата</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Imperial end -->
@@ -7632,7 +10340,15 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Кираса Братьев Бури</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Stormcloak Helmet</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Шлем Братьев Бури</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7640,7 +10356,27 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Офицерская броня Братьев Бури</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Офицерские наручи Братьев Бури</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Офицерские сапоги Братьев Бури</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Офицерский шлем Братьев Бури</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Gauntlets</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховые перчатки</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7648,7 +10384,19 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Меховые сапоги</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Guard's</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховые перчатки стражи</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Меховые сапоги стражи</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7656,7 +10404,15 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Шлем стражи Истмарка</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Reinforced Guard Boots</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Усиленные сапоги стражника</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7664,7 +10420,15 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Усиленные перчатки стражника</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fitted Guard Boots</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Ладные сапоги стражника</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7672,7 +10436,15 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Ладные перчатки стражника</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Ulfric's Armor</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Броня Ульфрика</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7680,18 +10452,33 @@
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Сапоги Ульфрика</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Ulfric's Bracers</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Наручи Ульфрика</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
 			<substringArmor>Gloves of the Pugilist</substringArmor>
 			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
 		</armor_masquerade_binding>
-	<!-- Stormcloak end -->
+		<armor_masquerade_binding>
+			<substringArmor>Перчатки борца</substringArmor>
+			<masqueradeFaction>STORMCLOAK</masqueradeFaction>
+		</armor_masquerade_binding>	<!-- Stormcloak end -->
 	
 	<!-- Thalmor start -->
 		<armor_masquerade_binding>
 			<substringArmor>Thalmor</substringArmor>
+			<masqueradeFaction>THALMOR</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Талмор</substringArmor>
 			<masqueradeFaction>THALMOR</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Thalmor end -->
@@ -7702,7 +10489,15 @@
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Вампирская броня</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Vampire Boots</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Вампирские сапоги</substringArmor>
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7710,7 +10505,23 @@
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Вампирские перчатки</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Вампирские окованные перчатки</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Vampire Hood</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Капюшон вампира</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Вампирский капюшон</substringArmor>
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
@@ -7718,7 +10529,15 @@
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>Вампирская королевская броня</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Vampire Lord</substringArmor>
+			<masqueradeFaction>VAMPIRE</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Броня вампира-лорда</substringArmor>
 			<masqueradeFaction>VAMPIRE</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Vampire end -->
@@ -7732,7 +10551,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Разрушитель Заклинаний</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Bound</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Призван</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7762,7 +10591,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Обруч Ульфрика</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Aela's</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Эйлы</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7772,7 +10611,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Шлем Винтерхолда</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Hrolfdir's Shield</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Щит Хролфдира</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7782,7 +10631,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Зубчатая корона</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Mystic Tuning Gloves</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Мистические настроечные перчатки</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7792,12 +10651,27 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Шлем Ностера</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Roggi's Ancestral Shield</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Щит предков Рогги</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>The Forgemaster's Fingers</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Перчатки мастера-кузнеца</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7812,12 +10686,27 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Этериевая корона</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>NPC</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
 			<text>Backpack</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Рюкзак</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>рюкзак</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7871,9 +10760,19 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
+		<exclusion>
+			<text>копия</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
 	<!-- Dragon Priest Masks start -->
 		<exclusion>
 			<text>Vahlok</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Валок</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7883,12 +10782,27 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Азидал</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Dukaan</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Дукан</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>		
+		<exclusion>
 			<text>Hevnoraak</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Хевнорак</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7898,7 +10812,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Конарик</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Krosis</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кросис</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7908,7 +10832,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Мирак</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Morokei</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Мороке</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7918,7 +10852,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Накрин</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Otar</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Отар</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7928,7 +10872,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Рагот</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Vokun</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Вокун</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -7938,11 +10892,21 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Вольсунг</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Zahkriisos</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
-	<!-- Dragon Priest Masks end -->
+		<exclusion>
+			<text>Закрисош</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<!-- Dragon Priest Masks end -->
 	<!-- Complete Crafting Overhaul -->
 		<exclusion>
 			<text>ArmoredCirclet</text>
