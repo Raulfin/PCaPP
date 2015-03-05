@@ -1,28 +1,26 @@
 <Versions>
 <Current>
 <v2.4.3>
-Now covers:
-
-Blocklist:
-
-Exclusions:
-
 Fixes:
+	Horker weapons and armor will now sort to Bonemold and not MISC. (GHWP)
 
 Changes:
 	Corsair's Sword will now bind as a Sabre not an Arming Sword. (Jswords)
+	Horker weapons and armor recipes now require one or more Horker Tusk in your inventory to show. (GHWP)
+	Honed Horker weapons and armor now require you to know how to make Improved Bonemold. (GHWP)
+	Removed localization from the three WAFR patches as it was being a poo-poo head.
+	Torch, Stone and Riekling Arrows/Bolts will no longer have variants made.
 
 Additions:
 	Weapon Modifiers for (Broken), (Damaged), (Worn), (Used), (Solid) and (Reliable). Primarily affects Frostfall.
-
-Balancing:
-
-Renamed:
+	Several new Ammo materials added, mainly duplicate versions of existing materials, but with <multiply> set to false.
 
 Updated Patches:
-	1nivWICCloaks.esp (WiC) adjusting keywords.
-
-New Patches:
+	1nivWICCloaks.esp (WiC) Removed Clothing keywords from two Leather helms I missed.
+	Ghosu - Horker Weapon Pack.esp (GHWP) Added Longbows and adjusted LLs to match WAFR.
+	Pre PaMa WAFR CCOR BOYD Patch.esp actually corrected name of NPCs Ma'jhad and Ra'zhinda. Removed localization
+	Pre PaMa WAFR CCOR Patch.esp Removed localization
+	Pre PaMa WAFR Patch.esp Removed localization
 </v2.4.3>
 </Current>
 
