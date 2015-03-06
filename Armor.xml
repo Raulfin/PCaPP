@@ -7460,7 +7460,35 @@
 	
 	<!-- Dawnguard start -->
 		<armor_masquerade_binding>
-			<substringArmor>Dawnguard</substringArmor>
+			<substringArmor>Dawnguard Armor</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Boots</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Full</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Gauntlets</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Light Armor</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Light Boots</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Light Helmet</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Light Gauntlets</substringArmor>
 			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Dawnguard end -->
