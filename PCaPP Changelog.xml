@@ -1,5 +1,30 @@
 <Versions>
 <Current>
+<v2.4.4>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+	Added masquerade bindings for Dawnguard.
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v2.4.4>
+</Current>
+
+<Old>
 <v2.4.3>
 Fixes:
 	Horker weapons and armor will now sort to Bonemold and not MISC. (GHWP)
@@ -22,9 +47,6 @@ Updated Patches:
 	Pre PaMa WAFR CCOR Patch.esp Removed localization
 	Pre PaMa WAFR Patch.esp Removed localization
 </v2.4.3>
-</Current>
-
-<Old>
 <v2.4.2>
 Now covers:
 	Avatar of Grenth (23165)

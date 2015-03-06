@@ -7418,6 +7418,7 @@
 
 	<armor_masquerade_bindings>
 		<!-- Items can be used to match multiple factions, such as Fur Boots which are worn by both Stormcloaks and Bandits. -->
+	
 	<!-- Bandit start -->
 		<armor_masquerade_binding>
 			<substringArmor>Bandit</substringArmor>
@@ -7456,6 +7457,13 @@
 			<masqueradeFaction>CULTIST</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Cultist end -->
+	
+	<!-- Dawnguard start -->
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+	<!-- Dawnguard end -->
 	
 	<!-- Falmer start -->
 		<armor_masquerade_binding>
