@@ -12,13 +12,15 @@ Fixes:
 Changes:
 
 Additions:
-	Added masquerade bindings for Dawnguard.
+	Added masquerade bindings for Dawnguard
+	Added masquerade keywords for Thalmor clothings. (CCF)
 
 Balancing:
 
 Renamed:
 
 Updated Patches:
+	CCF: Keyword adjustments.
 
 New Patches:
 </v2.4.4>
