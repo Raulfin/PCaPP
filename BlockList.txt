@@ -28,6 +28,7 @@ iNeed.esp
 Ish's Respec Mod.esp
 JaxonzDiagnostics.esp
 kuerteeEatAndSleep.esp
+KWTelescope.esp
 LongerDurationsandAnnoyanceFixes - Perma Patch.esp
 LootandDegradation.esp
 Magic of the Magna-Ge.esp
