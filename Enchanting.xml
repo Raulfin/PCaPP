@@ -8423,6 +8423,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Avatar of Grenth -->
+	<!-- Lord Marshal and Steel Falcon -->
+		<exclusion>
+			<text>Lord Marshal</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Steel Falcon</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Lord Marshal and Steel Falcon -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
