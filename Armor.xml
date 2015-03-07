@@ -2852,6 +2852,10 @@
 			<identifier>EbonyLight</identifier>
 			<substring>Steel Falcon</substring>
 		</binding>
+		<binding>
+			identifier>Ebony</identifier>
+			<substring>Bulwark of Azzinoth</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
