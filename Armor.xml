@@ -3542,7 +3542,7 @@
 		</binding>
 		<binding>
 			<identifier>GoldHeavy</identifier>
-			<substring>Golden plate</substring>
+			<substring>Golden plate</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
 	<!-- Gold Material Bindings end -->
 	
@@ -5986,23 +5986,23 @@
 		</binding>
 		<binding>
 			<identifier>SteelLight</identifier>
-			<substring>Plate cuirass</substring>
+			<substring>Plate cuirass</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
 		<binding>
 			<identifier>SteelLight</identifier>
-			<substring>Plate gloves</substring>
+			<substring>Plate gloves</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
 		<binding>
 			<identifier>SteelLight</identifier>
-			<substring>Plate helmet</substring>
+			<substring>Plate helmet</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
 		<binding>
 			<identifier>SteelLight</identifier>
-			<substring>Plate pauldrons</substring>
+			<substring>Plate pauldrons</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
 		<binding>
 			<identifier>SteelLight</identifier>
-			<substring>Plate scarf</substring>
+			<substring>Plate scarf</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
 	<!-- Steel Material Bindings end -->
 	
