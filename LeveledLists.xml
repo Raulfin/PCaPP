@@ -1561,6 +1561,68 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Forgotten Magic Redone -->
+		<!-- Skyrim Sewers 4 -->
+			<exclusion>
+				<text>SSewersBanditNote</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersDarmokJournal</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersUlvigNotes</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersFrostVaultLog</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersVindicatorRant</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersJsasheBook</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersAnnouncement</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersSongOfUlvaak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersLoveLetter5thEra</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersThalmorNote</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersMadanach</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersBookTGBrynjolfMap</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Skyrim Sewers 4 -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
