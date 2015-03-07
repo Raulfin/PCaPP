@@ -1561,6 +1561,68 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Forgotten Magic Redone -->
+		<!-- Skyrim Sewers 4 -->
+			<exclusion>
+				<text>SSewersBanditNote</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersDarmokJournal</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersUlvigNotes</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersFrostVaultLog</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersVindicatorRant</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersJsasheBook</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersAnnouncement</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersSongOfUlvaak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersLoveLetter5thEra</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersThalmorNote</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersMadanach</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SSewersBookTGBrynjolfMap</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Skyrim Sewers 4 -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -2929,6 +2991,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+		<!-- Skyrim Sewers 4 -->
+			<exclusion>
+				<text>SSewers</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Skyrim Sewers 4 -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4047,6 +4116,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+		<!-- Skyrim Sewers 4 -->
+			<exclusion>
+				<text>SSewers</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Skyrim Sewers 4 -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -5436,6 +5512,41 @@
 				<target>NAME</target>
 				<type>STARTSWITH</type>
 			</exclusion>
+		<!-- Avatar Of Grenth -->
+		<!-- Lord Marshal and Steel Falcon -->
+			<exclusion>
+				<text>Lord Marshal</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Steel Falcon</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Lord Marshal and Steel Falcon -->
+		<!-- Common Clothes -->
+			<exclusion>
+				<text>002BeltedRobe</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>002CommonRobe</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>002QuiltedRobes</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>002TravelClothes</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Common Clothes -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>

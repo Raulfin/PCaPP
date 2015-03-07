@@ -1014,7 +1014,7 @@
 			<substring>Haafingar</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionHigh</identifier>
+			<identifier>LightFactionHigh</identifier>
 			<substring>Shield of Solitude</substring>
 		</binding>
 		<binding>
@@ -2844,6 +2844,14 @@
 			<identifier>EbonyLight</identifier>
 			<substring>Black Archmage Ebony Helm (L)</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Lord Marshal</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Steel Falcon</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -3540,6 +3548,10 @@
 			<identifier>GoldHeavy</identifier>
 			<substring>Gold Heavy</substring>
 		</binding>
+		<binding>
+			<identifier>GoldHeavy</identifier>
+			<substring>Golden plate</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
 	<!-- Gold Material Bindings end -->
 	
 	<!-- Hide Material Bindings start -->
@@ -4039,6 +4051,14 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Fodiiz's Armored Robes</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Nordic Iron Plates</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Robed Iron Armor</substring>
 		</binding>
 	<!-- Iron Material Bindings end -->
 	
@@ -4796,6 +4816,34 @@
 			<identifier>Leather</identifier>
 			<substring>Leather Fancy</substring><!-- winter is coming -->
 		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Boiled Leather</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Leather Doublet</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mail and Jacket</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mail and Surcoat</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mail Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Oiled Mail and Surcoat</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Oiled Mail Hauberk</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
@@ -5528,6 +5576,38 @@
 			<identifier>Scaled</identifier>
 			<substring>Copper Scale Greaves</substring>
 		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Adept Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Apprentice Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Expert Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Grand Master Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Master Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Novice Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Rogue Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Trainee Cleric Chainmail</substring>
+		</binding>
 	<!-- Scaled Material Bindings end -->
 	
 	<!-- Silver Material Bindings start -->
@@ -5980,6 +6060,26 @@
 			<identifier>Steel Heavy</identifier>
 			<substring>Damaged Ceremonial</substring>
 		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate cuirass</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate gloves</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate helmet</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate pauldrons</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate scarf</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
@@ -6183,6 +6283,10 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Plate Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Plate boots</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
