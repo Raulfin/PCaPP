@@ -1683,6 +1683,14 @@
 			<identifier>Dwarven</identifier>
 			<substring>Trueflame</substring>
 		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Metal Compound Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Dwemer Recurve Bow</substring>
+		</binding>
 	<!-- Dwarven bindings end -->
 	
 	<!-- Ebony bindings start -->
@@ -2138,6 +2146,14 @@
 			<identifier>Ebony</identifier>
 			<substring>Penobscot War Bow III</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ebony Compound Bow</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Elder Compound Bow</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
@@ -2353,6 +2369,18 @@
 			<identifier>ElvenHigh</identifier>
 			<substring>Penobscot War Bow II</substring>
 		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Bow Zingler</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Predator Bow</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Recurve Elven Bow</substring>
+		</binding>
 	<!-- Elven bindings end -->
 	
 	<!-- Falmer/Forsworn bindings start -->
@@ -2534,6 +2562,10 @@
 			<identifier>Glass</identifier>
 			<substring>Electrum Elven</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Dragon Skin Compound Bow</substring>
+		</binding>
 	<!-- Glass bindings end -->
 	
 	<!-- Gold bindings start -->
@@ -2712,6 +2744,10 @@
 			<identifier>Iron</identifier>
 			<substring>Dragon Priest Dagger</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Wood Compound Bow</substring>
+		</binding>
 	<!-- Iron bindings end -->
 	
 	<!-- Iron/Wood Clutter bindings start -->
@@ -2863,6 +2899,10 @@
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Praetorian</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Carbon Fiber Compound Bow</substring>
 		</binding>
 	<!-- Orcish bindings end -->
 	
@@ -3568,6 +3608,10 @@
 		<binding>
 			<identifier>SteelHigh</identifier>
 			<substring>Genesis' Rapier</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Simple Compound Bow</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
@@ -6864,6 +6908,50 @@
 		</binding>
 		<binding>
 			<substring>Penobscot War Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Bow Zingler</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Carbon Fiber Compound Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Dragon Skin Compound Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Metal Compound Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Predator Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Simple Compound Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Ebony Compound Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Elder Compound Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Wood Compound Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Recurve Elven Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Dwemer Recurve Bow</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->

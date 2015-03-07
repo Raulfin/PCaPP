@@ -947,6 +947,12 @@
 			<substring>Dovahkiin</substring>
 		</binding>
 	<!-- WEAPONIZER -->
+	<!-- Compound Bow Collection-Redux -->
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Dragon</substring>
+		</binding>
+	<!-- Compound Bow Collection-Redux -->
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
