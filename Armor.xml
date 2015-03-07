@@ -3540,6 +3540,10 @@
 			<identifier>GoldHeavy</identifier>
 			<substring>Gold Heavy</substring>
 		</binding>
+		<binding>
+			<identifier>GoldHeavy</identifier>
+			<substring>Golden plate</substring>
+		</binding>
 	<!-- Gold Material Bindings end -->
 	
 	<!-- Hide Material Bindings start -->
@@ -5980,6 +5984,26 @@
 			<identifier>Steel Heavy</identifier>
 			<substring>Damaged Ceremonial</substring>
 		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate cuirass</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate gloves</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate helmet</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate pauldrons</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate scarf</substring>
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
@@ -6183,6 +6207,10 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Plate Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Plate boots</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
