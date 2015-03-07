@@ -7488,6 +7488,13 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Skyrim Knights -->
+	<!-- Skyrim Sewers 4 -->
+		<exclusion>
+			<text>SSewers</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Skyrim Sewers 4 -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
