@@ -5576,6 +5576,38 @@
 			<identifier>Scaled</identifier>
 			<substring>Copper Scale Greaves</substring>
 		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Adept Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Apprentice Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Expert Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Grand Master Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Master Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Novice Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Rogue Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Trainee Cleric Chainmail</substring>
+		</binding>
 	<!-- Scaled Material Bindings end -->
 	
 	<!-- Silver Material Bindings start -->
