@@ -8442,6 +8442,28 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Lord Marshal and Steel Falcon -->
+	<!-- Common Clothes -->
+		<exclusion>
+			<text>002BeltedRobe</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>002CommonRobe</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>002QuiltedRobes</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>002TravelClothes</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Common Clothes -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

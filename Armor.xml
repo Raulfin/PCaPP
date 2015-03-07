@@ -4052,6 +4052,14 @@
 			<identifier>Iron</identifier>
 			<substring>Fodiiz's Armored Robes</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Nordic Iron Plates</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Robed Iron Armor</substring>
+		</binding>
 	<!-- Iron Material Bindings end -->
 	
 	<!-- Leather Material Bindings start -->
@@ -4807,6 +4815,34 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Leather Fancy</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Boiled Leather</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Leather Doublet</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mail and Jacket</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mail and Surcoat</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mail Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Oiled Mail and Surcoat</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Oiled Mail Hauberk</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
