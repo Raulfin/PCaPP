@@ -8464,6 +8464,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Common Clothes -->
+	<!-- B-D-Y-E-B -->
+		<exclusion>
+			<text>BDYEB</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- B-D-Y-E-B -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
