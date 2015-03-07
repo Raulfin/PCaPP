@@ -2991,6 +2991,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+		<!-- Skyrim Sewers 4 -->
+			<exclusion>
+				<text>SSewers</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Skyrim Sewers 4 -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4109,6 +4116,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Konahriks Accoutrements - Dragon Priest Armory -->
+		<!-- Skyrim Sewers 4 -->
+			<exclusion>
+				<text>SSewers</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Skyrim Sewers 4 -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
