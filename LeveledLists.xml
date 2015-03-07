@@ -5436,6 +5436,19 @@
 				<target>NAME</target>
 				<type>STARTSWITH</type>
 			</exclusion>
+		<!-- Avatar Of Grenth -->
+		<!-- Lord Marshal and Steel Falcon -->
+			<exclusion>
+				<text>Lord Marshal</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Steel Falcon</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Lord Marshal and Steel Falcon -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>

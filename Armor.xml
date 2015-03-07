@@ -2844,6 +2844,14 @@
 			<identifier>EbonyLight</identifier>
 			<substring>Black Archmage Ebony Helm (L)</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Lord Marshal</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Steel Falcon</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
