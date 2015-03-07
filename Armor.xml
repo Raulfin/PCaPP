@@ -6210,7 +6210,7 @@
 		</binding>
 		<binding>
 			<identifier>Steel PlateLight</identifier>
-			<substring>Plate boots</substring>
+			<substring>Plate boots</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
