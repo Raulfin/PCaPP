@@ -1691,6 +1691,10 @@
 			<identifier>Dwarven</identifier>
 			<substring>Dwemer Recurve Bow</substring>
 		</binding>
+		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>Blade of the Rourken</substring>
+		</binding>
 	<!-- Dwarven bindings end -->
 	
 	<!-- Ebony bindings start -->
@@ -2991,6 +2995,10 @@
 			<identifier>RSilverHigh</identifier>
 			<substring>Refined Noble Silver</substring>
 		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Mournbringer</substring>
+		</binding>
 	<!-- Silver bindings end -->
 	
 	<!-- Stalhrim bindings start -->
@@ -3612,6 +3620,14 @@
 		<binding>
 			<identifier>SteelHigh</identifier>
 			<substring>Simple Compound Bow</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Honorblade of Whiterun</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Shardslayer</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
@@ -5654,6 +5670,14 @@
 			<substring>The Azincourt (1H)</substring>
 			<identifier>Longsword</identifier>
 		</binding>
+		<binding>
+			<substring>Honorblade of Whiterun</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Shardslayer</substring>
+			<identifier>Longsword</identifier>
+		</binding>
 	<!-- Longsword bindings end -->
 
 	<!-- Mace bindings start -->
@@ -6552,6 +6576,14 @@
 		</binding>
 		<binding>
 			<substring>Gravedigger</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Mournbringer</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Blade of the Rourken</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->
