@@ -8471,6 +8471,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- B-D-Y-E-B -->
+	<!-- Medusa Drakul armors -->
+		<exclusion>
+			<text>Medusa</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Drakul</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Medusa Drakul armors -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
