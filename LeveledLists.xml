@@ -6958,6 +6958,7 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
+		<!-- Tembtra theif armor -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
