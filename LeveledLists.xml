@@ -1055,6 +1055,12 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Torch Arrow end-->
+		<!-- Tembtra Thief Armor -->
+			<exclusion>
+				<text>DX_MAC_TembtraThief04</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
