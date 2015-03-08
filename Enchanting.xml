@@ -8490,6 +8490,13 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Schwertleite Set -->
+	<!-- Tembtra Theif Armor -->
+		<exclusion>
+			<text>DX_MAC_Tembtra</text>
+			<target>STARTSWITH</target></target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Tembtra Theif Armor -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
