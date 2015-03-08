@@ -1061,6 +1061,7 @@
 				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
+		<!-- Tembtra Thief Armor -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
