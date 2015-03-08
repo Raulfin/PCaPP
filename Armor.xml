@@ -172,6 +172,10 @@
 			<substring>Perfect</substring>
 			<identifier>officer</identifier>
 		</binding>
+		<binding>
+			<substring>Reinforced</substring>
+			<identifier>reinforced</identifier>
+		</binding>
 	</armor_modifier_bindings>
 
 	<armor_modifiers> 
@@ -325,6 +329,12 @@
 			<factorArmor>1.1</factorArmor>
 			<factorValue>1.25</factorValue>
 			<factorWeight>1.1</factorWeight>
+		</armor_modifier>
+		<armor_modifier>
+			<identifier>reinforced</identifier>
+			<factorArmor>1.15</factorArmor>
+			<factorValue>1.1</factorValue>
+			<factorWeight>1.2</factorWeight>
 		</armor_modifier>
 	</armor_modifiers>
 
@@ -1507,6 +1517,14 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Eternal Magus</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Tembtra Thief Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Tembtra Thief Pouches</substring>
 		</binding>
 	<!-- Clothing Material Bindings end -->
 	
@@ -5611,6 +5629,46 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Trainee Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Striphold Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Armlets</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Hood</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Trousers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief High Heel Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Reinforced Trousers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Corset Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Tembtra Thief Reinforced Tunic</substring>
 		</binding>
 	<!-- Scaled Material Bindings end -->
 	
