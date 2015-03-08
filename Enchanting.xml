@@ -8493,10 +8493,17 @@
 	<!-- Tembtra Theif Armor -->
 		<exclusion>
 			<text>DX_MAC_Tembtra</text>
-			<target>STARTSWITH</target></target>
-			<type>CONTAINS</type>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Tembtra Theif Armor -->
+	<!-- Demon Hunter Armor v3? by Jojjo -->
+		<exclusion>
+			<text>GDDH</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Demon Hunter Armor v3? by Jojjo -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
