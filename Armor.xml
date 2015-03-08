@@ -2853,7 +2853,7 @@
 			<substring>Steel Falcon</substring>
 		</binding>
 		<binding>
-			identifier>Ebony</identifier>
+			<identifier>Ebony</identifier>
 			<substring>Bulwark of Azzinoth</substring>
 		</binding>
 	<!-- Ebony Material Bindings end -->
