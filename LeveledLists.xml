@@ -5566,6 +5566,13 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- Medusa Drakul armors -->
+		<!-- Schwertleite set -->
+			<exclusion>
+				<text>Schwertleite</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Schwertleite set -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
