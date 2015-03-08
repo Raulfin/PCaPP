@@ -2547,7 +2547,7 @@
 			<substring>Bloodplate</substring>
 		</binding>
 		<binding>
-			<identifier>Ebony</identifier>
+			<identifier>EbonyLight</identifier>
 			<substring>Demon Hunter</substring>
 		</binding>
 		<binding>
@@ -4817,10 +4817,6 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Black Archmage Armguards (L)</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
-			<substring>Demon Hunter</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
