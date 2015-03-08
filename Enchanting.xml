@@ -8483,6 +8483,13 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Medusa Drakul armors -->
+	<!-- Schwertleite Set -->
+		<exclusion>
+			<text>Schwertleite</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Schwertleite Set -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
