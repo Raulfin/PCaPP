@@ -1526,6 +1526,10 @@
 			<identifier>Clothing</identifier>
 			<substring>Tembtra Thief Pouches</substring>
 		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Demon Hunter Wig</substring>
+		</binding>
 	<!-- Clothing Material Bindings end -->
 	
 	<!-- Daedric Material Bindings start -->
