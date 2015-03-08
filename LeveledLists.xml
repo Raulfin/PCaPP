@@ -5547,6 +5547,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Common Clothes -->
+		<!-- B-D-Y-E-B -->
+			<exclusion>
+				<text>BDYEB</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- B-D-Y-E-B -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>

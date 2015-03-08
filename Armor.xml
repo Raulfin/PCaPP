@@ -2852,6 +2852,10 @@
 			<identifier>EbonyLight</identifier>
 			<substring>Steel Falcon</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Bulwark of Azzinoth</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -8536,5 +8540,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- More Interesting Loot -->
+	<!-- B-D-Y-E-B -->
+		<exclusion>
+			<text>EnchArmorStarkCShield</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- B-D-Y-E-B -->
 	</reforge_exclusions>
 </ns2:armor>
