@@ -1625,7 +1625,7 @@
 		<!-- Skyrim Sewers 4 -->
 		<!-- Tembtra Thief Armor -->
 			<exclusion>
-				<text>DX_MAC_Tembtra/text>
+				<text>DX_MAC_Tembtra</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
