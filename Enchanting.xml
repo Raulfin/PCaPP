@@ -8471,6 +8471,39 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- B-D-Y-E-B -->
+	<!-- Medusa Drakul armors -->
+		<exclusion>
+			<text>Medusa</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Drakul</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Medusa Drakul armors -->
+	<!-- Schwertleite Set -->
+		<exclusion>
+			<text>Schwertleite</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Schwertleite Set -->
+	<!-- Tembtra Theif Armor -->
+		<exclusion>
+			<text>DX_MAC_Tembtra</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Tembtra Theif Armor -->
+	<!-- Demon Hunter Armor v3? by Jojjo -->
+		<exclusion>
+			<text>GDDH</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Demon Hunter Armor v3? by Jojjo -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

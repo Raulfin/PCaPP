@@ -1055,6 +1055,13 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Torch Arrow end-->
+		<!-- Tembtra Thief Armor -->
+			<exclusion>
+				<text>DX_MAC_TembtraThief04</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Tembtra Thief Armor -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1623,6 +1630,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Skyrim Sewers 4 -->
+		<!-- Tembtra Thief Armor -->
+			<exclusion>
+				<text>DX_MAC_Tembtra</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Tembtra Thief Armor -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -5554,6 +5568,39 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- B-D-Y-E-B -->
+		<!-- Medusa Drakul armors -->
+			<exclusion>
+				<text>Medusa</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Drakul</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Medusa Drakul armors -->
+		<!-- Schwertleite set -->
+			<exclusion>
+				<text>Schwertleite</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Schwertleite set -->
+		<!-- Tembtra theif armor -->
+			<exclusion>
+				<text>DX_MAC_Tembtra</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Tembtra theif armor -->
+		<!-- Demon Hunter Armor v3? by Jojjo -->
+			<exclusion>
+				<text>GDDH</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Demon Hunter Armor v3? by Jojjo -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -6919,6 +6966,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Falskaar -->
+		<!-- Tembtra theif armor -->
+			<exclusion>
+				<text>DX_MAC_Tembtra</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Tembtra theif armor -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
