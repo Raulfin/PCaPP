@@ -20,22 +20,14 @@ Blocklist:
 	KWTelescope.esp
 	GypsyEyesCaravan.V.2.esp
 
-Exclusions:
-
 Fixes:
 	Corrected an improperly attached script property that prevented Studies: Apprentice Destruction from granting a spell. (WAFR)
 	Fist weapon damage scaling reduced by 50% for Khajiit. (WAFR)
 	Corrected Thalmor Glass binding (aMidianborn)
 
-Changes:
-
 Additions:
 	Added masquerade bindings for Dawnguard
-	Added masquerade keywords for Thalmor clothings. (CCF)
-
-Balancing:
-
-Renamed:
+	Added masquerade keywords for Thalmor clothings. (WAFR and CCF)
 
 Updated Patches:
 	CCF: Keyword adjustments.
