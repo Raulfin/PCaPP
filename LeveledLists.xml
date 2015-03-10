@@ -6987,6 +6987,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Jethead Armors -->
+		<!-- Lord's Mail -->
+			<exclusion>
+				<text>LM</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Lord's Mail -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
