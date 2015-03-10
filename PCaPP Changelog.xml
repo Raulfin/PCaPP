@@ -1,5 +1,29 @@
 <Versions>
 <Current>
+<v2.4.5>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v2.4.5>
+</Current>
+
+<Old>
 <v2.4.4>
 Now covers:
 	zzjay's wardrobe (53442)
@@ -37,9 +61,6 @@ New Patches:
 	BDYEB.esp (See changelog in Data/Readmes)
 	Unique Uniques.esp (Carried over some WAFR changes for consistency)
 </v2.4.4>
-</Current>
-
-<Old>
 <v2.4.3>
 Fixes:
 	Horker weapons and armor will now sort to Bonemold and not MISC. (GHWP)
