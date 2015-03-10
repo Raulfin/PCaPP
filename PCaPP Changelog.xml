@@ -13,14 +13,19 @@ Now covers:
 	Tembtra Thief Armor UNP - CBBE (59451)
 	Schwertleite (19665)
 	Demon Hunter Armor v3 (42169)
+	Jethead Armors (25636)
+	Silver Dragon Armor (18028)
 
 Blocklist:
+	KWTelescope.esp
+	GypsyEyesCaravan.V.2.esp
 
 Exclusions:
 
 Fixes:
 	Corrected an improperly attached script property that prevented Studies: Apprentice Destruction from granting a spell. (WAFR)
 	Fist weapon damage scaling reduced by 50% for Khajiit. (WAFR)
+	Corrected Thalmor Glass binding (aMidianborn)
 
 Changes:
 
