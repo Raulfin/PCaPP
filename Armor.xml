@@ -647,6 +647,10 @@
 			<identifier>Glass</identifier>
 			<substring>Thalmor Glass</substring>
 		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Thalmor Wings</substring>
+		</binding>
 	<!-- Racial material_Bindings end -->
 	
 	<!-- Faction material_Bindings start -->
