@@ -1998,6 +1998,10 @@
 			<identifier>Dragonplate</identifier>
 			<substring>Dragonbone Barbarian Heavy</substring>
 		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Silver Dragon</substring>
+		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
 	<!-- Dragonscale Material Bindings start -->
