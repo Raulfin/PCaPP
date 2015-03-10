@@ -8504,6 +8504,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Demon Hunter Armor v3? by Jojjo -->
+	<!-- Jethead Armors -->
+		<exclusion>
+			<text>JH</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Jethead Armors -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
