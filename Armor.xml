@@ -2894,6 +2894,10 @@
 			<identifier>Ebony</identifier>
 			<substring>Bulwark of Azzinoth</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Lord's Mail</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
