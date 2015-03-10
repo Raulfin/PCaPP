@@ -5601,6 +5601,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Demon Hunter Armor v3? by Jojjo -->
+		<!-- Jethead Armors -->
+			<exclusion>
+				<text>JH</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Jethead Armors -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -6973,6 +6980,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Tembtra theif armor -->
+		<!-- Jethead Armors -->
+			<exclusion>
+				<text>JH</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Jethead Armors -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
