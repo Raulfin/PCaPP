@@ -3214,6 +3214,10 @@
 			<identifier>ElvenHigh</identifier>
 			<substring>Electrum Elven</substring>
 		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Sword Master</substring>
+		</binding>
 	<!-- Elven Material Bindings end -->
 	
 	<!-- Falmer Material Bindings start -->
@@ -4881,6 +4885,10 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Oiled Mail Hauberk</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Witch Hunter</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
