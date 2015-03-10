@@ -643,6 +643,10 @@
 			<identifier>Steel Heavy</identifier>
 			<substring>Redguard Knight Heavy</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Thalmor Glass</substring>
+		</binding>
 	<!-- Racial material_Bindings end -->
 	
 	<!-- Faction material_Bindings start -->
@@ -1529,6 +1533,10 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Demon Hunter Wig</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Dragon Priest Robes</substring>
 		</binding>
 	<!-- Clothing Material Bindings end -->
 	
@@ -3513,10 +3521,6 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Shadow Fang</substring>
-		</binding>
-		<binding>
-			<identifier>Glass</identifier>
-			<substring>Thalmor</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
