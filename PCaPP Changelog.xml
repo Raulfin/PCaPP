@@ -19,6 +19,8 @@ Blocklist:
 Exclusions:
 
 Fixes:
+	Corrected an improperly attached script property that prevented Studies: Apprentice Destruction from granting a spell. (WAFR)
+	Fist weapon damage scaling reduced by 50% for Khajiit. (WAFR)
 
 Changes:
 
@@ -32,6 +34,7 @@ Renamed:
 
 Updated Patches:
 	CCF: Keyword adjustments.
+	WAFR
 
 New Patches:
 	BDYEB.esp (See changelog in Data/Readmes)
