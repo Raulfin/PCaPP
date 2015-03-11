@@ -8085,6 +8085,11 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
+		<exclusion>
+			<text>Lydia's</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
 	<!-- Dragon Priest Masks start -->
 		<exclusion>
 			<text>Vahlok</text>

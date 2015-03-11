@@ -7869,6 +7869,11 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
+		<exclusion>
+			<text>Lydia's</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
 	<!-- Artifacts -->
 		<exclusion>
 			<text>Dawnbreaker</text>
