@@ -8511,6 +8511,30 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Jethead Armors -->
+	<!-- Lord's Mail -->
+		<exclusion>
+			<text>LM</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Lord's Mail -->
+	<!-- Deadly Trio -->
+		<exclusion>
+			<text>xxxSwordMaster</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>xxxWitchHunter</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>xxxVampireHunter</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Deadly Trio -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
