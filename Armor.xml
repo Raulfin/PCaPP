@@ -2014,6 +2014,10 @@
 			<identifier>DragonplateHigh</identifier>
 			<substring>Silver Dragon</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Dragonsteel</substring>
+		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
 	<!-- Dragonscale Material Bindings start -->

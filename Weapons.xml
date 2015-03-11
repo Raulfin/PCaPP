@@ -2158,6 +2158,10 @@
 			<identifier>EbonyHigh</identifier>
 			<substring>Elder Compound Bow</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ebonsteel</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
