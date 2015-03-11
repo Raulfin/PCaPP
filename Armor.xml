@@ -8629,5 +8629,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- B-D-Y-E-B -->
+	<!-- Lord's Mail -->
+		<exclusion>
+			<text>LM_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Lord's Mail -->
 	</reforge_exclusions>
 </ns2:armor>
