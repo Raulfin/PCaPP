@@ -8511,6 +8511,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Jethead Armors -->
+	<!-- Grace Darklings Ranger Armor -->
+		<exclusion>
+			<text>GDRARanger</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Grace Darklings Ranger Armor -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
