@@ -4102,6 +4102,10 @@
 			<identifier>Iron</identifier>
 			<substring>Robed Iron Armor</substring>
 		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Ranger Shield</substring>
+		</binding>
 	<!-- Iron Material Bindings end -->
 	
 	<!-- Leather Material Bindings start -->
@@ -4881,6 +4885,26 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Oiled Mail Hauberk</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Draped Cowl</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Fur Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Boots</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
