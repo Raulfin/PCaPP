@@ -3339,6 +3339,7 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Spears By Soolie -->
+		
 		</distribution_exclusions_list_regular>
 
 		<distribution_exclusions_weapon_enchanted>
@@ -5719,6 +5720,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Everybodys Different -->
+		<!-- Grace Darklings Ranger Armor -->
+			<exclusion>
+				<text>GDRARanger</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Grace Darklings Ranger Armor -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
