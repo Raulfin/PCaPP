@@ -656,6 +656,10 @@
 	<!-- Faction material_Bindings start -->
 	<!-- Bindings allowed: LightFactionLow, LightFaction, LightFactionHigh, Tong, HeavyFactionLow, HeavyFaction, HeavyFactionHigh, HTong -->
 		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Rough Leather</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Nightingale</substring>
 		</binding>
@@ -4106,6 +4110,10 @@
 	
 	<!-- Leather Material Bindings start -->
 	<!-- Bindings allowed: PauldronL, Pauldron, LeatherLow, Leather, LeatherHigh, LeatherHeavy -->
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Hunter-Archer</substring><!-- Hunter Archer Armor -->
+		</binding>
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Dark Cowl</substring>
