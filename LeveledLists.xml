@@ -3012,6 +3012,58 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Skyrim Sewers 4 -->
+		<!-- Diverse Bows -->
+			<exclusion>
+				<text>Emeraldbow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>ArgonianBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>WhiteWoodBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>ForgedBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>WhiteElvenBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>DarkElvenBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>MageLightDaedricBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>ElvenDragonboneBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>DarkDragonboneBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>BloodCursedBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Diverse Bows -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4314,6 +4366,58 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Skyrim Knights -->
+		<!-- Diverse Bows -->
+			<exclusion>
+				<text>Emeraldbow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>ArgonianBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>WhiteWoodBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>ForgedBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>WhiteElvenBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>DarkElvenBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>MageLightDaedricBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>ElvenDragonboneBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>DarkDragonboneBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>BloodCursedBow</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Diverse Bows -->
 		</distribution_exclusions_list_enchanted>
 	</distribution_exclusions_weapon>
 
