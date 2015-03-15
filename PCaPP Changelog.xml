@@ -12,6 +12,7 @@ Blocklist:
 Exclusions:
 
 Fixes:
+	Fixed a typo in the PerMa Fixes that made the Apprentice Destruction perks "+15% damage for next destruction spell" only work on apprentice destruction spells.
 	LLs updated to better match WAFR (IW)
 	Immersive Armors will no longer tell CCOR that Immersive Weapons is installed.
 	My custom "Leather Strip to Leather" recipes had bad conditions that made them not properly upgrade to the "good" version. (WAFR)
