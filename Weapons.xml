@@ -3846,7 +3846,7 @@
 		</binding>
 		<binding>
 			<identifier>Strongwood</identifier>
-			<substring>Vindskjær</substring>
+			<substring>Vindskjær</substring> <!-- æ is not supported by UTF-8 encoding will need OEM 861 or OEM 865 -->
 		</binding>
 		<binding>
 			<identifier>Strongwood</identifier>
@@ -7027,7 +7027,7 @@
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
-			<substring>Vindskjær</substring>
+			<substring>Vindskjær</substring> <!-- æ is not supported by UTF-8 encoding will need OEM 861 or OEM 865 -->
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
