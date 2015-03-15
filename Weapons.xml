@@ -1032,6 +1032,10 @@
 			<substring>Wabba</substring>
 		</binding>
 		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Wabba Jaxe</substring>
+		</binding>
+		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Goldbrand</substring>
 		</binding>
@@ -1304,6 +1308,10 @@
 	<!-- Dragonscale bindings end -->
 	
 	<!-- Drauger bindings start -->
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Nordic Honed</substring>
+		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>Forged Bow</substring>
@@ -2421,6 +2429,14 @@
 	
 	<!-- Falmer/Forsworn bindings start -->
 		<binding>
+			<identifier>FalmerHigh</identifier>
+			<substring>Falmer Honed</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerHigh</identifier>
+			<substring>Honed Falmer</substring>
+		</binding>
+		<binding>
 			<identifier>Forsworn</identifier>
 			<substring>Goblin</substring>
 		</binding>
@@ -2947,6 +2963,22 @@
 	<!-- Orcish bindings end -->
 	
 	<!-- Silver bindings start -->
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Honed Silver</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Silver Honed</substring>
+		</binding>
+		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Honed Silver</substring>
+		</binding>
+		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Silver Honed</substring>
+		</binding>
 		<binding>
 			<identifier>Silver</identifier>
 			<substring>Silver Orcish</substring>
@@ -6217,14 +6249,6 @@
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
-			<substring>Wabba Jaxe</substring>
-			<identifier>Battleaxe</identifier>
-		</binding>
-		<binding>
-			<substring>Warchief's Might</substring>
-			<identifier>Battleaxe</identifier>
-		</binding>
-		<binding>
 			<substring>Scythe</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
@@ -6556,6 +6580,10 @@
 		</binding>
 		<binding>
 			<substring>Daedric Crescent</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Great Daedric Crescent</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>

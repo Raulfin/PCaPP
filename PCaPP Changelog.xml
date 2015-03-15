@@ -12,16 +12,57 @@ Blocklist:
 Exclusions:
 
 Fixes:
+	LLs updated to better match WAFR (IW)
+	Immersive Armors will no longer tell CCOR that Immersive Weapons is installed.
+	My custom "Leather Strip to Leather" recipes had bad conditions that made them not properly upgrade to the "good" version. (WAFR)
+		5 Strips makes 1 Leather while Smithing skill is below 50.
+		3 Strips makes 1 Leather while Smithing skill is 50 or more and the Material: Leather perk is taken.
+		25 Strips makes 5 Leather while Smithing skill is below 50.
+		20 Strips makes 5 Leather while Smithing skill is 50 or more and the Material: Leather perk is taken.
+		Values are based on the CCOR "Leather to Strips" recipes to use more strips than made by that recipe so there isn't an "infinite experience loop"
 
 Changes:
+	Lockpick recipe will require Inventor perk in Dexterity or the Wax Key perk in Lockpicking. (CCOR)
+	Will now be in the "Tools and Materials" section of the crafting menu and can be hidden with the ToolRecipe toggle (CCOR);
+	Crossbow Modification Kit (WAFR)
+	Lockpick recipe (WAFR) (May conflict with other mods that edit Lockpick record weight/keywords)
+	
+	Now require the "Material: Gold and Silver" perk;
+	Gold and Silver Ingots 
+	Jewellery recipes that didn't already. (CCOR)
+	Gem cutting recipes.
+	Silver Sword and Greatsword recipes. (CCOR)
+	Silver Gilded Crusader's Sword and Silver Crusader's Sword (CCOR)
+	
+	Now require the "Material: Leather" perk;
+	Bandoliers Bags and Pouches (CCOR)
 
 Additions:
+	Included CCOR script "CCO_SubCraftingArmor" in the unmerged WAFR patch so my "Leather Strip to Leather" recipes will act right. It is an unedited copy of the script, if you use any CCOR variant you won't get the script (since CCOR already added it)
+	Non-Iron, non-Fur, and non-Hide Breakdown recipes now require the Meltdown perk. (CCOR)
 
 Balancing:
 
 Renamed:
+	Horker Bow -> Horker Shortbow (GHWP)
+	Dukes Longsword -> Dukes Greatsword (IW)
+	Regent's Longsword -> Regent's Greatsword (IW)
+	Silver Honed Longsword -> Silver Honed Greatsword (IW)
+	Wabba Jaxe -> Wabba Jaxe Halberd (IW)
+	Warchief's Might -> Warchief's Halberd (IW)
 
 Updated Patches:
+	WAFR patches updated to WAFR 5.1
+	CCF patches updated to CCF 1.4
+	CCOR patches updated to CCOR 1.6
+	Immersive Armors (IA)
+	Immersive Weapons (IW)
+	Ghosu - Horker Weapon Pack (GHWP)
+
+Removed Patches:
+	Nock 2 Tip: Use patch by Force70 (63671)
+	Unique Uniques: Use patch by Old Nick (63111)
+	I forget the 3rd I plan to drop: Use patch by  ()
 
 New Patches:
 </v2.4.5>
