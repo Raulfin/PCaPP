@@ -18,7 +18,7 @@ Fixes:
 		5 Strips makes 1 Leather while Smithing skill is below 50.
 		4 Strips makes 1 Leather while Smithing skill is 50 or more and the Material: Leather perk is taken.
 		25 Strips makes 5 Leather while Smithing skill is below 50.
-		20 Strips makes 5 Leather while Smithing skill is 50 or more and the Material: Leather perk is taken.
+		21 Strips makes 5 Leather while Smithing skill is 50 or more and the Material: Leather perk is taken.
 		Values are based on the CCOR "Leather to Strips" recipes to use more strips than made by that recipe so there isn't an "infinite experience loop"
 
 Changes:
