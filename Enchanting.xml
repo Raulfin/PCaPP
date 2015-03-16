@@ -7495,6 +7495,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Skyrim Sewers 4 -->
+	<!--Knight of Thorns Armor and Spear of Thorns-->
+		<exclusion>
+			<text>ThornsSpear</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!--Knight of Thorns Armor and Spear of Thorns-->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8528,6 +8535,58 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Grace Darklings Ranger Armor -->
+	<!-- Lord's Mail -->
+		<exclusion>
+			<text>LM</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Lord's Mail -->
+	<!-- Deadly Trio -->
+		<exclusion>
+			<text>xxxSwordMaster</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>xxxWitchHunter</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>xxxVampireHunter</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Deadly Trio -->
+	<!-- Knight of Thorns armor and Spear of Thorns -->
+		<exclusion>
+			<text>ArmorThorns</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Knight of Thorns armor and Spear of Thorns -->
+	<!-- Mord Sith Cara Armor -->
+		<exclusion>
+			<text>xxxMordSith</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Mord Sith Cara Armor -->
+	<!-- Draconic Bloodline -->
+		<exclusion>
+			<text>DBL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Draconic Bloodline -->
+	<!-- Omegared99 - Gallery of Armor -->
+		<exclusion>
+			<text>099</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Omegared99 - Gallery of Armor -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

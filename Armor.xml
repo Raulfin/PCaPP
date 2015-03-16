@@ -2022,6 +2022,14 @@
 			<identifier>Dragonplate</identifier>
 			<substring>Dragonsteel</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Knight Of Thorns</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Knight Thorns</substring>
+		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
 	<!-- Dragonscale Material Bindings start -->
@@ -2437,6 +2445,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Last Hope</substring><!-- Same name is used for a Elven Shield -->
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Markarth Silverblood</substring>
 		</binding>
 	<!-- Dwarven Material Bindings end -->
 	
@@ -3217,6 +3229,10 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Electrum Elven</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Sword Master</substring>
 		</binding>
 	<!-- Elven Material Bindings end -->
 	
@@ -4914,6 +4930,22 @@
 			<identifier>Leather</identifier>
 			<substring>Ranger Boots</substring>
 		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Witch Hunter</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Vampire Hunter</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Mord Sith</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Savage Hunter</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
@@ -5718,6 +5750,10 @@
 			<identifier>ScaledHigh</identifier>
 			<substring>Tembtra Thief Reinforced Tunic</substring>
 		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Riften Nightwatch</substring>
+		</binding>
 	<!-- Scaled Material Bindings end -->
 	
 	<!-- Silver Material Bindings start -->
@@ -6486,6 +6522,14 @@
 			<identifier>Steel Plate</identifier>
 			<substring>Black Archmage Plate Armor (H)</substring>
 		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Solitude Infantry</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Windhelm Steel</substring>
+		</binding>
 	<!-- Steel Plate Material Bindings end -->
 	
 	<!-- Stalhrim Material Bindings start -->
@@ -6561,10 +6605,6 @@
 		<binding>
 			<identifier>Vampire</identifier>
 			<substring>Cowl of Midnight</substring>
-		</binding>
-		<binding>
-			<identifier>SteelLight</identifier>
-			<substring>Vampire Hunter</substring>
 		</binding>
 		<binding>
 			<identifier>Vampire</identifier>
@@ -8658,5 +8698,33 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- B-D-Y-E-B -->
+	<!-- Lord's Mail -->
+		<exclusion>
+			<text>LM_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Lord's Mail -->
+	<!-- Knight of Thorns Armor and Spear of Thorns -->
+		<exclusion>
+			<text>ArmorThorns</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Knight of Thorns Armor and Spear of Thorns -->
+	<!-- Mord Sith Cara Armor -->
+		<exclusion>
+			<text>xxxMordSith</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Mord Sith Cara Armor -->
+	<!-- Draconic Bloodline -->
+		<exclusion>
+			<text>DBL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Draconic Bloodline -->
 	</reforge_exclusions>
 </ns2:armor>
