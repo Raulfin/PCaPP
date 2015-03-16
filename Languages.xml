@@ -129,6 +129,10 @@
 			<outputString>Maul</outputString>
 		</stringBinding>
 		<stringBinding>
+			<identifier>Spear</identifier>
+			<outputString>Spear</outputString>
+		</stringBinding>
+		<stringBinding>
 			<identifier>Shortspear</identifier>
 			<outputString>Shortspear</outputString>
 		</stringBinding>
@@ -263,6 +267,10 @@
 		<stringBinding>
 			<identifier>Deals more bonus damage to undead, and is easier to handle than regular silver weapons.</identifier>
 			<outputString>Deals more bonus damage to undead, and is easier to handle than regular silver weapons.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explodes upon impact, dealing 2 points of poison damage per second for 20 seconds.</identifier>
+			<outputString>Explodes upon impact, dealing 2 points of poison damage per second for 20 seconds.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 10 points of poison damage per second for 3 seconds.</identifier>
