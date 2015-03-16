@@ -2446,6 +2446,10 @@
 			<identifier>Dwarven</identifier>
 			<substring>Last Hope</substring><!-- Same name is used for a Elven Shield -->
 		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Markarth Silverblood</substring>
+		</binding>
 	<!-- Dwarven Material Bindings end -->
 	
 	<!-- Ebony Material Bindings start -->
@@ -4938,6 +4942,10 @@
 			<identifier>LeatherHigh</identifier>
 			<substring>Mord Sith</substring>
 		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Savage Hunter</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
@@ -5742,6 +5750,10 @@
 			<identifier>ScaledHigh</identifier>
 			<substring>Tembtra Thief Reinforced Tunic</substring>
 		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Riften Nightwatch</substring>
+		</binding>
 	<!-- Scaled Material Bindings end -->
 	
 	<!-- Silver Material Bindings start -->
@@ -6509,6 +6521,14 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Black Archmage Plate Armor (H)</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Solitude Infantry</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Windhelm Steel</substring>
 		</binding>
 	<!-- Steel Plate Material Bindings end -->
 	
