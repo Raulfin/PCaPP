@@ -2022,6 +2022,14 @@
 			<identifier>Dragonplate</identifier>
 			<substring>Dragonsteel</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Knight Of Thorns</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Knight Thorns</substring>
+		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
 	<!-- Dragonscale Material Bindings start -->
@@ -3217,6 +3225,10 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Electrum Elven</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Sword Master</substring>
 		</binding>
 	<!-- Elven Material Bindings end -->
 	
@@ -4914,6 +4926,18 @@
 			<identifier>Leather</identifier>
 			<substring>Ranger Boots</substring>
 		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Witch Hunter</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Vampire Hunter</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Mord Sith</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
@@ -6561,10 +6585,6 @@
 		<binding>
 			<identifier>Vampire</identifier>
 			<substring>Cowl of Midnight</substring>
-		</binding>
-		<binding>
-			<identifier>SteelLight</identifier>
-			<substring>Vampire Hunter</substring>
 		</binding>
 		<binding>
 			<identifier>Vampire</identifier>
@@ -8658,5 +8678,33 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- B-D-Y-E-B -->
+	<!-- Lord's Mail -->
+		<exclusion>
+			<text>LM_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Lord's Mail -->
+	<!-- Knight of Thorns Armor and Spear of Thorns -->
+		<exclusion>
+			<text>ArmorThorns</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Knight of Thorns Armor and Spear of Thorns -->
+	<!-- Mord Sith Cara Armor -->
+		<exclusion>
+			<text>xxxMordSith</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Mord Sith Cara Armor -->
+	<!-- Draconic Bloodline -->
+		<exclusion>
+			<text>DBL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Draconic Bloodline -->
 	</reforge_exclusions>
 </ns2:armor>
