@@ -1,5 +1,36 @@
 <Versions>
 <Current>
+<v2.5.2>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+	DLC1ClothesVampireLordRoyalArmor and DLC1ClothesVampireLordArmor (Vampire Lord Skins) can no longer be enchanted or distributed.
+
+Fixes:
+
+Changes:
+	Shield of Solitude changed to Light to match WAFR.
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+	CCF
+
+New Patches:
+</v2.5.2>
+</Current>
+
+<Old>
+<v2.5.1>
+Updated Patches:
+	Quick fix for script version data error in CCOR patches.
+</v2.5.1>
 <v2.5>
 Now covers:
 	Rough Leather Armor (54672)
@@ -64,9 +95,6 @@ Removed Patches:
 	Nock 2 Tip: Use patch by Force70 (63671) Is being reworked to be a replacer.
 	Unique Uniques: Use patch by Old Nick (63111) It's a replacement esp also.
 </v2.5>
-</Current>
-
-<Old>
 <v2.4.4>
 Now covers:
 	zzjay's wardrobe (53442)
