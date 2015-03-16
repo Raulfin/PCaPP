@@ -8570,6 +8570,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Draconic Bloodline -->
+	<!-- Omegared99 - Gallery of Armor -->
+		<exclusion>
+			<text>099</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Omegared99 - Gallery of Armor -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
