@@ -2182,6 +2182,10 @@
 			<identifier>Ebony</identifier>
 			<substring>Ebonsteel</substring>
 		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Spear of Thorns</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
@@ -3066,6 +3070,10 @@
 		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Mournbringer</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Mithrodin</substring>
 		</binding>
 	<!-- Silver bindings end -->
 	
@@ -5227,6 +5235,10 @@
 			<substring>Uznahgaar</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Mithrodin I</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -6650,6 +6662,10 @@
 			<substring>Blade of the Rourken</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
+		<binding>
+			<substring>Mithrodin II</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
@@ -6732,6 +6748,10 @@
 		</binding>
 		<binding>
 			<identifier>Trident</identifier>
+			<substring>Partisan</substring>
+		</binding>
+		<binding>
+			<identifier>Spear Of Thorns</identifier>
 			<substring>Partisan</substring>
 		</binding>
 	<!-- Partisan bindings end -->
@@ -8457,6 +8477,13 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Skyrim Knights -->
+	<!-- Knight of Thorns Armor and Spear of Thorns -->
+		<exclusion>
+			<text>ThornsSpear</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Knight of Thorns Armor and Spear of Thorns -->
 	</reforge_exclusions>
 
 </ns2:weapons>
