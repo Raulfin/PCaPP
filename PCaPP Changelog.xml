@@ -1,18 +1,14 @@
 <Versions>
 <Current>
-<v2.4.5>
+<v2.5>
 Now covers:
 	Rough Leather Armor (54672)
 	Hunter Archer Armor (43649) English Translation (43873)
 	Diverse Bows (59224)
 	Grace Darklings Ranger Armor v3 (7184)
 
-Blocklist:
-
-Exclusions:
-
 Fixes:
-	Fixed a typo in the PerMa Fixes that made the Apprentice Destruction perks "+15% damage for next destruction spell" only work on apprentice destruction spells.
+	Fixed a typo I made in PerMa Fixes.esp that made the Apprentice Destruction perks "+15% damage for next destruction spell" only work on apprentice destruction spells.
 	LLs updated to better match WAFR (IW)
 	Immersive Armors will no longer tell CCOR that Immersive Weapons is installed.
 	My custom "Leather Strip to Leather" recipes had bad conditions that made them not properly upgrade to the "good" version. (WAFR)
@@ -43,6 +39,9 @@ Additions:
 	Non-Iron, non-Fur, and non-Hide Breakdown recipes now require the Meltdown perk. (CCOR)
 
 Balancing:
+	Lowered fArmorRatingMax (NPC armor multiplier variable) from *2.5 to *2
+	Reduced base damage and speed of Daggers by 0.5, should help resolve an issue where NPCs use daggers even with better, more appropriate, weapons in their inventory.
+	Reduced Tanto base speed by 0.02.
 
 Renamed:
 	Horker Bow -> Horker Shortbow (GHWP)
@@ -53,6 +52,7 @@ Renamed:
 	Warchief's Might -> Warchief's Halberd (IW)
 
 Updated Patches:
+	PerMa Fixes.esp
 	WAFR patches updated to WAFR 5.1
 	CCF patches updated to CCF 1.4
 	CCOR patches updated to CCOR 1.6
@@ -63,9 +63,7 @@ Updated Patches:
 Removed Patches:
 	Nock 2 Tip: Use patch by Force70 (63671) Is being reworked to be a replacer.
 	Unique Uniques: Use patch by Old Nick (63111) It's a replacement esp also.
-
-New Patches:
-</v2.4.5>
+</v2.5>
 </Current>
 
 <Old>

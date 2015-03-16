@@ -7535,7 +7535,7 @@
 			<baseWeaponType>TANTO</baseWeaponType>
 			<damageBase>7.5</damageBase>
 			<reachBase>0.65</reachBase>
-			<speedBase>1.22</speedBase>
+			<speedBase>1.2</speedBase>
 			<critDamageFactor>1.5</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>2</meltdownInput>
@@ -7547,10 +7547,10 @@
 		<weapon_type>
 			<identifier>Dagger</identifier>
 			<baseWeaponType>DAGGER</baseWeaponType>
-			<damageBase>8.0</damageBase>
+			<damageBase>7.5</damageBase>
 			<reachBase>0.6</reachBase>
-			<speedBase>1.2</speedBase>
-			<critDamageFactor>1.75</critDamageFactor>
+			<speedBase>1.15</speedBase>
+			<critDamageFactor>1.65</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>2</meltdownInput>
 			<bleedTier>TWO</bleedTier>
