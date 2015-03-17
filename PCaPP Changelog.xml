@@ -1,5 +1,29 @@
 <Versions>
 <Current>
+<v3>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v3>
+</Current>
+
+<Old>
 <v2.5.2>
 Now covers:
 	Draconic Bloodline (51401) v1.1
@@ -36,9 +60,6 @@ New Patches:
 	Nock2Tip.esp (updated by Force70)
 	Unique Uniques.esp
 </v2.5.2>
-</Current>
-
-<Old>
 <v2.5.1>
 Updated Patches:
 	Quick fix for script version data error in CCOR patches.
