@@ -10,13 +10,13 @@ Now covers:
 	Knight Of Thorns Armor And Spear of Thorns (18940)
 	aMidianborn Content Addon (24909) v1.9
 	
-
-Blocklist:
-
 Exclusions:
-	DLC1ClothesVampireLordRoyalArmor and DLC1ClothesVampireLordArmor (Vampire Lord Skins) can no longer be enchanted or distributed.
+	DLC1ClothesVampireLordRoyalArmor and DLC1ClothesVampireLordArmor (Vampire Lord form skins) can no longer be enchanted or distributed.
 
 Fixes:
+	Removed some extra keywords from PerMa added Silver weapons. (WAFR)
+	Added missing WAFR keywords to PerMa added SkyForge Steel weapons. (WAFR)
+	Corrected a typo on binding for Rikke's Longbow that prevented it from patching correctly.
 
 Changes:
 	Shield of Solitude changed to Light to match WAFR.
@@ -25,14 +25,12 @@ Additions:
 	"Spear" added to Languages.xml
 	"Explodes upon impact, dealing 2 points of poison damage per second for 20 seconds." added to Languages.xml
 
-Balancing:
-
-Renamed:
-
 Updated Patches:
 	CCF
+	WAFR
 
 New Patches:
+	Nock2Tip.esp (updated by Force70)
 </v2.5.2>
 </Current>
 
