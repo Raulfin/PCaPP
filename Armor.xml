@@ -696,7 +696,7 @@
 			<substring>Ancient Shrouded</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionLow</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Dawnguard</substring>
 		</binding>
 		<binding>
