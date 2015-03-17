@@ -8587,6 +8587,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Omegared99 - Gallery of Armor -->
+	<!-- aMidianBorn_ContentAddon -->
+		<exclusion>
+			<text>Blacksmith's Tribute Iron</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- aMidianBorn_ContentAddon -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

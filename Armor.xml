@@ -729,7 +729,27 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
-			<substring>Wolf</substring>
+			<substring>Wolf Armor</substring> <!-- Companions -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Wolf Boots</substring> <!-- Companions -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Wolf Gauntlets</substring> <!-- Companions -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Wolf Helmet</substring> <!-- Companions -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Wolf Shield</substring> <!-- Companions -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Companions</substring> <!-- Companions -->
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -998,6 +1018,10 @@
 		<binding>
 			<identifier>LightFactionS</identifier><!-- Imperial -->
 			<substring>Imperial Ward</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Imperial Outcast</substring>
 		</binding>
 	<!-- Civil War material_Bindings end -->
 	
@@ -2914,6 +2938,18 @@
 			<identifier>Ebony</identifier>
 			<substring>Bulwark of Azzinoth</substring>
 		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Ebony Gilded Mail</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ebony Heavy Mail</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Ebony Silver Mail</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -3407,7 +3443,7 @@
 			<substring>Black Wisteria</substring>
 		</binding>
 		<binding>
-			<identifier>GlassHigh</identifier>
+			<identifier>Glass</identifier>
 			<substring>Steel Glass</substring>
 		</binding>
 		<binding>
@@ -3789,6 +3825,10 @@
 		<binding>
 		<identifier>IronHigh</identifier>
 			<substring>The Forgemaster's Fingers</substring>
+		</binding>
+		<binding>
+		<identifier>IronHigh</identifier>
+			<substring>Blacksmith's Tribute Iron</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -7914,6 +7954,10 @@
 			<substringArmor>Legate</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Outcast</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
 	<!-- Imperial end -->
 	
 	<!-- Stormcloak start -->
@@ -8726,5 +8770,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Draconic Bloodline -->
+	<!-- aMidianBorn_ContentAddon -->
+		<exclusion>
+			<text>Blacksmith's Tribute Iron</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- aMidianBorn_ContentAddon -->
 	</reforge_exclusions>
 </ns2:armor>
