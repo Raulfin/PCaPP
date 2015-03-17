@@ -7047,11 +7047,11 @@
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
-			<substring>Vindskjær</substring> <!-- æ is not supported by UTF-8 encoding will need OEM 861 or OEM 865 -->
+			<substring>Vindskjær Bow</substring> <!-- æ is not supported by UTF-8 encoding will need OEM 861 or OEM 865 -->
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
-			<substring>Vindskjaer</substring>
+			<substring>Vindskjaer Bow</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
