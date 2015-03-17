@@ -17,6 +17,8 @@ Fixes:
 	Removed some extra keywords from PerMa added Silver weapons. (WAFR)
 	Added missing WAFR keywords to PerMa added SkyForge Steel weapons. (WAFR)
 	Corrected a typo on binding for Rikke's Longbow that prevented it from patching correctly.
+	Wind Destruction patch now has PerMa_Mage as a master, the Destruction tree would be messed up if PerMa_Mage was no used.
+	Changed Spell Tomes to Book/Tome type to have the correct icon in SkyUI (WDM)
 
 Changes:
 	Shield of Solitude changed to Light to match WAFR.
@@ -28,9 +30,11 @@ Additions:
 Updated Patches:
 	CCF
 	WAFR
+	Wind Destruction.esp (Changes in included Readme)
 
 New Patches:
 	Nock2Tip.esp (updated by Force70)
+	Unique Uniques.esp
 </v2.5.2>
 </Current>
 
