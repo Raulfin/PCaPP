@@ -7220,6 +7220,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Draconic Bloodline -->
+		<!-- Wind Destruction -->
+			<exclusion>
+				<text>WDM_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Wind Destruction -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
