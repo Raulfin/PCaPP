@@ -1341,27 +1341,27 @@
     <!--Command Daedra-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DrainResistance01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Leprosy01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DrainResistance02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Leprosy02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DrainResistance03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Leprosy03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DrainResistance04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Leprosy04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DrainResistance05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Leprosy05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DrainResistance06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Leprosy06</edidEnchantmentNew>
     </direct_enchantment_binding>
     <!--Drain Resistance-->
     <direct_enchantment_binding>
@@ -5517,32 +5517,32 @@
 		</enchantment_name_binding>
 	<!--Command Daedra-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance01</edidEnchantment>
-			<name>Vulnerability</name>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Leprosy01</edidEnchantment>
+			<name>Infection</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance02</edidEnchantment>
-			<name>Exposure</name>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Leprosy02</edidEnchantment>
+			<name>Contagion</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance03</edidEnchantment>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Leprosy03</edidEnchantment>
 			<name>Jinxes</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance04</edidEnchantment>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Leprosy04</edidEnchantment>
 			<name>Curses</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance05</edidEnchantment>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Leprosy05</edidEnchantment>
 			<name>Hexes</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DrainResistance06</edidEnchantment>
+			<edidEnchantment>SCC_Weapon_Des_Ench_Leprosy06</edidEnchantment>
 			<name>Malison</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>

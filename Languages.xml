@@ -1655,6 +1655,14 @@
 		<outputString>Vulnerability</outputString>
 	</stringBinding>
 	<stringBinding>
+		<identifier>Infection</identifier>
+		<outputString>Infection</outputString>
+	</stringBinding>
+	<stringBinding>
+		<identifier>Contagion</identifier>
+		<outputString>Contagion</outputString>
+	</stringBinding>
+	<stringBinding>
 		<identifier>Exposure</identifier>
 		<outputString>Exposure</outputString>
 	</stringBinding>
@@ -3915,11 +3923,11 @@
 			<outputString>der Hexenmeister</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Vulnerability</identifier>
+			<identifier>Vulnerability</identifier> <!-- replaced by Infection -->
 			<outputString>Anfälligkeit</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Exposure</identifier>
+			<identifier>Exposure</identifier><!-- Replaced by Contagion -->
 			<outputString>Aufdeckung</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -6247,11 +6255,11 @@
 			<outputString>el Hechicero</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Vulnerability</identifier>
+			<identifier>Vulnerability</identifier> <!-- replaced by Infection -->
 			<outputString>Vulnerabilidad</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Exposure</identifier>
+			<identifier>Exposure</identifier> <!-- Replaced by Contagion -->
 			<outputString>Exposición</outputString>
 		</stringBinding>
 		<stringBinding>
