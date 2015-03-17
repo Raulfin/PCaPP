@@ -3524,6 +3524,11 @@
 		<!-- Daedric Artifacts end -->
 		<!-- Quest Items start -->
 			<exclusion>
+				<text>Blade of the Wicked</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Dragon Priest Staff</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
