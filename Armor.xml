@@ -705,6 +705,10 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Dawnguard Full</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Dawnguard Heavy</substring>
 		</binding>
 		<binding>
