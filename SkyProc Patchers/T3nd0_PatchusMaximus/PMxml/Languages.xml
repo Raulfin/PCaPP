@@ -7815,360 +7815,352 @@
 			<outputString>Cape de soins</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Mending Cloak</identifier>
+			<outputString>Cape rapiécée</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Hearth Cloak</identifier>
+			<outputString>Cape du coeur</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Veloth's Aura</identifier>
+			<outputString>Aura de Veloth</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Nedic Blood</identifier>
+			<outputString>Sang nédique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Nedic Kin</identifier>
+			<outputString>Parenté nédique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Nedic Heritage</identifier>
+			<outputString>Héritage nédique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Nedic Rule</identifier>
+			<outputString>Règle nédique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Rising Magicka</identifier>
+			<outputString>Magie croissante</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Flourishing Magicka</identifier>
+			<outputString>Magie prospère</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Alteration</identifier>
+			<outputString>Altération</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Extended Alteration</identifier>
+			<outputString>Altération étendue</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Durable Alteration</identifier>
+			<outputString>Altération durable</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Prolonged Alteration</identifier>
+			<outputString>Altération prolongée</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Lasting Alteration</identifier>
+			<outputString>Altération permanente</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Perpetual Alteration</identifier>
+			<outputString>Altération perpétuelle</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Eternal Alteration</identifier>
+			<outputString>Altération éternelle</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Extended Conjuration</identifier>
+			<outputString>Conjuration étendue</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Durable Conjuration</identifier>
+			<outputString>Conjuration durable</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Prolonged Conjuration</identifier>
+			<outputString>Conjuration prolongée</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Lasting Conjuration</identifier>
+			<outputString>Conjuration permanente</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Perpetual Conjuration</identifier>
+			<outputString>Conjuration perpétuelle</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Eternal Conjuration</identifier>
+			<outputString>Conjuration éternelle</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Empowered Destruction</identifier>
+			<outputString>Destruction renforcée</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Potent Destruction</identifier>
+			<outputString>Destruction forte</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Potent Destruction</identifier>
+			<outputString>Destruction forte</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Amplified Destruction</identifier>
+			<outputString>Destruction amplifiée</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Mighty Destruction</identifier>
+			<outputString>Destruction puissante</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Magnificent Destruction</identifier>
+			<outputString>Destruction magnifique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Glorious Destruction</identifier>
+			<outputString>Destruction glorieuse</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Empowered Illusion</identifier>
+			<outputString>Illusion renforcée</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Potent Illusion</identifier>
+			<outputString>Illusion forte</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Amplified Illusion</identifier>
+			<outputString>Illusion amplifiée</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Mighty Illusion</identifier>
+			<outputString>Illusion puissante</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Magnificent Illusion</identifier>
+			<outputString>Illusion magnifique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Glorious Illusion</identifier>
+			<outputString>Illusion glorieuse</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Restoration</identifier>
+			<outputString>Restauration</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Empowered Restoration</identifier>
+			<outputString>Restauration renforcée</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Potent Restoration</identifier>
+			<outputString>Restauration forte</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Amplified Restoration</identifier>
+			<outputString>Restauration amplifiée</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Mighty Restoration</identifier>
+			<outputString>Restauration puissante</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Magnificent Restoration</identifier>
+			<outputString>Restauration magnifique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Glorious Restoration</identifier>
+			<outputString>Restauration glorieuse</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Shielding</identifier>
+			<outputString>Protection</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Residual Energy</identifier>
+			<outputString>Energie résiduelle</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Lingering Energy</identifier>
+			<outputString>Energie persistante</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Lasting Energy</identifier>
+			<outputString>Energie permanente</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Willpower</identifier>
+			<outputString>Volonté</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Gold</identifier>
+			<outputString>Or</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Wealth</identifier>
+			<outputString>Fortune</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Treasure</identifier>
+			<outputString>Trésor</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Riches</identifier>
+			<outputString>Richesses</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>the Ouroboros</identifier>
+			<outputString>l'Ouroboros</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>the Philosopher</identifier>
+			<outputString>le Philosophe</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Disasters</identifier>
+			<outputString>Désastres</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Calamities</identifier>
+			<outputString>Calamités</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Tremors</identifier>
+			<outputString>Secousses</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Temblors</identifier>
+			<outputString>Tremblements</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Trampling</identifier>
+			<outputString>Piétinement</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Pulverizing</identifier>
+			<outputString>Pulvérisation</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Earthquakes</identifier>
+			<outputString>Séismes</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Dynamic Entry</identifier>
+			<outputString>Entrée dynamique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Soul Charging</identifier>
+			<outputString>Chargement de l'âme</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Soul Baiting</identifier>
+			<outputString>Chasse de l'âme</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Soul Energy</identifier>
+			<outputString>Energie de l'âme</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Soul Attraction</identifier>
+			<outputString>Attraction de l'âme</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Soul Drawing</identifier>
+			<outputString>Dessin de l'âme</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Soul Lure</identifier>
+			<outputString>Attrait de l'âme</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Souls</identifier>
+			<outputString>Ames</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Spell Trapping</identifier>
+			<outputString>Piège à sort</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Spell Snagging</identifier>
+			<outputString>Accrochage de sort</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>the Spell Mire</identifier>
+			<outputString>La détresse de sort</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Spell Snaring</identifier>
+			<outputString>Piège de sort</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Spell Devouring</identifier>
+			<outputString>Dévorement de sort</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Spell Consumption</identifier>
+			<outputString>Consomation de sort</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Dark Power</identifier>
+			<outputString>Pouvoir obscur</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Magicka</identifier>
+			<outputString>Magie</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>the Explorer</identifier>
+			<outputString>l'Explorateur</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>the Traveler</identifier>
+			<outputString>le Voyageur</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Purity</identifier>
+			<outputString>Pureté</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>the Eidolon</identifier>
+			<outputString>l'Eidolon</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Growth</identifier>
+			<outputString>Croissance</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Pure Waters</identifier>
+			<outputString>Eaux Pures</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Mountaineering</identifier>
+			<outputString>Alpinisme</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>the Chantry</identifier>
+			<outputString>le Choeur</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>the Stormbringer</identifier>
+			<outputString>le Porteur d'orage</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>the Snow Prince</identifier>
+			<outputString>le Prince des neiges</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<identifier>Blink Step</identifier>
+			<outputString>Clignement</outputString>
 		</stringBinding>
 	</language>
 
