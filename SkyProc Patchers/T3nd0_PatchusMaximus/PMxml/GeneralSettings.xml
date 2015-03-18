@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ns2:generalSettings xmlns:ns2="PatchusMaximus.generalSettingsXML">
+	<outputLanguage>ENGLISH</outputLanguage>
+	<!-- If you don't use a module mark it as false here or PaMa will fail -->
+	<useMage>true</useMage>
+	<useThief>true</useThief>
+	<useWarrior>true</useWarrior>
+	<removeUnspecificStartingSpells>true</removeUnspecificStartingSpells>
+</ns2:generalSettings>
