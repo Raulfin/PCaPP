@@ -1964,7 +1964,7 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
-				<text>Dragon Priest Staff</text>
+				<text>Dragon Priest</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3519,7 +3519,7 @@
 		<!-- Daedric Artifacts end -->
 		<!-- Quest Items start -->
 			<exclusion>
-				<text>Dragon Priest Staff</text>
+				<text>Dragon Priest</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
