@@ -8757,6 +8757,21 @@
 				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
+			<exclusion>
+				<text>xMAILLPhantomComboFeintImpactSpell</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>xMAILLPhantomComboFeintStrengthEffectSpell</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>xMAILLScapegoatDrawAggroSpell</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
 		<!-- PerMa -->
 		<!-- Immersive Wenches start -->
 			<exclusion>

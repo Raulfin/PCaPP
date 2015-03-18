@@ -312,11 +312,6 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-			<exclusion>
-				<text>xMAILL</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
 		<!-- Apocalypse - The Spell Package end -->
 		<!-- Hearthfire multiple adoptions start -->
 			<exclusion>

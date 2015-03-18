@@ -6,10 +6,11 @@ Now covers:
 Blocklist:
 
 Exclusions:
-	"Concealing Cloak Conc" will no longer improperly have a scroll made. (PerMa)
+	Several secondary spells will no longer improperly have a scroll made. (PerMa)
 
 Fixes:
 	Corrected a typo that made light Dawnguard armors heavy.
+	Removed a faulty Book exclusion that prevented many Illusion spells from being added to merchant chests and loot tables.
 
 Changes:
 
