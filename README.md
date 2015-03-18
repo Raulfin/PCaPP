@@ -1,7 +1,7 @@
 PCaPP
 =====
 
-XML Repository for PerMa Compatibility and PaMa Patches (PCaPP).
+XML Repository for [http://www.nexusmods.com/skyrim/mods/59257](PerMa Compatibility and PaMa Patches (PCaPP)) and [http://www.nexusmods.com/skyrim/mods/59849](Perkus Maxamus).
 
 The XMLs are psudo-patches to create compatibility with Perkus Maxamus (PerMa) using PatchusMaxamus (PaMa), the Java patcher included with PerMa. They will adjust Armor Rating, Damage Rating, Weapon Type, create Enchanted variants based on the Enchanting.xml and Distribute items based on the LeveledLists.xml.
 
