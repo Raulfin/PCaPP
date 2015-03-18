@@ -3,6 +3,8 @@ PCaPP
 
 XML Repository for [PerMa Compatibility and PaMa Patches (PCaPP)](http://www.nexusmods.com/skyrim/mods/59257) and [Perkus Maxamus](http://www.nexusmods.com/skyrim/mods/59849).
 
+Mini Releases can be foundon the [Releases](https://github.com/Raulfin/PCaPP/releases) page. This will be updated nightly between updates on the PCaPP page.
+
 The XMLs are psudo-patches to create compatibility with Perkus Maxamus (PerMa) using PatchusMaxamus (PaMa), the Java patcher included with PerMa. They will adjust Armor Rating, Damage Rating, Weapon Type, create Enchanted variants based on the Enchanting.xml and Distribute items based on the LeveledLists.xml.
 
 Any item data added to the XML should match the original item data in the originating esp. If a mod adds a weapon that is Daedric material it should be listed as Daedric in the XML. Weapon Type should also be true to the esp, there is some room with Sword, Greatsword, Waraxe and Battleaxe as PerMa adds several weapon type based on these, a Sword can be either an Arming Sword, Broadsword or a Long Sword, in these situations the Type should match the visual.
