@@ -7,6 +7,7 @@ Blocklist:
 
 Exclusions:
 	Several secondary spells will no longer improperly have a scroll made. (PerMa)
+	Tightened up distribution exclusions for Dragon Priest weapons.
 
 Fixes:
 	Corrected masters on WAFR patch. USKP was added for a test and I forgot to remove it.
@@ -17,6 +18,7 @@ Changes:
 
 Additions:
 	Added Enchanting and Language updates for changes made to newest version of Wintermyst.
+	Added some more French to Languages.xml
 
 Balancing:
 
