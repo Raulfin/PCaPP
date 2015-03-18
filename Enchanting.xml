@@ -8751,6 +8751,13 @@
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
+		<!-- PerMa -->
+			<exclusion>
+				<text>xMAILLBuffConcealingCloakEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- PerMa -->
 		<!-- Immersive Wenches start -->
 			<exclusion>
 				<text>lalawenchspell</text>
