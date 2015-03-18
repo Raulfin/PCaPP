@@ -8772,6 +8772,11 @@
 				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
+			<exclusion>
+				<text>BlockerSpell</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
 		<!-- PerMa -->
 		<!-- Immersive Wenches start -->
 			<exclusion>

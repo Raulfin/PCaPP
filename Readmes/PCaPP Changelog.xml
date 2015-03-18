@@ -9,6 +9,7 @@ Exclusions:
 	Several secondary spells will no longer improperly have a scroll made. (PerMa)
 
 Fixes:
+	Corrected masters on WAFR patch. USKP was added for a test and I forgot to remove it.
 	Corrected a typo that made light Dawnguard armors heavy.
 	Removed a faulty Book exclusion that prevented many Illusion spells from being added to merchant chests and loot tables.
 
@@ -25,6 +26,7 @@ Renamed:
 
 Updated Patches:
 	Nock to Tip (N2T)
+	Per PaMa WAFR Patch.esp
 
 New Patches:
 </v3>
