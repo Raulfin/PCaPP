@@ -9,10 +9,8 @@ Any item data added to the XML should match the original item data in the origin
 
 Some mods will have an optional file to change armors from Heavy to Light or vice versa, for these the Main version should be the one covered, unless the item names are different. Such as "Cool Armor" and "Cool Armor (Light)" or "Cool Light Armor". 
 
-I am planning to add a few new armor and weapon materials, been saying I would for a while, but haven't yet.
+Don't worry about editing any of the material or type data, that all falls under balance, there is a topic on the PCaPP page to discuss [balance](http://www.nexusmods.com/skyrim/mods/59257/?tab=5&&navtag=http%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fcomments%2F%3Fmod_id%3D59257%26page%3D1%26sort%3DDESC%26pid%3D0%26thread_id%3D2340894&pUp=1).
 
-Don't worry about editing any of the material or type data, that all falls under balance, there is a topic on the PCaPP page to discuss balance.
+When adding code, please avoid using spaces, use tabs instead, tabs help keep the file size a lot smaller than spaces and keep everything more uniform.
 
-When adding code, please avoid using spaces, use tabs instead, tabs help keep the file size a lot smaller than spaces.
-
-The PCaPP [wiki](https://github.com/Raulfin/PCaPP/wiki) contains a lot of information on adding support for mods, give it a read.
+The [PCaPP Wiki](https://github.com/Raulfin/PCaPP/wiki) contains a lot of information on adding support for mods, give it a read if interested in helping add support for mods.
