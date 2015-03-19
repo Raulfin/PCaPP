@@ -3709,6 +3709,10 @@
 			<identifier>Steel</identifier>
 			<substring>The Baron</substring>
 		</binding>
+ 		<binding>
+			<identifier>Steel</identifier>
+			<substring>The Great Baron</substring>
+		</binding>
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>The Cluny</substring>
@@ -6716,6 +6720,10 @@
 		</binding>
 		<binding>
 			<substring>The Baron</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>The Great Baron</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
