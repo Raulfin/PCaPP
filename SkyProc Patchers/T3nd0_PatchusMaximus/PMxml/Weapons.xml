@@ -3705,6 +3705,38 @@
 			<identifier>SteelHigh</identifier>
 			<substring>Shardslayer</substring>
 		</binding>
+ 		<binding>
+			<identifier>Steel</identifier>
+			<substring>The Baron</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>The Cluny</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>The Vassal</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>The Sherwood</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>The Chieftain</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Blade of the Wicked</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Great Sherwood</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Great Cluny</substring>
+		</binding>
 	<!-- Steel bindings end -->
 
 	<!-- Skyforge bindings start -->
@@ -5239,6 +5271,22 @@
 			<substring>Mithrodin I</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>The Baron</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>The Cluny</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>The Vassal</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>The Sherwood</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -6666,6 +6714,26 @@
 			<substring>Mithrodin II</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
+		<binding>
+			<substring>The Baron</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Great Cluny</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Great Sherwood</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>The Chieftain</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Blade of the Wicked</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
@@ -7945,6 +8013,11 @@
 		</exclusion>
 		<exclusion>
 			<text>Vilkas's Sword</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+ 		<exclusion>
+			<text>Blade of the Wicked</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
