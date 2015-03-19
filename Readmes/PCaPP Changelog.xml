@@ -1,6 +1,6 @@
 <Versions>
 <Current>
-<v3>
+<v2.5.3>
 Now covers:
 	Albion Swords - The Chieftain (58257)
 	Albion Swords - The Cluny (58630)
@@ -8,35 +8,30 @@ Now covers:
 	Albion The Baron (56438) (Two-Hand version needs name changed to 'The Great Baron)
 	The Vassal (56785)
 
-Blocklist:
-
 Exclusions:
 	Several secondary spells will no longer improperly have a scroll made. (PerMa)
 	Tightened up distribution exclusions for Dragon Priest weapons.
 
 Fixes:
+	Corrected description of Vokun Circlet in CCOR patches
+	Corrected Invisible Vampire Lord form bug that got put into the WAFR patches also.
 	Corrected masters on WAFR patch. USKP was added for a test and I forgot to remove it.
 	Corrected a typo that made light Dawnguard armors heavy.
 	Removed a faulty Book exclusion that prevented many Illusion spells from being added to merchant chests and loot tables.
-
-Changes:
 
 Additions:
 	Added Enchanting and Language updates for changes made to newest version of Wintermyst.
 	Added some more French to Languages.xml
 
-Balancing:
-
 Renamed:
-	Vindskjær -> Vindskjaer PaMa doesn't speak Nordic. (N2T)
-	Forsworn Bow -> Forsworn Bow (Improved) (N2T)
+	'Vindskjær' -> 'Vindskjaer' PaMa can't read Nordic. (N2T)
+	'Forsworn Bow' -> 'Forsworn Bow (Improved)' (N2T)
 
 Updated Patches:
+	WAFR
+	CCF
 	Nock to Tip (N2T)
-	Per PaMa WAFR Patch.esp
-
-New Patches:
-</v3>
+</v2.5.3>
 </Current>
 
 <Old>
