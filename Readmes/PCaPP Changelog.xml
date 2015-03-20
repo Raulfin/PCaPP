@@ -1,5 +1,31 @@
 <Versions>
 <Current>
+<v3>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+	Corrected a broken keyword on Thalmor Cloths. (WAFR CCOR patch)
+	Corrected a broken Enchantment link on The Forgemasters Fingers. (WAFR CCOR patch)
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v3>
+</Current>
+
+<Old>
 <v2.5.3>
 Now covers:
 	Albion Swords - The Chieftain (58257)
@@ -32,9 +58,6 @@ Updated Patches:
 	CCF
 	Nock to Tip (N2T)
 </v2.5.3>
-</Current>
-
-<Old>
 <v2.5.2>
 Now covers:
 	Draconic Bloodline (51401) v1.1
