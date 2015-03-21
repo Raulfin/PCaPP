@@ -15,10 +15,12 @@ Fixes:
 
 Changes:
 	Changed material keyword on 'Colovian Composite Bow' and 'Colovian Dark Composite Bow' to sort them in the wood category. (IW)
+	Reduced Bound weapon costs and spells can now be randomly learned from Studies perks. (BA)
 
 Additions:
 	New binding for Ash Spawn weapons from Dragonborn.
 	Added clothing keyword all clothing items so they will sort to the Clothing category and be recognized as clothing. (IA)
+	Adjusted summoning spells and NPCs to use PerMa stuff. (SiC)
 
 Balancing:
 	Slightly reduced Mace and Spiked Mace damage. (13 -> 10/11)
@@ -28,8 +30,11 @@ Balancing:
 Renamed:
 
 Updated Patches:
+	Pre PaMa WAFR CCOR Patch (WAFR CCOR)
 	Immersive Weapons (IW)
 	Immersive Armors (IA)
+	Bound Armory (BA)
+	Skyrim Immersive Creatures (SiC)
 
 New Patches:
 </v3>
