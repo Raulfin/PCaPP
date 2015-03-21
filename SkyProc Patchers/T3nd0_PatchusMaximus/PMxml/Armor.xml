@@ -820,6 +820,10 @@
 			<substring>Stormcloak</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Stormcloak Officer</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Heroic Stormcloak</substring>
 		</binding>
