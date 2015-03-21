@@ -1838,6 +1838,10 @@
 			<identifier>DaedricLight</identifier>
 			<substring>Avatar Of Grenth</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Sovereign's Slayer</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -4993,6 +4997,10 @@
 		<binding>
 			<identifier>LeatherHigh</identifier>
 			<substring>Savage Hunter</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Thief</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
