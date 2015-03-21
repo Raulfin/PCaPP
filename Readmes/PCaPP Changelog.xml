@@ -20,7 +20,7 @@ Changes:
 Additions:
 	New binding for Ash Spawn weapons from Dragonborn.
 	Added clothing keyword all clothing items so they will sort to the Clothing category and be recognized as clothing. (IA)
-	Adjusted summoning spells and NPCs to use PerMa stuff. (SiC)
+	Adjusted summoning spells and summoned NPCs to use PerMa stuff. (SiC)
 
 Balancing:
 	Slightly reduced Mace and Spiked Mace damage. (13 -> 10/11)
