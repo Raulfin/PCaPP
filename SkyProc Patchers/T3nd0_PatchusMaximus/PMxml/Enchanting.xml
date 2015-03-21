@@ -7556,6 +7556,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!--Knight of Thorns Armor and Spear of Thorns-->
+	<!-- Sovereign's Slayer Armor -->
+		<exclusion>
+			<text>yuricaSovereign</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Sovereign's Slayer Armor -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8648,6 +8655,20 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- aMidianBorn_ContentAddon -->
+	<!-- Sovereign's Slayer -->
+		<exclusion>
+			<text>yuricaSovereign</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Sovereign's Slayer -->
+	<!-- True Thief Armor -->
+		<exclusion>
+			<text>xxxThief</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- True Thief Armor -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
