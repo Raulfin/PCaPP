@@ -5760,6 +5760,10 @@
 		</binding>
 		<binding>
 			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
 			<substring>Tembtra Thief Armlets</substring>
 		</binding>
 		<binding>
