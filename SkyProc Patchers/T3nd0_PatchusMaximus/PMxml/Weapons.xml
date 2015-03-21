@@ -66,7 +66,7 @@
 			<identifier>great</identifier>
 		</binding>
 		<binding>
-			<substring>Great</substring>
+			<substring>Great </substring>
 			<identifier>great</identifier>
 		</binding>
 		<binding>
@@ -1511,6 +1511,10 @@
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>Merethic</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Ash Spawn</substring>
 		</binding>
 	<!-- Drauger bindings end -->
 	
@@ -3167,7 +3171,7 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Ash</substring>
+			<substring>Ash</substring> <!-- a dagger added by something I can't find anymore -->
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -3881,8 +3885,8 @@
 			<substring>The Khajiit's</substring>
 		</binding>
 		<binding>
-			<identifier>Wood</identifier>
-			<substring>Ash</substring>
+			<identifier>Ashwood</identifier>
+			<substring>Ash Longbow</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
@@ -4620,7 +4624,7 @@
 	<!-- Wood Material Listings start -->
 		<weapon_material>
 			<damageModifier>0.8</damageModifier>
-			<identifier>Wood</identifier><!-- long bow -->
+			<identifier>Wood</identifier>
 			<materialMeltdown>WOOD</materialMeltdown>
 			<materialTemper>WOOD</materialTemper>
 			<reachModifier>0.0</reachModifier>
