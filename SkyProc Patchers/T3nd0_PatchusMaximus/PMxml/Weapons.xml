@@ -7461,7 +7461,7 @@
 		<weapon_type>
 			<identifier>Mace</identifier>
 			<baseWeaponType>MACE</baseWeaponType>
-			<damageBase>13.0</damageBase>
+			<damageBase>10.0</damageBase>
 			<reachBase>0.88</reachBase>
 			<speedBase>0.82</speedBase>
 			<critDamageFactor>0.3</critDamageFactor>
@@ -7475,7 +7475,7 @@
 		<weapon_type>
 			<identifier>Spiked Mace</identifier>
 			<baseWeaponType>MACE</baseWeaponType>
-			<damageBase>13.0</damageBase>
+			<damageBase>11.0</damageBase>
 			<reachBase>0.88</reachBase>
 			<speedBase>0.82</speedBase>
 			<critDamageFactor>0.4</critDamageFactor>
@@ -7489,7 +7489,7 @@
 		<weapon_type>
 			<identifier>Morning Star</identifier>
 			<baseWeaponType>MACE</baseWeaponType>
-			<damageBase>14.0</damageBase>
+			<damageBase>13.0</damageBase>
 			<reachBase>0.9</reachBase>
 			<speedBase>0.8</speedBase>
 			<critDamageFactor>0.5</critDamageFactor>
@@ -7503,7 +7503,7 @@
 		<weapon_type>
 			<identifier>Club</identifier>
 			<baseWeaponType>CLUB</baseWeaponType>
-			<damageBase>9.0</damageBase>
+			<damageBase>10.0</damageBase>
 			<reachBase>0.95</reachBase>
 			<speedBase>0.89</speedBase>
 			<critDamageFactor>0.3</critDamageFactor>
@@ -7517,7 +7517,7 @@
 		<weapon_type>
 			<identifier>Spiked Club</identifier>
 			<baseWeaponType>CLUB</baseWeaponType>
-			<damageBase>9.0</damageBase>
+			<damageBase>11.0</damageBase>
 			<reachBase>0.95</reachBase>
 			<speedBase>0.85</speedBase>
 			<critDamageFactor>0.4</critDamageFactor>
