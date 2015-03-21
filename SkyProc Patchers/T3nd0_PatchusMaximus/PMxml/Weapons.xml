@@ -2063,14 +2063,6 @@
 			<substring>Wolf Bow</substring>
 		</binding>
 		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ebony Morning Star</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ebony War Morning Star</substring>
-		</binding>
-		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Boarding Axe</substring>
 		</binding>
