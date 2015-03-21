@@ -1243,6 +1243,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Penobscot War Bow IV</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Sovereign's Slayer</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
