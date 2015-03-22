@@ -1243,6 +1243,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Penobscot War Bow IV</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Sovereign's Slayer</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -2057,14 +2061,6 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Wolf Bow</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ebony Morning Star</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ebony War Morning Star</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
@@ -6966,10 +6962,6 @@
 		</binding>
 	<!-- Warhammer bindings end -->
 	<!-- Great Morning Star bindings start -->
-		<binding>
-			<substring>Great Morning Star</substring>
-			<identifier>Great Morning Star</identifier>
-		</binding>
 		<binding>
 			<substring>War Morning Star</substring>
 			<identifier>Great Morning Star</identifier>
