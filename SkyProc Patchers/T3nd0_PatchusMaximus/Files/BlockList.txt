@@ -52,6 +52,7 @@ SoS - Civilization.esp
 Spectraverse - PerMa Compatibility Patch.esp
 Spectraverse - Only After Dragon Rising.esp
 SplashofRain.esp
+Throwing_Weapons_Redux.esp
 VioLens.esp
 WetandCold - Ashes.esp
 zzEstrus.esp
