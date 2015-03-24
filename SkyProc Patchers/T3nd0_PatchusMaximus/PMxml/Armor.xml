@@ -3300,6 +3300,10 @@
 		</binding>
 		<binding>
 			<identifier>Falmer</identifier>
+			<substring>Falmer Shaman</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer</identifier>
 			<substring>Shalk Chitin</substring>
 		</binding>
 		<binding>
