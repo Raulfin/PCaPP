@@ -3,12 +3,13 @@
 <v3>
 Now covers:
 	Sovereign Slayer (57363)
-	True Thief (?)
+	True Thief Armor (38409)
 
 Blocklist:
 	Throwing_Weapons_Redux.esp
 
 Exclusions:
+	Removed blanket distribution exclusions on Dawnguard and Dagonborn Books.
 
 Fixes:
 	Corrected a broken keyword on Thalmor Cloths. (WAFR CCOR patch)
@@ -23,7 +24,10 @@ Changes:
 Additions:
 	New binding for Ash Spawn weapons from Dragonborn.
 	Added clothing keyword all clothing items so they will sort to the Clothing category and be recognized as clothing. (IA)
-	Adjusted summoning spells and summoned NPCs to use PerMa stuff. (SiC)
+	Adjusted summoning spells and summoned NPCs to PerMa standards. (SiC)
+	Wyrmstooth patch to adjust spells and summoned creatures to PerMa standards and can be learned randomly when taking the Studies perks. (Wyrm)
+	Cure Poison and Cure Disease Spell Tomes will now teach the PerMa spell. (Wyrm)
+	
 
 Balancing:
 	Slightly reduced Mace and Spiked Mace damage. (13 -> 10/11)
@@ -41,6 +45,7 @@ Updated Patches:
 	Skyrim Immersive Creatures (SiC)
 
 New Patches:
+	Wyrmstooth - PerMa Patch.esp (Wyrm)
 </v3>
 </Current>
 
