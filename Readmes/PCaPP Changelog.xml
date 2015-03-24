@@ -1,5 +1,29 @@
 <Versions>
 <Current>
+<v3>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v3>
+</Current>
+
+<Old>
 <v2.6>
 Now covers:
 	Sovereign Slayer (57363)
@@ -27,7 +51,6 @@ Additions:
 	Adjusted summoning spells and summoned NPCs to PerMa standards. (SiC)
 	Wyrmstooth patch to adjust spells and summoned creatures to PerMa standards and can be learned randomly when taking the Studies perks. (Wyrm)
 	Cure Poison and Cure Disease Spell Tomes will now teach the PerMa spell. (Wyrm)
-	
 
 Balancing:
 	Slightly reduced Mace and Spiked Mace damage. (13 -> 10/11)
@@ -45,9 +68,6 @@ Updated Patches:
 New Patches:
 	Wyrmstooth - PerMa Patch.esp (Wyrm)
 </v2.6>
-</Current>
-
-<Old>
 <v2.5.3>
 Now covers:
 	Albion Swords - The Chieftain (58257)
