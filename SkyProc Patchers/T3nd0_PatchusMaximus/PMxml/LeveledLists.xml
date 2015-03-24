@@ -1117,22 +1117,47 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
-				<text>DLC1</text>
+				<text>Jiub's Opus</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Recipe</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Recipe</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Recipe</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
 			<exclusion>
-				<text>DLC2</text>
-				<target>EDID</target>
+				<text>Recipe</text>
+				<target>NAME</target>
 				<type>STARTSWITH</type>
 			</exclusion>
 			<exclusion>
-				<text>dlc2</text>
+				<text>Orders</text>
 				<target>EDID</target>
-				<type>STARTSWITH</type>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Book</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
 				<text>BYOH</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>HouseDecorate</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
