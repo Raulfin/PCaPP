@@ -1,6 +1,6 @@
 <Versions>
 <Current>
-<v3>
+<v2.6>
 Now covers:
 	Sovereign Slayer (57363)
 	True Thief Armor (38409)
@@ -9,7 +9,7 @@ Blocklist:
 	Throwing_Weapons_Redux.esp
 
 Exclusions:
-	Removed blanket distribution exclusions on Dawnguard and Dagonborn Books.
+	Removed overreaching distribution exclusions on Dawnguard and Dagonborn Books.
 
 Fixes:
 	Corrected a broken keyword on Thalmor Cloths. (WAFR CCOR patch)
@@ -35,8 +35,6 @@ Balancing:
 	Slightly reduced Morning Star damage. (14 -> 12)
 	Increased armor of 'Stormcloak Officer' to be better than normal 'Stormcloak'.
 
-Renamed:
-
 Updated Patches:
 	Pre PaMa WAFR CCOR Patch (WAFR CCOR)
 	Immersive Weapons (IW)
@@ -46,7 +44,7 @@ Updated Patches:
 
 New Patches:
 	Wyrmstooth - PerMa Patch.esp (Wyrm)
-</v3>
+</v2.6>
 </Current>
 
 <Old>
