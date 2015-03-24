@@ -3148,6 +3148,11 @@
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
+			<exclusion>
+				<text>Courier</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
 		<!-- Faction Exclusions end -->
 		<!-- Civil War Exclusions start -->
 			<exclusion>
@@ -4317,6 +4322,11 @@
 				<text>Skyforge</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Courier</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Some 'USE ALL' LLs that otherwise can overload an NPCs inventory -->
 			<exclusion>
