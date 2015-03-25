@@ -93,11 +93,6 @@
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
-				<text>SOT_</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-			<exclusion>
 				<text>Quest</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
@@ -219,6 +214,11 @@
 			</exclusion>
 		<!-- 3DNPC/Interesting NPCs end -->
 		<!-- Sands of Time start -->
+			<exclusion>
+				<text>SOT_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
 			<exclusion>
 				<text>ISS_ConjureSkeleton</text>
 				<target>EDID</target>

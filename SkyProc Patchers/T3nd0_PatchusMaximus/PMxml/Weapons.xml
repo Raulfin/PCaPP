@@ -1313,6 +1313,18 @@
 	
 	<!-- Drauger bindings start -->
 		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Ancient Nord</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Honed Ancient Nord</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Ancient Nord Honed</substring>
+		</binding>
+		<binding>
 			<identifier>Draugr Honed</identifier>
 			<substring>Nordic Honed</substring>
 		</binding>
@@ -2893,6 +2905,10 @@
 	<!-- None bindings end -->
 	
 	<!-- Nord bindings start -->
+		<binding>
+			<identifier>NordHigh</identifier>
+			<substring>Marshborn Blight</substring>
+		</binding>
 		<binding>
 			<identifier>NordHigh</identifier>
 			<substring>Shadow Bite</substring>

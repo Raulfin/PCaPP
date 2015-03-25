@@ -8,16 +8,22 @@ Blocklist:
 Exclusions:
 
 Fixes:
+	Added some keywords I had missed before. (SiC)
 
 Changes:
 
 Additions:
+	Added proper bindings for 'Ancient Nord' and 'Honed Ancient Nord'/'Ancient Nord Honed' weapons.
 
 Balancing:
 
 Renamed:
+	Orcish Bow (Legendry) -> Orcish Bow (Legendary) (N2T)
+	Vindskjær -> Vindskjaer (N2T) for real this time.
 
 Updated Patches:
+	Nock to Tip (N2T)
+	Immersive Creatures (SiC)
 
 New Patches:
 </v3>
