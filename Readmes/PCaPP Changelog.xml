@@ -9,6 +9,9 @@ Exclusions:
 
 Fixes:
 	Added some keywords I had missed before. (SiC)
+	Corrected a typo in Silver Ingot recipes that caused it to hide when the Gold and Silver perk was taken. (CCOR)
+	The Wyrmstooth patch was incorrectly credited to the wrong user, Velgath made it.
+	Sorted masters. (Wyrm)
 
 Changes:
 
@@ -24,6 +27,8 @@ Renamed:
 Updated Patches:
 	Nock to Tip (N2T)
 	Immersive Creatures (SiC)
+	Compelete Crafting Overhaul (CCOR)
+	Wyrmstooth patch (Wyrm)
 
 New Patches:
 </v3>
