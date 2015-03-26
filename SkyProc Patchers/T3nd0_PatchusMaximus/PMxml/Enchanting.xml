@@ -7563,6 +7563,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Sovereign's Slayer Armor -->
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<exclusion>
+			<text>LB_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8669,6 +8676,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- True Thief Armor -->
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<exclusion>
+			<text>LB_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
