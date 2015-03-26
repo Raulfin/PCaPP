@@ -2464,6 +2464,10 @@
 			<identifier>ForswornHigh</identifier>
 			<substring>Briarheart Geis</substring>
 		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Ancient Falmer</substring>
+		</binding>
 	<!-- Falmer/Forsworn bindings end -->
 
 	<!-- Giant Weapon bindings start -->
