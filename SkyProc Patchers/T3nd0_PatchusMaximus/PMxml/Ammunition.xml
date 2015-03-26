@@ -395,6 +395,14 @@
 			<gravityModifier>0.35</gravityModifier>
 			<multiply>true</multiply>
 		</ammunition_material>
+		<ammunition_material>
+			<identifier>Ancient Falmer</identifier>
+			<damageModifier>9</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>200</speedModifier>
+			<gravityModifier>0.16</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
 	<!-- Heavy materials -->
 		<ammunition_material>
 			<identifier>Iron</identifier>
@@ -953,6 +961,12 @@
 			<substring>Black Dragon</substring>
 		</binding>
 	<!-- Compound Bow Collection-Redux -->
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Ancient Falmer</substring>
+		</binding>
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
