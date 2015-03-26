@@ -3108,10 +3108,6 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
-			<substring>Jalamark</substring>
-		</binding>
-		<binding>
-			<identifier>Elven</identifier>
 			<substring>Spellsword</substring>
 		</binding>
 		<binding>
@@ -3317,6 +3313,10 @@
 		<binding>
 			<identifier>Falmer Hardened</identifier>
 			<substring>Falmer Circlet</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>SunBlessed</substring>
 		</binding>
 	<!-- Falmer Material Bindings end -->
 	
@@ -8801,5 +8801,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- aMidianBorn_ContentAddon -->
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<exclusion>
+			<text>SunBlessed</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	</reforge_exclusions>
 </ns2:armor>
