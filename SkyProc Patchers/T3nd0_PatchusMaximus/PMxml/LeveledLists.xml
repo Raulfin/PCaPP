@@ -3127,7 +3127,7 @@
 			</exclusion>
 		<!-- Sovereign Slayer Armor -->
 		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
-			exclusion>
+			<exclusion>
 				<text>LB_</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
