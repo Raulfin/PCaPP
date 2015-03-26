@@ -3312,6 +3312,14 @@
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
+		<!-- Some 'USE ALL' LLs that otherwise can overload an NPCs inventory -->
+		<!-- Some LLs that can get overloaded by PaMa's Similarity system-->
+			<exclusion>
+				<text>LItemWeaponDaggerTown</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Some LLs that can get overloaded by PaMa's Similarity system-->
 		<!-- Skyrim Immersive Creatures start -->
 			<exclusion>
 				<text>_00</text>
