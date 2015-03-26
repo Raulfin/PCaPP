@@ -7565,7 +7565,12 @@
 	<!-- Sovereign's Slayer Armor -->
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 		<exclusion>
-			<text>LB_</text>
+			<text>LB_Steel</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>LB_Orcish</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
