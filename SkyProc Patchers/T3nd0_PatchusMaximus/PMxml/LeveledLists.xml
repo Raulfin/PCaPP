@@ -1064,6 +1064,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Draconic Bloodline -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1671,6 +1678,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Draconic Bloodline -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -3112,6 +3126,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Sovereign Slayer Armor -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4261,6 +4282,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Skyrim Sewers 4 -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -5879,6 +5907,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- True Thief Armor -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -7296,6 +7331,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Wind Destruction -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
