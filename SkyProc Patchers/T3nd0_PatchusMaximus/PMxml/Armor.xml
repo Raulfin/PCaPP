@@ -620,6 +620,10 @@
 			<substring>Breton</substring>
 		</binding>
 		<binding>
+			<identifier>Leather</identifier>
+			<substring>Breton Knight</substring>
+		</binding>
+		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Orc</substring>
 		</binding>

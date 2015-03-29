@@ -822,6 +822,10 @@
 			<identifier>Elven</identifier>
 			<substring>Breton</substring>
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Breton Knight</substring>
+		</binding>
 	<!-- Racial material_Bindings end -->
 
 	<!-- Advanced bindings start -->
@@ -5333,6 +5337,10 @@
 		</binding>
 		<binding>
 			<substring>WinterStorm</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Breton Knight Sword</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 	<!-- Arming Sword bindings end -->
