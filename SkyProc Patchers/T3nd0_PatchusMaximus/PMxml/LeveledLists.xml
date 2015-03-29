@@ -1071,6 +1071,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- The Hanging Gardens -->
+			<exclusion>
+				<text>Bhabhilon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>_bh</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- The Hanging Gardens -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1685,6 +1697,28 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- The Hanging Gardens -->
+			<exclusion>
+				<text>_bh</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>BhaBhilon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Bhabhilon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>bhabhilon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- The Hanging Gardens -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -3165,6 +3199,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Conan Hyborian Age -->
+		<!-- The Hanging Gardens -->
+			<exclusion>
+				<text>_bh</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- The Hanging Gardens -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4353,6 +4394,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Conan Hyborian Age -->
+		<!-- The Hanging Gardens -->
+			<exclusion>
+				<text>_bh</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- The Hanging Gardens -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -5978,6 +6026,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- The Hanging Gardens -->
+			<exclusion>
+				<text>Bhabhilon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>_bh</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- The Hanging Gardens -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
