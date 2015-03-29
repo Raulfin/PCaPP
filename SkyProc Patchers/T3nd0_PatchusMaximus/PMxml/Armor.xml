@@ -8808,5 +8808,17 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+	<!-- The Hanging Gardens -->
+		<exclusion>
+			<text>Bhabhilon</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>_bh</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- The Hanging Gardens -->
 	</reforge_exclusions>
 </ns2:armor>
