@@ -8679,19 +8679,9 @@
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	<!-- The Hanging Gardens -->
 		<exclusion>
-			<text>_tw_nullsprocket_bh</text>
-			<target>NAME</target>
-			<type>EQUALS</type>
-		</exclusion>
-		<exclusion>
-			<text>_tw_physicsstaff_bh</text>
-			<target>NAME</target>
-			<type>EQUALS</type>
-		</exclusion>
-		<exclusion>
-			<text>Seadog Cutlass</text>
-			<target>NAME</target>
-			<type>EQUALS</type>
+			<text>_bh</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
 		</exclusion>
 	<!-- The Hanging Gardens -->
 	</reforge_exclusions>
