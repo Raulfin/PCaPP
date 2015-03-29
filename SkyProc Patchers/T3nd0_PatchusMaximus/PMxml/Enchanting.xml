@@ -7575,6 +7575,38 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+	<!-- Conan Hyborian Age -->
+		<exclusion>
+			<text>PROM_Atlantean</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Cimmerian</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Hyborian</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Rexor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Thorgrim</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Thulsa</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Conan Hyborian Age -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
