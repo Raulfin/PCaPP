@@ -26,6 +26,7 @@ HorseCloakCH.esp
 HorseCloak.esp
 iNeed.esp
 Ish's Respec Mod.esp
+ItBeatsForHer.esp
 JaxonzDiagnostics.esp
 kuerteeEatAndSleep.esp
 KWTelescope.esp
