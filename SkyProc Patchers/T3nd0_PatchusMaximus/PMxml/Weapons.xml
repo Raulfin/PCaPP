@@ -1739,6 +1739,10 @@
 			<identifier>DwarvenHigh</identifier>
 			<substring>Blade of the Rourken</substring>
 		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Staff of Automaton Mastery</substring>
+		</binding>
 	<!-- Dwarven bindings end -->
 	
 	<!-- Ebony bindings start -->
@@ -2645,6 +2649,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Dragon Skin Compound Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Seadog Cutlass</substring>
 		</binding>
 	<!-- Glass bindings end -->
 	
@@ -7032,6 +7040,10 @@
 			<substring>Heavy spiked mace</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
+		<binding>
+			<substring>Staff of Automaton Mastery</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
 	<!-- Warhammer bindings end -->
 	<!-- Great Morning Star bindings start -->
 		<binding>
@@ -8673,6 +8685,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+	<!-- The Hanging Gardens -->
+		<exclusion>
+			<text>_bh</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- The Hanging Gardens -->
 	</reforge_exclusions>
 
 </ns2:weapons>
