@@ -1,6 +1,6 @@
 <Versions>
 <Current>
-<v3>
+<v2.6.1>
 Now covers:
 	The Loners Sword (16751) The two-hand version needs to be renamed 'Loner's Greatsword'
 	Axe of Hrothmund (31116)
@@ -16,17 +16,16 @@ Exclusions:
 	Enchanting/Distribution exclusions on Conan Hyborian age weapons previously missed.
 
 Fixes:
+	Corrected a flag that prevented Iron Arrows from being picked up in the world. (N2T)
 	Added some keywords I had missed before. (SiC)
 	Corrected a typo in Silver Ingot recipes that caused it to hide when the Gold and Silver perk was taken. (CCOR)
 	The Wyrmstooth patch was incorrectly credited to the wrong user, Velgath made it.
 	Sorted masters. (Wyrm)
 
-Changes:
-
 Additions:
+	Added a new Disparity version of the Wind Destruction patch.
+	Added new patches for aMidianborn Content Addon to correct a few enchanted armors names. (aMidCA)
 	Added proper bindings for 'Ancient Nord' and 'Honed Ancient Nord'/'Ancient Nord Honed' weapons.
-
-Balancing:
 
 Renamed:
 	Orcish Bow (Legendry) -> Orcish Bow (Legendary) (N2T)
@@ -39,7 +38,9 @@ Updated Patches:
 	Wyrmstooth patch (Wyrm)
 
 New Patches:
-</v3>
+	Wind Destruction.esp (Disparity version)
+	aMidianborn Content Addon Patches (aMid CA)
+</v2.6.1>
 </Current>
 
 <Old>
