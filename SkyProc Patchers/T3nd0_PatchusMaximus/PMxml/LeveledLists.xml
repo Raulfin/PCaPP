@@ -1083,6 +1083,18 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- The Hanging Gardens -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AbShieldMassCastBodyFXDUPLICATE001</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Moon and Star -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1719,6 +1731,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- The Hanging Gardens -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moon and Star -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -3213,6 +3232,13 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- The Hanging Gardens -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moon and Star -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4408,6 +4434,13 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- The Hanging Gardens -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moon and Star -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -6052,6 +6085,13 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- The Hanging Gardens -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moon and Star -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -7476,6 +7516,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moon and Star -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

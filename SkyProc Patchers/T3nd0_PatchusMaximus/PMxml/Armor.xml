@@ -2966,6 +2966,10 @@
 			<identifier>EbonyLight</identifier>
 			<substring>Ebony Silver Mail</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Nerevarine</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -5361,6 +5365,10 @@
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Shield of Doom</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Bandit Leader's Helm</substring>
 		</binding>
 	<!-- Orcish Material Bindings end -->
 	
@@ -8824,5 +8832,12 @@
 			<type>CONTAINS</type>
 			</exclusion>
 	<!-- The Hanging Gardens -->
+	<!-- Moon and Star -->
+		<exclusion>
+			<text>MAS</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Moon and Star -->
 	</reforge_exclusions>
 </ns2:armor>

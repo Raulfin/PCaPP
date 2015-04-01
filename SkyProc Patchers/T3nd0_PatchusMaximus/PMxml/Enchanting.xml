@@ -7614,6 +7614,13 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- The Hanging Gardens -->
+	<!-- Moon and Star -->
+		<exclusion>
+			<text>MAS</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type></type>
+		</exclusion>
+	<!-- Moon and Star -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8739,6 +8746,13 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- The Hanging Gardens -->
+	<!-- Moon and Star -->
+		<exclusion>
+			<text>MAS</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Moon and Star -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
