@@ -1,10 +1,37 @@
 <Versions>
 <Current>
+<v3>
+Now covers:
+	Moon and Star (52397)
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+	Sabre speed increased from 0.85 to 1.05 reach increased from 0.85 to 0.9.
+	Scimitar reach increased from 0.95 to 1.0.
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v3>
+</Current>
+
+<Old>
 <v2.6.1>
 Now covers:
 	The Loners Sword (16751) The two-hand version needs to be renamed 'Loner's Greatsword'
 	Axe of Hrothmund (31116)
-	Added Much Ado about Snow Elves - A Tragedy - Act I (16455)
+	Much Ado about Snow Elves - A Tragedy - Act I (16455)
 	Breton Knight (59544)
 	The Hanging Gardens - a Quest(30279)
 	Seadog Pirate Armor (20911)
@@ -41,9 +68,6 @@ New Patches:
 	Wind Destruction.esp (Disparity version)
 	aMidianborn Content Addon Patches (aMid CA)
 </v2.6.1>
-</Current>
-
-<Old>
 <v2.6>
 Now covers:
 	Sovereign Slayer (57363)
