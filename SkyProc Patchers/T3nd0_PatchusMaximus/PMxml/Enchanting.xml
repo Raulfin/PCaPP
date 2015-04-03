@@ -8753,6 +8753,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Moon and Star -->
+	<!-- Osare Culort Outfit - UNP -->
+		<exclusion>
+			<text>Culort</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Osare Culort Outfit - UNP -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
