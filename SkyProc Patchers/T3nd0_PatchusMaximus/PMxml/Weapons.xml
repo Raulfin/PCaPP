@@ -3331,10 +3331,6 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Champion</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
 			<substring>Bronze</substring>
 		</binding>
 		<binding>
