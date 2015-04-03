@@ -1846,6 +1846,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Sovereign's Slayer</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>H8</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -2285,6 +2289,10 @@
 		<binding>
 			<identifier>Dragonscale_One</identifier>
 			<substring>Dragonbone Barbarian - Left</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>L6</substring>
 		</binding>
 	<!-- Dragonscale Material Bindings end -->
 	
@@ -3834,6 +3842,10 @@
 			<identifier>Hide</identifier>
 			<substring>Pitfight</substring>
 		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>L1</substring>
+		</binding>
 	<!-- Hide Material Bindings end -->
 
 	<!-- Horker Material Bindings start -->
@@ -4189,6 +4201,10 @@
 		<binding>
 			<identifier>IronLight</identifier>
 			<substring>Ranger Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>H1</substring>
 		</binding>
 	<!-- Iron Material Bindings end -->
 	
@@ -5370,6 +5386,10 @@
 			<identifier>Orcish</identifier>
 			<substring>Bandit Leader's Helm</substring>
 		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>H5</substring>
+		</binding>
 	<!-- Orcish Material Bindings end -->
 	
 	<!-- Scaled Material Bindings start -->
@@ -5829,6 +5849,10 @@
 		<binding>
 			<identifier>ScaledHigh</identifier>
 			<substring>Riften Nightwatch</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>L4</substring>
 		</binding>
 	<!-- Scaled Material Bindings end -->
 	
