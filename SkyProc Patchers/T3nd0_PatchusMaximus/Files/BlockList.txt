@@ -3,6 +3,7 @@
 //One per line
 Animated Dragon Wings.esp
 Chesko_WearableLantern.esp
+ColdharbourDaedra.esp
 CollegeDaysWinterhold.esp
 Combat Evolved.esp
 Convenient Horses.esp
