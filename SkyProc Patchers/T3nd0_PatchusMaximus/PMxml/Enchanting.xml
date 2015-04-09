@@ -7618,7 +7618,7 @@
 		<exclusion>
 			<text>MAS</text>
 			<target>EDID</target>
-			<type>STARTSWITH</type></type>
+			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Moon and Star -->
 	</enchantment_weapon_exclusions>
