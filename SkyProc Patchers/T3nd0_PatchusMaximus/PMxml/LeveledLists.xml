@@ -1102,6 +1102,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Osare Culort Outfit - UNP -->
+		<!-- Sofia - The Funny Fully Voiced Follower -->
+			<exclusion>
+				<text>Sofia</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Sofia - The Funny Fully Voiced Follower -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -3246,6 +3253,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Moon and Star -->
+		<!-- Companion Valfar -->
+			<exclusion>
+				<text>OS_CV</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Companion Valfar -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -6106,6 +6120,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Osare Culort Outfit - UNP -->
+		<!-- Companion Valfar -->
+			<exclusion>
+				<text>OS_CV</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Companion Valfar -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
