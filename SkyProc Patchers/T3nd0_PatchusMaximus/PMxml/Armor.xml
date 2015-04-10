@@ -4210,10 +4210,6 @@
 			<identifier>Iron</identifier>
 			<substring>H1</substring>
 		</binding>
-		<binding>
-			<identifier>IronHigh</identifier>
-			<substring>Valfar's Helmet</substring>
-		</binding>
 	<!-- Iron Material Bindings end -->
 	
 	<!-- Leather Material Bindings start -->
