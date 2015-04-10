@@ -2848,6 +2848,10 @@
 			<identifier>Iron</identifier>
 			<substring>Wood Compound Bow</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Valfar's Battleaxe</substring>
+		</binding>
 	<!-- Iron bindings end -->
 	
 	<!-- Iron/Wood Clutter bindings start -->
@@ -8719,6 +8723,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Moon and Star -->
+	<!-- Companion Valfar -->
+		<exclusion>
+			<text>OS_CV</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Companion Valfar -->
 	</reforge_exclusions>
 
 </ns2:weapons>
