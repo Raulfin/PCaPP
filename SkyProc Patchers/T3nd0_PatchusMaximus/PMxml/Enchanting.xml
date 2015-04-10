@@ -7621,6 +7621,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Moon and Star -->
+	<!-- Companion Valfar -->
+		<exclusion>
+			<text>OS_CV</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Companion Valfar -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8760,6 +8767,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Osare Culort Outfit - UNP -->
+	<!-- Companion Valfar -->
+		<exclusion>
+			<text>OS_CV</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Companion Valfar -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
