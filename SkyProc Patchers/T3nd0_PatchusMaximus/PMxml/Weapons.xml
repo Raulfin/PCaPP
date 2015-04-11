@@ -7072,6 +7072,10 @@
 			<substring>Dorana's Hammer</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
+		<binding>
+			<substring>Sulfuras</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
 	<!-- Warhammer bindings end -->
 	<!-- Great Morning Star bindings start -->
 		<binding>
