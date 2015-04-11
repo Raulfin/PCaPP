@@ -1752,6 +1752,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Moon and Star -->
+		<!-- Sulfuras - The Reclaimed Hand -->
+			<exclusion>
+				<text>Sulfuras</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sulfuras - The Reclaimed Hand -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -4462,6 +4469,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Moon and Star -->
+		<!-- Sulfuras - The Reclaimed Hand -->
+			<exclusion>
+				<text>Sulfuras</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sulfuras - The Reclaimed Hand -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
