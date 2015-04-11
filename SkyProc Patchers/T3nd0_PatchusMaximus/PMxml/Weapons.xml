@@ -1255,6 +1255,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Black Hands Dagger</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Sulfuras</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -8730,6 +8734,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Companion Valfar -->
+	<!-- Sulfuras - The Reclaimed Hand -->
+		<exclusion>
+			<text>Sulfuras</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Sulfuras - The Reclaimed Hand -->
 	</reforge_exclusions>
 
 </ns2:weapons>
