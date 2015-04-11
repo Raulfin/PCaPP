@@ -2074,6 +2074,10 @@
 			<identifier>Dragonplate</identifier>
 			<substring>Knight Thorns</substring>
 		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Valfar's Armor</substring>
+		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
 	<!-- Dragonscale Material Bindings start -->
@@ -8863,5 +8867,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Moon and Star -->
+	<!-- Companion Valfar -->
+		<exclusion>
+			<text>OS_CV</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Companion Valfar -->
 	</reforge_exclusions>
 </ns2:armor>
