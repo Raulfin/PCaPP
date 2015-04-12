@@ -7675,6 +7675,13 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- Armor Of Intrigue -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
