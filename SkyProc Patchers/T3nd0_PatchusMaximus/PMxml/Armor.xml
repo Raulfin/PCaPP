@@ -6342,6 +6342,10 @@
 			<identifier>SteelLight</identifier>
 			<substring>Plate scarf</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Rigmors</substring>
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
@@ -8903,5 +8907,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Rigmor of Bruma-->
+		<exclusion>
+			<text>Rigmor_Armor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Rigmor of Bruma -->
 	</reforge_exclusions>
 </ns2:armor>
