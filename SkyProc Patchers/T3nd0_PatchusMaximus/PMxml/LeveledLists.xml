@@ -1116,6 +1116,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1773,6 +1780,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -3288,6 +3302,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>CasiusVaron</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4504,6 +4530,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -6183,6 +6216,13 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- Armor Of Intrigue -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
