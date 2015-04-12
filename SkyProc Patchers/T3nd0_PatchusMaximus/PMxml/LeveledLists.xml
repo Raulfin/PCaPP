@@ -6176,6 +6176,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Armor Of Intrigue -->
+			<exclusion>
+				<text>ArmorOfIntrigue</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Armor Of Intrigue -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -7621,6 +7628,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Armor Of Intrigue -->
+			<exclusion>
+				<text>ArmorOfIntrigue</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Armor Of Intrigue -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
