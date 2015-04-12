@@ -7628,6 +7628,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Companion Valfar -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<exclusion>
+			<text>manny_GF_Weapon</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Grey Cowl of Nocturnal -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -8774,6 +8781,23 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Companion Valfar -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<exclusion>
+			<text>manny_GF_Armor_GrayCowl</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>manny_GF_Armor_BootsofSpringheelJak</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>manny_GF_Armor_Yokuda</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Grey Cowl of Nocturnal -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
