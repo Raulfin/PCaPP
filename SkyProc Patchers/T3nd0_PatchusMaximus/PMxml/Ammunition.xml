@@ -983,6 +983,12 @@
 			<substring>Arrow of Extrication</substring>
 		</binding>
 	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Rigmor of Bruma -->
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Long Bow Arrow</substring>
+		</binding>
+	<!-- Rigmor of Bruma -->
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
