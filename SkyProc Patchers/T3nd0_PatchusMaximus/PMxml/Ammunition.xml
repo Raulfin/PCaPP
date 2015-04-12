@@ -977,6 +977,12 @@
 			<substring>Breton Knighl</substring> <!-- how it actually appears in the esp -->
 		</binding>
 	<!-- Breton Knight -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Arrow of Extrication</substring>
+		</binding>
+	<!-- The Grey Cowl of Nocturnal -->
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
@@ -1072,6 +1078,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- SkyRe Races -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<exclusion>
+			<text>manny_GF_Ammo_ExtricationArrow</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Grey Cowl of Nocturnal -->
 	</ammunition_exclusions_multiplication>
 
 	</ns2:ammunition>
