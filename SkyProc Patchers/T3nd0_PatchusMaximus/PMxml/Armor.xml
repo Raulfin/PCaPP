@@ -4218,6 +4218,10 @@
 			<identifier>Iron</identifier>
 			<substring>Yokuda</substring>
 		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Rigmors Cuirass</substring>
+		</binding>
 	<!-- Iron Material Bindings end -->
 	
 	<!-- Leather Material Bindings start -->
@@ -5045,6 +5049,10 @@
 		<binding>
 			<identifier>LeatherHigh</identifier>
 			<substring>ArmorOfIntrigue</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHeavy</identifier>
+			<substring>Rigmors Boots</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
@@ -6344,7 +6352,7 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Rigmors</substring>
+			<substring>Rigmors Gauntlets</substring>
 		</binding>
 	<!-- Steel Material Bindings end -->
 	
