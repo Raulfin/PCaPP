@@ -5042,6 +5042,10 @@
 			<identifier>Leather</identifier>
 			<substring>Thief</substring>
 		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>ArmorOfIntrigue</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
