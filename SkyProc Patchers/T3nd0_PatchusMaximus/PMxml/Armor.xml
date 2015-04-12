@@ -8909,7 +8909,7 @@
 	<!-- The Grey Cowl of Nocturnal -->
 	<!-- Rigmor of Bruma-->
 		<exclusion>
-			<text>Rigmor_Armor</text>
+			<text>Rigmor_</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
