@@ -8798,6 +8798,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Armor Of Intrigue -->
+		<exclusion>
+			<text>ArmorOfIntrigue</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Armor Of Intrigue -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
