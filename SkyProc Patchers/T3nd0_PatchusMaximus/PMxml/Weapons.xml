@@ -3809,6 +3809,14 @@
 			<identifier>Steel</identifier>
 			<substring>Loner's Greatword</substring>
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Rigmors Bastard Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Replica Heirloom Sword</substring>
+		</binding>
 	<!-- Steel bindings end -->
 
 	<!-- Skyforge bindings start -->
@@ -6392,6 +6400,14 @@
 			<substring>Redguard slasher</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Replica Heirloom Sword</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Azuras Bane</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
 	<!-- Bastard Sword bindings end -->
 	
 	<!-- Battleaxe bindings start -->
@@ -8771,6 +8787,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Rigmor of Bruma -->
+		<exclusion>
+			<text>Rigmor_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>CasiusVaron</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Rigmor of Bruma -->
 	</reforge_exclusions>
 
 </ns2:weapons>
