@@ -1544,6 +1544,10 @@
 			<identifier>Draugr</identifier>
 			<substring>Ash Spawn</substring>
 		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Bow of the Forgotten Chaos</substring>
+		</binding>
 	<!-- Drauger bindings end -->
 	
 	<!-- Dwarven bindings start -->
@@ -2855,6 +2859,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Valfar's Battleaxe</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>The Withdrawal</substring>
 		</binding>
 	<!-- Iron bindings end -->
 	
@@ -6106,7 +6114,14 @@
 			<identifier>Scimitar</identifier>
 		</binding>
 	<!-- Scimitar bindings end -->
-
+	
+	<!-- Shiv bindings start -->
+		<binding>
+			<substring>The Withdrawal</substring>
+			<identifier>Shiv</identifier>
+		</binding>
+	<!-- Shiv bindings end>
+	
 	<!-- Shortspear bindings start -->
 		<binding>
 			<substring>Pokeblade</substring>
@@ -7296,6 +7311,10 @@
 		</binding>
 		<binding>
 			<substring>Snowfall</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Bow of the Forgotten Chaos</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
@@ -8745,6 +8764,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Sulfuras - The Reclaimed Hand -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<exclusion>
+			<text>manny_GF_Weapon</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Grey Cowl of Nocturnal -->
 	</reforge_exclusions>
 
 </ns2:weapons>
