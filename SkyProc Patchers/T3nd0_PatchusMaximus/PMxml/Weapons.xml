@@ -3821,6 +3821,10 @@
 			<identifier>Steel</identifier>
 			<substring>Replica Heirloom Sword</substring>
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Sorrow</substring>
+		</binding>
 	<!-- Steel bindings end -->
 
 	<!-- Skyforge bindings start -->
