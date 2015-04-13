@@ -1,6 +1,31 @@
 <Versions>
 <Current>
-<v3>
+<v2.6.3>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+	Daedra of Coldharbour
+</v2.6.3>
+</Current>
+
+<Old>
+<v2.6.2>
 Now covers:
 	Moon and Star (52397)
 	Osare Culort Armor -UNP (43609)
@@ -12,31 +37,13 @@ Now covers:
 	Rigmor of Bruma (53068)
 	Armor of intrigue (36875)
 
-Blocklist:
-
 Exclusions:
-
-Fixes:
-
-Changes:
-
-Additions:
-	Exclusion for ingrediant addedby Volundr (64401) to prevent patcher from crashing.
+	Ingredient added by Volundr (64401) to prevent patcher from crashing.
 
 Balancing:
 	Sabre speed increased from 0.85 to 1.05 reach increased from 0.85 to 0.9.
 	Scimitar reach increased from 0.95 to 1.0.
-
-Renamed:
-
-Updated Patches:
-
-New Patches:
-	Daedra of Coldharbour
-</v3>
-</Current>
-
-<Old>
+</v2.6.2>
 <v2.6.1>
 Now covers:
 	The Loners Sword (16751) The two-hand version needs to be renamed 'Loner's Greatsword'
