@@ -1544,6 +1544,10 @@
 			<identifier>Draugr</identifier>
 			<substring>Ash Spawn</substring>
 		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Bow of the Forgotten Chaos</substring>
+		</binding>
 	<!-- Drauger bindings end -->
 	
 	<!-- Dwarven bindings start -->
@@ -2856,6 +2860,10 @@
 			<identifier>Iron</identifier>
 			<substring>Valfar's Battleaxe</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>The Withdrawal</substring>
+		</binding>
 	<!-- Iron bindings end -->
 	
 	<!-- Iron/Wood Clutter bindings start -->
@@ -3800,6 +3808,14 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Loner's Greatword</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Rigmors Bastard Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Replica Heirloom Sword</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
@@ -6106,7 +6122,14 @@
 			<identifier>Scimitar</identifier>
 		</binding>
 	<!-- Scimitar bindings end -->
-
+	
+	<!-- Shiv bindings start -->
+		<binding>
+			<substring>The Withdrawal</substring>
+			<identifier>Shiv</identifier>
+		</binding>
+	<!-- Shiv bindings end>
+	
 	<!-- Shortspear bindings start -->
 		<binding>
 			<substring>Pokeblade</substring>
@@ -6375,6 +6398,14 @@
 		</binding>
 		<binding>
 			<substring>Redguard slasher</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Replica Heirloom Sword</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Azuras Bane</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
 	<!-- Bastard Sword bindings end -->
@@ -7296,6 +7327,10 @@
 		</binding>
 		<binding>
 			<substring>Snowfall</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Bow of the Forgotten Chaos</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
@@ -8745,6 +8780,25 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Sulfuras - The Reclaimed Hand -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<exclusion>
+			<text>manny_GF_Weapon</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Rigmor of Bruma -->
+		<exclusion>
+			<text>Rigmor_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>CasiusVaron</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Rigmor of Bruma -->
 	</reforge_exclusions>
 
 </ns2:weapons>

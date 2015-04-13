@@ -3850,6 +3850,10 @@
 			<identifier>Hide</identifier>
 			<substring>L1</substring>
 		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Gray Cowl Of Nocturnal</substring>
+		</binding>
 	<!-- Hide Material Bindings end -->
 
 	<!-- Horker Material Bindings start -->
@@ -4209,6 +4213,14 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>H1</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Yokuda</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Rigmors Cuirass</substring>
 		</binding>
 	<!-- Iron Material Bindings end -->
 	
@@ -5033,6 +5045,14 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Thief</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>ArmorOfIntrigue</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHeavy</identifier>
+			<substring>Rigmors Boots</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
@@ -6329,6 +6349,10 @@
 		<binding>
 			<identifier>SteelLight</identifier>
 			<substring>Plate scarf</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Rigmors Gauntlets</substring>
 		</binding>
 	<!-- Steel Material Bindings end -->
 	
@@ -8874,5 +8898,29 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Companion Valfar -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<exclusion>
+			<text>manny_GF_Armor_GrayCowl</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>manny_GF_Armor_BootsofSpringheelJak</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>manny_GF_Armor_Yokuda</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Rigmor of Bruma-->
+		<exclusion>
+			<text>Rigmor_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Rigmor of Bruma -->
 	</reforge_exclusions>
 </ns2:armor>
