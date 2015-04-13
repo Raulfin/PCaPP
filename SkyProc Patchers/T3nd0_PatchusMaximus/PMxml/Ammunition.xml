@@ -637,7 +637,7 @@
 			<rangeModifier>0</rangeModifier>
 			<speedModifier>1800</speedModifier>
 			<gravityModifier>0.37</gravityModifier>
-			<multiply>true</multiply>
+			<multiply>false</multiply>
 		</ammunition_material>
 	<!--  Elemental Arrows -->
 	</ammunition_materials>
@@ -999,70 +999,69 @@
 			<substring>Long Bow Arrow</substring>
 		</binding>
 	<!-- Rigmor of Bruma -->
-	</ammunition_material_bindings>
 	<!-- Elemental Arrows -->
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Flaming Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Frost Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Shock Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Quake Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Swarm Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Gem Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Gust Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Gust Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Ash Rock Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Crimson Flame Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Flaming Bolt</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Gem Bolts</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Cobalt Frost Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Thunderbolt Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Magebreaker Arrows</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
+			<identifier>SteelNoMult</identifier>
 			<substring>Trick Arrows</substring>
 		</binding>
 		<binding>
@@ -1070,6 +1069,7 @@
 			<substring>Steam Arrows</substring>
 		</binding>
 	<!-- Elemental Arrows -->
+	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
 <!-- Exclusion target = NAME, EDID, FORMID -->
@@ -1171,6 +1171,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Elemental Arrows -->
+		<exclusion>
+			<text>FuwaMagic</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Elemental Arrows -->
 	</ammunition_exclusions_multiplication>
 
 	</ns2:ammunition>
