@@ -630,6 +630,16 @@
 			<multiply>true</multiply>
 		</ammunition_material>
 	<!-- Hunterborn modifiers end -->
+	<!--  Elemental Arrows -->
+		<ammunition_material>
+			<identifier>Steam</identifier>
+			<damageModifier>57</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>1800</speedModifier>
+			<gravityModifier>0.40</gravityModifier>
+			<multiply>false</multiply>
+		</ammunition_material>
+	<!--  Elemental Arrows -->
 	</ammunition_materials>
 
 	<ammunition_material_bindings>
@@ -989,6 +999,76 @@
 			<substring>Long Bow Arrow</substring>
 		</binding>
 	<!-- Rigmor of Bruma -->
+	<!-- Elemental Arrows -->
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Flaming Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Frost Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Shock Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Quake Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Swarm Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Gem Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Gust Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Gust Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Ash Rock Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Crimson Flame Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Flaming Bolt</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Gem Bolts</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Cobalt Frost Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Thunderbolt Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Magebreaker Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Trick Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steam</identifier>
+			<substring>Steam Arrows</substring>
+		</binding>
+	<!-- Elemental Arrows -->
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
