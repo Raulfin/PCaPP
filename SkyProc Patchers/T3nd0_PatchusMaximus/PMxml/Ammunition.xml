@@ -630,6 +630,16 @@
 			<multiply>true</multiply>
 		</ammunition_material>
 	<!-- Hunterborn modifiers end -->
+	<!--  Elemental Arrows -->
+		<ammunition_material>
+			<identifier>Steam</identifier>
+			<damageModifier>57</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>1800</speedModifier>
+			<gravityModifier>0.37</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+	<!--  Elemental Arrows -->
 	</ammunition_materials>
 
 	<ammunition_material_bindings>
@@ -990,6 +1000,76 @@
 		</binding>
 	<!-- Rigmor of Bruma -->
 	</ammunition_material_bindings>
+	<!-- Elemental Arrows -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Flaming Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Frost Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Shock Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Quake Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Swarm Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Gem Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Gust Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Gust Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Ash Rock Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Crimson Flame Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Flaming Bolt</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Gem Bolts</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Cobalt Frost Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Thunderbolt Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Magebreaker Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Trick Arrows</substring>
+		</binding>
+		<binding>
+			<identifier>Steam</identifier>
+			<substring>Steam Arrows</substring>
+		</binding>
+	<!-- Elemental Arrows -->
 
 	<ammunition_exclusions_multiplication>
 <!-- Exclusion target = NAME, EDID, FORMID -->
