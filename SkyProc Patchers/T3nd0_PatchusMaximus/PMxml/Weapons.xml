@@ -1259,6 +1259,10 @@
 			<identifier>DaedricHigh</identifier>
 			<substring>Sulfuras</substring>
 		</binding>
+		<binding>
+++			<identifier>Daedric</identifier>
+++			<substring>Ancient Tongue</substring>
+++		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -6869,6 +6873,10 @@
 			<substring>Loner's Greatsword</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
+		<binding>
++			<substring>G. Sword</substring>
++			<identifier>Greatsword</identifier>
++		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
