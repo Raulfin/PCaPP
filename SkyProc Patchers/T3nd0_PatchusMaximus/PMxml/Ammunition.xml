@@ -636,7 +636,7 @@
 			<damageModifier>57</damageModifier>
 			<rangeModifier>0</rangeModifier>
 			<speedModifier>1800</speedModifier>
-			<gravityModifier>0.37</gravityModifier>
+			<gravityModifier>0.40</gravityModifier>
 			<multiply>false</multiply>
 		</ammunition_material>
 	<!--  Elemental Arrows -->
