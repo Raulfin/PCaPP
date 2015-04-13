@@ -1171,13 +1171,7 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- The Grey Cowl of Nocturnal -->
-	<!-- Elemental Arrows -->
-		<exclusion>
-			<text>FuwaMagic</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-	<!-- Elemental Arrows -->
+
 	</ammunition_exclusions_multiplication>
 
 	</ns2:ammunition>
