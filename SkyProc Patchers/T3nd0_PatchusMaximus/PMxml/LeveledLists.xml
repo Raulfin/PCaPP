@@ -3314,6 +3314,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Rigmor of Bruma -->
+		<!-- Sword Of the Ancient Tongue -->
+			<exclusion>
++				<text>AncientTongues</text>
++				<target>EDID</target>
++				<type>STARTSWITH</type>
++			</exclusion>
+		<!-- Sword Of the Ancient Tongue -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4537,6 +4544,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Rigmor of Bruma -->
+		<!-- Sword Of the Ancient Tongue -->
+			<exclusion>
++				<text>AncientTongues</text>
++				<target>EDID</target>
++				<type>STARTSWITH</type>
++			</exclusion>
+		<!-- Sword Of the Ancient Tongue -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
