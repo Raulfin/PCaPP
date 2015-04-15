@@ -5391,6 +5391,10 @@
 			<substring>Breton Knight Sword</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Black Sting</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -5608,7 +5612,7 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
-			<substring>Black Sting</substring>
+			<substring>Black Sting Dagger</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
@@ -6881,6 +6885,10 @@
 +			<substring>G. Sword</substring>
 +			<identifier>Greatsword</identifier>
 +		</binding>
+		<binding>
+			<substring>Black Sting Greatsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
