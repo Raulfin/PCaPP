@@ -2,6 +2,10 @@
 <Current>
 <v3>
 Now covers:
+	InsanitySorrow's Zatoichi (26619)
+	Vayan Armor (61616)
+	Belko (62149) Default gear
+	VanNord Carved Nordic Armour (64560)
 
 Blocklist:
 
@@ -16,8 +20,11 @@ Additions:
 Balancing:
 
 Renamed:
+	Deadric Crescent -> Small Deadric Crescent (IW)
+	Great Deadric Crescent -> Deadric Crescent (IW)
 
 Updated Patches:
+	Immersive Weapons (IW)
 
 New Patches:
 	Daedra of Coldharbour
