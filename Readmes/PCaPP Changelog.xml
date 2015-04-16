@@ -1,5 +1,30 @@
 <Versions>
 <Current>
+<v3>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+	Daedra of Coldharbour
+</v3>
+</Current>
+
+<Old>
 <v2.6.3>
 Now covers:
 	Elemental Arrows (49983)
@@ -7,9 +32,6 @@ Now covers:
 	Insanitys Celtic Katana (15389)
 	Campfire (64798)
 </v2.6.3>
-</Current>
-
-<Old>
 <v2.6.2>
 Now covers:
 	Moon and Star (52397)
