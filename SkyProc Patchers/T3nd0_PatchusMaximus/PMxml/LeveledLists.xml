@@ -3342,6 +3342,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Campfire -->
+		<!-- VanNord -->
+			<exclusion>
+				<text>AnewVanNord</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AnewNordic</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- VanNord -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4572,6 +4584,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Sword Of the Ancient Tongue -->
+		<!-- VanNord -->
+			<exclusion>
+				<text>AnewVanNord</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AnewNordic</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- VanNord -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -6279,6 +6303,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Belko Follower -->
+		<!-- VanNord -->
+			<exclusion>
+				<text>AnewArmorNordic</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- VanNord -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -7752,6 +7783,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Belko Follower -->
+		<!-- VanNord -->
+			<exclusion>
+				<text>AnewArmorNordic</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- VanNord -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
