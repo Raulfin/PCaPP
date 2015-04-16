@@ -854,6 +854,10 @@
 			<substring>Norse</substring>
 		</binding>
 		<binding>
+			<identifier>Nord</identifier>
+			<substring>VanNord</substring>
+		</binding>
+		<binding>
 			<identifier>Advanced</identifier>
 			<substring>Regent's</substring>
 		</binding>
@@ -7379,6 +7383,10 @@
 		</binding>
 		<binding>
 			<substring>Bow of the Forgotten Chaos</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>VanNord Bow</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
