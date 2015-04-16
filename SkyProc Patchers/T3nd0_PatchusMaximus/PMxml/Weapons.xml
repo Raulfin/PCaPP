@@ -6575,6 +6575,10 @@
 			<substring>Hrothmund</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
+		<binding>
+			<substring>Battlexe</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
 	<!-- Battleaxe bindings end -->
 	
 	<!-- Battlestaff bindings start -->
@@ -7176,6 +7180,10 @@
 		</binding>
 		<binding>
 			<substring>Dwemer Automatic Projectile Launcher</substring>
+			<identifier>Crossbow</identifier>
+		</binding>
+		<binding>
+			<substring>Aetherial Bolt Launcher</substring>
 			<identifier>Crossbow</identifier>
 		</binding>
 	<!-- Crossbow bindings end -->
