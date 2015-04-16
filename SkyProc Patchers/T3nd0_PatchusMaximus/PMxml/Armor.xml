@@ -5886,10 +5886,6 @@
 			<identifier>Scaled</identifier>
 			<substring>L4</substring>
 		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Vayan</substring>
-		</binding>
 	<!-- Scaled Material Bindings end -->
 	
 	<!-- Silver Material Bindings start -->
@@ -6721,6 +6717,10 @@
 		<binding>
 			<identifier>HStalhrim</identifier>
 			<substring>Red Stalhrim Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrimLow</identifier>
+			<substring>Vayan</substring>
 		</binding>
 	<!-- Stalhrim Material Bindings end -->
 	
