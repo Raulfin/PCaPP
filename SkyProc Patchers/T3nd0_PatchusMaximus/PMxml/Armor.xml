@@ -5202,6 +5202,10 @@
 			<identifier>HNordic</identifier>
 			<substring>Feyngaar's Helmet</substring>
 		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>VanNord</substring>
+		</binding>
 	<!-- Nord Material Bindings end -->
 	
 	<!-- Orcish Material Bindings start -->
