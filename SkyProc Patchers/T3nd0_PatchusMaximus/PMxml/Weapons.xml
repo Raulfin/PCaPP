@@ -1260,9 +1260,9 @@
 			<substring>Sulfuras</substring>
 		</binding>
 		<binding>
-++			<identifier>Daedric</identifier>
-++			<substring>Ancient Tongue</substring>
-++		</binding>
+			<identifier>Daedric</identifier>
+			<substring>Ancient Tongue</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -6882,9 +6882,9 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
-+			<substring>G. Sword</substring>
-+			<identifier>Greatsword</identifier>
-+		</binding>
+			<substring>G. Sword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 		<binding>
 			<substring>Black Sting Greatsword</substring>
 			<identifier>Greatsword</identifier>
