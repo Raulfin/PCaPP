@@ -3854,6 +3854,10 @@
 			<identifier>Hide</identifier>
 			<substring>Gray Cowl Of Nocturnal</substring>
 		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Belko</substring>
+		</binding>
 	<!-- Hide Material Bindings end -->
 
 	<!-- Horker Material Bindings start -->
@@ -5877,6 +5881,10 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>L4</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Vayan</substring>
 		</binding>
 	<!-- Scaled Material Bindings end -->
 	
