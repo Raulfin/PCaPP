@@ -8819,6 +8819,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Rigmor of Bruma -->
+	<!-- Campfire -->
+		<exclusion>
+			<text>_Camp_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Campfire -->
 	</reforge_exclusions>
 
 </ns2:weapons>

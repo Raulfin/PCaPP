@@ -1123,6 +1123,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Rigmor of Bruma -->
+		<!-- Campfire -->
+			<exclusion>
+				<text>_Camp_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Campfire -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1787,6 +1794,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Rigmor of Bruma -->
+		<!-- Campfire -->
+			<exclusion>
+				<text>_Camp_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Campfire -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -3316,11 +3330,18 @@
 		<!-- Rigmor of Bruma -->
 		<!-- Sword Of the Ancient Tongue -->
 			<exclusion>
-+				<text>AncientTongues</text>
-+				<target>EDID</target>
-+				<type>STARTSWITH</type>
-+			</exclusion>
+				<text>AncientTongues</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
 		<!-- Sword Of the Ancient Tongue -->
+		<!-- Campfire -->
+			<exclusion>
+				<text>_Camp_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Campfire -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4546,10 +4567,10 @@
 		<!-- Rigmor of Bruma -->
 		<!-- Sword Of the Ancient Tongue -->
 			<exclusion>
-+				<text>AncientTongues</text>
-+				<target>EDID</target>
-+				<type>STARTSWITH</type>
-+			</exclusion>
+				<text>AncientTongues</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
 		<!-- Sword Of the Ancient Tongue -->
 		</distribution_exclusions_weapon_enchanted>
 
@@ -6237,6 +6258,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Rigmor of Bruma -->
+		<!-- Campfire -->
+			<exclusion>
+				<text>_Camp_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Campfire -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
