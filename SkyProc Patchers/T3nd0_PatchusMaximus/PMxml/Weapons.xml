@@ -6810,10 +6810,6 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
-			<substring>Daedric Crescent</substring>
-			<identifier>Greatsword</identifier>
-		</binding>
-		<binding>
 			<substring>Great Daedric Crescent</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
