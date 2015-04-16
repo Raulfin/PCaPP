@@ -1069,6 +1069,12 @@
 			<substring>Steam Arrows</substring>
 		</binding>
 	<!-- Elemental Arrows -->
+	<!-- VanNord -->
+		<binding>
+			<identifier>NordicNoMult</identifier>
+			<substring>VanNord</substring>
+		</binding>
+	<!-- VanNord -->
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
