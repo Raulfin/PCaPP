@@ -5675,6 +5675,10 @@
 			<substring>HoarFrost</substring>
 			<identifier>Dagger</identifier>
 		</binding>
+		<binding>
+			<substring>Shards of Narsil</substring>
+			<identifier>Dagger</identifier>
+		</binding>
 	<!-- Dagger bindings end -->
 
 	<!-- Hatchet bindings start -->
