@@ -5399,6 +5399,10 @@
 			<substring>Black Sting</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Short Deadric Crescent</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -6775,6 +6779,10 @@
 		</binding>
 		<binding>
 			<substring>Awakened Thorn (2h</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Deadric Crescent</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
