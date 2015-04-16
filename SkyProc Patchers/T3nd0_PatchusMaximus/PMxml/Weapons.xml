@@ -5752,6 +5752,10 @@
 			<substring>Cloud Courtblade</substring>
 			<identifier>Katana</identifier>
 		</binding>
+		<binding>
+			<substring>Zatoichi</substring>
+			<identifier>Katana</identifier>
+		</binding>
 	<!-- Katana bindings end -->
 
 	<!-- Knuckles bindings start -->
@@ -6263,6 +6267,30 @@
 		</binding>
 		<binding>
 			<substring>Akaviri Short Saber</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Steel Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Iron Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Ebony  Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Dwarven  Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Orcish Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Elven Zatoichi</substring>
 			<identifier>Tanto</identifier>
 		</binding>
 	<!-- Tanto bindings end -->
