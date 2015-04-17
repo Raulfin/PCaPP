@@ -1271,6 +1271,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Mystic Elven</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Divine Aegis</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -5405,6 +5409,10 @@
 		</binding>
 		<binding>
 			<substring>Daedric Crescent - Short</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Sword of the Divine Aegis</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 	<!-- Arming Sword bindings end -->
