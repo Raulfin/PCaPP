@@ -1267,6 +1267,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Ancient Tongue</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Mystic Elven</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -7403,6 +7407,10 @@
 		</binding>
 		<binding>
 			<substring>VanNord Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Mystic Elven Bow</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
