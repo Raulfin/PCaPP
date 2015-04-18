@@ -1850,6 +1850,14 @@
 			<identifier>Daedric</identifier>
 			<substring>H8</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Mystic Elven</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Divine Aegis</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->

@@ -3361,6 +3361,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Isilmeriel LOTR Weapons Collection -->
+		<!-- Mystic Elven -->
+			<exclusion>
+				<text>MysticElven</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mystic Elven -->
+		<!-- Divine Aegis -->
+			<exclusion>
+				<text>xxGreatTemplar</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Divine Aegis -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -3649,7 +3663,6 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Spears By Soolie -->
-		
 		</distribution_exclusions_list_regular>
 
 		<distribution_exclusions_weapon_enchanted>
@@ -4610,6 +4623,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Isilmeriel LOTR Weapons Collection -->
+		<!-- Mystic Elven -->
+			<exclusion>
+				<text>MysticElven</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mystic Elven -->
+		<!-- Divine Aegis -->
+			<exclusion>
+				<text>xxGreatTemplar</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Divine Aegis -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -6324,6 +6351,25 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- VanNord -->
+		<!-- Mystic Elven -->
+			<exclusion>
+				<text>MysticElven</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mystic Elven -->
+		<!-- Divine Aegis -->
+			<exclusion>
+				<text>DivineAegis</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AegisCloak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Divine Aegis -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -7804,6 +7850,25 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- VanNord -->
+		<!-- Mystic Elven -->
+			<exclusion>
+				<text>MysticElven</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mystic Elven -->
+		<!-- Divine Aegis -->
+			<exclusion>
+				<text>DivineAegis</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AegisCloak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Divine Aegis -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

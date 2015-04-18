@@ -1267,6 +1267,14 @@
 			<identifier>Daedric</identifier>
 			<substring>Ancient Tongue</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Mystic Elven</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Divine Aegis</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -5403,6 +5411,10 @@
 			<substring>Daedric Crescent - Short</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Sword of the Divine Aegis</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -7403,6 +7415,10 @@
 		</binding>
 		<binding>
 			<substring>VanNord Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Mystic Elven Bow</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
