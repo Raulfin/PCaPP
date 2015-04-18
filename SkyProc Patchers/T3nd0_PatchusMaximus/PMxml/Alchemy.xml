@@ -1844,10 +1844,9 @@
 		<exclusion>
 			<text>Volundr</text>
 			<target>EDID</target>
-			<type>CONTAINS</type>
+			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Volundr compatibility end -->
-	
 	</potion_exclusions>
 
 	<ingredient_exclusions>
@@ -1872,9 +1871,9 @@
 			<type>EQUALS</type>
 		</exclusion>
 		<exclusion>
-			<text>Volundr</text>
+			<text>VolundrHerb</text>
 			<target>EDID</target>
-			<type>CONTAINS</type>
+			<type>EQUALS</type>
 		</exclusion>
 	</ingredient_exclusions>
 
