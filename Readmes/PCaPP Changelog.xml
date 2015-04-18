@@ -16,6 +16,7 @@ Exclusions:
 Fixes:
 
 Changes:
+	Removed a few ITM records (SiC)
 
 Additions:
 
@@ -29,6 +30,7 @@ Renamed:
 Updated Patches:
 	Immersive Weapons (IW)
 	AetheriumSwordsnArmor.esp (AAA)
+	Immersive Creatures Patch (SiC)
 
 New Patches:
 	Daedra of Coldharbour
