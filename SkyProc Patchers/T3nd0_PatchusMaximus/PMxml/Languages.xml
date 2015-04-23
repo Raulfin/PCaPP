@@ -8162,6 +8162,1114 @@
 			<identifier>Blink Step</identifier>
 			<outputString>Clignement</outputString>
 		</stringBinding>
+		<stringBinding>
+			<identifier>Flash Step</identifier>
+			<outputString>Bond éclair</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shadow Step</identifier>
+			<outputString>Marche couverte</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rift Step</identifier>
+			<outputString>Bond planaire</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Death Ward</identifier>
+			<outputString>Barrière mortelle</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Lich</identifier>
+			<outputString>la Liche</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Deathlessness</identifier>
+			<outputString>Immortel</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Immortality</identifier>
+			<outputString>Immortalité</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Divines</identifier>
+			<outputString>les Divins</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Athanasia</identifier>
+			<outputString>Athanasie</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Aiming</identifier>
+			<outputString>Visée</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Accuracy</identifier>
+			<outputString>Justesse</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Precision</identifier>
+			<outputString>Précision</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Sniping</identifier>
+			<outputString>Tir de précision</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Cavalry</identifier>
+			<outputString>la Cavalerie</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Horsemanship</identifier>
+			<outputString>Talent de cavalier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Lancer</identifier>
+			<outputString>le Lancier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Dragoon</identifier>
+			<outputString>le Dragon</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Equitation</identifier>
+			<outputString>Equitation</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Ra Gada</identifier>
+			<outputString>le Ra Gada</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Regrowth</identifier>
+			<outputString>Repousse</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Resurgence</identifier>
+			<outputString>Renaissance</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Phoenix</identifier>
+			<outputString>le Phénix</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Unyielding</identifier>
+			<outputString>l'Inflexible</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Invincible</identifier>
+			<outputString>l'Invincible</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Unconquerable</identifier>
+			<outputString>l'Indomptable</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blade Turning</identifier>
+			<outputString>Lames Tournantes</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Weaponward</identifier>
+			<outputString>Barrière contre les armes</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Weaponbane</identifier>
+			<outputString>Malédiction des armes</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Novicebane</identifier>
+			<outputString>Malédiction du Novice</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Magickguard</identifier>
+			<outputString>Garde Magique</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Reforging</identifier>
+			<outputString>Reforgeage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Electrolysis</identifier>
+			<outputString>Electrolyse</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Galvanization</identifier>
+			<outputString>Galvanisation</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Burdens</identifier>
+			<outputString>Fardeaux</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hardship</identifier>
+			<outputString>Privation</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Cunning</identifier>
+			<outputString>Astuce</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wiles</identifier>
+			<outputString>Artifices</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Roguery</identifier>
+			<outputString>Friponnerie</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mischief</identifier>
+			<outputString>Malice</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Devilry</identifier>
+			<outputString>Diablerie</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hunting</identifier>
+			<outputString>Chasse</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Wild</identifier>
+			<outputString>le Sauvage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Poaching</identifier>
+			<outputString>Braconnage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Predation</identifier>
+			<outputString>Prédation</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Carnivore</identifier>
+			<outputString>le Carnivore</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Kyne's Gifts</identifier>
+			<outputString>Dons de Kyne</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Denting</identifier>
+			<outputString>Bosselage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Crushing</identifier>
+			<outputString>Ecrasement</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Bending</identifier>
+			<outputString>Flexion</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Buckling</identifier>
+			<outputString>Attache</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Crumpling</identifier>
+			<outputString>Chiffonage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Perforating</identifier>
+			<outputString>Perforation</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Frailty</identifier>
+			<outputString>Fragilité</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Stifling</identifier>
+			<outputString>Etouffement</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Weakness</identifier>
+			<outputString>Faiblesse</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Futility</identifier>
+			<outputString>Futilité</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Incapacitation</identifier>
+			<outputString>Incapacité</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mugging</identifier>
+			<outputString>Agression</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Plundering</identifier>
+			<outputString>Rapine</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Pillaging</identifier>
+			<outputString>Pillage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ransacking</identifier>
+			<outputString>Saccage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Raiding</identifier>
+			<outputString>Raid</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Power Unbound</identifier>
+			<outputString>Puissance libérée</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Power Unfettered</identifier>
+			<outputString>Pouvoir Débloqué</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Power Unleashed</identifier>
+			<outputString>Puissance déchainée</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Storm Unbound</identifier>
+			<outputString>Tempête libérée</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Storm Unfettered</identifier>
+			<outputString>Tempête déclenchée</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Storm Unleashed</identifier>
+			<outputString>Tempête déchainée</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Grappling</identifier>
+			<outputString>Prise</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hooking</identifier>
+			<outputString>Accrochage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Snatching</identifier>
+			<outputString>Arrachement</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Command</identifier>
+			<outputString>Commande</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Domination</identifier>
+			<outputString>Domination</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Conjurer</identifier>
+			<outputString>l'Illusionniste</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Coven</identifier>
+			<outputString>Le Coven</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Summoner</identifier>
+			<outputString>l'Invocateur</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Warlock</identifier>
+			<outputString>le Sorcier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Vulnerability</identifier>
+			<outputString>Vulnérabilité</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Exposure</identifier>
+			<outputString>Exposition</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Jinxes</identifier>
+			<outputString>Mauvais sorts</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Curses</identifier>
+			<outputString>Malédictions</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hexes</identifier>
+			<outputString>Sorts</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Malison</identifier>
+			<outputString>Maléfice</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Deadly</identifier>
+			<outputString>Mortel</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Executioner's</identifier>
+			<outputString>du Bourreau</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mortality</identifier>
+			<outputString>Mortalité</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Decimation</identifier>
+			<outputString>Décimation</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Death</identifier>
+			<outputString>Mort</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the End</identifier>
+			<outputString>la Fin</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ember Blasts</identifier>
+			<outputString>Salves de braise</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Burning Blasts</identifier>
+			<outputString>Salves de flamme</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Scorching Blasts</identifier>
+			<outputString>Salves brûlantes</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Fire Blasts</identifier>
+			<outputString>Déflagrations</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blazing Blasts</identifier>
+			<outputString>Salves torrides</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Inferno Blasts</identifier>
+			<outputString>Salves infernales</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Smoldering</identifier>
+			<outputString>Incubation</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Slow Burning</identifier>
+			<outputString>Feu lent</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lingering Fire</identifier>
+			<outputString>Feu persistant</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Everlasting Fire</identifier>
+			<outputString>Feu perpétuel</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Enduring Fire</identifier>
+			<outputString>Feu endurant</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Eternal Fire</identifier>
+			<outputString>Feu éternel</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Cold Blasts</identifier>
+			<outputString>Salves de froid</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Frost Blasts</identifier>
+			<outputString>Salves de gel</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ice Blasts</identifier>
+			<outputString>Salves glacées</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Freezing Blasts</identifier>
+			<outputString>Salves froides</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Chilling Blasts</identifier>
+			<outputString>Salves glaciale</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Winter Blasts</identifier>
+			<outputString>Salves hivernales</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shards</identifier>
+			<outputString>Eclats</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Crystals</identifier>
+			<outputString>Cristaux</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hail</identifier>
+			<outputString>Grêle</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Black Frost</identifier>
+			<outputString>Gel noir</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Black Ice</identifier>
+			<outputString>Glace noire</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Slaying</identifier>
+			<outputString>Meurtre</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Cannibal</identifier>
+			<outputString>Le Cannibale</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Assassin</identifier>
+			<outputString>L'Assassin</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Killer</identifier>
+			<outputString>Le Meurtrier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Agent</identifier>
+			<outputString>L'Agent</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Inquisitor</identifier>
+			<outputString>L'Inquisiteur</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Might</identifier>
+			<outputString>Puissance</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dominance</identifier>
+			<outputString>Domination</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Authority</identifier>
+			<outputString>Autorité</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Superiority</identifier>
+			<outputString>Supériorité</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Repression</identifier>
+			<outputString>Répression</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Supremacy</identifier>
+			<outputString>Suprématie</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Spark Blasts</identifier>
+			<outputString>Salves d'étincelle</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Arcing Blasts</identifier>
+			<outputString>Salves d'amorçage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shock Blasts</identifier>
+			<outputString>Salves électriques</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Thunder Blasts</identifier>
+			<outputString>Salves de tonerre</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lightning Blasts</identifier>
+			<outputString>Salves d'éclair</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Storm Blasts</identifier>
+			<outputString>Salves d'orage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Surges</identifier>
+			<outputString>Poussées</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wrath</identifier>
+			<outputString>Courroux</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Electrocution</identifier>
+			<outputString>Electrocution</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Venom</identifier>
+			<outputString>Venin</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blight</identifier>
+			<outputString>Fléau</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rot</identifier>
+			<outputString>Pourriture</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Miasma</identifier>
+			<outputString>Miasme</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Poison Blasts</identifier>
+			<outputString>Salves de poison</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Venom Blasts</identifier>
+			<outputString>Salves de venin</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blighted Blasts</identifier>
+			<outputString>Salves de ruine</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rotting Blasts</identifier>
+			<outputString>Salves pourrissantes</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Corruption Blasts</identifier>
+			<outputString>Salves de corruption</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Miasma Blasts</identifier>
+			<outputString>Salves de miasmes</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Rend</identifier>
+			<outputString>Déchirement du Sorcier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Ruin</identifier>
+			<outputString>Ruine du Sorcier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Bane</identifier>
+			<outputString>Fléau du Sorcier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Sunder</identifier>
+			<outputString>Scission du Sorcier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Wrack</identifier>
+			<outputString>Destruction du Sorcier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wizard Break</identifier>
+			<outputString>Repos du Sorcier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Rend</identifier>
+			<outputString>Déchirement du Guerrier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Ruin</identifier>
+			<outputString>Ruine du Guerrier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Bane</identifier>
+			<outputString>Fléau du Guerrier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Sunder</identifier>
+			<outputString>Scission du Guerrier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Wrack</identifier>
+			<outputString>Destruction du Guerrier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warrior Break</identifier>
+			<outputString>Repos du Guerrier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Interference</identifier>
+			<outputString>Interférence</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Cancellation</identifier>
+			<outputString>Annulation</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Frustration</identifier>
+			<outputString>Frustration</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Thwarting</identifier>
+			<outputString>Contrecarrant</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Vexation</identifier>
+			<outputString>Agacement</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Noise</identifier>
+			<outputString>Bruit</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Annoyance</identifier>
+			<outputString>Mécontentement</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Clamor</identifier>
+			<outputString>Clameur</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ruckus</identifier>
+			<outputString>Chahut</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dispelling</identifier>
+			<outputString>Dissipation</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Grounding</identifier>
+			<outputString>Clouage au sol</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Negation</identifier>
+			<outputString>Négation</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Disjunction</identifier>
+			<outputString>Disjonction</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wailing</identifier>
+			<outputString>Gémissant</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Screaming</identifier>
+			<outputString>Criant</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shrieking</identifier>
+			<outputString>Criant</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Keening</identifier>
+			<outputString>Passionnant</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Howling</identifier>
+			<outputString>Hurlant</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hidden Viper</identifier>
+			<outputString>Vipère cachée</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hidden Adder</identifier>
+			<outputString>Crotale caché</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hidden Asp</identifier>
+			<outputString>Aspic caché</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ghosts</identifier>
+			<outputString>Esprits</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wraiths</identifier>
+			<outputString>Apparitions</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Specters</identifier>
+			<outputString>Spectres</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Phantoms</identifier>
+			<outputString>Fantômes</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wights</identifier>
+			<outputString>Revenants</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shadows</identifier>
+			<outputString>Ombres</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Illusory Burden</identifier>
+			<outputString>Fardeau illusoire</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Illusory Weight</identifier>
+			<outputString>Poids illusoire</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Illusory Load</identifier>
+			<outputString>Charge illusoire</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Illusory Ballast</identifier>
+			<outputString>Lest illusoire</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Illusory Mass</identifier>
+			<outputString>Masse illusoire</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Doom</identifier>
+			<outputString>Ruine</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Culling</identifier>
+			<outputString>Massacre</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Abyss</identifier>
+			<outputString>L'Abysse</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Pandemonium</identifier>
+			<outputString>Pandémonium</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dawn</identifier>
+			<outputString>Aube</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Daylight</identifier>
+			<outputString>Lumière du jour</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Noon</identifier>
+			<outputString>Midi</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Radiance</identifier>
+			<outputString>Rayonnement</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Resplendence</identifier>
+			<outputString>Splendeur</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Brilliance</identifier>
+			<outputString>Brillance</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Sorrow</identifier>
+			<outputString>Peine</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Grief</identifier>
+			<outputString>Chagrin</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Failure</identifier>
+			<outputString>Echec</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Misery</identifier>
+			<outputString>Misère</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Tears</identifier>
+			<outputString>Larmes</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Exemplar</identifier>
+			<outputString>l'Exemple</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Pinnacle</identifier>
+			<outputString>le Pinacle</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Paragon</identifier>
+			<outputString>le Parangon</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Decay</identifier>
+			<outputString>Déclin</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wasting</identifier>
+			<outputString>Gaspillage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Withering</identifier>
+			<outputString>Flétrissement</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wilting</identifier>
+			<outputString>Dépérissement</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Atrophy</identifier>
+			<outputString>Atrophie</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Putrefaction</identifier>
+			<outputString>Putréfaction</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Quickening</identifier>
+			<outputString>Accélération</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Enlightenment</identifier>
+			<outputString>Illumination</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Lexicon</identifier>
+			<outputString>le Lexicon</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Breaking</identifier>
+			<outputString>Rupture</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Cracking</identifier>
+			<outputString>Fissuration</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Breaching</identifier>
+			<outputString>Infraction</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lordslaying</identifier>
+			<outputString>Tueur de Seigneur</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Kingslaying</identifier>
+			<outputString>Régicide</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Steel Coffin</identifier>
+			<outputString>le Cercueil d'acier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Healing</identifier>
+			<outputString>Guérison</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mercy</identifier>
+			<outputString>Pitié</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Compassion</identifier>
+			<outputString>Compassion</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Throwing</identifier>
+			<outputString>Lancer</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Slinging</identifier>
+			<outputString>Lancer</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Pitching</identifier>
+			<outputString>Propulsion</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hurling</identifier>
+			<outputString>Jet</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Catapulting</identifier>
+			<outputString>Catapultage</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Launching</identifier>
+			<outputString>Lancement</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Conflict</identifier>
+			<outputString>Conflit</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Rivalry</identifier>
+			<outputString>Rivalité</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Discord</identifier>
+			<outputString>Discorde</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Disunity</identifier>
+			<outputString>Désunion</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Strife</identifier>
+			<outputString>Conflit</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Genocide</identifier>
+			<outputString>Génocide</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Countering</identifier>
+			<outputString>Résistance</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Trickery</identifier>
+			<outputString>Ruse</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Opportunity</identifier>
+			<outputString>Occasion</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ripostes</identifier>
+			<outputString>Ripostes</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Reciprocation</identifier>
+			<outputString>Réciprocité</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blistering</identifier>
+			<outputString>Boursouflures</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Bubbling</identifier>
+			<outputString>Bouillonnement</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Festering</identifier>
+			<outputString>Suppuration</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Seething</identifier>
+			<outputString>Ebullition</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Ulceration</identifier>
+			<outputString>Ulcération</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Necrosis</identifier>
+			<outputString>Nécrose</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Harmonies</identifier>
+			<outputString>Harmonies</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dirges</identifier>
+			<outputString>Requiems</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Elegies</identifier>
+			<outputString>Elégies</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Threnodies</identifier>
+			<outputString>Thrénodies</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Bull</identifier>
+			<outputString>le Taureau</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Ram</identifier>
+			<outputString>le Bélier</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Bear</identifier>
+			<outputString>l'Ours</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Rhino</identifier>
+			<outputString>le Rhinocéros</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Elephant</identifier>
+			<outputString>l'Eléphant</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Mammoth</identifier>
+			<outputString>le Mammouth</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Twilight</identifier>
+			<outputString>Crépuscule</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Voice</identifier>
+			<outputString>la Voix</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Arcana</identifier>
+			<outputString>Arcane</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Infinite Energies</identifier>
+			<outputString>Energies infinies</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Drafts</identifier>
+			<outputString>Courant d'air</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Breezes</identifier>
+			<outputString>Brise</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Flurries</identifier>
+			<outputString>Bourrasque</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wind</identifier>
+			<outputString>Vent</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Typhoons</identifier>
+			<outputString>Typhon</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hurricanes</identifier>
+			<outputString>Ouragan</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Gust</identifier>
+			<outputString>Rafale</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Tempest</identifier>
+			<outputString>Tempête</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Tornado</identifier>
+			<outputString>Tornade</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wall Of Wind</identifier>
+			<outputString>Mur de Vent</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Whirlwind</identifier>
+			<outputString>Tourbillon</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wind Rune</identifier>
+			<outputString>Rune de Vent</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shiv</identifier>
+			<outputString>Surin</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Broadsword</identifier>
+			<outputString>Glaive</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>The Longhammer</identifier>
+			<outputString>Le Longmarteau</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Spiked Mace</identifier>
+			<outputString>Masse d'armes</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Morning star</identifier>
+			<outputString>Etoile du matin</outputString>
+		</stringBinding>
 	</language>
 
 	<language><!-- Русский -->
@@ -8760,4 +9868,391 @@
 		</stringBinding>
 	</language>
 
+	<language><!-- L337 -->
+		<languageID>L337</languageID>
+		<stringBinding>
+			<identifier>Hunting Knife</identifier>
+			<outputString>HuN716 Kn1F3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Arbalest</identifier>
+			<outputString>4rB4l3St</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Arming Sword</identifier>
+			<outputString>4rM1nG$w0Rd</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Barbed</identifier>
+			<outputString>B4rB3d</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Bastard Sword</identifier>
+			<outputString>b4$t4rD $W0rD</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Battleaxe</identifier>
+			<outputString>b4Ttl34x3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Battlestaff</identifier>
+			<outputString>b4tTl3$T4pH</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Blisters</identifier>
+			<outputString>bL1sT3rZ</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Burning</identifier>
+			<outputString>bUrN1nG</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Cinder</identifier>
+			<outputString>c1Nd3R</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Claw</identifier>
+			<outputString>kL4W</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Club</identifier>
+			<outputString>kLuB</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Crossbow</identifier>
+			<outputString>kR0s$b0W</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dagger</identifier>
+			<outputString>d4Gg3R</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Dismay</identifier>
+			<outputString>d1$m4Y</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Duration</identifier>
+			<outputString>dUr4T10n</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Eruption</identifier>
+			<outputString>3rUpT10n</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explosive</identifier>
+			<outputString>xPl0$1V3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Fear</identifier>
+			<outputString>f33R</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Fire</identifier>
+			<outputString>f1R3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Flaming</identifier>
+			<outputString>fL4m1Ng</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Frost</identifier>
+			<outputString>pHr0$T</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Greatsword</identifier>
+			<outputString>gR34t$W0rD</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Halberd</identifier>
+			<outputString>h4Lb3Rd</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hatchet</identifier>
+			<outputString>h4TcH3t</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Hysteria</identifier>
+			<outputString>hY$T3r14</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Infernal</identifier>
+			<outputString>1nF3rN4l</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Katana</identifier>
+			<outputString>k4T4n4</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Katar</identifier>
+			<outputString>k4T4r</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Knuckles</identifier>
+			<outputString>nUkl3z</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lightsource</identifier>
+			<outputString>l1T3s4uc3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Lightweight</identifier>
+			<outputString>l1T3w4iT</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Longbow</identifier>
+			<outputString>l0NgB0w</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Longmace</identifier>
+			<outputString>l0NgM4c3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Longsword</identifier>
+			<outputString>l0Ng$W0rD</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Mace</identifier>
+			<outputString>m4Ce</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Maul</identifier>
+			<outputString>m4Ul</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Nodachi</identifier>
+			<outputString>n0D4cH1</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>of</identifier>
+			<outputString>0f</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Panic</identifier>
+			<outputString>Z0mGs!</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Partisan</identifier>
+			<outputString>p4Rt1$4N</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Pickaxe</identifier>
+			<outputString>p1k4x3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Poisoned</identifier>
+			<outputString>p0iz0n3d</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Quality</identifier>
+			<outputString>qu4l1ty</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Recurve</identifier>
+			<outputString>r3(urv3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Refined</identifier>
+			<outputString>r3f1n3D</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Reforged</identifier>
+			<outputString>r3f0r6ed</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Replica</identifier>
+			<outputString>r3pl1(4</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Sabre</identifier>
+			<outputString>548r3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Scimitar</identifier>
+			<outputString>5c1m174r</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Scroll</identifier>
+			<outputString>5cr0ll</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>seconds</identifier>
+			<outputString>$3C0nDz</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shock</identifier>
+			<outputString>5h0Ck</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shortbow</identifier>
+			<outputString>$h0r7b0w</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shortspear</identifier>
+			<outputString>5h0r75P34R</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Shortsword</identifier>
+			<outputString>5h0r75w0rD</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Silenced</identifier>
+			<outputString>51l3n(3D</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Staff</identifier>
+			<outputString>574FF</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Strong</identifier>
+			<outputString>5R0nK</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Strongest</identifier>
+			<outputString>5R0nK3573r</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Tanto</identifier>
+			<outputString>74n70</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Timebomb</identifier>
+			<outputString>71M380M8</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Volendrung</identifier>
+			<outputString>V0l3NdRuN6</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Wakizashi</identifier>
+			<outputString>W4k1Z45h1</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Waraxe</identifier>
+			<outputString>W4r4X3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warforged</identifier>
+			<outputString>W4rF0r63D</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Warhammer</identifier>
+			<outputString>W4rH4mM3r</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Deals more bonus damage to undead, and is easier to handle than regular silver weapons.</identifier>
+			<outputString>pWnz0rz uNd34dz, + 1z 33z13r 2 h4Ndl3 d3N r3GuL4r s1Lv3R w34P0nZ.</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explodes upon impact, dealing 10 points of poison damage per second for 3 seconds.</identifier>
+			<outputString>eXpL0d3z uP0n 1mPaCt, pWnz0rz 10 p01nTz 0f p01$0N pWn4Ge p3R $3c0Nd f0R 3 $3C0nDz</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Explodes upon impact, dealing 60 points of non-elemental damage.</identifier>
+			<outputString>expl0d3z uP0n 1mPaCt, pWnz0rz 10 p01nTz 0f n0n 3L3m3nTa1 pWn4Ge p3R $3c0Nd f0R 3 $3C0nDz</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Bulwark</identifier>
+			<outputString>t3H bUlW4rK</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Rampart</identifier>
+			<outputString>t3H r4Mp4Rt</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Tower</identifier>
+			<outputString>t3H t0W3r</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Castle</identifier>
+			<outputString>t3H c4$tl3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Fortress</identifier>
+			<outputString>t3H f0Rtr3$$</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Bastion</identifier>
+			<outputString>t3H b4$t10N</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Maze</identifier>
+			<outputString>t3H m4Z3</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Gremlin Gold</identifier>
+			<outputString>gR3mL1N m0N13z</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Troll Gold</identifier>
+			<outputString>tR0ll0l0l0 m0N13z</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Word</identifier>
+			<outputString>tEh w3rd</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Dovah</identifier>
+			<outputString>tEh d0v4h</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Speaker</identifier>
+			<outputString>tEh sP33Ker</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Kyne's Wonders</identifier>
+			<outputString>kyN3'z w0Nd3Rz</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Perpetual Alteration</identifier>
+			<outputString>uB3r 4lT3r4T10n</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Eternal Alteration</identifier>
+			<outputString>m3G4-uB3r 4lT3r4T10n</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Perpetual Conjuration</identifier>
+			<outputString>uB3R c0NjUr4T10n</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Eternal Conjuration</identifier>
+			<outputString>m3G4-uB3r c0NjUr4T10n</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Magnificent Destruction</identifier>
+			<outputString>uB3r d3sTrUcTion</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Glorious Destruction</identifier>
+			<outputString>m3G4-uB3r d3sTrUcTion</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Magnificent Illusion</identifier>
+			<outputString>uB3r 1lLu$I0n</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Glorious Illusion</identifier>
+			<outputString>m3G4-uB3r 1lLu$I0n</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Magnificent Restoration</identifier>
+			<outputString>uB3r r3St0R4T10n</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Glorious Restoration</identifier>
+			<outputString>m3G4-uB3r r3St0R4T10n</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Gold</identifier>
+			<outputString>t3H m0N13z</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Treasure</identifier>
+			<outputString>l3wT</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>the Killer</identifier>
+			<outputString>t3H k1lL3r</outputString>
+		</stringBinding>
+	</language>
 </ns2:languages>
