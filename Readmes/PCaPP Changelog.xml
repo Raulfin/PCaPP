@@ -1,6 +1,6 @@
 <Versions>
 <Current>
-<v3>
+<v2.6.4>
 Now covers:
 	InsanitySorrow's Zatoichi (26619)
 	Vayan Armor (61616)
@@ -9,32 +9,9 @@ Now covers:
 	Mystic Elven Armor - HD (5600)
 	Divine Aegis HD (9109) (20809)
 
-Blocklist:
-
-Exclusions:
-
-Fixes:
-
-Changes:
-	Removed a few ITM records (SiC)
-
 Additions:
-
-Balancing:
-
-Renamed:
-	Deadric Crescent -> Daedric Crescent - Short (IW) (Arming Sword)
-	Great Deadric Crescent -> Deadric Crescent (IW) (Greatsword) - Changed to match TES lore
-	Dwarven Power Battlexe -> Dwarven Power Battleaxe (AAA)
-
-Updated Patches:
-	Immersive Weapons (IW)
-	AetheriumSwordsnArmor.esp (AAA)
-	Immersive Creatures Patch (SiC)
-
-New Patches:
-	Daedra of Coldharbour
-</v3>
+	More French strings.
+</v2.6.4>
 </Current>
 
 <Old>
