@@ -826,6 +826,22 @@
 			<identifier>Steel</identifier>
 			<substring>Breton Knight</substring>
 		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Altmer</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Altmeri</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Aldmer</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Aldmeri</substring>
+		</binding>
 	<!-- Racial material_Bindings end -->
 
 	<!-- Advanced bindings start -->
