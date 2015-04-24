@@ -8,11 +8,13 @@ Blocklist:
 Exclusions:
 
 Fixes:
+	Some missed ITMs in CCOR patches.
 
 Changes:
 	Removed a few ITM records (SiC)
 
 Additions:
+	NPCs Atahba, Khayla and Ma'randru-jo covered by CCOR BOYD
 
 Balancing:
 
@@ -25,6 +27,8 @@ Updated Patches:
 	Immersive Weapons (IW)
 	AetheriumSwordsnArmor.esp (AAA)
 	Immersive Creatures Patch (SiC)
+	CCOR BOYD
+	CCOR
 
 New Patches:
 	Daedra of Coldharbour
