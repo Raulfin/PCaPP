@@ -1291,6 +1291,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Divine Aegis</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Aspect of Strength</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -1580,6 +1584,14 @@
 			<identifier>Draugr Honed</identifier>
 			<substring>Bow of the Forgotten Chaos</substring>
 		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>The Giant's Downfall</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>The Giant Slayer</substring>
+		</binding>
 	<!-- Drauger bindings end -->
 	
 	<!-- Dwarven bindings start -->
@@ -1786,6 +1798,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Dorana's Hammer</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Atulg's Edge</substring>
 		</binding>
 	<!-- Dwarven bindings end -->
 	
@@ -2896,6 +2912,10 @@
 			<identifier>Iron</identifier>
 			<substring>The Withdrawal</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>The Crab Slayer</substring>
+		</binding>
 	<!-- Iron bindings end -->
 	
 	<!-- Iron/Wood Clutter bindings start -->
@@ -3059,17 +3079,18 @@
 	<!-- Orcish bindings end -->
 	
 	<!-- Silver bindings start -->
+	<!-- Silver items should have a matching Refined binding -->
 		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Honed Silver</substring>
 		</binding>
 		<binding>
-			<identifier>SilverHigh</identifier>
-			<substring>Silver Honed</substring>
-		</binding>
-		<binding>
 			<identifier>RSilverHigh</identifier>
 			<substring>Refined Honed Silver</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Silver Honed</substring>
 		</binding>
 		<binding>
 			<identifier>RSilverHigh</identifier>
@@ -3128,6 +3149,10 @@
 			<substring>Goveri's Unwinder</substring>
 		</binding>
 		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Goveri's Unwinder</substring>
+		</binding>
+		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Cyrodiilic Silver</substring>
 		</binding>
@@ -3166,6 +3191,22 @@
 		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Mithrodin</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Merblight</substring>
+		</binding>
+		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Merblight</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Blessed Blade of Stendarr</substring>
+		</binding>
+		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Blessed Blade of Stendarr</substring>
 		</binding>
 	<!-- Silver bindings end -->
 	
@@ -3852,6 +3893,26 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Sorrow</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Cloudcleaver</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Steel Sabre</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Dragon's Strength</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Dragon's Grace</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Blessed Dagger</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
@@ -5431,6 +5492,18 @@
 			<substring>Sword of the Divine Aegis</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Aspect of Strength</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Merblight</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Blessed Blade of Stendarr</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -5711,6 +5784,10 @@
 			<substring>Shards of Narsil</substring>
 			<identifier>Dagger</identifier>
 		</binding>
+		<binding>
+			<substring>The Crab Slayer</substring>
+			<identifier>Dagger</identifier>
+		</binding>
 	<!-- Dagger bindings end -->
 
 	<!-- Hatchet bindings start -->
@@ -5794,6 +5871,14 @@
 		</binding>
 		<binding>
 			<substring>Zatoichi</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Dragon's Strength</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Dragon's Grace</substring>
 			<identifier>Katana</identifier>
 		</binding>
 	<!-- Katana bindings end -->
@@ -6615,6 +6700,10 @@
 			<substring>Battlexe</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
+		<binding>
+			<substring>Cloudcleaver</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
 	<!-- Battleaxe bindings end -->
 	
 	<!-- Battlestaff bindings start -->
@@ -6959,6 +7048,14 @@
 		</binding>
 		<binding>
 			<substring>Black Sting Greatsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Atulg's Edge</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>The Giant Slayer</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->
@@ -7435,6 +7532,10 @@
 		</binding>
 		<binding>
 			<substring>Mystic Elven Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>The Giant's Downfall</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
