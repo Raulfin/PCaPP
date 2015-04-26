@@ -1295,6 +1295,14 @@
 			<identifier>DaedricHigh</identifier>
 			<substring>Aspect of Strength</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Akatosh</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Firelink</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
