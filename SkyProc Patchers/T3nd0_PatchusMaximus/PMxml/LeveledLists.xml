@@ -3375,6 +3375,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Divine Aegis -->
+		<!-- Gifts of Akatosh -->
+			<exclusion>
+				<text>Akatosh</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gifts of Akatosh -->
+		<!-- Firelink Implements -->
+			<exclusion>
+				<text>FirelinkGreat</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Firelink Implements -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4637,6 +4651,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Divine Aegis -->
+		<!-- Gifts of Akatosh -->
+			<exclusion>
+				<text>Akatosh</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gifts of Akatosh -->
+		<!-- Firelink Implements -->
+			<exclusion>
+				<text>FirelinkGreat</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Firelink Implements -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -6370,6 +6398,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Divine Aegis -->
+		<!-- Gifts of Akatosh -->
+			<exclusion>
+				<text>ArmorAkatosh</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gifts of Akatosh -->
+		<!-- Firelink Implements -->
+			<exclusion>
+				<text>ArmorFirelink</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Firelink Implements -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -7869,6 +7911,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Divine Aegis -->
+		<!-- Gifts of Akatosh -->
+			<exclusion>
+				<text>ArmorAkatosh</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gifts of Akatosh -->
+		<!-- Firelink Implements -->
+			<exclusion>
+				<text>ArmorFirelink</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Firelink Implements -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
