@@ -176,6 +176,10 @@
 			<substring>Reinforced</substring>
 			<identifier>reinforced</identifier>
 		</binding>
+		<binding>
+			<substring>Midweight</substring>
+			<identifier>thick</identifier>
+		</binding>
 	</armor_modifier_bindings>
 
 	<armor_modifiers> 
@@ -2110,6 +2114,10 @@
 			<identifier>DragonplateHigh</identifier>
 			<substring>Valfar's Armor</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Heavy Diamond</substring>
+		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
 	<!-- Dragonscale Material Bindings start -->
@@ -2330,6 +2338,10 @@
 			<identifier>Dragonscale</identifier>
 			<substring>L6</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Diamond</substring>
+		</binding>
 	<!-- Dragonscale Material Bindings end -->
 	
 	<!-- Dwarven Material Bindings start -->
@@ -2533,6 +2545,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Markarth Silverblood</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Heavy Ruby</substring>
 		</binding>
 	<!-- Dwarven Material Bindings end -->
 	
@@ -3014,6 +3030,10 @@
 			<identifier>Ebony</identifier>
 			<substring>Nerevarine</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Heavy Emerald</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -3329,6 +3349,10 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Sword Master</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Ruby</substring>
 		</binding>
 	<!-- Elven Material Bindings end -->
 	
@@ -3705,7 +3729,11 @@
 		<binding>
 			<identifier>GlassHigh</identifier>
 			<substring>Black Hood</substring>
-		</binding> 
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<identifier>Emerald</identifier>
+		</binding>
 	<!-- Glass Material Bindings end -->
 	
 	<!-- Gold Material Bindings start -->
@@ -3893,6 +3921,10 @@
 		<binding>
 			<identifier>Hide</identifier>
 			<substring>Belko</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Garnet</substring>
 		</binding>
 	<!-- Hide Material Bindings end -->
 
@@ -4261,6 +4293,10 @@
 		<binding>
 			<identifier>IronHigh</identifier>
 			<substring>Rigmors Cuirass</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Heavy Garnet</substring>
 		</binding>
 	<!-- Iron Material Bindings end -->
 	
@@ -5458,6 +5494,10 @@
 			<identifier>Orcish</identifier>
 			<substring>H5</substring>
 		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Heavy Sapphire</substring>
+		</binding>
 	<!-- Orcish Material Bindings end -->
 	
 	<!-- Scaled Material Bindings start -->
@@ -6402,6 +6442,14 @@
 			<identifier>Steel Heavy</identifier>
 			<substring>The Giant-Slayer's Plate</substring>
 		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Amethyst</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Heavy Amethyst</substring>
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
@@ -6705,6 +6753,10 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Windhelm Steel</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Sapphire</substring>
 		</binding>
 	<!-- Steel Plate Material Bindings end -->
 	
