@@ -1081,6 +1081,12 @@
 			<substring>Mystic Elven</substring>
 		</binding>
 	<!-- Mystic Elven -->
+	<!-- Cynder Arrows -->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Cynder</substring>
+		</binding>
+	<!-- Cynder Arrows -->
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
