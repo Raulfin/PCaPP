@@ -2924,6 +2924,10 @@
 			<identifier>Iron</identifier>
 			<substring>The Crab Slayer</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Hunter's Saw</substring>
+		</binding>
 	<!-- Iron bindings end -->
 	
 	<!-- Iron/Wood Clutter bindings start -->
