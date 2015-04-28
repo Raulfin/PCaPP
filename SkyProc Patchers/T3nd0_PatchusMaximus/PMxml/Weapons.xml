@@ -1272,10 +1272,6 @@
 			<substring>Sovereign's Slayer</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier>
-			<substring>Black Hands Dagger</substring>
-		</binding>
-		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Sulfuras</substring>
 		</binding>
@@ -2282,6 +2278,10 @@
 			<identifier>EbonyHigh</identifier>
 			<substring>Trueflame</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Dragonborn Terra</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
@@ -3133,16 +3133,8 @@
 			<substring>Luna</substring>
 		</binding>
 		<binding>
-			<identifier>RSilver</identifier>
-			<substring>Refined Luna</substring>
-		</binding>
-		<binding>
-			<identifier>SilverHigh</identifier>
+			<identifier>Silver</identifier>
 			<substring>Luna II</substring>
-		</binding>
-		<binding>
-			<identifier>RSilverHigh</identifier>
-			<substring>Refined Luna II</substring>
 		</binding>
 		<binding>
 			<identifier>SilverHigh</identifier>
@@ -3473,10 +3465,6 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Sol</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Sol Greatsword</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -3921,6 +3909,22 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Blessed Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Luna 1h</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Luna 2h</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Mars</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Venus</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
@@ -5980,10 +5984,6 @@
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
-			<substring>Luna II</substring>
-			<identifier>Longsword</identifier>
-		</binding>
-		<binding>
 			<substring>Sol</substring>
 			<identifier>Longsword</identifier>
 		</binding>
@@ -6065,6 +6065,14 @@
 		</binding>
 		<binding>
 			<substring>Shardslayer</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Mars</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Venus</substring>
 			<identifier>Longsword</identifier>
 		</binding>
 	<!-- Longsword bindings end -->
@@ -6387,6 +6395,14 @@
 			<substring>rapier</substring>
 			<identifier>Shortsword</identifier>
 		</binding>
+		<binding>
+			<substring>Short Terra</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
+		<binding>
+			<substring>Short Black Terra</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
 	<!-- Shortsword bindings end -->
 
 	<!-- Tanto bindings start -->
@@ -6579,6 +6595,14 @@
 		</binding>
 		<binding>
 			<substring>Azuras Bane</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Luna II</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Luna 2h</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
 	<!-- Bastard Sword bindings end -->
@@ -6820,6 +6844,18 @@
 		</binding>
 		<binding>
 			<substring>Great Terra</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<bindin>
+			<substring>Great Black Terra</substring>
+			<identifier>Greatsword</identifier>
+		</bindin>
+		<binding>
+			<substring>Great Dragonborn Terra</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Great Black Dragonborn Terra</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
@@ -7064,6 +7100,14 @@
 		</binding>
 		<binding>
 			<substring>The Giant Slayer</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Great Mars</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Great Venus</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->
