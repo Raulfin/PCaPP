@@ -5,6 +5,7 @@ Now covers:
 	ThirteenOrange's Quest mods (Steam)
 	Gifts of Akatosh (Steam)
 	Firelink Implements (Steam)
+	Cynder Arrows (65221)
 
 Blocklist:
 
@@ -12,18 +13,23 @@ Exclusions:
 
 Fixes:
 	Some missed ITMs in CCOR patches.
+	Necrosis, Void Bolt and Blight Curse now scale with Restoration and not Destruction as intended (FMR)
+	Cleaned unnecessary records (FMR)
 
 Changes:
 	Removed a few ITM records (SiC)
 
 Additions:
 	NPCs Atahba, Khayla and Ma'randru-jo covered by CCOR BOYD
+	Carried over some missing globals (IW) 
 
 Balancing:
+	Corrected bound weapon spell cost (BA)
 
 Renamed:
 	Deadric Crescent -> Daedric Crescent - Short (IW) (Arming Sword)
-	Great Deadric Crescent -> Deadric Crescent (IW) (Greatsword) - Changed to match TES lore
+	Great Deadric Crescent -> Deadric Crescent (IW) - Changed to match TES lore as a Greatsword
+	Steel Quarterstaff recipie modified slightly. (IW)
 	Dwarven Power Battlexe -> Dwarven Power Battleaxe (AAA)
 
 Updated Patches:
@@ -32,9 +38,14 @@ Updated Patches:
 	Immersive Creatures Patch (SiC)
 	CCOR BOYD
 	CCOR
+	Forgotten Magic Redone (FMR)
+	Bound Armory (BA)
 
 New Patches:
 	Daedra of Coldharbour
+
+Removed Patches:
+	Left Hand Rings (v1.5 includes the changes)
 </v3>
 </Current>
 
