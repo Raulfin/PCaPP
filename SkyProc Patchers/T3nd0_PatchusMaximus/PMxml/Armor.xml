@@ -5130,6 +5130,10 @@
 			<identifier>LeatherHeavy</identifier>
 			<substring>Rigmors Boots</substring>
 		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Yharnyam</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
