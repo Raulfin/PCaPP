@@ -3389,6 +3389,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Firelink Implements -->
+		<!-- Terra -->
+			<exclusion>
+				<text>DTerra</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Terra -->
+		<!-- Yharnyam Set -->
+			<exclusion>
+				<text>zzzWeapYham</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Yharnyam Set -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4665,6 +4679,25 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Firelink Implements -->
+		<!-- SOL -->
+			<exclusion>
+				<text>Sol</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SolII</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- SOL -->
+		<!-- Yharnyam Set -->
+			<exclusion>
+				<text>zzzWeapYham</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Yharnyam Set -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -6412,6 +6445,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Firelink Implements -->
+		<!-- Yharnyam Set -->
+			<exclusion>
+				<text>zzzArmorYham</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Yharnyam Set -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
