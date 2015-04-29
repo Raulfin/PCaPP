@@ -6885,6 +6885,13 @@
 			<materialTemper>BONEMOLD_HEAVY</materialTemper>
 		</armor_material>
 		<armor_material>
+			<armorBase>25</armorBase>
+			<identifier>Bonemold Medium</identifier>
+			<type>BOTH</type> <!-- Armor will count as both light and heavy when using perks, but only the original skill will be improved. -->
+			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
+			<materialTemper>BONEMOLD_HEAVY</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>32</armorBase>
 			<identifier>BonemoldLow</identifier>
 			<type>HEAVY</type>
