@@ -3137,8 +3137,16 @@
 			<substring>Luna</substring>
 		</binding>
 		<binding>
+			<identifier>RSilver</identifier>
+			<substring>Refined Luna</substring>
+		</binding>
+		<binding>
 			<identifier>Silver</identifier>
 			<substring>Luna II</substring>
+		</binding>
+		<binding>
+			<identifier>RSilver</identifier>
+			<substring>Refined Luna II</substring>
 		</binding>
 		<binding>
 			<identifier>SilverHigh</identifier>
