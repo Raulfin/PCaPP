@@ -6,12 +6,18 @@ Now covers:
 	Gifts of Akatosh (Steam)
 	Firelink Implements (Steam)
 	Cynder Arrows (65221)
+	Diamond Armor Smithing (35647)
+	LUNA (55644)
+	TERRA (56049)
+	MARS (57182)
+	VENUS (56492)
 
 Blocklist:
 
 Exclusions:
 
 Fixes:
+	Silver and Refined Silver weapons can no longer be Reforged or Warforged.
 	Some missed ITMs in CCOR patches.
 	Necrosis, Void Bolt and Blight Curse now scale with Restoration and not Destruction as intended (FMR)
 	Cleaned unnecessary records (FMR)
