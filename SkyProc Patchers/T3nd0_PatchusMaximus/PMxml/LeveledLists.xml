@@ -1801,6 +1801,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Dwemer Spectres -->
+		<!-- Black Horse Courier Reborn -->
+			<exclusion>
+				<text>_SAG_BlackHorse</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>_SAG_BHC</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Black Horse Courier Reborn -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
