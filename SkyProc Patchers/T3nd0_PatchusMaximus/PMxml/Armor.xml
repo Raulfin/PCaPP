@@ -2554,6 +2554,10 @@
 			<identifier>Dwarven</identifier>
 			<substring>Heavy Ruby</substring>
 		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Helm of the Aethernaut</substring>
+		</binding>
 	<!-- Dwarven Material Bindings end -->
 	
 	<!-- Ebony Material Bindings start -->
