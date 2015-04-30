@@ -659,6 +659,10 @@
 			<identifier>Clothing</identifier>
 			<substring>Thalmor Wings</substring>
 		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Altmer</substring>
+		</binding>
 	<!-- Racial material_Bindings end -->
 	
 	<!-- Faction material_Bindings start -->
@@ -2549,6 +2553,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Heavy Ruby</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Helm of the Aethernaut</substring>
 		</binding>
 	<!-- Dwarven Material Bindings end -->
 	

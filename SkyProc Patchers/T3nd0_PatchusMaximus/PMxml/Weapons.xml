@@ -1299,6 +1299,22 @@
 			<identifier>Daedric</identifier>
 			<substring>Firelink</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Lilith's Obliterator</substring>
+		</binding>'
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Lilith's Evening Star</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Lilith's Ancient Obliterator</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Lilith's Ancient Evening Star</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -1806,6 +1822,14 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Atulg's Edge</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Nullsprocket</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Clutterbane</substring>
 		</binding>
 	<!-- Dwarven bindings end -->
 	
@@ -3139,10 +3163,6 @@
 		<binding>
 			<identifier>RSilver</identifier>
 			<substring>Refined Luna</substring>
-		</binding>
-		<binding>
-			<identifier>Silver</identifier>
-			<substring>Luna II</substring>
 		</binding>
 		<binding>
 			<identifier>RSilver</identifier>
@@ -5233,10 +5253,6 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
-			<substring>Soulrender</substring>
-			<identifier>Arming Sword</identifier>
-		</binding>
-		<binding>
 			<substring>Albensword</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -6166,6 +6182,14 @@
 			<substring>Mace of Molag Bal</substring>
 			<identifier>Spiked Mace</identifier>
 		</binding>
+		<binding>
+			<substring>Lilith's Obliterator (mace1h</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Obliterator (mace1h</substring>
+			<identifier>Longmace</identifier>
+		</binding>
 	<!-- Mace bindings end -->
 
 	<!-- Maul bindings start -->
@@ -6179,7 +6203,7 @@
 		</binding>
 	<!-- Maul bindings end -->
 	
-	<!-- Morning Star -->
+	<!-- Morning Star bindings start -->
 		<binding>
 			<substring>Morning star</substring>
 			<identifier>Morning Star</identifier>
@@ -6192,7 +6216,14 @@
 			<substring>Emfy Mace</substring>
 			<identifier>Morning Star</identifier>
 		</binding>
-	<!-- Morning Star -->
+		<binding>
+			<substring>Lilith's Evening Star (1h)</substring>
+			<identifier>Morning Star</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Evening Star (1h)</substring>
+			<identifier>Morning Star</identifier>
+	<!-- Morning Star bindings end -->
 
 	<!-- Sabre bindings start -->
 		<binding>
@@ -6236,6 +6267,10 @@
 		</binding>
 		<binding>
 			<substring>Bloodscythe</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>Soulrender</substring>
 			<identifier>Scimitar</identifier>
 		</binding>
 		<binding>
@@ -6536,6 +6571,14 @@
 			<substring>Natat</substring>
 			<identifier>Waraxe</identifier>
 		</binding>
+		<binding>
+			<substring>Lilith's Obliterator (1h</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Obliterator (1h</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
 	<!-- Waraxe bindings end -->
 	<!-- =====================================================Light Weapon bindings end =================================================== -->
 
@@ -6746,6 +6789,14 @@
 		</binding>
 		<binding>
 			<substring>Cloudcleaver</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Obliterator</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Obliterator</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 	<!-- Battleaxe bindings end -->
@@ -7125,6 +7176,14 @@
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
+		<binding>
+			<substring>Lilith's Obliterator (halbert)</substring>
+			<identifier>Halberd</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Obliterator (halbert)</substring>
+			<identifier>Halberd</identifier>
+		</binding>
 	<!-- Halberd bindings end -->
 	
 	<!-- Longmace bindings start -->
@@ -7142,6 +7201,14 @@
 		</binding>
 		<binding>
 			<substring>Black Ice</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Obliterator (mace</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Obliterator (mace</substring>
 			<identifier>Longmace</identifier>
 		</binding>
 	<!-- Longmace bindings end -->
@@ -7364,6 +7431,14 @@
 	<!-- Great Morning Star bindings start -->
 		<binding>
 			<substring>War Morning Star</substring>
+			<identifier>Great Morning Star</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Evening Star (2h)</substring>
+			<identifier>Great Morning Star</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Evening Star (2h)</substring>
 			<identifier>Great Morning Star</identifier>
 		</binding>
 	<!-- Great Morning Star bindings end -->
@@ -8702,7 +8777,7 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Wheels Of Lull-->
-	<!-- Brhuce: Legacy also affects Blackreach Railroad-->
+	<!-- Brhuce: Legacy also affects Blackreach Railroad and Dwemer Spectres-->
 		<exclusion>
 			<text>_tw_</text>
 			<target>EDID</target>
