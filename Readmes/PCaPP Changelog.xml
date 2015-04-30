@@ -11,6 +11,10 @@ Now covers:
 	TERRA (56049)
 	MARS (57182)
 	VENUS (56492)
+	Altmer ESO Armor Reborn (64532)
+	Dwemer Spectres (63022)
+	Black Horse Courier (59450)
+	Liliths Obliterator (23733)
 
 Blocklist:
 
@@ -21,6 +25,7 @@ Fixes:
 	Some missed ITMs in CCOR patches.
 	Necrosis, Void Bolt and Blight Curse now scale with Restoration and not Destruction as intended (FMR)
 	Cleaned unnecessary records (FMR)
+	Soulrender will now properly bind as a Scimitar.
 
 Changes:
 	Removed a few ITM records (SiC)
