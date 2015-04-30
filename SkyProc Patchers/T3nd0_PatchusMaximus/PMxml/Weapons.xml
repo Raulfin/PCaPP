@@ -3149,10 +3149,6 @@
 			<substring>Refined Luna</substring>
 		</binding>
 		<binding>
-			<identifier>Silver</identifier>
-			<substring>Luna II</substring>
-		</binding>
-		<binding>
 			<identifier>RSilver</identifier>
 			<substring>Refined Luna II</substring>
 		</binding>
@@ -5241,10 +5237,6 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
-			<substring>Soulrender</substring>
-			<identifier>Arming Sword</identifier>
-		</binding>
-		<binding>
 			<substring>Albensword</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -6244,6 +6236,10 @@
 		</binding>
 		<binding>
 			<substring>Bloodscythe</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>Soulrender</substring>
 			<identifier>Scimitar</identifier>
 		</binding>
 		<binding>
