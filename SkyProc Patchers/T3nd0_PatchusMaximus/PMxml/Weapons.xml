@@ -1807,6 +1807,14 @@
 			<identifier>Dwarven</identifier>
 			<substring>Atulg's Edge</substring>
 		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Nullsprocket</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Clutterbane</substring>
+		</binding>
 	<!-- Dwarven bindings end -->
 	
 	<!-- Ebony bindings start -->
@@ -8702,7 +8710,7 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Wheels Of Lull-->
-	<!-- Brhuce: Legacy also affects Blackreach Railroad-->
+	<!-- Brhuce: Legacy also affects Blackreach Railroad and Dwemer Spectres-->
 		<exclusion>
 			<text>_tw_</text>
 			<target>EDID</target>
