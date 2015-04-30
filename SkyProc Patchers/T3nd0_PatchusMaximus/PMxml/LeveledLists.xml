@@ -320,14 +320,7 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Hearthfire multiple adoptions end -->
-		<!-- Brhuce: Legacy -->
-			<exclusion>
-				<text>_tw_</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-		<!-- Brhuce: Legacy -->
-		<!-- World Eater Beater -->
+		<!-- World Eater Beater and Bhruce Legacy -->
 			<exclusion>
 				<text>_tw_</text>
 				<target>EDID</target>
@@ -343,7 +336,7 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-		<!-- World Eater Beater -->
+		<!-- World Eater Beater and Bhruce Legacy -->
 		<!-- Lost Wonders of Mzark -->
 			<exclusion>
 				<text>_lw_</text>
@@ -1801,6 +1794,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Campfire -->
+		<!-- Dwemer Spectres -->
+			<exclusion>
+				<text>_tw_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dwemer Spectres -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -4698,6 +4698,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Yharnyam Set -->
+		<!-- Dwemer Spectres -->
+			<exclusion>
+				<text>_tw_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dwemer Spectres -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
