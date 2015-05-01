@@ -8485,16 +8485,6 @@
 	<reforge_exclusions>
 	<!-- Prevents PaMa from making Reforge and Breakdown recipes for items. Primarily intended for Quest items -->
 		<exclusion>
-			<text>Silver</text>
-			<target>NAME</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
-			<text>Refined Silver</text>
-			<target>NAME</target>
-			<type>STARTSWITH</type>
-		</exclusion>
-		<exclusion>
 			<text>Ceremonial Axe</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
