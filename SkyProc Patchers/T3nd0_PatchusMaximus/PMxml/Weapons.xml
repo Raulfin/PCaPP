@@ -7228,10 +7228,6 @@
 			<identifier>Nodachi</identifier>
 		</binding>
 		<binding>
-			<substring>Ebony Blade</substring>
-			<identifier>Nodachi</identifier>
-		</binding>
-		<binding>
 			<substring>Akaviri Greatsword</substring>
 			<identifier>Nodachi</identifier>
 		</binding>
@@ -7284,6 +7280,14 @@
 		</binding>
 		<binding>
 			<identifier>Spear Of Thorns</identifier>
+			<substring>Partisan</substring>
+		</binding>
+		<binding>
+			<identifier>Gondorian Spear</identifier>
+			<substring>Partisan</substring>
+		</binding>
+		<binding>
+			<identifier>Spear of the Tower Guard</identifier>
 			<substring>Partisan</substring>
 		</binding>
 	<!-- Partisan bindings end -->
@@ -7740,6 +7744,10 @@
 		<binding>
 			<substring>Throw Javelins</substring>
 			<identifier>Javelin</identifier>
+		</binding>
+		<binding>
+			<substring>Gondorian Bow</substring>
+			<identifier>Shortbow</identifier>
 		</binding>
 	<!-- Shortbow bindings end -->
 	

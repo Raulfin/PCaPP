@@ -1120,6 +1120,18 @@
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Dragonguard Helmet</substring>
 		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Tower Guard</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Citadel Guard</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Gondorian</substring>
+		</binding>
 	<!-- Faction material_Bindings end -->
 	
 	<!-- Civil War material_Bindings Start -->
@@ -4026,6 +4038,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Emerald</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Bosmer Ceremonial</substring>
 		</binding>
 	<!-- Glass Material Bindings end -->
 	
