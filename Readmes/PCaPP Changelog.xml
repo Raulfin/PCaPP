@@ -1,5 +1,33 @@
 <Versions>
 <Current>
+<v3>
+Now covers:
+
+Blocklist:
+	WondersofWeather.esp
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+
+Removed Patches:
+</v3>
+</Current>
+
+
+<Old>
 <v2.7>
 Now covers:
 	ThirteenOrange's Quest mods (Steam)
@@ -63,10 +91,6 @@ New Patches:
 Removed Patches:
 	Left Hand Rings (v1.5 includes the changes)
 </v2.7>
-</Current>
-
-
-<Old>
 <v2.6.4>
 Now covers:
 	InsanitySorrow's Zatoichi (26619)

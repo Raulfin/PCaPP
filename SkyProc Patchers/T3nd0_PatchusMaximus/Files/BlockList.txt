@@ -60,5 +60,6 @@ Throwing_Weapons_Redux.esp
 UIExtensions.esp
 VioLens.esp
 WetandCold - Ashes.esp
+WondersofWeather.esp
 zzEstrus.esp
 
