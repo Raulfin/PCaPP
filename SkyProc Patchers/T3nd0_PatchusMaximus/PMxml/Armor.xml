@@ -9387,5 +9387,39 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Campfire -->
+	<!-- Tribunal Masks - Judgement Day -->
+		<exclusion>
+			<text>ArmorTribunalMask</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Tribunal Masks - Judgement Day -->
+	<!-- Gangs Of Skyrim -->
+		<exclusion>
+			<text>ShadowA</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>ShadowG</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>ShadowH</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>ShadowB</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Wolf Pack</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Gangs Of Skyrim -->
 	</reforge_exclusions>
 </ns2:armor>
