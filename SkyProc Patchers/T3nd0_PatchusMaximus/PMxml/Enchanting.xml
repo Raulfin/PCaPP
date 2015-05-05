@@ -8864,6 +8864,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Yharnyam Set -->
+	<!-- ESO Altmer Armor by NewerMind43 RELOAD -->
+		<exclusion>
+			<text>xxxESOAltmer</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- ESO Altmer Armor by NewerMind43 RELOAD -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
