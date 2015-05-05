@@ -30,22 +30,19 @@ Fixes:
 	Cleaned unnecessary records (FMR)
 	Soulrender will now properly bind as a Scimitar.
 	Better handling of Dynamic Loot items.
-
-Changes:
 	Removed a few ITM records (SiC)
 
 Additions:
-	NPCs Atahba, Khayla and Ma'randru-jo covered by CCOR BOYD
+	NPCs Atahba, Khayla and Ma'randru-jo now covered by CCOR BOYD patch
 	Carried over some missing globals (IW) 
 
 Balancing:
 	Corrected bound weapon spell cost (BA)
 
 Renamed:
-	Deadric Crescent -> Daedric Crescent - Short (IW) (Arming Sword)
-	Great Deadric Crescent -> Deadric Crescent (IW) - Changed to match TES lore as a Greatsword
-	Steel Quarterstaff recipie modified slightly. (IW)
-	Dwarven Power Battlexe -> Dwarven Power Battleaxe (AAA)
+	Deadric Crescent [Arming Sword] -> Daedric Crescent - Short [Arming Sword] (IW)
+	Great Deadric Crescent [Greatsword] -> Deadric Crescent [Greatsword] (IW) - To match TES lore
+	Dwarven Power Battlexe -> Dwarven Power Battleaxe (AAA) - Was missing the a in axe
 
 Updated Patches:
 	Immersive Weapons (IW)
@@ -57,7 +54,7 @@ Updated Patches:
 	Bound Armory (BA)
 
 New Patches:
-	Daedra of Coldharbour
+	Daedra of Coldharbour (DoC)
 
 Removed Patches:
 	Left Hand Rings (v1.5 includes the changes)
