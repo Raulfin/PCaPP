@@ -1087,6 +1087,12 @@
 			<substring>Cynder</substring>
 		</binding>
 	<!-- Cynder Arrows -->
+	<!-- Merp's Gondorian Armor -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Gondorian</substring>
+		</binding>
+	<!-- Merp's Gondorian Armor -->
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
