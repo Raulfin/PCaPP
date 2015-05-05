@@ -4025,7 +4025,7 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
-			<identifier>Emerald</identifier>
+			<substring>Emerald</substring>
 		</binding>
 	<!-- Glass Material Bindings end -->
 	
