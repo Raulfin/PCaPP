@@ -34,7 +34,8 @@ Fixes:
 
 Additions:
 	NPCs Atahba, Khayla and Ma'randru-jo now covered by CCOR BOYD patch
-	Carried over some missing globals (IW) 
+	Carried over some missing globals (IW)
+	Added some survivalism perks (FF)
 
 Balancing:
 	Corrected bound weapon spell cost (BA)
@@ -52,9 +53,12 @@ Updated Patches:
 	CCOR
 	Forgotten Magic Redone (FMR)
 	Bound Armory (BA)
+	Better Vampires (BV) - Updated to 6.7
+	Frost Fall (FF)
 
 New Patches:
 	Daedra of Coldharbour (DoC)
+	Johnskyrims HD Armored Circlets (JAC)
 
 Removed Patches:
 	Left Hand Rings (v1.5 includes the changes)
