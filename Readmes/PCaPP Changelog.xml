@@ -17,6 +17,7 @@ Now covers:
 	Liliths Obliterator (23733)
 
 Blocklist:
+	Extensible Follower Framework (EFF/XFL)
 
 Exclusions:
 	Black Horse Courier flyers will no longer be distributed.
@@ -26,6 +27,7 @@ Fixes:
 	Necrosis, Void Bolt and Blight Curse now scale with Restoration and not Destruction as intended (FMR)
 	Cleaned unnecessary records (FMR)
 	Soulrender will now properly bind as a Scimitar.
+	Better handling of Dynamic Loot items.
 
 Changes:
 	Removed a few ITM records (SiC)

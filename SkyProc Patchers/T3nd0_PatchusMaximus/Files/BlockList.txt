@@ -20,6 +20,8 @@ Dual Sheath Redux.esp
 Dual Sheath Redux Patch.esp
 Dwemertech - Magic of the Dwarves.esp
 Dwemertech - PerMa Compatibility Patch.esp
+EFFCore.esm
+EFFDialogue.esp
 Footprints.esp
 Headtracking.esp
 HDTPhysicsWeaponSling.esp
@@ -55,6 +57,7 @@ Spectraverse - PerMa Compatibility Patch.esp
 Spectraverse - Only After Dragon Rising.esp
 SplashofRain.esp
 Throwing_Weapons_Redux.esp
+UIExtensions.esp
 VioLens.esp
 WetandCold - Ashes.esp
 zzEstrus.esp
