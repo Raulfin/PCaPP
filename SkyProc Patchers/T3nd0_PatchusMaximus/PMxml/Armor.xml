@@ -1134,6 +1134,18 @@
 			<identifier>HeavyFaction</identifier>
 			<substring>Gondorian</substring>
 		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Mask Silver</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Shadow</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Wolf Pack</substring>
+		</binding>
 	<!-- Faction material_Bindings end -->
 	
 	<!-- Civil War material_Bindings Start -->
@@ -2645,6 +2657,10 @@
 			<identifier>Dragonscale</identifier>
 			<substring>Diamond</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Mask Gator</substring>
+		</binding>
 	<!-- Dragonscale Material Bindings end -->
 	
 	<!-- Dwarven Material Bindings start -->
@@ -2856,6 +2872,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Helm of the Aethernaut</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Mask Bronze</substring>
 		</binding>
 	<!-- Dwarven Material Bindings end -->
 	
@@ -3341,6 +3361,10 @@
 			<identifier>Ebony</identifier>
 			<substring>Heavy Emerald</substring>
 		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Mask Ebony</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -3660,6 +3684,10 @@
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Ruby</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Mask Gold</substring>
 		</binding>
 	<!-- Elven Material Bindings end -->
 	
@@ -5812,6 +5840,10 @@
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Heavy Sapphire</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Mask Argon</substring>
 		</binding>
 	<!-- Orcish Material Bindings end -->
 	
