@@ -7673,6 +7673,33 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Yharnyam Set -->
+	<!-- Unexpected Blades -->
+		<exclusion>
+			<text>KhajiitLongDagger</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Argonian Kindjal</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>AkaviriDha</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>AnXileelCleaver</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Khajiit Yatagan</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Unexpected Blades -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
