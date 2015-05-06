@@ -7680,7 +7680,7 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
-			<text>Argonian Kindjal</text>
+			<text>ArgonianKindjal</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
@@ -7695,7 +7695,7 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
-			<text>Khajiit Yatagan</text>
+			<text>KhajiitYatagan</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
