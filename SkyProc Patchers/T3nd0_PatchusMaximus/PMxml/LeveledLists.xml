@@ -3510,6 +3510,7 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
+		<!-- Unexpected Blades -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
