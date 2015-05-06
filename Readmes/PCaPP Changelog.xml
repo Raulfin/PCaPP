@@ -10,14 +10,19 @@ Blocklist:
 	WondersofWeather.esp
 
 Exclusions:
+	Shiv can Nolonger be reforged or Warforged, it's a sharpened spoon it's can't get that good.
 
 Fixes:
 
 Changes:
 
 Additions:
+	New code to modify PC and NPC armor skill multipliers (fArmorRatingMax and fArmorRatingPCMax)
 
 Balancing:
+	Weapons rebalanced to be more consistent without training.
+	Ammo rebalanced to be more consistent and less random.
+	NPC armor skill multiplier reduced from 2.5 to 1.75.
 
 Renamed:
 
