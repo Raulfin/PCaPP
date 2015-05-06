@@ -2306,6 +2306,22 @@
 			<identifier>Ebony</identifier>
 			<substring>Dragonborn Terra</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Khajiit Long Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Argonian Kindjal</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>An - Xileel Cleaver</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Khajiit Yatagan</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
@@ -3928,10 +3944,6 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Steel Sabre</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
 			<substring>Dragon's Strength</substring>
 		</binding>
 		<binding>
@@ -3958,6 +3970,10 @@
 			<identifier>Steel</identifier>
 			<substring>Venus</substring>
 		</binding>
+		<bindings>
+			<identifier>SteelHigh</identifier>
+			<substring>Ancient Akaviri Dha</substring>
+		</bindings>
 	<!-- Steel bindings end -->
 
 	<!-- Skyforge bindings start -->
@@ -5921,6 +5937,10 @@
 			<substring>Dragon's Grace</substring>
 			<identifier>Katana</identifier>
 		</binding>
+		<binding>
+			<substring>Ancient Akaviri Dha</substring>
+			<identifier>Katana</identifier>
+		</binding>
 	<!-- Katana bindings end -->
 
 	<!-- Knuckles bindings start -->
@@ -6241,6 +6261,14 @@
 		</binding>
 		<binding>
 			<substring>Hopesfire</substring>
+			<identifier>Sabre</identifier>
+		</binding>
+		<binding>
+			<substring>Argonian Kindjal</substring>
+			<identifier>Sabre</identifier>
+		</binding>
+		<binding>
+			<substring>Khajiit Yatagan</substring>
 			<identifier>Sabre</identifier>
 		</binding>
 	<!-- Sabre bindings end -->
@@ -7172,6 +7200,10 @@
 		</binding>
 		<binding>
 			<substring>Great Venus</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>An - Xileel Cleaver</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->
