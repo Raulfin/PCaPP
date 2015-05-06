@@ -1813,6 +1813,75 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Black Horse Courier Reborn -->
+		<!-- Gangs of Skyrim -->
+			<exclusion>
+				<text>NBBook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>pLetter</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>PandoraL</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>MysticBook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SolitudeL</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>KingsBook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>CrimsonBook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>MythicBook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>ValeriaL</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>RABook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>NordicL</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Gangs of Skyrim -->
+		<!-- Unexpected Blades -->
+			<exclusion>
+				<text>Halenzeinotes1</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>MoonsugarForging</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Unexpected Blades -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -3415,6 +3484,32 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Yharnyam Set -->
+		<!-- Unexpected Blades -->
+			<exclusion>
+				<text>KhajiitLongDagger</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArgonianKindjal</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AkaviriDha</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AnXileelCleaver</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>KhajiitYatagan</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -7991,6 +8086,40 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Firelink Implements -->
+		<!-- Tribunal Masks - Judgement Day -->
+			<exclusion>
+				<text>ArmorTribunalMask</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Tribunal Masks - Judgement Day -->
+		<!-- Gangs Of Skyrim -->
+			<exclusions>
+				<text>ShadowA</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusions>
+			<exclusions>
+				<text>ShadowG</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusions>
+			<exclusions>
+				<text>ShadowH</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusions>
+			<exclusions>
+				<text>ShadowB</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusions>
+			<exclusions>
+				<text>Wolf Pack</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusions>
+		<!-- Gangs Of Skyrim -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
