@@ -17,7 +17,7 @@
 		<maxProtection>90.0</maxProtection>
 		<protectionPerArmor>0.1</protectionPerArmor>
 		<armorRatingPCMax>1.4</armorRatingPCMax>
-		<armorRatingMax>2.5</armorRatingMax>
+		<armorRatingMax>1.75</armorRatingMax>
 	</armor_settings>
 
 	<armor_modifier_bindings>
