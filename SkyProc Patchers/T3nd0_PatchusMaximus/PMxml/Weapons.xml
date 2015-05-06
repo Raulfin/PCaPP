@@ -8530,6 +8530,11 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Shiv</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
 			<text>Ceremonial Sword</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
