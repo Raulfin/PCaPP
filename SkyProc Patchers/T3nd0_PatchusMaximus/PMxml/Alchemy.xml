@@ -1089,6 +1089,12 @@
 		</binding>
 	<!-- Hunterborn Tier 4 end -->
 	<!-- Hunterborn compatibility end -->
+	<!-- Gangs Of Skyrim compatability start -->
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Moon Dust</substring>
+		</binding>
+	<!-- Gangs Of Skyrim compatability end -->
 	</ingredient_variation_bindings>
 
 	<potion_multipliers>
