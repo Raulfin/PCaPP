@@ -7365,21 +7365,21 @@
 			<materialTemper>DAEDRIC</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>64</armorBase>
+			<armorBase>59</armorBase>
 			<identifier>DaedricLow</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DAEDRIC</materialMeltdown>
 			<materialTemper>DAEDRIC</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>65</armorBase>
+			<armorBase>60</armorBase>
 			<identifier>Daedric</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DAEDRIC</materialMeltdown>
 			<materialTemper>DAEDRIC</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>66</armorBase>
+			<armorBase>61</armorBase>
 			<identifier>DaedricHigh</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DAEDRIC</materialMeltdown>
@@ -7390,21 +7390,21 @@
 	<!-- Dragonplate Material Listings start -->
 	<!-- Bindings allowed: DragonplateLow, Dragonplate, DragonplateHigh -->
 		<armor_material>
-			<armorBase>57</armorBase>
+			<armorBase>54</armorBase>
 			<identifier>DragonplateLow</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DRAGONPLATE</materialMeltdown>
 			<materialTemper>DRAGONPLATE</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>58</armorBase>
+			<armorBase>55</armorBase>
 			<identifier>Dragonplate</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DRAGONPLATE</materialMeltdown>
 			<materialTemper>DRAGONPLATE</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>59</armorBase>
+			<armorBase>56</armorBase>
 			<identifier>DragonplateHigh</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DRAGONPLATE</materialMeltdown>
@@ -7486,21 +7486,21 @@
 			<materialTemper>EBONY</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>50</armorBase>
+			<armorBase>46</armorBase>
 			<identifier>EbonyLow</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>EBONY</materialMeltdown>
 			<materialTemper>EBONY</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>51</armorBase>
+			<armorBase>47</armorBase>
 			<identifier>Ebony</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>EBONY</materialMeltdown>
 			<materialTemper>EBONY</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>52</armorBase>
+			<armorBase>48</armorBase>
 			<identifier>EbonyHigh</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>EBONY</materialMeltdown>
@@ -7727,7 +7727,7 @@
 			<materialTemper>GLASS</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>51</armorBase> <!-- Equal to Ebony -->
+			<armorBase>47</armorBase> <!-- Equal to Ebony -->
 			<identifier>GlassHeavy</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>GLASS</materialMeltdown>
