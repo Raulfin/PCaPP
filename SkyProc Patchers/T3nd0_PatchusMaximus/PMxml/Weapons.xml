@@ -8087,7 +8087,7 @@
 			<baseWeaponType>KATANA</baseWeaponType>
 			<damageBase>12.0</damageBase>
 			<reachBase>1.0</reachBase>
-			<speedBase>1.1</speedBase>
+			<speedBase>1.0</speedBase>
 			<critDamageFactor>1.05</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
