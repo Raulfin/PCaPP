@@ -5,7 +5,7 @@ The book text below is for a new book added by PerMa_Master (FormID: XX70C63D) a
 <p align="center">
 
 
-Weapons Manual v24
+Weapons Manual v3
 
 by
 <img src='img://Textures/Interface/Books/Illuminated_Letters/C_letter.png'>pt. Jaymz A. Tiberius Raulfin III, Thane of Bruma
@@ -34,20 +34,20 @@ After years training new recruits I have developed a basic system to classify we
 Weapon: Pickaxe
 Type: Waraxe
 Bleed Tier: I
-Debuff Tier: 0
-Stagger Tier: II
+Debuff Tier: I
+Stagger Tier: I
 Weapon Class:Blunt_Piercing
 
 Weapon: Hatchet
 Type: Hatchet
 Bleed Tier: I
-Debuff Tier: I
+Debuff Tier: 0
 Stagger Tier: I
 Weapon Class: Blunt_Blade
 [pagebreak]
 Weapon: Broadsword
 Type: Armingsword
-Bleed Tier: II
+Bleed Tier: I
 Debuff Tier: I
 Stagger Tier: I
 Weapon Class: Blade
@@ -56,26 +56,26 @@ Weapon: Armingsword
 Type: Armingsword
 Bleed Tier: II
 Debuff Tier: I
-Stagger Tier: I
+Stagger Tier: 0
 Weapon Class: Blade
 [pagebreak]
 Weapon: Waraxe
 Type: Waraxe
 Bleed Tier: I
-Debuff Tier: I
-Stagger Tier: II
+Debuff Tier: II
+Stagger Tier: I
 Weapon Class: Blunt_Blade
 
 Weapon: Shortspear
 Type: Shortspear
-Bleed Tier: II
+Bleed Tier: I
 Debuff Tier: I
 Stagger Tier: I
 Weapon Class: Piercing
 [pagebreak]
 Weapon: Spear
 Type: Shortspear
-Bleed Tier: II
+Bleed Tier: I
 Debuff Tier: I
 Stagger Tier: I
 Weapon Class: Piercing 
@@ -83,28 +83,28 @@ Weapon Class: Piercing
 Weapon: Mace
 Type: Mace
 Bleed Tier: 0
-Debuff Tier: II
+Debuff Tier: 0
 Stagger Tier: II
 Weapon Class: Blunt
 [pagebreak]
 Weapon: Spiked Mace
 Type: Mace
-Bleed Tier: II
+Bleed Tier: I
 Debuff Tier: I
 Stagger Tier: II
 Weapon Class: Blunt_Piercing
 
 Weapon: Morning Star
 Type: Mace
-Bleed Tier: II
-Debuff Tier: II
-Stagger Tier: II
+Bleed Tier: I
+Debuff Tier: I
+Stagger Tier: I
 Weapon Class: Blunt_Piercing
 [pagebreak]
 Weapon: Club
 Type: Club
 Bleed Tier: 0
-Debuff Tier: II
+Debuff Tier: 0
 Stagger Tier: II
 Weapon Class: Blunt
 
@@ -118,7 +118,7 @@ Weapon Class: Blunt_Piercing
 Weapon: Maul
 Type: Maul
 Bleed Tier: 0
-Debuff Tier: III
+Debuff Tier: I
 Stagger Tier: II
 Weapon Class: Blunt
 
@@ -126,82 +126,82 @@ Weapon: Katana
 Type: Katana
 Bleed Tier: III
 Debuff Tier: 0
-Stagger Tier: I
+Stagger Tier: 0
 Weapon Class: Blade
 [pagebreak]
 Weapon: Longsword
 Type: Longsword
 Bleed Tier: II
 Debuff Tier: I
-Stagger Tier: I
+Stagger Tier: 0
 Weapon Class: Blade
 
 Weapon: Wakizashi
 Type: Wakizashi
 Bleed Tier: II
-Debuff Tier: 0
-Stagger Tier: I
+Debuff Tier: I
+Stagger Tier: 0
 Weapon Class: Blade_Piercing
 [pagebreak]
 Weapon: Sabre
 Type: Sabre
 Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: I
+Debuff Tier: 0
+Stagger Tier: 0
 Weapon Class: Blade
 
 Weapon: Scimitar
 Type: Scimitar
-Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: I
+Bleed Tier: III
+Debuff Tier: 0
+Stagger Tier: 0
 Weapon Class: Blade
 [pagebreak]
 Weapon: Shortsword
 Type: Shortsword
 Bleed Tier: I
 Debuff Tier: II
-Stagger Tier: I
-Weapon Class: Blade
+Stagger Tier: 0
+Weapon Class: Blade_Piercing
 
 Weapon: Tanto
 Type: Tanto
 Bleed Tier: II
-Debuff Tier: 0
+Debuff Tier: I
 Stagger Tier: 0
 Weapon Class: Blade_Piercing
 [pagebreak]
 Weapon: Dagger
 Type: Dagger
 Bleed Tier: II
-Debuff Tier: 0
+Debuff Tier: I
 Stagger Tier: 0
 Weapon Class: Blade_Piercing
 
 Weapon: Shiv
 Type: Dagger
 Bleed Tier: III
-Debuff Tier: 0
+Debuff Tier: I
 Stagger Tier: 0
 Weapon Class: Piercing
 [pagebreak]
 Weapon: Hunting Knife
 Type: Dagger
 Bleed Tier: I
-Debuff Tier: 0
+Debuff Tier: I
 Stagger Tier: 0
 Weapon Class: Blade_Piercing
 
 Weapon: Claw
 Type: Fist
-Bleed Tier: I
-Debuff Tier: I
+Bleed Tier: II
+Debuff Tier: 0
 Stagger Tier: 0
 Weapon Class: Blade
 [pagebreak]
 Weapon: Katar
 Type: Fist
-Bleed Tier: II
+Bleed Tier: I
 Debuff Tier: I
 Stagger Tier: 0
 Weapon Class: Piercing
@@ -209,7 +209,7 @@ Weapon Class: Piercing
 Weapon: Knuckles
 Type: Fist
 Bleed Tier: I
-Debuff Tier: I
+Debuff Tier: 0
 Stagger Tier: I
 Weapon Class: Blunt
 [pagebreak]
@@ -224,7 +224,7 @@ Weapon Class: Blunt
 Weapon: Battleaxe
 Type: Battleaxe
 Bleed Tier: II
-Debuff Tier: II
+Debuff Tier: III
 Stagger Tier: II
 Weapon Class: Blunt_Blade
 
@@ -238,29 +238,29 @@ Weapon Class: Blade_Piercing
 Weapon: Halberd
 Type: Halberd
 Bleed Tier: II
-Debuff Tier: III
-Stagger Tier: III
+Debuff Tier: II
+Stagger Tier: II
 Weapon Class: All
 
 Weapon: Warhammer
 Type: Warhammer
 Bleed Tier: 0
-Debuff Tier: III
+Debuff Tier: I
 Stagger Tier: III
 Weapon Class: Blunt
 [pagebreak]
 Weapon: Volendrung
 Type: Warhammer
-Bleed Tier: II
-Debuff Tier: III
+Bleed Tier: I
+Debuff Tier: II
 Stagger Tier: III
 Weapon Class: Blunt_Piercing
 
 Weapon: Longmace
 Type: Longmace
-Bleed Tier: I
-Debuff Tier: III
-Stagger Tier: III
+Bleed Tier: 0
+Debuff Tier: 0
+Stagger Tier: II
 Weapon Class: Blunt
 [pagebreak]
 Weapon: Giant weapons
@@ -273,22 +273,22 @@ Weapon Class: Blunt_Blade
 Weapon: Battlestaff
 Type: Battlestaff
 Bleed Tier: 0
-Debuff Tier: II
+Debuff Tier: 0
 Stagger Tier: II
 Weapon Class: Blunt
 [pagebreak]
 Weapon: Greatsword
 Type: Greatsword
-Bleed Tier: III
+Bleed Tier: II
 Debuff Tier: II
-Stagger Tier: III
+Stagger Tier: I
 Weapon Class: Blunt_Blade
 
 Weapon: Bastard Sword
 Type: Bastard Sword
-Bleed Tier: III
+Bleed Tier: II
 Debuff Tier: II
-Stagger Tier: II
+Stagger Tier: I
 Weapon Class: Blade
 [pagebreak]
 Weapon: Nodachi
@@ -324,7 +324,7 @@ Weapon: Crossbow
 Type: Crossbow
 Bleed Tier: II
 Debuff Tier: III
-Stagger Tier: II
+Stagger Tier: III
 Weapon Class: Piercing
 
 Weapon: Javelin
