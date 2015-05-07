@@ -15,15 +15,18 @@ Exclusions:
 Fixes:
 
 Changes:
+	Bugfix file is now nested in the main file and can be selected.
+	Character Creation Overhaul patch is now nested in the main file.
 
 Additions:
 	New code to modify PC and NPC armor skill multipliers (fArmorRatingMax and fArmorRatingPCMax)
 
 Balancing:
 	Weapons rebalanced to be more consistent without training.
-	Ammo rebalanced to be more consistent and less random.
-	NPC armor skill multiplier reduced from 2.5 to 1.75.
-	Armor rebalanced to reduce scaling at higher end materials. Ebony, Glass, Stalhrim, Dragonplate and Daedric (Heavy versions) base armor reduced.
+	Light and Heavy weapons will do slightly more damage (on average).
+	Ammo rebalanced to be more consistent and less random after firing (each material will still act a little different though).
+	NPC armor skill multiplier reduced from 2.5 to 1.75. (fArmorRatingMax)
+	Armor rebalanced to reduce scaling of higher end materials. Ebony, Glass, Stalhrim, Dragonplate and Daedric (Heavy versions) base armor reduced.
 	Lowered base armor factor (the PaMa multiplier) by 0.1 per piece. Makes it a bit harder to hit DR cap freely and indirectly buffs melee weapons.
 
 Renamed:
