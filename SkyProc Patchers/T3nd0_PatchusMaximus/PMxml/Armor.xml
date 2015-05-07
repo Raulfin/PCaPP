@@ -2,11 +2,11 @@
 <ns2:armor xmlns:ns2="PatchusMaximus.armorXML">
 
 	<armor_settings>
-		<armorFactorBody>4.0</armorFactorBody>
-		<armorFactorFeet>1.5</armorFactorFeet>
-		<armorFactorHands>1.5</armorFactorHands>
-		<armorFactorHead>2.0</armorFactorHead>
-		<armorFactorShield>2.5</armorFactorShield>
+		<armorFactorBody>3.9</armorFactorBody>
+		<armorFactorFeet>1.4</armorFactorFeet>
+		<armorFactorHands>1.4</armorFactorHands>
+		<armorFactorHead>1.9</armorFactorHead>
+		<armorFactorShield>2.4</armorFactorShield>
 		<!-- Space intentionally left blank-->
 		<meltdownOutputBody>2</meltdownOutputBody>
 		<meltdownOutputFeet>1</meltdownOutputFeet>

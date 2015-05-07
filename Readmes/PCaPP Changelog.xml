@@ -10,7 +10,7 @@ Blocklist:
 	WondersofWeather.esp
 
 Exclusions:
-	Shiv can Nolonger be reforged or Warforged, it's a sharpened spoon it's can't get that good.
+	Shiv can no longer be reforged or Warforged, it's a sharpened spoon it's can't get that good.
 
 Fixes:
 
@@ -23,6 +23,8 @@ Balancing:
 	Weapons rebalanced to be more consistent without training.
 	Ammo rebalanced to be more consistent and less random.
 	NPC armor skill multiplier reduced from 2.5 to 1.75.
+	Armor rebalanced to reduce scaling at higher end materials. Ebony, Glass, Stalhrim, Dragonplate and Daedric (Heavy versions) base armor reduced.
+	Lowered base armor factor (the PaMa multiplier) by 0.1 per piece. Makes it a bit harder to hit DR cap freely and indirectly buffs melee weapons.
 
 Renamed:
 
