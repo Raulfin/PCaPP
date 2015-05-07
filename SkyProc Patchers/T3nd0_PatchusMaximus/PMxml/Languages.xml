@@ -5,6 +5,10 @@
 	<language><!-- English -->
 		<languageID>ENGLISH</languageID>
 		<stringBinding>
+			<identifier>Rifle</identifier>
+			<outputString>Rifle</outputString>
+		</stringBinding>
+		<stringBinding>
 			<identifier>Great Morning Star</identifier>
 			<outputString>Great Morning Star</outputString>
 		</stringBinding>
