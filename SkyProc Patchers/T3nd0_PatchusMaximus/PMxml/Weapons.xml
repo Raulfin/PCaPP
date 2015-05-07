@@ -7786,35 +7786,35 @@
 	<!-- Gun bindings start -->
 		<binding>
 			<substring>dwarven rifle</substring>
-			<identifier>Crosbow</identifier>
+			<identifier>Rifle</identifier>
 		</binding>
 		<binding>
 			<substring>dwarven rifleA</substring>
-			<identifier>Crosbow</identifier>
+			<identifier>Rifle</identifier>
 		</binding>
 		<binding>
 			<substring>dwarven rifleB</substring>
-			<identifier>Crosbow</identifier>
+			<identifier>Rifle</identifier>
 		</binding>
 		<binding>
 			<substring>dwarven rifleS</substring>
-			<identifier>Crosbow</identifier>
+			<identifier>Rifle</identifier>
 		</binding>
 		<binding>
 			<substring>dwarven rifleM</substring>
-			<identifier>Crosbow</identifier>
+			<identifier>Rifle</identifier>
 		</binding>
 		<binding>
 			<substring>Dwemer Shotgun</substring>
-			<identifier>Crosbow</identifier>
+			<identifier>Rifle</identifier>
 		</binding>
 		<binding>
 			<substring>Harquebus</substring>
-			<identifier>Crosbow</identifier>
+			<identifier>Rifle</identifier>
 		</binding>
 		<binding>
 			<substring>Arquebus</substring>
-			<identifier>Crosbow</identifier>
+			<identifier>Rifle</identifier>
 		</binding>
 	<!-- Gun bindings end -->
 	<!-- ======================================== Ranged Weapon bindings end  ======================================= -->
@@ -7875,7 +7875,7 @@
 		<weapon_type>
 			<identifier>Pickaxe</identifier>
 			<baseWeaponType>WARAXE</baseWeaponType>
-			<damageBase>4.0</damageBase>
+			<damageBase>5.0</damageBase>
 			<reachBase>0.95</reachBase>
 			<speedBase>0.95</speedBase>
 			<critDamageFactor>0.1</critDamageFactor>
@@ -7889,9 +7889,9 @@
 		<weapon_type>
 			<identifier>Hatchet</identifier>
 			<baseWeaponType>HATCHET</baseWeaponType>
-			<damageBase>6</damageBase>
+			<damageBase>5.0</damageBase>
 			<reachBase>0.7</reachBase>
-			<speedBase>1.1</speedBase>
+			<speedBase>1.0</speedBase>
 			<critDamageFactor>0.2</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
@@ -7903,6 +7903,20 @@
 		<weapon_type>
 			<identifier>Broadsword</identifier>
 			<baseWeaponType>ARMINGSWORD</baseWeaponType>
+			<damageBase>13.0</damageBase>
+			<reachBase>1.0</reachBase>
+			<speedBase>0.9</speedBase>
+			<critDamageFactor>0.8</critDamageFactor>
+			<meltdownOutput>1</meltdownOutput>
+			<meltdownInput>1</meltdownInput>
+			<bleedTier>ONE</bleedTier>
+			<debuffTier>ONE</debuffTier>
+			<staggerTier>ONE</staggerTier>
+			<weaponClass>BLADE</weaponClass>
+		</weapon_type>
+		<weapon_type>
+			<identifier>Armingsword</identifier>
+			<baseWeaponType>ARMINGSWORD</baseWeaponType>
 			<damageBase>12.0</damageBase>
 			<reachBase>1.0</reachBase>
 			<speedBase>1.0</speedBase>
@@ -7911,27 +7925,13 @@
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
 			<debuffTier>ONE</debuffTier>
-			<staggerTier>ONE</staggerTier>
-			<weaponClass>BLADE</weaponClass>
-		</weapon_type>
-		<weapon_type>
-			<identifier>Armingsword</identifier>
-			<baseWeaponType>ARMINGSWORD</baseWeaponType>
-			<damageBase>11.0</damageBase>
-			<reachBase>1.0</reachBase>
-			<speedBase>0.9</speedBase>
-			<critDamageFactor>0.8</critDamageFactor>
-			<meltdownOutput>1</meltdownOutput>
-			<meltdownInput>1</meltdownInput>
-			<bleedTier>TWO</bleedTier>
-			<debuffTier>ONE</debuffTier>
-			<staggerTier>ONE</staggerTier>
+			<staggerTier>ZERO</staggerTier>
 			<weaponClass>BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Arming Sword</identifier>
 			<baseWeaponType>ARMINGSWORD</baseWeaponType>
-			<damageBase>11.0</damageBase>
+			<damageBase>12.0</damageBase>
 			<reachBase>1.0</reachBase>
 			<speedBase>0.9</speedBase>
 			<critDamageFactor>0.8</critDamageFactor>
@@ -7945,41 +7945,41 @@
 		<weapon_type>
 			<identifier>Waraxe</identifier>
 			<baseWeaponType>WARAXE</baseWeaponType>
-			<damageBase>13.0</damageBase>
+			<damageBase>12.0</damageBase>
 			<reachBase>0.95</reachBase>
 			<speedBase>0.9</speedBase>
 			<critDamageFactor>0.8</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ONE</bleedTier>
-			<debuffTier>ONE</debuffTier>
-			<staggerTier>TWO</staggerTier>
+			<debuffTier>TWO</debuffTier>
+			<staggerTier>ONE</staggerTier>
 			<weaponClass>BLUNT_BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>War Axe</identifier>
 			<baseWeaponType>WARAXE</baseWeaponType>
-			<damageBase>13.0</damageBase>
+			<damageBase>12.0</damageBase>
 			<reachBase>0.95</reachBase>
 			<speedBase>0.9</speedBase>
 			<critDamageFactor>0.8</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ONE</bleedTier>
-			<debuffTier>ONE</debuffTier>
-			<staggerTier>TWO</staggerTier>
+			<debuffTier>TWO</debuffTier>
+			<staggerTier>ONE</staggerTier>
 			<weaponClass>BLUNT_BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Shortspear</identifier>
 			<baseWeaponType>SHORTSPEAR</baseWeaponType>
-			<damageBase>10.0</damageBase>
-			<reachBase>1.3</reachBase>
-			<speedBase>0.95</speedBase>
+			<damageBase>12.0</damageBase>
+			<reachBase>1.2</reachBase>
+			<speedBase>0.9</speedBase>
 			<critDamageFactor>1.5</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
-			<bleedTier>TWO</bleedTier>
+			<bleedTier>ONE</bleedTier>
 			<debuffTier>ONE</debuffTier>
 			<staggerTier>ONE</staggerTier>
 			<weaponClass>PIERCING</weaponClass>
@@ -7987,13 +7987,13 @@
 		<weapon_type>
 			<identifier>Spear</identifier>
 			<baseWeaponType>SHORTSPEAR</baseWeaponType>
-			<damageBase>12.0</damageBase>
-			<reachBase>1.4</reachBase>
-			<speedBase>0.8</speedBase>
+			<damageBase>13.0</damageBase>
+			<reachBase>1.3</reachBase>
+			<speedBase>0.9</speedBase>
 			<critDamageFactor>1.5</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
-			<bleedTier>TWO</bleedTier>
+			<bleedTier>ONE</bleedTier>
 			<debuffTier>ONE</debuffTier>
 			<staggerTier>ONE</staggerTier>
 			<weaponClass>PIERCING</weaponClass>
@@ -8001,27 +8001,27 @@
 		<weapon_type>
 			<identifier>Mace</identifier>
 			<baseWeaponType>MACE</baseWeaponType>
-			<damageBase>10.0</damageBase>
-			<reachBase>0.88</reachBase>
-			<speedBase>0.82</speedBase>
+			<damageBase>13.0</damageBase>
+			<reachBase>0.95</reachBase>
+			<speedBase>0.85</speedBase>
 			<critDamageFactor>0.3</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ZERO</bleedTier>
-			<debuffTier>TWO</debuffTier>
+			<debuffTier>ZERO</debuffTier>
 			<staggerTier>TWO</staggerTier>
 			<weaponClass>BLUNT</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Spiked Mace</identifier>
 			<baseWeaponType>MACE</baseWeaponType>
-			<damageBase>11.0</damageBase>
-			<reachBase>0.88</reachBase>
-			<speedBase>0.82</speedBase>
+			<damageBase>13.0</damageBase>
+			<reachBase>0.95</reachBase>
+			<speedBase>0.8</speedBase>
 			<critDamageFactor>0.4</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
-			<bleedTier>TWO</bleedTier>
+			<bleedTier>ONE</bleedTier>
 			<debuffTier>ONE</debuffTier>
 			<staggerTier>TWO</staggerTier>
 			<weaponClass>BLUNT_PIERCING</weaponClass>
@@ -8035,31 +8035,31 @@
 			<critDamageFactor>0.5</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
-			<bleedTier>TWO</bleedTier>
-			<debuffTier>TWO</debuffTier>
-			<staggerTier>TWO</staggerTier>
+			<bleedTier>ONE</bleedTier>
+			<debuffTier>ONE</debuffTier>
+			<staggerTier>ONE</staggerTier>
 			<weaponClass>BLUNT_PIERCING</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Club</identifier>
 			<baseWeaponType>CLUB</baseWeaponType>
-			<damageBase>10.0</damageBase>
-			<reachBase>0.95</reachBase>
-			<speedBase>0.89</speedBase>
+			<damageBase>12.0</damageBase>
+			<reachBase>0.9</reachBase>
+			<speedBase>0.95</speedBase>
 			<critDamageFactor>0.3</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ZERO</bleedTier>
-			<debuffTier>TWO</debuffTier>
+			<debuffTier>ZERO</debuffTier>
 			<staggerTier>TWO</staggerTier>
 			<weaponClass>BLUNT</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Spiked Club</identifier>
 			<baseWeaponType>CLUB</baseWeaponType>
-			<damageBase>11.0</damageBase>
-			<reachBase>0.95</reachBase>
-			<speedBase>0.85</speedBase>
+			<damageBase>12.0</damageBase>
+			<reachBase>0.9</reachBase>
+			<speedBase>0.9</speedBase>
 			<critDamageFactor>0.4</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
@@ -8071,112 +8071,112 @@
 		<weapon_type>
 			<identifier>Maul</identifier>
 			<baseWeaponType>MAUL</baseWeaponType>
-			<damageBase>14.0</damageBase>
+			<damageBase>12.0</damageBase>
 			<reachBase>0.88</reachBase>
-			<speedBase>0.77</speedBase>
+			<speedBase>0.8</speedBase>
 			<critDamageFactor>0.4</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ZERO</bleedTier>
-			<debuffTier>THREE</debuffTier>
+			<debuffTier>ONE</debuffTier>
 			<staggerTier>TWO</staggerTier>
 			<weaponClass>BLUNT</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Katana</identifier>
 			<baseWeaponType>KATANA</baseWeaponType>
-			<damageBase>10.0</damageBase>
-			<reachBase>0.98</reachBase>
+			<damageBase>12.0</damageBase>
+			<reachBase>1.0</reachBase>
 			<speedBase>1.1</speedBase>
-			<critDamageFactor>1.1</critDamageFactor>
+			<critDamageFactor>1.05</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>THREE</bleedTier>
 			<debuffTier>ZERO</debuffTier>
-			<staggerTier>ONE</staggerTier>
+			<staggerTier>ZERO</staggerTier>
 			<weaponClass>BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Longsword</identifier>
 			<baseWeaponType>LONGSWORD</baseWeaponType>
-			<damageBase>11.0</damageBase>
-			<reachBase>1.06</reachBase>
+			<damageBase>12.0</damageBase>
+			<reachBase>1.1</reachBase>
 			<speedBase>1.0</speedBase>
-			<critDamageFactor>1</critDamageFactor>
+			<critDamageFactor>1.0</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
 			<debuffTier>ONE</debuffTier>
-			<staggerTier>ONE</staggerTier>
+			<staggerTier>ZERO</staggerTier>
 			<weaponClass>BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Wakizashi</identifier>
 			<baseWeaponType>WAKIZASHI</baseWeaponType>
-			<damageBase>9.0</damageBase>
+			<damageBase>11.0</damageBase>
 			<reachBase>0.83</reachBase>
 			<speedBase>1.15</speedBase>
-			<critDamageFactor>1.5</critDamageFactor>
+			<critDamageFactor>1.25</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
-			<debuffTier>ZERO</debuffTier>
-			<staggerTier>ONE</staggerTier>
+			<debuffTier>ONE</debuffTier>
+			<staggerTier>ZERO</staggerTier>
 			<weaponClass>BLADE_PIERCING</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Sabre</identifier>
 			<baseWeaponType>SABRE</baseWeaponType>
-			<damageBase>11.0</damageBase>
-			<reachBase>0.9</reachBase>
-			<speedBase>1.05</speedBase>
+			<damageBase>12.0</damageBase>
+			<reachBase>0.85</reachBase>
+			<speedBase>1.1</speedBase>
 			<critDamageFactor>1.0</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
-			<debuffTier>ONE</debuffTier>
-			<staggerTier>ONE</staggerTier>
+			<debuffTier>ZERO</debuffTier>
+			<staggerTier>ZERO</staggerTier>
 			<weaponClass>BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Scimitar</identifier>
 			<baseWeaponType>SCIMITAR</baseWeaponType>
-			<damageBase>12.0</damageBase>
-			<reachBase>1.0</reachBase>
+			<damageBase>13.0</damageBase>
+			<reachBase>0.95</reachBase>
 			<speedBase>0.95</speedBase>
 			<critDamageFactor>1.0</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
-			<bleedTier>TWO</bleedTier>
-			<debuffTier>ONE</debuffTier>
-			<staggerTier>ONE</staggerTier>
+			<bleedTier>THREE</bleedTier>
+			<debuffTier>ZERO</debuffTier>
+			<staggerTier>ZERO</staggerTier>
 			<weaponClass>BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Shortsword</identifier>
 			<baseWeaponType>SHORTSWORD</baseWeaponType>
-			<damageBase>9.0</damageBase>
+			<damageBase>11.0</damageBase>
 			<reachBase>0.8</reachBase>
-			<speedBase>1.12</speedBase>
+			<speedBase>1.1</speedBase>
 			<critDamageFactor>1.2</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ONE</bleedTier>
 			<debuffTier>TWO</debuffTier>
-			<staggerTier>ONE</staggerTier>
-			<weaponClass>BLADE</weaponClass>
+			<staggerTier>ZERO</staggerTier>
+			<weaponClass>BLADE_PIERCING</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Tanto</identifier>
 			<baseWeaponType>TANTO</baseWeaponType>
 			<damageBase>7.5</damageBase>
 			<reachBase>0.65</reachBase>
-			<speedBase>1.15</speedBase>
-			<critDamageFactor>1.5</critDamageFactor>
+			<speedBase>1.1</speedBase>
+			<critDamageFactor>1.2</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>2</meltdownInput>
 			<bleedTier>TWO</bleedTier>
-			<debuffTier>ZERO</debuffTier>
+			<debuffTier>ONE</debuffTier>
 			<staggerTier>ZERO</staggerTier>
 			<weaponClass>BLADE_PIERCING</weaponClass>
 		</weapon_type>
@@ -8185,26 +8185,26 @@
 			<baseWeaponType>DAGGER</baseWeaponType>
 			<damageBase>7.5</damageBase>
 			<reachBase>0.6</reachBase>
-			<speedBase>1.1</speedBase>
-			<critDamageFactor>1.6</critDamageFactor>
+			<speedBase>1.2</speedBase>
+			<critDamageFactor>1.3</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>2</meltdownInput>
 			<bleedTier>TWO</bleedTier>
-			<debuffTier>ZERO</debuffTier>
+			<debuffTier>ONE</debuffTier>
 			<staggerTier>ZERO</staggerTier>
 			<weaponClass>BLADE_PIERCING</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Shiv</identifier>
 			<baseWeaponType>DAGGER</baseWeaponType>
-			<damageBase>7.0</damageBase>
+			<damageBase>6.0</damageBase>
 			<reachBase>0.5</reachBase>
 			<speedBase>1.2</speedBase>
-			<critDamageFactor>2</critDamageFactor>
+			<critDamageFactor>2.0</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>THREE</bleedTier>
-			<debuffTier>ZERO</debuffTier>
+			<debuffTier>ONE</debuffTier>
 			<staggerTier>ZERO</staggerTier>
 			<weaponClass>PIERCING</weaponClass>
 		</weapon_type>
@@ -8218,7 +8218,7 @@
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ONE</bleedTier>
-			<debuffTier>ZERO</debuffTier>
+			<debuffTier>ONE</debuffTier>
 			<staggerTier>ZERO</staggerTier>
 			<weaponClass>BLADE_PIERCING</weaponClass>
 		</weapon_type>
@@ -8231,8 +8231,8 @@
 			<critDamageFactor>0.75</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>2</meltdownInput>
-			<bleedTier>ONE</bleedTier>
-			<debuffTier>ONE</debuffTier>
+			<bleedTier>TWO</bleedTier>
+			<debuffTier>ZERO</debuffTier>
 			<staggerTier>ZERO</staggerTier>
 			<weaponClass>BLADE</weaponClass>
 		</weapon_type>
@@ -8245,7 +8245,7 @@
 			<critDamageFactor>1.5</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>2</meltdownInput>
-			<bleedTier>TWO</bleedTier>
+			<bleedTier>ONE</bleedTier>
 			<debuffTier>ONE</debuffTier>
 			<staggerTier>ZERO</staggerTier>
 			<weaponClass>PIERCING</weaponClass>
@@ -8260,7 +8260,7 @@
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>2</meltdownInput>
 			<bleedTier>ONE</bleedTier>
-			<debuffTier>ONE</debuffTier>
+			<debuffTier>ZERO</debuffTier>
 			<staggerTier>ONE</staggerTier>
 			<weaponClass>BLUNT</weaponClass>
 		</weapon_type>
@@ -8268,22 +8268,22 @@
 		<weapon_type>
 			<identifier>Battleaxe</identifier>
 			<baseWeaponType>BATTLEAXE</baseWeaponType>
-			<damageBase>22.1</damageBase>
+			<damageBase>25.0</damageBase>
 			<reachBase>1.15</reachBase>
 			<speedBase>0.85</speedBase>
 			<critDamageFactor>0.7</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
-			<debuffTier>TWO</debuffTier>
+			<debuffTier>THREE</debuffTier>
 			<staggerTier>TWO</staggerTier>
 			<weaponClass>BLUNT_BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Partisan</identifier>
 			<baseWeaponType>PARTISAN</baseWeaponType>
-			<damageBase>19.5</damageBase>
-			<reachBase>1.35</reachBase>
+			<damageBase>25.0</damageBase>
+			<reachBase>1.3</reachBase>
 			<speedBase>0.95</speedBase>
 			<critDamageFactor>0.8</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
@@ -8296,38 +8296,38 @@
 		<weapon_type>
 			<identifier>Halberd</identifier>
 			<baseWeaponType>HALBERD</baseWeaponType>
-			<damageBase>28.6</damageBase>
+			<damageBase>26.0</damageBase>
 			<reachBase>1.15</reachBase>
 			<speedBase>0.7</speedBase>
 			<critDamageFactor>0.8</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
-			<debuffTier>THREE</debuffTier>
-			<staggerTier>THREE</staggerTier>
+			<debuffTier>TWO</debuffTier>
+			<staggerTier>TWO</staggerTier>
 			<weaponClass>ALL</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Warhammer</identifier>
 			<baseWeaponType>WARHAMMER</baseWeaponType>
-			<damageBase>26.0</damageBase>
+			<damageBase>25.0</damageBase>
 			<reachBase>1.1</reachBase>
 			<speedBase>0.78</speedBase>
 			<critDamageFactor>0.5</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ZERO</bleedTier>
-			<debuffTier>THREE</debuffTier>
+			<debuffTier>ONE</debuffTier>
 			<staggerTier>THREE</staggerTier>
 			<weaponClass>BLUNT</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Great Morning Star</identifier>
 			<baseWeaponType>WARHAMMER</baseWeaponType>
-			<damageBase>27.0</damageBase>
-			<reachBase>1.05</reachBase>
+			<damageBase>25.0</damageBase>
+			<reachBase>1.1</reachBase>
 			<speedBase>0.75</speedBase>
-			<critDamageFactor>0.5</critDamageFactor>
+			<critDamageFactor>0.6</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
@@ -8338,29 +8338,29 @@
 		<weapon_type>
 			<identifier>Volendrung</identifier>
 			<baseWeaponType>WARHAMMER</baseWeaponType>
-			<damageBase>28.6</damageBase>
+			<damageBase>26.0</damageBase>
 			<reachBase>1.1</reachBase>
 			<speedBase>0.82</speedBase>
-			<critDamageFactor>0.5</critDamageFactor>
+			<critDamageFactor>0.6</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
-			<bleedTier>ZERO</bleedTier>
-			<debuffTier>THREE</debuffTier>
+			<bleedTier>ONE</bleedTier>
+			<debuffTier>TWO</debuffTier>
 			<staggerTier>THREE</staggerTier>
 			<weaponClass>BLUNT_PIERCING</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Longmace</identifier>
 			<baseWeaponType>LONGMACE</baseWeaponType>
-			<damageBase>20.8</damageBase>
+			<damageBase>24.0</damageBase>
 			<reachBase>1.2</reachBase>
 			<speedBase>0.85</speedBase>
-			<critDamageFactor>0.8</critDamageFactor>
+			<critDamageFactor>0.5</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
-			<bleedTier>ONE</bleedTier>
-			<debuffTier>THREE</debuffTier>
-			<staggerTier>THREE</staggerTier>
+			<bleedTier>ZERO</bleedTier>
+			<debuffTier>ZERO</debuffTier>
+			<staggerTier>TWO</staggerTier>
 			<weaponClass>BLUNT</weaponClass>
 		</weapon_type>
 		<weapon_type>
@@ -8380,51 +8380,51 @@
 		<weapon_type>
 			<identifier>Battlestaff</identifier>
 			<baseWeaponType>BATTLESTAFF</baseWeaponType>
-			<damageBase>16.9</damageBase>
+			<damageBase>22.0</damageBase>
 			<reachBase>1.2</reachBase>
-			<speedBase>1.0</speedBase>
+			<speedBase>1.1</speedBase>
 			<critDamageFactor>0.5</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ZERO</bleedTier>
-			<debuffTier>TWO</debuffTier>
+			<debuffTier>ZERO</debuffTier>
 			<staggerTier>TWO</staggerTier>
 			<weaponClass>BLUNT</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Greatsword</identifier>
 			<baseWeaponType>GREATSWORD</baseWeaponType>
-			<damageBase>22.1</damageBase>
+			<damageBase>25.0</damageBase>
 			<reachBase>1.2</reachBase>
-			<speedBase>0.85</speedBase>
+			<speedBase>0.9</speedBase>
 			<critDamageFactor>0.9</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
-			<bleedTier>THREE</bleedTier>
+			<bleedTier>TWO</bleedTier>
 			<debuffTier>TWO</debuffTier>
-			<staggerTier>THREE</staggerTier>
+			<staggerTier>ONE</staggerTier>
 			<weaponClass>BLUNT_BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Bastard Sword</identifier>
 			<baseWeaponType>BASTARDSWORD</baseWeaponType>
-			<damageBase>20.8</damageBase>
-			<reachBase>1.0</reachBase>
-			<speedBase>0.98</speedBase>
-			<critDamageFactor>1.1</critDamageFactor>
+			<damageBase>24.0</damageBase>
+			<reachBase>1.1</reachBase>
+			<speedBase>1.0</speedBase>
+			<critDamageFactor>0.9</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
-			<bleedTier>THREE</bleedTier>
+			<bleedTier>TWO</bleedTier>
 			<debuffTier>TWO</debuffTier>
-			<staggerTier>TWO</staggerTier>
+			<staggerTier>ONE</staggerTier>
 			<weaponClass>BLADE</weaponClass>
 		</weapon_type>
 		<weapon_type>
 			<identifier>Nodachi</identifier>
 			<baseWeaponType>NODACHI</baseWeaponType>
-			<damageBase>23.4</damageBase>
+			<damageBase>25.0</damageBase>
 			<reachBase>1.15</reachBase>
-			<speedBase>0.92</speedBase>
+			<speedBase>0.95</speedBase>
 			<critDamageFactor>0.9</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
@@ -8454,7 +8454,7 @@
 			<damageBase>18.0</damageBase>
 			<reachBase>1.0</reachBase>
 			<speedBase>0.6</speedBase>
-			<critDamageFactor>1.7</critDamageFactor>
+			<critDamageFactor>1.5</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
@@ -8468,7 +8468,7 @@
 			<damageBase>19.0</damageBase>
 			<reachBase>1.0</reachBase>
 			<speedBase>0.8</speedBase>
-			<critDamageFactor>1.75</critDamageFactor>
+			<critDamageFactor>1.7</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
@@ -8477,7 +8477,7 @@
 			<weaponClass>PIERCING</weaponClass>
 		</weapon_type>
 		<weapon_type>
-			<identifier>Crosbow</identifier> <!-- Rifle weapons -->
+			<identifier>Rifle</identifier>
 			<baseWeaponType>CROSSBOW</baseWeaponType>
 			<damageBase>20.0</damageBase>
 			<reachBase>1.0</reachBase>
