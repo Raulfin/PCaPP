@@ -49,78 +49,78 @@
 			<identifier>Strong</identifier>
 			<damageModifier>4</damageModifier>
 			<rangeModifier>0</rangeModifier>
-			<speedModifier>-50</speedModifier>
+			<speedModifier>-20</speedModifier>
 			<gravityModifier>0.03</gravityModifier>
 		</ammunition_modifier>
 		<ammunition_modifier>
 			<identifier>Strongest</identifier>
 			<damageModifier>8</damageModifier>
 			<rangeModifier>0</rangeModifier>
-			<speedModifier>-80</speedModifier>
-			<gravityModifier>0.07</gravityModifier>
+			<speedModifier>-30</speedModifier>
+			<gravityModifier>0.05</gravityModifier>
 		</ammunition_modifier>
 		<ammunition_modifier>
 			<identifier>Poisoned</identifier>
 			<damageModifier>0</damageModifier>
 			<rangeModifier>0</rangeModifier>
-			<speedModifier>-130</speedModifier>
-			<gravityModifier>0.09</gravityModifier>
+			<speedModifier>-10</speedModifier>
+			<gravityModifier>0.02</gravityModifier>
 		</ammunition_modifier>
 		<ammunition_modifier>
 			<identifier>Fire</identifier>
 			<damageModifier>-2</damageModifier>
 			<rangeModifier>0</rangeModifier>
-			<speedModifier>-50</speedModifier>
-			<gravityModifier>0.02</gravityModifier>
+			<speedModifier>10</speedModifier>
+			<gravityModifier>-0.02</gravityModifier>
 		</ammunition_modifier>
 		<ammunition_modifier>
 			<identifier>Frost</identifier>
 			<damageModifier>-2</damageModifier>
 			<rangeModifier>0</rangeModifier>
-			<speedModifier>-50</speedModifier>
-			<gravityModifier>0.02</gravityModifier>
+			<speedModifier>10</speedModifier>
+			<gravityModifier>-0.02</gravityModifier>
 		</ammunition_modifier>
 		<ammunition_modifier>
 			<identifier>Shock</identifier>
 			<damageModifier>-2</damageModifier>
 			<rangeModifier>0</rangeModifier>
-			<speedModifier>-50</speedModifier>
-			<gravityModifier>0.02</gravityModifier>
+			<speedModifier>10</speedModifier>
+			<gravityModifier>-0.02</gravityModifier>
 		</ammunition_modifier>
 		<ammunition_modifier>
 			<identifier>Barbed</identifier>
 			<damageModifier>2</damageModifier>
 			<rangeModifier>0</rangeModifier>
-			<speedModifier>-50</speedModifier>
-			<gravityModifier>0.022</gravityModifier>
+			<speedModifier>10</speedModifier>
+			<gravityModifier>0.02</gravityModifier>
 		</ammunition_modifier>
 		<ammunition_modifier>
 			<identifier>Explosive</identifier>
 			<damageModifier>-3</damageModifier>
-			<rangeModifier>-100</rangeModifier>
-			<speedModifier>-250</speedModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-50</speedModifier>
 			<gravityModifier>0.2</gravityModifier>
 		</ammunition_modifier>
 		<ammunition_modifier>
 			<identifier>Timebomb</identifier>
 			<damageModifier>-5</damageModifier>
-			<rangeModifier>-100</rangeModifier>
-			<speedModifier>-200</speedModifier>
-			<gravityModifier>0.3</gravityModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-50</speedModifier>
+			<gravityModifier>0.2</gravityModifier>
 		</ammunition_modifier>
 		<ammunition_modifier>
 			<identifier>Lightsource</identifier>
 			<damageModifier>-5</damageModifier>
 			<rangeModifier>0</rangeModifier>
-			<speedModifier>-10</speedModifier>
-			<gravityModifier>0.005</gravityModifier>
+			<speedModifier>-50</speedModifier>
+			<gravityModifier>0.1</gravityModifier>
 		</ammunition_modifier>
 		<ammunition_modifier>
 			<identifier>Noisemaker</identifier>
 			<damageModifier>-3</damageModifier>
-			<rangeModifier>-50</rangeModifier>
-			<speedModifier>-10</speedModifier>
-			<gravityModifier>0.01</gravityModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-20</speedModifier>
+			<gravityModifier>0.1</gravityModifier>
 		</ammunition_modifier>
 	<!-- PerMa default modifiers end -->
 		<ammunition_modifier>
