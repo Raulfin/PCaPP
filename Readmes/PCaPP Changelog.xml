@@ -1,5 +1,34 @@
 <Versions>
 <Current>
+<v3.1>
+Now covers:
+	
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+	Unique Bows Redux (64879) binding corrected.
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+
+Removed Patches:
+</v3.1>
+</Current>
+
+
+<Old>
 <v3>
 Now covers:
 	Unexpected Blades (21857)
@@ -11,8 +40,6 @@ Blocklist:
 
 Exclusions:
 	Shiv can no longer be reforged or Warforged, it's a sharpened spoon it's can't get that good.
-
-Fixes:
 
 Changes:
 	Bugfix file is now nested in the main file and can be selected.
@@ -29,20 +56,10 @@ Balancing:
 	Armor rebalanced to reduce scaling of higher end materials. Ebony, Glass, Stalhrim, Dragonplate and Daedric (Heavy versions) base armor reduced.
 	Lowered base armor factor (the PaMa multiplier) by 0.1 per piece. Makes it a bit harder to hit DR cap freely and indirectly buffs melee weapons.
 
-Renamed:
-
 Updated Patches:
 	PerMa Fixes - Gutted-no longer usable)
 	WAFR patches - Minor adjustments for PerMa 1.3
-
-New Patches:
-
-Removed Patches:
 </v3>
-</Current>
-
-
-<Old>
 <v2.7>
 Now covers:
 	ThirteenOrange's Quest mods (Steam)
