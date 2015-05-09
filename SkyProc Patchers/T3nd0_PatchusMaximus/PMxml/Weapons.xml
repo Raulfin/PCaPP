@@ -1385,6 +1385,10 @@
 			<substring>Ancient Nord</substring>
 		</binding>
 		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Gunnar Bow</substring>
+		</binding>
+		<binding>
 			<identifier>Draugr Honed</identifier>
 			<substring>Honed Ancient Nord</substring>
 		</binding>
@@ -1830,6 +1834,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Clutterbane</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Dwemer Tool No.457</substring>
 		</binding>
 	<!-- Dwarven bindings end -->
 	
@@ -3429,6 +3437,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Faal</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Artisan's Bow</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7587,6 +7599,10 @@
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
+			<substring>Artisan's Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
 			<substring>Firiniel's End</substring>
 			<identifier>Longbow</identifier>
 		</binding>
@@ -7742,7 +7758,11 @@
 			<identifier>Shortbow</identifier>
 		</binding>
 		<binding>
-			<substring>Dwemer Tool 457</substring>
+			<substring>Dwemer Tool No.457</substring>
+			<identifier>Shortbow</identifier>
+		</binding>
+		<binding>
+			<substring>Gunnar Bow</substring>
 			<identifier>Shortbow</identifier>
 		</binding>
 		<binding>
