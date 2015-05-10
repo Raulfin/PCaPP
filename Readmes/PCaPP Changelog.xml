@@ -10,8 +10,14 @@ Exclusions:
 
 Fixes:
 	Unique Bows Redux (64879) binding corrected.
+	'Traveller' rank 3 and 'Well Insulated' Wayfarer perks required skill reduced below to 100 and 90 respectfully. (FF)
 
 Changes:
+	Armor of 'Nordic Mail' reduced from about Orcish to Steel.
+	Nordic Dwemer Armor set to Dwarven.
+	Nordic Ebony Armor set to Ebony.
+	Nordic Moonstone Armor set to Elven.
+	Nordic Orichalcum Armor set to Orcish.
 
 Additions:
 
@@ -20,6 +26,7 @@ Balancing:
 Renamed:
 
 Updated Patches:
+	Frostfall (FF)
 
 New Patches:
 
