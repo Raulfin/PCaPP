@@ -1123,6 +1123,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Campfire -->
+		<!-- Wrath of Nature -Path of the Druid & Champion of Kynareth -->
+			<exclusion>
+				<text>NW_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Wrath of Nature -Path of the Druid & Champion of Kynareth -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1882,6 +1889,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Unexpected Blades -->
+		<!-- Wrath of Nature -Path of the Druid -->
+			<exclusion>
+				<text>NW_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Wrath of Nature -Path of the Druid -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
