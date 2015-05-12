@@ -9035,6 +9035,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- ESO Altmer Armor by NewerMind43 RELOAD -->
+	<!-- Wrath of Nature - The Champion of Kynareth -->
+		<exclusion>
+			<text>NW_Druid</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Wrath of Nature - The Champion of Kynareth -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
