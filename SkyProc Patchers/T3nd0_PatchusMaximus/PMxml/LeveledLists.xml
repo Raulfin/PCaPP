@@ -4141,13 +4141,6 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Skyrim Immersive Creatures end -->
-		<!-- Immersive Weapons start -->
-			<exclusion>
-				<text>IW</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-		<!-- Immersive Weapons end -->
 		<!-- Jaysus Swords start -->
 			<exclusion>
 				<text>JSwords</text>
