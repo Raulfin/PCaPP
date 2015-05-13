@@ -2,6 +2,9 @@
 <Current>
 <v3.1>
 Now covers:
+	Wrath of Nature - The Path of the Druid (31485)
+	Wrath of Nature - The Champion of Kynareth (39928)
+	The Ashbringers (65346)
 	
 
 Blocklist:
@@ -18,8 +21,10 @@ Changes:
 	Nordic Ebony Armor set to Ebony.
 	Nordic Moonstone Armor set to Elven.
 	Nordic Orichalcum Armor set to Orcish.
+	Enchanted versions of non-unique Immersive Weapons weapons should now be included in the leveled lists. Artifacts, Replicas and Unique weapons are no longer reforge-able. (IW)
 
 Additions:
+	Several "Clutter" Items from Immersive Armors and Complete Crafting Overhaul Redone will now have weight reduced by perk Unburdened. (WAFR/CCOR)
 
 Balancing:
 
@@ -27,6 +32,8 @@ Renamed:
 
 Updated Patches:
 	Frostfall (FF)
+	WAFR
+	CCOR
 
 New Patches:
 
