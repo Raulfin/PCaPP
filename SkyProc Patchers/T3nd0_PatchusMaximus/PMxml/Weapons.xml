@@ -1315,6 +1315,14 @@
 			<identifier>DaedricHigh</identifier>
 			<substring>Lilith's Ancient Evening Star</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>The Ashbringer</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>The Corrupted Ashbringer</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -7218,6 +7226,14 @@
 			<substring>An - Xileel Cleaver</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
+		<binding>
+			<substring>The Ashbringer</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>The Corrupted Ashbringer</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
@@ -9353,6 +9369,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Immersive Weapons -->
+	<!-- The Ashbringers -->
+		<exclusion>
+			<text>Ashbringer</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>CorruptedAshbringer</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- The Ashbringers -->
 	</reforge_exclusions>
 
 </ns2:weapons>
