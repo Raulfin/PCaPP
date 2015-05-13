@@ -7837,6 +7837,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Immersive Weapons -->
+	<!-- The Ashbringers -->
+		<exclusion>
+			<text>Ashbringer</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>CorruptedAshbringer</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- The Ashbringers -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
