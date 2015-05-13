@@ -4265,6 +4265,10 @@
 			<identifier>Hide</identifier>
 			<substring>Garnet</substring>
 		</binding>
+		<binding>
+			<identifier>HideHigh</identifier>
+			<substring>Adros</substring>
+		</binding>
 	<!-- Hide Material Bindings end -->
 
 	<!-- Horker Material Bindings start -->
@@ -9428,5 +9432,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Gangs Of Skyrim -->
+	<!-- Path of the Druid- The Champion of kynareth -->
+		<exclusion>
+			<text>NW_Druid</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Path of the Druid- The Champion of kynareth -->
 	</reforge_exclusions>
 </ns2:armor>
