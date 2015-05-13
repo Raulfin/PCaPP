@@ -4820,6 +4820,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Dwemer Spectres -->
+		<!-- The Ashbringers -->
+			<exclusion>
+				<text>Ashbringer</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>CorruptedAshbringer</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- The Ashbringers -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
