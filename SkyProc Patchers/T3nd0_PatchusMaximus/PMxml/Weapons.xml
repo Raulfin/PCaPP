@@ -8066,14 +8066,14 @@
 			<identifier>Morning Star</identifier>
 			<baseWeaponType>MACE</baseWeaponType>
 			<damageBase>13.0</damageBase>
-			<reachBase>0.9</reachBase>
+			<reachBase>1.0</reachBase>
 			<speedBase>0.8</speedBase>
-			<critDamageFactor>0.5</critDamageFactor>
+			<critDamageFactor>0.75</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>ONE</bleedTier>
 			<debuffTier>ONE</debuffTier>
-			<staggerTier>ONE</staggerTier>
+			<staggerTier>TWO</staggerTier>
 			<weaponClass>BLUNT_PIERCING</weaponClass>
 		</weapon_type>
 		<weapon_type>
@@ -8363,7 +8363,7 @@
 			<damageBase>25.0</damageBase>
 			<reachBase>1.1</reachBase>
 			<speedBase>0.75</speedBase>
-			<critDamageFactor>0.6</critDamageFactor>
+			<critDamageFactor>0.75</critDamageFactor>
 			<meltdownOutput>2</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
 			<bleedTier>TWO</bleedTier>
