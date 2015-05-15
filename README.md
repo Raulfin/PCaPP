@@ -16,3 +16,7 @@ Don't worry about editing any of the material or type data, that all falls under
 When adding code, please avoid using spaces, use tabs instead, tabs help keep the file size a lot smaller than spaces and keep everything more uniform.
 
 The [PCaPP Wiki](https://github.com/Raulfin/PCaPP/wiki) contains a lot of information on adding support for mods, give it a read if interested in helping add support for mods.
+
+Translations
+============
+[Russian](https://github.com/djkovrik/PCaPP)
