@@ -2454,11 +2454,23 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
+		<!-- LotR -->
 			<exclusion>
 				<text>Sting</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
+			<exclusion>
+				<text>Narsil</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Sauron</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- LotR -->
 		<!-- Inigo-->
 			<exclusion>
 				<text>Inigo</text>
@@ -4141,6 +4153,13 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
+		<!-- LotR -->
+			<exclusion>
+				<text>Sauron</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- LotR -->
 		<!-- Falskaar-->
 			<exclusion>
 				<text>FS</text>
