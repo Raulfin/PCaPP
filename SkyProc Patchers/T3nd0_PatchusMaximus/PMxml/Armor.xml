@@ -78,7 +78,7 @@
 		<!-- Bindings that increase the quality of armor start-->
 	<!-- Armor variants created by PaMa (do not edit) start -->
 		<binding>
-			<substring>Quality</substring>
+			<substring>[Quality]</substring>
 			<identifier>quality</identifier>
 		</binding>
 		<binding>
@@ -242,8 +242,8 @@
 		<armor_modifier>
 			<identifier>quality</identifier>
 			<factorArmor>1.3</factorArmor>
-			<factorValue>1.15</factorValue>
-			<factorWeight>1.1</factorWeight>
+			<factorValue>1.5</factorValue>
+			<factorWeight>0.9</factorWeight>
 		</armor_modifier>
 		<armor_modifier>
 			<identifier>reforged</identifier>
