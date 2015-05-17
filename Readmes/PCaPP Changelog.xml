@@ -14,6 +14,7 @@ Exclusions:
 Fixes:
 	Unique Bows Redux (64879) binding corrected.
 	'Traveller' rank 3 and 'Well Insulated' Wayfarer perks required skill reduced below to 100 and 90 respectfully. (FF)
+	Corrected Quality armor modifier.
 
 Changes:
 	Armor of 'Nordic Mail' reduced from about Orcish to Steel.
@@ -25,7 +26,7 @@ Changes:
 
 Additions:
 	Several "Clutter" Items from Immersive Armors and Complete Crafting Overhaul Redone will now have weight reduced by perk Unburdened. (WAFR/CCOR)
-	PRUFI conditions added to breakdown recipies. (CCOR, IA, IW and the other ones)
+	PRUFI conditions added to breakdown recipes. (CCOR, IA, IW and the other ones) - Doesn't work properly yet, discluded.
 
 Balancing:
 	Small buff to Morning Star reach, crit and stagger.
