@@ -3257,6 +3257,9 @@
 			<substring>Mithrodin</substring>
 		</binding>
 		<binding>
+			<identifier>RSilverHigh</identifier>
+		</binding>
+		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Merblight</substring>
 		</binding>
@@ -7312,6 +7315,10 @@
 	<!-- Partisan bindings start -->
 		<binding>
 			<substring>Hunter's spear</substring>
+			<identifier>Partisan</identifier>
+		</binding>
+		<binding>
+			<substring>Hunter's Spear</substring>
 			<identifier>Partisan</identifier>
 		</binding>
 		<binding>
