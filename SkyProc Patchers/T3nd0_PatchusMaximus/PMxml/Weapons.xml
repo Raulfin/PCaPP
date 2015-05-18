@@ -3258,6 +3258,7 @@
 		</binding>
 		<binding>
 			<identifier>RSilverHigh</identifier>
+			<substring>Refined Mithrodin</substring>
 		</binding>
 		<binding>
 			<identifier>SilverHigh</identifier>
