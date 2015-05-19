@@ -1323,6 +1323,10 @@
 			<identifier>DaedricHigh</identifier>
 			<substring>The Corrupted Ashbringer</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Twilight</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -7236,6 +7240,10 @@
 		</binding>
 		<binding>
 			<substring>The Corrupted Ashbringer</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Twilight</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->

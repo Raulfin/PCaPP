@@ -3549,6 +3549,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Immersive Jewelry -->
+		<!-- Twilight Guild Wars 2 Legendary GreatSword -->
+			<exclusion>
+				<text>00LegendaryTwilightGreatSword</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Twilight Guild Wars 2 Legendary GreatSword -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>

@@ -7849,6 +7849,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- The Ashbringers -->
+	<!-- Twilight Guild Wars 2 Legendary GreatSword -->
+		<exclusion>
+			<text>00LegendaryTwilightGreatSword</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Twilight Guild Wars 2 Legendary GreatSword -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
