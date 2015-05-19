@@ -9054,6 +9054,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Wrath of Nature - The Champion of Kynareth -->
+	<!-- Immersive Jewelry -->
+		<exclusion>
+			<text>IJ</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Immersive Jewelry -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

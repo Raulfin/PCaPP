@@ -34,3 +34,10 @@ To split
 
 Rent Rescaling simply means: The rescaling is split into a separate file.
 ========================================================================================================
+
+Changes:
+Note: all armor ratings given are with a shield, no ranks in Safeguard and 100 skill.
+Player Skill has a greater impact on armor, farmorRatingPCMax increased from 1.4 to 1.6.
+Light armor will not hit armor cap.
+Heavy Daedric base reduced from 60 to 41 (926 base with shield @100 skill to 723)
+Material will scale much more slowly now. Steel armor will be the same, 30, giving 532 armor.
