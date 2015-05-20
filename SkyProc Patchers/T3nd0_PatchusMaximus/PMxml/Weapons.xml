@@ -38,6 +38,10 @@
 	<!-- Bindings that lower the quality of weapons end-->
 	<!-- Bindings that increase the quality of weapons start-->	
 		<binding>
+			<substring>Enhanced</substring>
+			<identifier>enhanced</identifier>
+		</binding>
+		<binding>
 			<substring>Scoped</substring>
 			<identifier>scoped</identifier>
 		</binding>
@@ -212,6 +216,15 @@
 		</weapon_modifier>
 	<!-- Bindings that lower the quality of weapons end-->
 	<!-- Bindings that increase the quality of weapons start-->
+		<weapon_modifier>
+			<identifier>enhanced</identifier>
+			<factorDamage>1.1</factorDamage>
+			<factorCritDamage>1.1</factorCritDamage>
+			<factorWeight>0.95</factorWeight>
+			<factorReach>1.0</factorReach>
+			<factorAttackSpeed>0.95</factorAttackSpeed>
+			<factorValue>1.1</factorValue>
+		</weapon_modifier>
 		<weapon_modifier>
 			<identifier>scoped</identifier>
 			<factorDamage>1.0</factorDamage>
@@ -3533,10 +3546,6 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Champion</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Enhanced Crossbow</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
