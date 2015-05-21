@@ -6,15 +6,12 @@ Now covers:
 	Wrath of Nature - The Champion of Kynareth (39928)
 	The Ashbringers (65346)
 	Twilight Guild Wars 2 Legendary GreatSword (56031)
-	
-
-Blocklist:
 
 Exclusions:
+	PaMa will no longer try to enchant or distribute several Immersive Jewellery items. May help patching with it complete, but not likely for MO users.
 
 Fixes:
 	Unique Bows Redux (64879) binding corrected.
-	'Traveller' rank 3 and 'Well Insulated' Wayfarer perks required skill reduced below to 100 and 90 respectfully. (FF)
 	Corrected Quality armor modifier.
 
 Changes:
@@ -26,23 +23,7 @@ Changes:
 	Enchanted versions of non-unique Immersive Weapons weapons should now be included in the leveled lists. Artifacts, Replicas and Unique weapons are no longer reforge-able. (IW)
 
 Additions:
-	Several "Clutter" Items from Immersive Armors and Complete Crafting Overhaul Redone will now have weight reduced by perk Unburdened. (WAFR/CCOR)
-	PRUFI conditions added to breakdown recipes. (CCOR, IA, IW and the other ones) - Doesn't work properly yet, discluded.
-
-Balancing:
-	Small buff to Morning Star reach, crit and stagger.
-	Small buff to Great Morning Star crit.
-
-Renamed:
-
-Updated Patches:
-	Frostfall (FF)
-	WAFR
-	CCOR
-
-New Patches:
-
-Removed Patches:
+	Hunterborns Goat Heart ingredient will now be patched.
 </v3.1>
 </Current>
 
