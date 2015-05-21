@@ -3961,7 +3961,7 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Loner's Greatword</substring>
+			<substring>Loner's Greatsword</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5119,6 +5119,10 @@
 		</binding>
 		<binding>
 			<substring>Greataxe</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Bardiche</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
