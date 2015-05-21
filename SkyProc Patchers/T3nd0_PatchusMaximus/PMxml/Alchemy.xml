@@ -1057,6 +1057,10 @@
 			<identifier>Special Classic Tier 3</identifier>
 			<substring>Wolf Heart</substring>
 		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Goat Heart</substring>
+		</binding>
 	<!-- Hunterborn Tier 3 end -->
 	<!-- Hunterborn Tier 4 start -->
 		<binding>
