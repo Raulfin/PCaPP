@@ -1,5 +1,39 @@
 <Versions>
 <Current>
+<v3.2>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+	'Traveller' rank 3 and 'Well Insulated' Wayfarer perks required skill reduced below to 100 and 90 respectfully. (FF)
+
+Changes:
+
+Additions:
+	Several "Clutter" Items from Immersive Armors and Complete Crafting Overhaul Redone will now have weight reduced by perk Unburdened. (WAFR/CCOR)
+	PRUFI conditions added to breakdown recipes. (CCOR, IA, IW and the other ones) - Doesn't work properly yet, discluded.
+
+Balancing:
+	Base damage multiplier of Bound Weapons lowered from 2 to 1.5 to account for the Studies: Apprentice Conjuration perk.
+
+Renamed:
+
+Updated Patches:
+	Frostfall (FF)
+	WAFR
+	CCOR
+
+New Patches:
+
+Removed Patches:
+</v3.2>
+</Current>
+
+
+<Old>
 <v3.1>
 Now covers:
 	Wrath of Nature - The Path of the Druid (31485)
@@ -30,10 +64,6 @@ Balancing:
 	Small buff to Morning Star reach, crit and stagger.
 	Small buff to Great Morning Star crit.
 </v3.1>
-</Current>
-
-
-<Old>
 <v3>
 Now covers:
 	Unexpected Blades (21857)
