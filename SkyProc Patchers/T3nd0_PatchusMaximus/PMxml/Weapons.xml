@@ -4294,7 +4294,7 @@
 
 	<!-- Bound Material Listings start -->
 		<weapon_material>
-			<damageModifier>1.45</damageModifier>
+			<damageModifier>1.284</damageModifier>
 			<identifier>BoundLow</identifier>
 			<materialMeltdown>NONE</materialMeltdown>
 			<materialTemper>NONE</materialTemper>
@@ -4302,7 +4302,7 @@
 			<speedModifier>0.05</speedModifier>
 		</weapon_material>
 		<weapon_material>
-			<damageModifier>1.5</damageModifier>
+			<damageModifier>1.334</damageModifier>
 			<identifier>Bound</identifier>
 			<materialMeltdown>NONE</materialMeltdown>
 			<materialTemper>NONE</materialTemper>
@@ -4310,7 +4310,7 @@
 			<speedModifier>0.05</speedModifier>
 		</weapon_material>
 		<weapon_material>
-			<damageModifier>1.55</damageModifier>
+			<damageModifier>1.384</damageModifier>
 			<identifier>BoundHigh</identifier>
 			<materialMeltdown>NONE</materialMeltdown>
 			<materialTemper>NONE</materialTemper>
