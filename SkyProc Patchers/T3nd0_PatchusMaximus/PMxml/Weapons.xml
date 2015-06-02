@@ -1340,6 +1340,14 @@
 			<identifier>DaedricHigh</identifier>
 			<substring>Twilight</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ancient Dagger of The Vampire</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ornate Deathgiver</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -2802,6 +2810,38 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Seadog Cutlass</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Greatsword</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood War Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Mace</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Battleaxe</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Warhammer</substring>
 		</binding>
 	<!-- Glass bindings end -->
 	
@@ -7775,6 +7815,14 @@
 			<substring>The Giant's Downfall</substring>
 			<identifier>Longbow</identifier>
 		</binding>
+		<binding>
+			<substring>Blood Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Ornate Deathgiver</substring>
+			<identifier>Longbow</identifier>
+		</binding>
 	<!-- Longbow bindings end -->
 	
 	<!-- Shortbow bindings start -->
@@ -9410,6 +9458,58 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- The Ashbringers -->
+	<!-- The Shrouded Lair - A Vampire Home -->
+		<exclusion>
+			<text>000SLVampDagger</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000SLBow02</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodSwordSwordSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodDaggerSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodGreatswordSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodWaraxeSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodBowSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodMaceSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodBattleaxeSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodWarhammerSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Shrouded Lair - A Vampire Home -->
 	</reforge_exclusions>
 
 </ns2:weapons>
