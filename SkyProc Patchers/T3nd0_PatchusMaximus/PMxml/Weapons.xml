@@ -1348,6 +1348,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Ornate Deathgiver</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Reaper</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -2605,6 +2609,10 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Recurve Elven Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Gibson's Dagger</substring>
 		</binding>
 	<!-- Elven bindings end -->
 	
@@ -6204,6 +6212,10 @@
 			<substring>Venus</substring>
 			<identifier>Longsword</identifier>
 		</binding>
+		<binding>
+			<substring>Vengence</substring>
+			<identifier>Longsword</identifier>
+		</binding>
 	<!-- Longsword bindings end -->
 
 	<!-- Mace bindings start -->
@@ -7821,6 +7833,10 @@
 		</binding>
 		<binding>
 			<substring>Ornate Deathgiver</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Reaper</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
@@ -9510,6 +9526,23 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- The Shrouded Lair - A Vampire Home -->
+	<!-- Skyfall Estate Buildable -->
+		<exclusion>
+			<text>aaaReaperBow</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>aaaSFSword</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>aaaGibsonsDagger</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Skyfall Estate Buildable -->
 	</reforge_exclusions>
 
 </ns2:weapons>
