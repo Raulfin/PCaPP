@@ -32,6 +32,10 @@
 			<identifier>ancient</identifier>
 		</binding>
 		<binding>
+			<substring>Antique</substring>
+			<identifier>ancient</identifier>
+		</binding>
+		<binding>
 			<substring>Light</substring>
 			<identifier>light</identifier>
 		</binding>
