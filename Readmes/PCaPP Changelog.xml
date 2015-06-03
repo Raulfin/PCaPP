@@ -2,6 +2,8 @@
 <Current>
 <v3.2>
 Now covers:
+	Skyfall Estate (66299)
+	The Shrouded Lair (19037)
 
 Blocklist:
 
@@ -12,9 +14,8 @@ Fixes:
 
 Changes:
 
-Additions:
-	Several "Clutter" Items from Immersive Armors and Complete Crafting Overhaul Redone will now have weight reduced by perk Unburdened. (WAFR/CCOR) - Doesn't work properly yet, needs TES5Edit or Bashed Patch to merge FormLists.
-	PRUFI conditions added to breakdown recipes. (CCOR, IA, IW and the other ones) - Doesn't work properly yet, discluded.
+Additions:.
+	Modifier for "Antique" weapons.
 
 Balancing:
 	Base damage multiplier of Bound Weapons lowered from 2 to 1.334 to account for the Studies: Apprentice Conjuration perk.
