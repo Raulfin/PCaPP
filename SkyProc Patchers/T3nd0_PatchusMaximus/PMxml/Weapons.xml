@@ -7108,6 +7108,14 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>Riders Great Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Great Riders Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Great Crescent</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
