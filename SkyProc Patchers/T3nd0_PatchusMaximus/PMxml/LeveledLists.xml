@@ -2035,6 +2035,26 @@
 		<!-- Target = Unenchanted Items in this list will not be distributed to LLs by PaMa -->
 		<!-- Faction Exclusions start -->
 			<exclusion>
+				<text>MJB_Bow</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>aaIS3</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Noldor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>CBC_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
 				<text>Akaviri</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
@@ -3850,6 +3870,11 @@
 		<!-- Target = NAME/EDID/FORMID Type = EQUALS/EQUALS_IGNORECASE/CONTAINS -->
 		<!-- Target = Enchanted Items in this list will not be distributed to LLs by PaMa -->
 		<!-- Faction Exclusions start -->
+			<exclusion>
+				<text>MJB_Bow</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
 			<exclusion>
 				<text>Akaviri</text>
 				<target>EDID</target>
