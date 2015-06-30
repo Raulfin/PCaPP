@@ -6686,6 +6686,11 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Quest Items end -->
+		exclusion>
+			<text>MJB_Bow</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
 		<exclusion>
 			<text>Scamp's Hammer</text>
 			<target>NAME</target>
