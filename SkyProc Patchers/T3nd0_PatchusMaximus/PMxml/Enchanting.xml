@@ -7861,6 +7861,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Twilight Guild Wars 2 Legendary GreatSword -->
+	<!-- Unique Border Gates -->
+		<exclusion>
+      			<text>dnn</text>
+      			<target>EDID</target>
+      			<type>STARTSWITH</type>
+    		</exclusion>
+    	<!-- Unique Border Gates -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -9073,6 +9080,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Immersive Jewelry -->
+	<!-- Unique Border Gates -->
+		<exclusion>
+      			<text>dnn</text>
+      			<target>EDID</target>
+      			<type>STARTSWITH</type>
+    		</exclusion>
+    	<!-- Unique Border Gates -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
