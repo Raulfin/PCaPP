@@ -101,6 +101,10 @@
 			<substring>Eastern</substring>
 			<identifier>fine</identifier>
 		</binding>
+		<binding>
+			<substring>Corrupted</substring>
+			<identifier>fine</identifier>
+		</binding>
 	<!-- Bindings that increase the quality of weapons end-->
 	<!-- PerMa modifiers (do not change) start-->
 		<binding>
