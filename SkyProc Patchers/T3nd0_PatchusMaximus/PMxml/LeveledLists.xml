@@ -3233,7 +3233,7 @@
 		<!-- Lilith -->
 			<exclusion>
 				<text>Lilith</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Lilith -->
