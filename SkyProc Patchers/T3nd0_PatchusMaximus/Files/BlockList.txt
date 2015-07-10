@@ -2,6 +2,7 @@
 //Add a mod names or keywords to look for to block
 //One per line
 Animated Dragon Wings.esp
+ArcheryDummyXP.esp
 Chesko_WearableLantern.esp
 ColdharbourDaedra.esp
 CollegeDaysWinterhold.esp
