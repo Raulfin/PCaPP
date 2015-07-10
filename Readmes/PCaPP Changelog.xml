@@ -4,10 +4,12 @@
 Now covers:
 	Skyfall Estate (66299)
 	The Shrouded Lair (19037)
+	Training Dummies and Targets (23698) (TDT)
+	Training Dummies Provide XP (26491) (TDPxp)
 
 Blocklist:
-	ArcheryDummyXP.esp (Training Dummies and Targets (23698))
-	Training Dummies XP.esp (Training Dummies Provide XP (26491))
+	ArcheryDummyXP.esp (TDT)
+	Training Dummies XP.esp (TDPxp)
 
 Exclusions:
 	Archer's Armory
@@ -21,7 +23,7 @@ Fixes:
 	'Traveller' rank 3 and 'Well Insulated' Wayfarer perks required skill reduced to 100 and 90 respectively. (FF)
 
 Changes:
-	Liliths Awakened weapons will no longer be distributed.
+	Liliths 'Awakened' weapons will no longer be distributed.
 
 Additions:
 	Modifier for "Antique" weapons.
@@ -30,16 +32,14 @@ Additions:
 Balancing:
 	Base damage multiplier of Bound Weapons lowered from 2 to 1.334 to account for the Studies: Apprentice Conjuration perk.
 
-Renamed:
-
 Updated Patches:
 	Frostfall (FF)
 	WAFR
 	CCOR
-
-New Patches:
+	Wind Destruction Magic (WDM)
 
 Removed Patches:
+	Better Vampires (BV)
 </v3.2>
 </Current>
 
