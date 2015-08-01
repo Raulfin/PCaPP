@@ -54,7 +54,11 @@
 			<identifier>hero</identifier>
 		</binding>
 		<binding>
-			<substring>Legend</substring>
+			<substring> Legend</substring>
+			<identifier>legendary</identifier>
+		</binding>
+		<binding>
+			<substring>Legend </substring>
 			<identifier>legendary</identifier>
 		</binding>
 		<binding>
