@@ -9,6 +9,7 @@ Blocklist:
 Exclusions:
 
 Fixes:
+	Corrected an over-site that caused Nock to Tip's (Legendary) bows to have a +25% damage, +20% crit damage, -25% speed and +40% value bonuses applied, making them much stronger than intended. (ty to Loganbacca for catching this) 
 
 Changes:
 
