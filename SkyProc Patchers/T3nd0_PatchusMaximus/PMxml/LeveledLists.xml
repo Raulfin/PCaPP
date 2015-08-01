@@ -6675,6 +6675,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Immersive Jewelry -->
+		<!-- Blades Hakama -->
+			<exclusion>
+				<text>Blades Shihan</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Blades Hakama -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>

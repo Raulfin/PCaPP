@@ -1075,6 +1075,10 @@
 			<substring>Light Blades</substring>
 		</binding>
 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Blades Light</substring>
+		</binding>
+		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Akaviri</substring>
 		</binding>
@@ -1145,6 +1149,10 @@
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Wolf Pack</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Blades Shihan</substring>
 		</binding>
 	<!-- Faction material_Bindings end -->
 	
