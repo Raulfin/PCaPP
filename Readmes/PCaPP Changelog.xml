@@ -1,5 +1,36 @@
 <Versions>
 <Current>
+<v3.3>
+Now covers:
+	Blades Hakama (39718)
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+	Imperial and Stormcloak ammo will now patch.
+	A 'Blades Light' binding, already had a 'Light Blades' binding.
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+	Hunterborn. Corrected an error that caused Keen Eye rank 2 to only be selectable while Wayfarer skill is at 60 instead of 60 or higher.
+
+New Patches:
+
+Removed Patches:
+</v3.3>
+</Current>
+
+
+<Old>
 <v3.2>
 Now covers:
 	Skyfall Estate (66299)
@@ -41,10 +72,6 @@ Updated Patches:
 Removed Patches:
 	Better Vampires (BV)
 </v3.2>
-</Current>
-
-
-<Old>
 <v3.1>
 Now covers:
 	Wrath of Nature - The Path of the Druid (31485)
