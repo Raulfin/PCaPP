@@ -757,6 +757,14 @@
 			<substring>Steel</substring>
 		</binding>
 		<binding>
+			<identifier>Stormcloak</identifier>
+			<substring>Steel</substring>
+		</binding>
+		<binding>
+			<identifier>Imperial</identifier>
+			<substring>Steel</substring>
+		</binding>
+		<binding>
 			<identifier>Skyforge</identifier>
 			<substring>Skyforge</substring>
 		</binding>
