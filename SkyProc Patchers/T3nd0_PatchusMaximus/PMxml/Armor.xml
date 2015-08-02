@@ -2209,6 +2209,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Firelink</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Helm of Oreyn Bearclaw</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -4096,6 +4100,14 @@
 		<binding>
 			<identifier>GoldHeavy</identifier>
 			<substring>Golden plate</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
+		<binding>
+			<identifier>GoldHeavy</identifier>
+			<substring>Golden Plate</substring>
+		</binding>
+		<binding>
+			<identifier>GoldHeavy</identifier>
+			<substring>Golden Ivory</substring><!-- More Interesting Loot -->
 		</binding>
 	<!-- Gold Material Bindings end -->
 	

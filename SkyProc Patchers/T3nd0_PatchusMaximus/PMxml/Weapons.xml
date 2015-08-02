@@ -1218,7 +1218,7 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
-			<substring>Hatred's Heart</substring>
+			<substring>Hatred's</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -1887,6 +1887,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Dwemer Tool No.457</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Rockshatter</substring>
 		</binding>
 	<!-- Dwarven bindings end -->
 	
@@ -4071,6 +4075,14 @@
 			<identifier>SteelHigh</identifier>
 			<substring>Ancient Akaviri Dha</substring>
 		</bindings>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Ritual Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Winterwound</substring>
+		</binding>
 	<!-- Steel bindings end -->
 
 	<!-- Skyforge bindings start -->
@@ -5945,6 +5957,10 @@
 			<substring>The Crab Slayer</substring>
 			<identifier>Dagger</identifier>
 		</binding>
+		<binding>
+			<substring>Winterwound</substring>
+			<identifier>Dagger</identifier>
+		</binding>
 	<!-- Dagger bindings end -->
 
 	<!-- Hatchet bindings start -->
@@ -6314,6 +6330,18 @@
 		<binding>
 			<substring>Lilith's Ancient Obliterator (mace1h</substring>
 			<identifier>Longmace</identifier>
+		</binding>
+		<binding>
+			<identifier>Mace</identifier>
+			<substring>Scepter</substring>
+		</binding>
+		<binding>
+			<identifier>Mace</identifier>
+			<substring>Hatred's Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mace</identifier>
+			<substring>Rockshatter</substring>
 		</binding>
 	<!-- Mace bindings end -->
 
@@ -7593,6 +7621,10 @@
 			<substring>Sulfuras</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
+		<binding>
+			<substring>Greatscepter</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
 	<!-- Warhammer bindings end -->
 	<!-- Great Morning Star bindings start -->
 		<binding>
@@ -7857,6 +7889,10 @@
 		</binding>
 		<binding>
 			<substring>Reaper</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Hatred's Soul</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->

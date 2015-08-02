@@ -643,6 +643,24 @@
 	</ammunition_materials>
 
 	<ammunition_material_bindings>
+	<!-- Default variant blockers start -->
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>test</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>Test</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>TEST</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Steel Bolt TEST</substring>
+		</binding>
+	<!-- Default variant blockers end -->
 	<!-- Default start -->
 		<binding>
 			<identifier>Ancient Nord</identifier>
@@ -1101,6 +1119,20 @@
 			<substring>Gondorian</substring>
 		</binding>
 	<!-- Merp's Gondorian Armor -->
+	<!-- More Interesting Loot -->
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>Dwarven Arrow, Exploding (Fire)</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>Dwarven Arrow, Exploding (Frost)</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>Dwarven Arrow, Exploding (Shock)</substring>
+		</binding>
+	<!-- More Interesting Loot -->
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
