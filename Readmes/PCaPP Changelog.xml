@@ -10,12 +10,11 @@ Blocklist:
 Exclusions:
 
 Fixes:
-	Corrected an over-site that caused Nock to Tip's (Legendary) bows to have a +25% damage, +20% crit damage, -25% speed and +40% value bonuses applied, making them much stronger than intended. (ty to Loganbacca for catching this).
+	Corrected an over-site that caused Nock to Tip's (Legendary) bows to have +25% damage, +20% crit damage, -25% speed and +40% value bonuses applied, making them much stronger than intended. (ty to Loganbacca for catching this).
 	More Interesting Loot will nolonger make crap like "Dwarven Arrow, Exploding (Shock) - Fire"
 
 Changes:
-	TERA Armors (25846)
-	More Interesting Loot 5.7 (48869)
+	More Interesting Loot (48869) v5.7 parity.
 
 Additions:
 	Imperial and Stormcloak ammo will now patch.
@@ -29,6 +28,7 @@ Updated Patches:
 	Hunterborn. Corrected an error that caused Keen Eye rank 2 to only be selectable while Wayfarer skill is at 60 instead of 60 or higher.
 
 New Patches:
+	Ghosu - Horker Weapon Pack replacement esp that also requires Hunterborn. The Horker Daggers will count as hunting knives for Hunterborn.
 
 Removed Patches:
 </v3.3>
