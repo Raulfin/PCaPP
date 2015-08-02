@@ -14,8 +14,8 @@
 		<!-- Space intentionally left blank-->
 		<maxProtection>90.0</maxProtection>
 		<protectionPerArmor>0.1</protectionPerArmor>
-		<armorRatingPCMax>1.6</armorRatingPCMax>
-		<armorRatingMax>1.75</armorRatingMax>
+		<armorRatingPCMax>1.1</armorRatingPCMax>
+		<armorRatingMax>1.15</armorRatingMax>
 	</armor_settings>
 
 	<armor_materials>
