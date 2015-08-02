@@ -2213,6 +2213,22 @@
 			<identifier>Daedric</identifier>
 			<substring>Helm of Oreyn Bearclaw</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Acuity Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Graceshed Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Phonic Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Unraveler Shield</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -2889,6 +2905,22 @@
 			<identifier>DwarvenLight</identifier>
 			<substring>Mask Bronze</substring>
 		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Norsteel Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Shadsteel Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Vaunting Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Westonia Shield</substring>
+		</binding>
 	<!-- Dwarven Material Bindings end -->
 	
 	<!-- Ebony Material Bindings start -->
@@ -3377,6 +3409,22 @@
 			<identifier>EbonyLight</identifier>
 			<substring>Mask Ebony</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Conqueror Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Legate Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Restless Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Xersteel Shield</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -3700,6 +3748,22 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Mask Gold</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bombard Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Elenium Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Palrada Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Webrend Shield</substring>
 		</binding>
 	<!-- Elven Material Bindings end -->
 	
@@ -4084,6 +4148,22 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Bosmer Ceremonial</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Cauterus Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Reprisal Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Sunder Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Umbra Shield</substring>
 		</binding>
 	<!-- Glass Material Bindings end -->
 	
@@ -5868,6 +5948,26 @@
 		<binding>
 			<identifier>OrcishLight</identifier>
 			<substring>Mask Argon</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Arcadian Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Expedition Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Krysteel Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Linsteel Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ostgarath Shield</substring>
 		</binding>
 	<!-- Orcish Material Bindings end -->
 	
