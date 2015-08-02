@@ -1364,6 +1364,22 @@
 			<identifier>Daedric</identifier>
 			<substring>Reaper</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Acuity</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Graceshed</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Phonic</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Unraveler</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -1892,6 +1908,22 @@
 			<identifier>Dwarven</identifier>
 			<substring>Rockshatter</substring>
 		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Norsteel</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Shadsteel</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Vaunting</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Westonia</substring>
+		</binding>
 	<!-- Dwarven bindings end -->
 	
 	<!-- Ebony bindings start -->
@@ -2383,6 +2415,18 @@
 			<identifier>Ebony</identifier>
 			<substring>Khajiit Yatagan</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Conqueror</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Restless</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Xersteel</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
@@ -2630,6 +2674,22 @@
 			<identifier>Elven</identifier>
 			<substring>Gibson's Dagger</substring>
 		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bombard</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Elenium</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Palrada</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Webrend</substring>
+		</binding>
 	<!-- Elven bindings end -->
 	
 	<!-- Falmer/Forsworn bindings start -->
@@ -2866,6 +2926,22 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Blood Warhammer</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Cauterus</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Reprisal</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Sunder</substring><!--TERA Weapons binding overridden by Dwarven binding -->
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Umbra</substring><!--TERA Weapons binding overridden by Ebony binding -->
 		</binding>
 	<!-- Glass bindings end -->
 	
@@ -3224,6 +3300,26 @@
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Carbon Fiber Compound Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Arcadian</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Expedition</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Krysteel</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Linsteel</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ostgarath</substring>
 		</binding>
 	<!-- Orcish bindings end -->
 	
@@ -5108,6 +5204,10 @@
 		</binding>
 		<binding>
 			<substring>Spear</substring>
+			<identifier>Spear</identifier>
+		</binding>
+		<binding>
+			<substring>Lance</substring>
 			<identifier>Spear</identifier>
 		</binding>
 		<binding>
@@ -7357,6 +7457,106 @@
 		</binding>
 		<binding>
 			<substring>Twilight</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Acuity Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Arcadian Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Bombard Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Cauterus Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Conqueror Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Elenium Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Expedition Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Graceshed Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Krysteel Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Legate Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Linsteel Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Norsteel Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Ostgarath Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Palrada Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Phonic Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Reprisal Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Restless Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Shadsteel Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Sunder Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Umbra Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Unraveler Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Vaunting Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Webrend Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Westonia Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Xersteel Blade</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->

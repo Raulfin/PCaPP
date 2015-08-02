@@ -5145,6 +5145,11 @@
 		<!-- Target = Enchanted Items in this list will not be distributed to LLs by PaMa -->
 		<!-- Faction Exclusions start -->
 			<exclusion>
+				<text>sample</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Akaviri</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
