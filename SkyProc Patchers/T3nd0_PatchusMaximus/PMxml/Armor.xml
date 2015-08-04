@@ -2229,6 +2229,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Unraveler Shield</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Eclipse</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -2688,6 +2692,38 @@
 		<binding>
 			<identifier>Dragonscale</identifier>
 			<substring>Mask Gator</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Full Black Dragonscale Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Black Dragonscale Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Brown Dragonscale Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Black Dragonscale Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Brown Dragonscale Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Brown Dragonscale Bracers</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Black Dragonscale Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Sotteta Huntress</substring>
 		</binding>
 	<!-- Dragonscale Material Bindings end -->
 	
@@ -3424,6 +3460,22 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Xersteel Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Sanguine Boots[Ebony]</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Sanguine Crown[Ebony]</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Sanguine Armor[Ebony]</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Sanguine Gauntlets[Ebony]</substring>
 		</binding>
 	<!-- Ebony Material Bindings end -->
 	
@@ -5576,6 +5628,198 @@
 		<binding>
 			<identifier>LeatherHigh</identifier>
 			<substring>Yharnyam</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Sorceress' Studded Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Sorceress' Studded Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Sorceress' Studded Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Sorceress' Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Sorceress' Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Sorceress' Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Thief's Studded Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Thief's Studded Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Thief's Studded Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Thief's Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Thief's Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Thief's Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ancient Assassin's Studded Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ancient Assassin's Studded Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ancient Assassin's Studded Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ancient Assassin's Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ancient Assassin's Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ancient Assassin's Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Vagrant's Studded Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Vagrant's Studded Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Vagrant's Studded Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Vagrant's Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Vagrant's Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Vagrant's Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Forest Stalker's Studded Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Forest Stalker's Studded Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Forest Stalker's Studded Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Forest Stalker's Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Forest Stalker's Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Forest Stalker's Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Night Strider's Studded Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Night Strider's Studded Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Night Strider's Studded Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Night Strider's Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Night Strider's Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Night Strider's Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger's Studded Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger's Studded Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger's Studded Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger's Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger's Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger's Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mercenary's Studded Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mercenary's Studded Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mercenary's Studded Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mercenary's Jerkin</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mercenary's Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mercenary's Gloves</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	

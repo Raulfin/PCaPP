@@ -8095,6 +8095,10 @@
 			<substring>Hatred's Soul</substring>
 			<identifier>Longbow</identifier>
 		</binding>
+		<binding>
+			<substring>Eclipse</substring>
+			<identifier>Longbow</identifier>
+		</binding>
 	<!-- Longbow bindings end -->
 	
 	<!-- Shortbow bindings start -->

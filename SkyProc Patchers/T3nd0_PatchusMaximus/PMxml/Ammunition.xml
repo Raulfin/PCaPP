@@ -813,6 +813,10 @@
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Wooden</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Arrow</substring>
 		</binding>
 	<!-- Default end -->
 	<!-- PerMa start -->
