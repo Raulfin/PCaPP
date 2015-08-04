@@ -1,5 +1,34 @@
 <Versions>
 <Current>
+<v3.3.1>
+Now covers:
+	Triss Armor Retextured CBBE HDT (4708)
+	Sotteta Huntress (57909)
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+
+Removed Patches:
+</v3.3.1>
+</Current>
+
+
+<Old>
 <v3.3>
 Now covers:
 	Blades Hakama (39718)
@@ -22,10 +51,6 @@ Updated Patches:
 New Patches:
 	Ghosu - Horker Weapon Pack replacement esp that also requires Hunterborn. The Horker Daggers will count as hunting knives for Hunterborn.
 </v3.3>
-</Current>
-
-
-<Old>
 <v3.2>
 Now covers:
 	Skyfall Estate (66299)
