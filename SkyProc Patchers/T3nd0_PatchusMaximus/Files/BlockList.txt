@@ -24,6 +24,7 @@ Dwemertech - PerMa Compatibility Patch.esp
 EFFCore.esm
 EFFDialogue.esp
 Footprints.esp
+Grimy Utilities Interface.esp
 Headtracking.esp
 HDTPhysicsWeaponSling.esp
 HorseCloakCH.esp
