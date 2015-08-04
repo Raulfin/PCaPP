@@ -5,12 +5,8 @@ Now covers:
 	Blades Hakama (39718)
 	TERA Weapons (27463)
 
-Blocklist:
-
-Exclusions:
-
 Fixes:
-	Corrected an over-site that caused Nock to Tip's (Legendary) bows to have +25% damage, +20% crit damage, -25% speed and +40% value bonuses applied, making them much stronger than intended. (ty to Loganbacca for catching this).
+	Corrected an oversight that caused Nock to Tip's (Legendary) bows to have +25% damage, +20% crit damage, -25% speed and +40% value bonuses applied, making them much stronger than intended. (ty to Loganbacca for catching this).
 	More Interesting Loot will nolonger make crap like "Dwarven Arrow, Exploding (Shock) - Fire"
 
 Changes:
@@ -19,10 +15,6 @@ Changes:
 Additions:
 	Imperial and Stormcloak ammo will now patch.
 	A 'Blades Light' binding, already had a 'Light Blades' binding.
-
-Balancing:
-
-Renamed:
 
 Updated Patches:
 	Hunterborn. Corrected an error that caused Keen Eye rank 2 to only be selectable while Wayfarer skill is at 60 instead of 60 or higher.
