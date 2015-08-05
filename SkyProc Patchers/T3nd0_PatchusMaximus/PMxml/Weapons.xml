@@ -1380,6 +1380,22 @@
 			<identifier>Daedric</identifier>
 			<substring>Unraveler</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Armadyl Godsword</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Saradomin Godsword</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Zamorak Godsword</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Bandos Godsword</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -7557,6 +7573,22 @@
 		</binding>
 		<binding>
 			<substring>Xersteel Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Armadyl Godsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Saradomin Godsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Zamorak Godsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Bandos Godsword</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->

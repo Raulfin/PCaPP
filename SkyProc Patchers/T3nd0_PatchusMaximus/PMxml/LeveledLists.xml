@@ -4902,6 +4902,48 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Immersive Jewelry -->
+		<!-- The Godswords of Gielinor -->
+			<exclusion>
+				<text>ArmadylGodsword</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmadylGodsword2</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>BandosGodsword</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>BandosGodsword2</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SaradominGodsword</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SaradominGodsword2</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>ZamorakGodsword</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>ZamorakGodsword2</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- The Godswords of Gielinor -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
