@@ -9823,5 +9823,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Path of the Druid- The Champion of kynareth -->
+	<!-- Harbinger's Set -->
+		<exclusion>
+			<text>00Harbinger</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Harbinger's Set -->
 	</reforge_exclusions>
 </ns2:armor>

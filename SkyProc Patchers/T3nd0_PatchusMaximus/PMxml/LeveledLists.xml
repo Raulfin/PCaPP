@@ -8283,13 +8283,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Immersive Jewelry -->
-		<!-- Harbingers armor set -->
+		<!-- Harbinger's Set -->
 			<exclusion>
 				<text>00Harbinger</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-		<!-- Harbingers armor set -->
+		<!-- Harbinger's Set -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
