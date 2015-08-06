@@ -7473,6 +7473,26 @@
 			<identifier>Steel PlateLight</identifier>
 			<substring>Sapphire</substring>
 		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Harbinger Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Harbinger Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Harbinger Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Harbinger Mantle</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Harbinger Shield</substring>
+		</binding>
 	<!-- Steel Plate Material Bindings end -->
 	
 	<!-- Stalhrim Material Bindings start -->
