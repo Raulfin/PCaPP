@@ -4347,8 +4347,12 @@
 			<substring>Vindskjær</substring> <!-- æ is not supported by UTF-8 encoding will need OEM 861 or OEM 865 -->
 		</binding>
 		<binding>
-			<identifier>Strongwood</identifier>
-			<substring>Vindskjaer</substring>
+			<identifier>DaedricHigh</identifier>
+			<substring>Vindskjaer Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Dawnguard</identifier>
+			<substring>Vindskjaer Crossbow</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
