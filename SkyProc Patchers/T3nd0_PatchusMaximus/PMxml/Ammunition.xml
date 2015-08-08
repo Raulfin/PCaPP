@@ -640,6 +640,32 @@
 			<multiply>false</multiply>
 		</ammunition_material>
 	<!--  Elemental Arrows -->
+	<!-- Nock to Tip -->
+		<ammunition_material>
+			<identifier>Mirkwood</identifier>
+			<damageModifier>14</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>50</speedModifier>
+			<gravityModifier>0.01</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+		<ammunition_material>
+			<identifier>TrickShot</identifier>
+			<damageModifier>32</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-10</speedModifier>
+			<gravityModifier>0.02</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+		<ammunition_material>
+			<identifier>BlackArrow</identifier>
+			<damageModifier>77</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-50</speedModifier>
+			<gravityModifier>0.15</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+	<!-- Nock to Tip -->
 	</ammunition_materials>
 
 	<ammunition_material_bindings>
@@ -814,10 +840,6 @@
 			<identifier>Wood</identifier>
 			<substring>Wooden</substring>
 		</binding>	
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Black Arrow</substring>
-		</binding>
 	<!-- Default end -->
 	<!-- PerMa start -->
 		<binding>
@@ -1137,6 +1159,20 @@
 			<substring>Dwarven Arrow, Exploding (Shock)</substring>
 		</binding>
 	<!-- More Interesting Loot -->
+	<!-- Nock to Tip-->
+		<binding>
+			<identifier>Mirkwood</identifier>
+			<substring>Mirkwood</substring>
+		</binding>
+		<binding>
+			<identifier>TrickShot</identifier>
+			<substring>Trick Shot</substring>
+		</binding>
+		<binding>
+			<identifier>BlackArrow</identifier>
+			<substring>Black Arrow</substring>
+		</binding>
+	<!-- Nock to Tip-->
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
