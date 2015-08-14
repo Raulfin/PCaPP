@@ -4217,6 +4217,10 @@
 			<identifier>Glass</identifier>
 			<substring>Umbra Shield</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Auditor</substring>
+		</binding>
 	<!-- Glass Material Bindings end -->
 	
 	<!-- Gold Material Bindings start -->
@@ -4429,6 +4433,10 @@
 
 	<!-- Iron Material Bindings start -->
 	<!-- Bindings allowed: Zero_Metal, IronLight, IronLow, Iron, IronHigh -->
+		<binding>
+			<identifier>Light Iron</identifier>
+			<substring>IronLight</substring>
+		</binding>
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Chain</substring>
