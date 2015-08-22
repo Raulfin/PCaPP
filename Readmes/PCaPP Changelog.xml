@@ -1,5 +1,49 @@
 <Versions>
 <Current>
+<v3.4>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+	PerMa should nolonger cause "Armor Can Only Be Place on Mannequins." errors when using mods that change Mannequins.
+	Corrected typo in Horker Longbow (Hork)
+
+Changes:
+	Updated Nock2Tip patche by Loganbacca.
+
+Additions:
+	Nock2Tip+CCOR patch by Loganbacca.
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+	CCOR - Updated for parity with PerMa 1.4.1 (Dwarven Sphear repair recipie)
+	WAFR - Various parity changes with WAFR and PerMa 1.4.1.
+	CCF  - Various parity changes with WAFR/CCF and PerMa 1.4.1.
+	Hork - Ghosu - Horker Weapon Pack.esp
+	Nock2Tip.esp
+
+New Patches:
+	Pre PaMa WAFR CCF CCOR Patch.esp
+	Pre PaMa WAFR CCF CCOR Wintermyst Patch.esp
+	Pre PaMa N2T CCOR Patch.esp
+
+Removed Patches:
+v3 of Bring Out Your Dead made the following patches redundant.
+	WAFR CCOR BoYD
+	BoYDBTeam
+	BoYDESF
+	BoYDPerMa
+</v3.4>
+</Current>
+
+
+<Old>
 <v3.3.1>
 Now covers:
 	Triss Armor Retextured CBBE HDT (4708)
@@ -9,30 +53,7 @@ Now covers:
 
 Blocklist:
 	Grimy Utilities Interface.esp (36328)
-
-Exclusions:
-
-Fixes:
-
-Changes:
-
-Additions:
-
-Balancing:
-
-Renamed:
-
-Updated Patches:
-	CCOR patches updated for parity with PerMa 1.4.1 (Dwarven Sphear repair recipie)
-
-New Patches:
-
-Removed Patches:
 </v3.3.1>
-</Current>
-
-
-<Old>
 <v3.3>
 Now covers:
 	Blades Hakama (39718)
