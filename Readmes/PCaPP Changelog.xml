@@ -8,11 +8,13 @@ Blocklist:
 Exclusions:
 
 Fixes:
-	PerMa should nolonger cause "Armor Can Only Be Place on Mannequins." errors when using mods that change Mannequins.
+	PerMa should nolonger cause "Armor Can Only Be Placed on Mannequins." errors when using mods that change Mannequins.
 	Corrected typo in Horker Longbow (Hork)
 
 Changes:
 	Updated Nock2Tip patche by Loganbacca.
+	Horker Daggers will nologer cause Aspect of Hircine. (Hork Hunterborn)
+	Cleaned up all recipies, made them more consistant and added new upgrade recipies. (Hork)
 
 Additions:
 	Nock2Tip+CCOR patch by Loganbacca.
@@ -26,7 +28,7 @@ Updated Patches:
 	WAFR - Various parity changes with WAFR and PerMa 1.4.1.
 	CCF  - Various parity changes with WAFR/CCF and PerMa 1.4.1.
 	Hork - Ghosu - Horker Weapon Pack.esp
-	Nock2Tip.esp
+	N2T  - Nock2Tip.esp
 
 New Patches:
 	Pre PaMa WAFR CCF CCOR Patch.esp
