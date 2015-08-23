@@ -684,6 +684,10 @@
 			<substring>Daedric</substring>
 		</binding>
 		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Daedric Light</substring>
+		</binding>
+		<binding>
 			<identifier>Dragonplate</identifier>
 			<substring>Dragonplate</substring>
 		</binding>
