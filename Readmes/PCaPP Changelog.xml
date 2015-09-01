@@ -1,5 +1,33 @@
 <Versions>
 <Current>
+<v3.4.1>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+
+Fixes:
+
+Changes:
+	Updated Polish translations in Languages.xml with data from Terkontar.
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+
+Removed Patches:
+</v3.4.1>
+</Current>
+
+
+<Old>
 <v3.4>
 Now covers:
 
@@ -9,11 +37,11 @@ Exclusions:
 
 Fixes:
 	PerMa should nolonger cause "Armor Can Only Be Placed on Mannequins." errors when using mods that change Mannequins.
-	Corrected typo in Horker Longbow (Hork)
+	Horker Daggers will nologer cause Aspect of Hircine. (Hork Hunterborn)
+	bla08 fixed the LostLongsword patch.
 
 Changes:
 	Updated Nock2Tip patche by Loganbacca.
-	Horker Daggers will nologer cause Aspect of Hircine. (Hork Hunterborn)
 	Cleaned up all recipies, made them more consistant and added new upgrade recipies. (Hork)
 
 Additions:
@@ -23,6 +51,7 @@ Additions:
 Balancing:
 
 Renamed:
+	Corrected typo in Horker Longbow (Hork)
 
 Updated Patches:
 	CCOR - Updated for parity with PerMa 1.4.1 (Dwarven Sphear repair recipie)
@@ -30,6 +59,7 @@ Updated Patches:
 	CCF  - Various parity changes with WAFR/CCF and PerMa 1.4.1.
 	Hork - Ghosu - Horker Weapon Pack.esp
 	N2T  - Nock2Tip.esp
+	LL	 - LostLongSwords.esp
 
 New Patches:
 	Pre PaMa WAFR CCF CCOR Patch.esp
@@ -43,10 +73,6 @@ v3 of Bring Out Your Dead made the following patches redundant.
 	BoYDESF
 	BoYDPerMa
 </v3.4>
-</Current>
-
-
-<Old>
 <v3.3.1>
 Now covers:
 	Triss Armor Retextured CBBE HDT (4708)
