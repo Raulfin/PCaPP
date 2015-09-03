@@ -2443,6 +2443,10 @@
 			<identifier>Ebony</identifier>
 			<substring>Xersteel</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Overlord War Axe</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->

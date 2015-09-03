@@ -3481,6 +3481,10 @@
 			<identifier>Ebony</identifier>
 			<substring>Sanguine Gauntlets[Ebony]</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Black Overlord</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->

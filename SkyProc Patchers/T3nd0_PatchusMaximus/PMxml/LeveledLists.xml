@@ -3576,6 +3576,13 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Twilight Guild Wars 2 Legendary GreatSword -->
+		<!-- Black Overlord Armor Set -->
+			<exclusion>
+				<text>OverlordWarAxe</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Black Overlord Armor Set -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -6729,6 +6736,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Blades Hakama -->
+		<!-- Black Overlord Armor Set -->
+			<exclusion>
+				<text>xxxBlack</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Black Overlord Armor Set -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
