@@ -438,30 +438,30 @@
 	</stringBinding>
 	<!--Bulwark-->
 	<stringBinding>
-		<identifier>the Maze</identifier>
-		<outputString>the Maze</outputString>
+      <identifier>Teeth</identifier>
+      <outputString>Teeth</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Rebuking</identifier>
 		<outputString>Rebuking</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Labyrinth</identifier>
-		<outputString>the Labyrinth</outputString>
+      <identifier>Fangs</identifier>
+      <outputString>Fangs</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Reckoning</identifier>
 		<outputString>Reckoning</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Hollow</identifier>
-		<outputString>the Hollow</outputString>
+      <identifier>Jaws</identifier>
+      <outputString>Jaws</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Sanctuary</identifier>
 		<outputString>Sanctuary</outputString>
 	</stringBinding>
-	<!--Maze/Rebuke-->
+    <!--Block Disarm/Rebuke-->
 	<stringBinding>
 		<identifier>Spurs</identifier>
 		<outputString>Spurs</outputString>
@@ -486,26 +486,26 @@
 		<outputString>the Executioner</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Guard Breaking</identifier>
-		<outputString>Guard Breaking</outputString>
+      <identifier>Power Attacks</identifier>
+      <outputString>Power Attacks</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Murder</identifier>
 		<outputString>Murder</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Block Breaking</identifier>
-		<outputString>Block Breaking</outputString>
+      <identifier>Devastation</identifier>
+      <outputString>Devastation</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Mercy Killing</identifier>
 		<outputString>Mercy Killing</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>of Guard Crushing</identifier>
-		<outputString>of Guard Crushing</outputString>
+      <identifier>Obliteration</identifier>
+      <outputString>Obliteration</outputString>
 	</stringBinding>
-	<!--Execute/Fortify Power Attack-->
+    <!--Cull the Herd/Fortify Power Attack-->
 	<stringBinding>
 		<identifier>Mage Ward</identifier>
 		<outputString>Mage Ward</outputString>
@@ -582,30 +582,30 @@
 	</stringBinding>
 	<!--Increased Experience-->
 	<stringBinding>
-		<identifier>Sprinting</identifier>
-		<outputString>Sprinting</outputString>
+      <identifier>Travel</identifier>
+      <outputString>Travel</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Quickness</identifier>
-		<outputString>Quickness</outputString>
+      <identifier>Evasion</identifier>
+      <outputString>Evasion</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Acceleration</identifier>
-		<outputString>Acceleration</outputString>
+      <identifier>the Nomad</identifier>
+      <outputString>the Nomad</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Chasing</identifier>
 		<outputString>Chasing</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Panther</identifier>
-		<outputString>the Panther</outputString>
+      <identifier>the Forebears</identifier>
+      <outputString>the Forebears</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>the Cheetah</identifier>
 		<outputString>the Cheetah</outputString>
 	</stringBinding>
-	<!--Fortify Sprint-->
+    <!--Marathon-->
 	<stringBinding>
 		<identifier>Swimming</identifier>
 		<outputString>Swimming</outputString>
@@ -802,41 +802,41 @@
 	</stringBinding>
 	<!--Perception-->
 	<stringBinding>
-		<identifier>Aldmeri Blood</identifier>
-		<outputString>Aldmeri Blood</outputString>
+      <identifier>Distillation</identifier>
+      <outputString>Distillation</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Aldmeri Kin</identifier>
-		<outputString>Aldmeri Kin</outputString>
+      <identifier>Prophecies</identifier>
+      <outputString>Prophecies</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Aldmeri Heritage</identifier>
-		<outputString>Aldmeri Heritage</outputString>
+      <identifier>Intuition</identifier>
+      <outputString>Intuition</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Aldmeri Rule</identifier>
-		<outputString>Aldmeri Rule</outputString>
+      <identifier>Steadfastness</identifier>
+      <outputString>Steadfastness</outputString>
 	</stringBinding>
 	<!--Blood of the Aldmer-->
 	<stringBinding>
-		<identifier>Channeling</identifier>
-		<outputString>Channeling</outputString>
+      <identifier>Faith</identifier>
+      <outputString>Faith</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>the Wraith-King</identifier>
 		<outputString>the Wraith-King</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Source</identifier>
-		<outputString>the Source</outputString>
+      <identifier>the Sun</identifier>
+      <outputString>the Sun</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>the Storm-King</identifier>
 		<outputString>the Storm-King</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Fountain</identifier>
-		<outputString>the Fountain</outputString>
+      <identifier>the Ancients</identifier>
+      <outputString>the Ancients</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Three Stars</identifier>
@@ -920,20 +920,20 @@
 	</stringBinding>
 	<!--Healing Cloak-->
 	<stringBinding>
-		<identifier>Nedic Blood</identifier>
-		<outputString>Nedic Blood</outputString>
+      <identifier>Trickling</identifier>
+      <outputString>Trickling</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Nedic Kin</identifier>
-		<outputString>Nedic Kin</outputString>
+      <identifier>the Berserker</identifier>
+      <outputString>the Berserker</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Nedic Heritage</identifier>
-		<outputString>Nedic Heritage</outputString>
+      <identifier>Silvermyst</identifier>
+      <outputString>Silvermyst</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Nedic Rule</identifier>
-		<outputString>Nedic Rule</outputString>
+      <identifier>Evermyst</identifier>
+      <outputString>Evermyst</outputString>
 	</stringBinding>
 	<!--Blood of the Nedes-->
 	<stringBinding>
@@ -1292,30 +1292,30 @@
 	</stringBinding>
 	<!--Optimize Attributes-->
 	<stringBinding>
-		<identifier>Growth</identifier>
-		<outputString>Growth</outputString>
+      <identifier>Sneak Attacks</identifier>
+      <outputString>Sneak Attacks</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Pure Waters</identifier>
-		<outputString>Pure Waters</outputString>
+      <identifier>Momentum</identifier>
+      <outputString>Momentum</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Mountaineering</identifier>
-		<outputString>Mountaineering</outputString>
+      <identifier>the Wraith</identifier>
+      <outputString>the Wraith</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Chantry</identifier>
-		<outputString>the Chantry</outputString>
+      <identifier>Impetus</identifier>
+      <outputString>Impetus</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Stormbringer</identifier>
-		<outputString>the Stormbringer</outputString>
+      <identifier>the Avenger</identifier>
+      <outputString>the Avenger</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Snow Prince</identifier>
-		<outputString>the Snow Prince</outputString>
+      <identifier>the Aedra</identifier>
+      <outputString>the Aedra</outputString>
 	</stringBinding>
-	<!--Weather-->
+    <!--Fortify Sneak Attacks/Battle Momentum/Aedric Blessing-->
 	<stringBinding>
 		<identifier>Blink Step</identifier>
 		<outputString>Blink Step</outputString>
@@ -1376,8 +1376,8 @@
 	</stringBinding>
 	<!--Fortify Long Range-->
 	<stringBinding>
-		<identifier>the Cavalry</identifier>
-		<outputString>the Cavalry</outputString>
+      <identifier>First Blood</identifier>
+      <outputString>First Blood</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Horsemanship</identifier>
@@ -1392,39 +1392,39 @@
 		<outputString>the Dragoon</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Equitation</identifier>
-		<outputString>Equitation</outputString>
+      <identifier>First Strike</identifier>
+      <outputString>First Strike</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>the Ra Gada</identifier>
 		<outputString>the Ra Gada</outputString>
 	</stringBinding>
-	<!--Fortify Mounted Combat-->
+    <!--First Blood/Fortify Mounted Combat-->
 	<stringBinding>
-		<identifier>Regrowth</identifier>
-		<outputString>Regrowth</outputString>
+      <identifier>Luck</identifier>
+      <outputString>Luck</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Resurgence</identifier>
-		<outputString>Resurgence</outputString>
+      <identifier>Chance</identifier>
+      <outputString>Chance</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Phoenix</identifier>
-		<outputString>the Phoenix</outputString>
+      <identifier>Fortune</identifier>
+      <outputString>Fortune</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Unyielding</identifier>
-		<outputString>the Unyielding</outputString>
+      <identifier>Fate</identifier>
+      <outputString>Fate</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Invincible</identifier>
-		<outputString>the Invincible</outputString>
+      <identifier>Destiny</identifier>
+      <outputString>Destiny</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>the Unconquerable</identifier>
-		<outputString>the Unconquerable</outputString>
+      <identifier>Hope</identifier>
+      <outputString>Hope</outputString>
 	</stringBinding>
-	<!--Desperate-->
+    <!--Lucky-->
 	<stringBinding>
 		<identifier>Innocence</identifier>
 		<outputString>Innocence</outputString>
@@ -1465,18 +1465,18 @@
 	</stringBinding>
 	<!--Absorb Armor-->
 	<stringBinding>
-		<identifier>Burdens</identifier>
-		<outputString>Burdens</outputString>
+      <identifier>Razing</identifier>
+      <outputString>Razing</outputString>
 	</stringBinding>
 	<stringBinding>
-		<identifier>Hardship</identifier>
-		<outputString>Hardship</outputString>
+      <identifier>Subjugation</identifier>
+      <outputString>Subjugation</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Oppression</identifier>
 		<outputString>Oppression</outputString>
 	</stringBinding>
-	<!--Absorb Carry Weight-->
+    <!--Absorb Critical Chance-->
 	<stringBinding>
 		<identifier>Cunning</identifier>
 		<outputString>Cunning</outputString>
@@ -1686,10 +1686,10 @@
 		<identifier>Malison</identifier>
 		<outputString>Malison</outputString>
 	</stringBinding>
-	<!--Drain Resistance-->
+    <!--Leprosy-->
 	<stringBinding>
-		<identifier>Deadly</identifier>
-		<outputString>Deadly</outputString>
+      <identifier>Jagged</identifier>
+      <outputString>Jagged</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Executioner's</identifier>
@@ -1711,7 +1711,7 @@
 		<identifier>the End</identifier>
 		<outputString>the End</outputString>
 	</stringBinding>
-	<!--Deadly Strike-->
+    <!--Jagged-->
 	<stringBinding>
 		<identifier>Ember Blasts</identifier>
 		<outputString>Ember Blasts</outputString>
@@ -2278,8 +2278,8 @@
 	</stringBinding>
 	<!--Quicken Shouts-->
 	<stringBinding>
-		<identifier>Breaking</identifier>
-		<outputString>Breaking</outputString>
+      <identifier>Piercing</identifier>
+      <outputString>Piercing</outputString>
 	</stringBinding>
 	<stringBinding>
 		<identifier>Cracking</identifier>
@@ -2301,7 +2301,7 @@
 		<identifier>the Steel Coffin</identifier>
 		<outputString>the Steel Coffin</outputString>
 	</stringBinding>
-	<!--Breach-->
+    <!--Piercing-->
 	<stringBinding>
 		<identifier>Healing</identifier>
 		<outputString>Healing</outputString>
@@ -2410,7 +2410,7 @@
 		<identifier>Necrosis</identifier>
 		<outputString>Necrosis</outputString>
 	</stringBinding>
-	<!--Delayed Poison Damage-->
+    <!--Disease Damage-->
 	<stringBinding>
 		<identifier>Harmonies</identifier>
 		<outputString>Harmonies</outputString>
@@ -2431,7 +2431,7 @@
 		<identifier>Threnodies</identifier>
 		<outputString>Threnodies</outputString>
 	</stringBinding>
-	<!--Harmonic Pain-->
+    <!--Resonance-->
 	<stringBinding>
 		<identifier>the Bull</identifier>
 		<outputString>the Bull</outputString>
@@ -2815,11 +2815,11 @@
 			<outputString>die Bastion</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Maze</identifier>
+      <identifier>Teeth</identifier>
 			<outputString>der Irrgarten</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Labyrinth</identifier>
+      <identifier>Fangs</identifier>
 			<outputString>das Labyrinth</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -2827,7 +2827,7 @@
 			<outputString>Abrechnung</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Hollow</identifier>
+      <identifier>Jaws</identifier>
 			<outputString>die Höhle</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -2847,7 +2847,7 @@
 			<outputString>der Scharfrichter</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Guard Breaking</identifier>
+      <identifier>Power Attacks</identifier>
 			<outputString>Die Deckung durchbrechend</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -2855,7 +2855,7 @@
 			<outputString>Mord</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Block Breaking</identifier>
+      <identifier>Devastation</identifier>
 			<outputString>Schildbrecher</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -2899,15 +2899,15 @@
 			<outputString>Weisheit</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Sprinting</identifier>
+      <identifier>Travel</identifier>
 			<outputString>Sprinten</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Quickness</identifier>
+      <identifier>Evasion</identifier>
 			<outputString>Schnelligkeit</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Acceleration</identifier>
+      <identifier>the Nomad</identifier>
 			<outputString>Beschleunigung</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -2915,7 +2915,7 @@
 			<outputString>Jagen</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Panther</identifier>
+      <identifier>the Forebears</identifier>
 			<outputString>der Panther</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3083,7 +3083,7 @@
 			<outputString>Zerkleinern</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>of Guard Crushing</identifier>
+      <identifier>Obliteration</identifier>
 			<outputString>der Wachvernichtung</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3143,23 +3143,23 @@
 			<outputString>Auffassung</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Blood</identifier>
+      <identifier>Distillation</identifier>
 			<outputString>Aldmeri Blut</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Kin</identifier>
+      <identifier>Prophecies</identifier>
 			<outputString>Aldmeri Verwandschaft</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Heritage</identifier>
+      <identifier>Intuition</identifier>
 			<outputString>Aldmeri Erbe</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Rule</identifier>
+      <identifier>Steadfastness</identifier>
 			<outputString>Aldmeri Herrschaft</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Channeling</identifier>
+      <identifier>Faith</identifier>
 			<outputString>Kanalisieren</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3167,7 +3167,7 @@
 			<outputString>der Geisterkönig</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Source</identifier>
+      <identifier>the Sun</identifier>
 			<outputString>die Quelle</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3175,7 +3175,7 @@
 			<outputString>der Sturmkönig</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Fountain</identifier>
+      <identifier>the Ancients</identifier>
 			<outputString>der Brunnen</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3255,19 +3255,19 @@
 			<outputString>Veloth's Aura</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Blood</identifier>
+      <identifier>Trickling</identifier>
 			<outputString>Nedic Blut</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Kin</identifier>
+      <identifier>the Berserker</identifier>
 			<outputString>Nede Verwandschaft</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Heritage</identifier>
+      <identifier>Silvermyst</identifier>
 			<outputString>Nede Erbe</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Rule</identifier>
+      <identifier>Evermyst</identifier>
 			<outputString>Nede Herrschaft</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3583,27 +3583,27 @@
 			<outputString>die Erscheinung</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Growth</identifier>
+      <identifier>Sneak Attacks</identifier>
 			<outputString>Wachstum</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Pure Waters</identifier>
+      <identifier>Momentum</identifier>
 			<outputString>Reine Wasser</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Mountaineering</identifier>
+      <identifier>the Wraith</identifier>
 			<outputString>Bergsteigen</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Chantry</identifier>
+      <identifier>Impetus</identifier>
 			<outputString>die Kantorei</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Stormbringer</identifier>
+      <identifier>the Avenger</identifier>
 			<outputString>der Sturmbringer</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Snow Prince</identifier>
+      <identifier>the Aedra</identifier>
 			<outputString>der Schnee Prinz</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3663,7 +3663,7 @@
 			<outputString>Hinterhältigkeit</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Cavalry</identifier>
+      <identifier>First Blood</identifier>
 			<outputString>die Kavallerie</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3679,7 +3679,7 @@
 			<outputString>der Dragoner</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Equitation</identifier>
+      <identifier>First Strike</identifier>
 			<outputString>Reiterei</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3687,27 +3687,27 @@
 			<outputString>die Ra Gada</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Regrowth</identifier>
+      <identifier>Luck</identifier>
 			<outputString>Neuwuchs</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Resurgence</identifier>
+      <identifier>Chance</identifier>
 			<outputString>Wiederkehr</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Phoenix</identifier>
+      <identifier>Fortune</identifier>
 			<outputString>der Phönix</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Unyielding</identifier>
+      <identifier>Fate</identifier>
 			<outputString>der Unnachgiebige</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Invincible</identifier>
+      <identifier>Destiny</identifier>
 			<outputString>der Unbesiegbare</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Unconquerable</identifier>
+      <identifier>Hope</identifier>
 			<outputString>der Unüberwindbare</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3747,11 +3747,11 @@
 			<outputString>Galvanisieren</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Burdens</identifier>
+      <identifier>Razing</identifier>
 			<outputString>Belastungen</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Hardship</identifier>
+      <identifier>Subjugation</identifier>
 			<outputString>Mühsal</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -3955,7 +3955,7 @@
 			<outputString>Verwünschung</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Deadly</identifier>
+      <identifier>Jagged</identifier>
 			<outputString>tödlich</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -4519,7 +4519,7 @@
 			<outputString>das Lexikon</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Breaking</identifier>
+      <identifier>Piercing</identifier>
 			<outputString>Brechen</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5123,7 +5123,7 @@
 			<outputString>el Bastión</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Maze</identifier>
+      <identifier>Teeth</identifier>
 			<outputString>el Laberinto</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5131,7 +5131,7 @@
 			<outputString>Purificador</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Labyrinth</identifier>
+      <identifier>Fangs</identifier>
 			<outputString>el Laberinto</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5139,7 +5139,7 @@
 			<outputString>Ajuste de Cuentas</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Hollow</identifier>
+      <identifier>Jaws</identifier>
 			<outputString>el Hueco</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5167,7 +5167,7 @@
 			<outputString>el Verdugo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Guard Breaking</identifier>
+      <identifier>Power Attacks</identifier>
 			<outputString>Rompeguardia</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5175,7 +5175,7 @@
 			<outputString>Asesinato</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Block Breaking</identifier>
+      <identifier>Devastation</identifier>
 			<outputString>Rompebloqueo</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5183,7 +5183,7 @@
 			<outputString>Muerte piadosa</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>of Guard Crushing</identifier>
+      <identifier>Obliteration</identifier>
 			<outputString>de Aplastaguardia</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5255,15 +5255,15 @@
 			<outputString>Sabiduría</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Sprinting</identifier>
+      <identifier>Travel</identifier>
 			<outputString>Esprintador</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Quickness</identifier>
+      <identifier>Evasion</identifier>
 			<outputString>Rapidez</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Acceleration</identifier>
+      <identifier>the Nomad</identifier>
 			<outputString>Aceleración</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5271,7 +5271,7 @@
 			<outputString>Persecutor</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Panther</identifier>
+      <identifier>the Forebears</identifier>
 			<outputString>la Pantera</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5463,23 +5463,23 @@
 			<outputString>Percepción</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Blood</identifier>
+      <identifier>Distillation</identifier>
 			<outputString>Sangre Aldmer</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Kin</identifier>
+      <identifier>Prophecies</identifier>
 			<outputString>Parentesco Aldmer</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Heritage</identifier>
+      <identifier>Intuition</identifier>
 			<outputString>Herencia Aldmer</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Rule</identifier>
+      <identifier>Steadfastness</identifier>
 			<outputString>Gobierno Aldmer</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Channeling</identifier>
+      <identifier>Faith</identifier>
 			<outputString>Canalización</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5487,7 +5487,7 @@
 			<outputString>el Rey espectral</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Source</identifier>
+      <identifier>the Sun</identifier>
 			<outputString>la Fuente</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5495,7 +5495,7 @@
 			<outputString>el Rey tormentoso</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Fountain</identifier>
+      <identifier>the Ancients</identifier>
 			<outputString>la Fuente</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5575,19 +5575,19 @@
 			<outputString>Aura de Veloth</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Blood</identifier>
+      <identifier>Trickling</identifier>
 			<outputString>Sangre nédica</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Kin</identifier>
+      <identifier>the Berserker</identifier>
 			<outputString>Parentesco nédico</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Heritage</identifier>
+      <identifier>Silvermyst</identifier>
 			<outputString>Herencia nédica</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Rule</identifier>
+      <identifier>Evermyst</identifier>
 			<outputString>Gobierno nédico</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5911,27 +5911,27 @@
 			<outputString>el Eidolon</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Growth</identifier>
+      <identifier>Sneak Attacks</identifier>
 			<outputString>Crecimiento</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Pure Waters</identifier>
+      <identifier>Momentum</identifier>
 			<outputString>Aguas Puras</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Mountaineering</identifier>
+      <identifier>the Wraith</identifier>
 			<outputString>Montañismo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Chantry</identifier>
+      <identifier>Impetus</identifier>
 			<outputString>la Capilla</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Stormbringer</identifier>
+      <identifier>the Avenger</identifier>
 			<outputString>el Portador de la tormenta</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Snow Prince</identifier>
+      <identifier>the Aedra</identifier>
 			<outputString>el Príncipe de las nieves</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5987,7 +5987,7 @@
 			<outputString>Puntería</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Cavalry</identifier>
+      <identifier>First Blood</identifier>
 			<outputString>la Caballería</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -5999,7 +5999,7 @@
 			<outputString>el Lancero</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Equitation</identifier>
+      <identifier>First Strike</identifier>
 			<outputString>Equitación</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -6007,27 +6007,27 @@
 			<outputString>el Ra Gada</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Regrowth</identifier>
+      <identifier>Luck</identifier>
 			<outputString>Rebrote</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Resurgence</identifier>
+      <identifier>Chance</identifier>
 			<outputString>Renacimiento</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Phoenix</identifier>
+      <identifier>Fortune</identifier>
 			<outputString>el Fénix</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Unyielding</identifier>
+      <identifier>Fate</identifier>
 			<outputString>el Firme</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Invincible</identifier>
+      <identifier>Destiny</identifier>
 			<outputString>el Invencible</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Unconquerable</identifier>
+      <identifier>Hope</identifier>
 			<outputString>el Inconquistable</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -6067,11 +6067,11 @@
 			<outputString>Estímulo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Burdens</identifier>
+      <identifier>Razing</identifier>
 			<outputString>Cargas</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Hardship</identifier>
+      <identifier>Subjugation</identifier>
 			<outputString>Adversidad</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -6287,7 +6287,7 @@
 			<outputString>Maldición</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Deadly</identifier>
+      <identifier>Jagged</identifier>
 			<outputString>Mortal</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -6843,7 +6843,7 @@
 			<outputString>el Lexicon</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Breaking</identifier>
+      <identifier>Piercing</identifier>
 			<outputString>Ruptura</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7391,7 +7391,7 @@
 			<outputString>le Bastion</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Maze</identifier>
+      <identifier>Teeth</identifier>
 			<outputString>le Dédale</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7399,7 +7399,7 @@
 			<outputString>Réprimande</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Labyrinth</identifier>
+      <identifier>Fangs</identifier>
 			<outputString>le Labyrinthe</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7407,7 +7407,7 @@
 			<outputString>Jugement</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Hollow</identifier>
+      <identifier>Jaws</identifier>
 			<outputString>le Creux</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7435,7 +7435,7 @@
 			<outputString>le Bourreau</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Guard Breaking</identifier>
+      <identifier>Power Attacks</identifier>
 			<outputString>Brise-garde</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7443,7 +7443,7 @@
 			<outputString>Assassinat</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Block Breaking</identifier>
+      <identifier>Devastation</identifier>
 			<outputString>Brise-parade</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7451,7 +7451,7 @@
 			<outputString>Meurtre par compassion</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>of Guard Crushing</identifier>
+      <identifier>Obliteration</identifier>
 			<outputString>d'Ecrase-garde</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7523,15 +7523,15 @@
 			<outputString>Sagesse</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Sprinting</identifier>
+      <identifier>Travel</identifier>
 			<outputString>Course</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Quickness</identifier>
+      <identifier>Evasion</identifier>
 			<outputString>Rapidité</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Acceleration</identifier>
+      <identifier>the Nomad</identifier>
 			<outputString>Accélération</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7539,7 +7539,7 @@
 			<outputString>Poursuite</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Panther</identifier>
+      <identifier>the Forebears</identifier>
 			<outputString>la Panthère</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7723,23 +7723,23 @@
 			<outputString>Escrime</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Blood</identifier>
+      <identifier>Distillation</identifier>
 			<outputString>Sang aldmeri</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Kin</identifier>
+      <identifier>Prophecies</identifier>
 			<outputString>Parenté aldmeri</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Heritage</identifier>
+      <identifier>Intuition</identifier>
 			<outputString>Héritage aldmeri</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Aldmeri Rule</identifier>
+      <identifier>Steadfastness</identifier>
 			<outputString>Règle aldmeri</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Channeling</identifier>
+      <identifier>Faith</identifier>
 			<outputString>Cannalisation</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7747,7 +7747,7 @@
 			<outputString>le Roi-Spectre</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Source</identifier>
+      <identifier>the Sun</identifier>
 			<outputString>la Source</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7755,7 +7755,7 @@
 			<outputString>le Roi-Tonerre</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Fountain</identifier>
+      <identifier>the Ancients</identifier>
 			<outputString>la Fontaine</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -7835,19 +7835,19 @@
 			<outputString>Aura de Veloth</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Blood</identifier>
+      <identifier>Trickling</identifier>
 			<outputString>Sang nédique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Kin</identifier>
+      <identifier>the Berserker</identifier>
 			<outputString>Parenté nédique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Heritage</identifier>
+      <identifier>Silvermyst</identifier>
 			<outputString>Héritage nédique</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Nedic Rule</identifier>
+      <identifier>Evermyst</identifier>
 			<outputString>Règle nédique</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -8143,27 +8143,27 @@
 			<outputString>l'Eidolon</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Growth</identifier>
+      <identifier>Sneak Attacks</identifier>
 			<outputString>Croissance</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Pure Waters</identifier>
+      <identifier>Momentum</identifier>
 			<outputString>Eaux Pures</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Mountaineering</identifier>
+      <identifier>the Wraith</identifier>
 			<outputString>Alpinisme</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Chantry</identifier>
+      <identifier>Impetus</identifier>
 			<outputString>le Choeur</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Stormbringer</identifier>
+      <identifier>the Avenger</identifier>
 			<outputString>le Porteur d'orage</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Snow Prince</identifier>
+      <identifier>the Aedra</identifier>
 			<outputString>le Prince des neiges</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -8223,7 +8223,7 @@
 			<outputString>Tir de précision</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Cavalry</identifier>
+      <identifier>First Blood</identifier>
 			<outputString>la Cavalerie</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -8239,35 +8239,35 @@
 			<outputString>le Dragon</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Equitation</identifier>
-			<outputString>Equitation</outputString>
+      <identifier>First Strike</identifier>
+      <outputString>First Strike</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Ra Gada</identifier>
 			<outputString>le Ra Gada</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Regrowth</identifier>
+      <identifier>Luck</identifier>
 			<outputString>Repousse</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Resurgence</identifier>
+      <identifier>Chance</identifier>
 			<outputString>Renaissance</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Phoenix</identifier>
+      <identifier>Fortune</identifier>
 			<outputString>le Phénix</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Unyielding</identifier>
+      <identifier>Fate</identifier>
 			<outputString>l'Inflexible</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Invincible</identifier>
+      <identifier>Destiny</identifier>
 			<outputString>l'Invincible</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Unconquerable</identifier>
+      <identifier>Hope</identifier>
 			<outputString>l'Indomptable</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -8303,11 +8303,11 @@
 			<outputString>Galvanisation</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Burdens</identifier>
+      <identifier>Razing</identifier>
 			<outputString>Fardeaux</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Hardship</identifier>
+      <identifier>Subjugation</identifier>
 			<outputString>Privation</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -8503,7 +8503,7 @@
 			<outputString>Maléfice</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Deadly</identifier>
+      <identifier>Jagged</identifier>
 			<outputString>Mortel</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -9027,7 +9027,7 @@
 			<outputString>le Lexicon</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Breaking</identifier>
+      <identifier>Piercing</identifier>
 			<outputString>Rupture</outputString>
 		</stringBinding>
 		<stringBinding>
@@ -9607,7 +9607,11 @@
 			<outputString>Bastion</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>the Maze</identifier>
+      <identifier>Teeth</identifier>
+      <outputString>Labirynt</outputString>
+    </stringBinding>
+    <stringBinding>
+      <identifier>Fangs</identifier>
 			<outputString>Labirynt</outputString>
 		</stringBinding>
 		<stringBinding>

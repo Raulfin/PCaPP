@@ -142,7 +142,7 @@
     <!--Bulwark-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistMagic01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Ill_Ench_Maze01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_BlockDisarm01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistMagic02</edidEnchantmentBase>
@@ -150,7 +150,7 @@
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistMagic03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Ill_Ench_Maze03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_BlockDisarm03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistMagic04</edidEnchantmentBase>
@@ -158,13 +158,13 @@
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistMagic05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Ill_Ench_Maze05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_BlockDisarm05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistMagic06</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Armor_Des_Ench_Rebuke06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Maze/Rebuke-->
+    <!--Block Disarm/Rebuke-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorMuffle</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Armor_Alt_Ench_Spurs01</edidEnchantmentNew>
@@ -187,29 +187,29 @@
     <!--Perception-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyTwoHanded01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Des_Ench_Execute01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Des_Ench_CullTheHerd01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyTwoHanded02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyPowerAttack02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyPowerAttacks02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyTwoHanded03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Des_Ench_Execute03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Des_Ench_CullTheHerd03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyTwoHanded04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyPowerAttack04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyPowerAttacks04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyTwoHanded05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Des_Ench_Execute05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Des_Ench_CullTheHerd05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyTwoHanded06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyPowerAttack06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyPowerAttacks06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Execute/Fortify Power Attack-->
+    <!--Cull the Herd/Fortify Power Attack-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyOneHanded01</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Armor_Res_Ench_Mageward01</edidEnchantmentNew>
@@ -287,29 +287,29 @@
     <!--Phantoms of the Wild-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySneak01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySneak02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySneak03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySneak04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySneak05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySneak06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Fortify Sprint-->
+    <!--Marathon-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyCarry01</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySwimSpeed01</edidEnchantmentNew>
@@ -459,7 +459,7 @@
     <!--Blood of the Aldmer-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySmithing01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Channeling01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_Doubled01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySmithing02</edidEnchantmentBase>
@@ -467,7 +467,7 @@
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySmithing03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Channeling03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_Doubled03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySmithing04</edidEnchantmentBase>
@@ -475,13 +475,13 @@
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySmithing05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Channeling05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_Doubled05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifySmithing06</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Armor_Con_Ench_KingOfTheLost06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Channeling/King of the Lost-->
+    <!--Doubled/King of the Lost-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyAlchemy01</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Armor_Res_Ench_DeepBreath01</edidEnchantmentNew>
@@ -936,29 +936,29 @@
     <!--Spell Eater-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyIllusion01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Weather01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifySneakAttacks01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyIllusion02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Weather02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_BattleMomentum02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyIllusion03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Weather03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifySneakAttacks03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyIllusion04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Weather04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_BattleMomentum04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyIllusion05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Weather05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifySneakAttacks05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyIllusion06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Weather06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_AedricBlessing06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Weather-->
+    <!--Fortify Sneak Attacks/Battle Momentum/Aedric Blessing-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorFortifyHealRate03</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Armor_Alt_Ench_BlinkStep03</edidEnchantmentNew>
@@ -1062,15 +1062,15 @@
     <!--Fortify Long Range-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFire01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyMountedCombat01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_FirstBlood01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFire02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyMountedCombat02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_FirstBlood032</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFire03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyMountedCombat03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_FirstBlood03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFire04</edidEnchantmentBase>
@@ -1078,38 +1078,38 @@
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFire05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyMountedCombat05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Alt_Ench_FirstBlood05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFire06</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifyMountedCombat06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Fortify Mounted Combat-->
+    <!--First Blood/Fortify Mounted Combat-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFrost01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Desperate01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_Lucky01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFrost02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Desperate02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_Lucky02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFrost03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Desperate03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_Lucky03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFrost04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Desperate04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_Lucky04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFrost05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Desperate05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_Lucky05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistFrost06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Armor_Res_Ench_Desperate06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Armor_Res_Ench_Lucky06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Desperate-->
+    <!--Lucky-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchArmorResistShock01</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Armor_Res_Ench_Cornucopia01</edidEnchantmentNew>
@@ -1151,17 +1151,17 @@
     <!--Absorb Armor-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponParalysis04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_AbsorbCarryWeight04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_AbsorbCriticalChance04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponParalysis05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_AbsorbCarryWeight05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_AbsorbCriticalChance05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponParalysis06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_AbsorbCarryWeight06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_AbsorbCriticalChance06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Absorb Carry Weight-->
+    <!--Absorb Critical Chance-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbStamina02</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Weapon_Alt_Ench_AbsorbSpeed02</edidEnchantmentNew>
@@ -1256,25 +1256,25 @@
     <!--Enfeeble-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbMagicka02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Mug02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Clumsy02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbMagicka03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Mug03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Clumsy03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbMagicka04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Mug04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Clumsy04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbMagicka05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Mug05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Clumsy05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbMagicka06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Mug06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Clumsy06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Mug-->
+    <!--Clumsy-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponBanish04</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Weapon_Alt_Ench_PowerSurge04</edidEnchantmentNew>
@@ -1387,32 +1387,32 @@
       <edidEnchantmentBase>EnchWeaponStaminaDamage06</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Weapon_Des_Ench_Leprosy06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Drain Resistance-->
+    <!--Leprosy-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DeadlyStrike01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Jagged01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DeadlyStrike02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Jagged02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DeadlyStrike03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Jagged03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DeadlyStrike04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Jagged04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DeadlyStrike05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Jagged05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DeadlyStrike06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Jagged06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Deadly Strike-->
+    <!--Jagged-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponFireDamage03</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Weapon_Des_Ench_FireBlast03</edidEnchantmentNew>
@@ -1524,29 +1524,29 @@
     <!--Killstreak-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_OverbearingStrike01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Overbearing01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_OverbearingStrike02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Overbearing02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_OverbearingStrike03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Overbearing03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_OverbearingStrike04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Overbearing04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_OverbearingStrike05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Overbearing05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponStaminaDamage06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_OverbearingStrike06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Overbearing06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Overbearing Strike-->
+    <!--Overbearing-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponShockDamage03</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Weapon_Des_Ench_ShockBlast03</edidEnchantmentNew>
@@ -1805,29 +1805,29 @@
     <!--Phantom Strike-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponFear01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Breach01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Piercing01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponFear02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Breach02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Piercing02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponFear03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Breach03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Piercing03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponFear04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Breach04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Piercing04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponFear05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Breach05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Piercing05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponFear06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Breach06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Piercing06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Breach-->
+    <!--Piercing-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbStamina02</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Weapon_Ill_Ench_IllusoryBurden02</edidEnchantmentNew>
@@ -2057,50 +2057,50 @@
     <!--Riposte-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage01</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DelayedPoisonDamage01</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DiseaseDamage01</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DelayedPoisonDamage02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DiseaseDamage02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DelayedPoisonDamage03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DiseaseDamage03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DelayedPoisonDamage04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DiseaseDamage04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DelayedPoisonDamage05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DiseaseDamage05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponMagickaDamage06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DelayedPoisonDamage06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_DiseaseDamage06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Poison Damage Delayed-->
+    <!--Disease Damage-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbHealth02</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_HarmonicPain02</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Resonance02</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbHealth03</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_HarmonicPain03</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Resonance03</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbHealth04</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_HarmonicPain04</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Resonance04</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbHealth05</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_HarmonicPain05</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Resonance05</edidEnchantmentNew>
     </direct_enchantment_binding>
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponAbsorbHealth06</edidEnchantmentBase>
-      <edidEnchantmentNew>SCC_Weapon_Des_Ench_HarmonicPain06</edidEnchantmentNew>
+      <edidEnchantmentNew>SCC_Weapon_Des_Ench_Resonance06</edidEnchantmentNew>
     </direct_enchantment_binding>
-    <!--Harmonic Pain-->
+    <!--Resonance-->
     <direct_enchantment_binding>
       <edidEnchantmentBase>EnchWeaponSoulTrap01</edidEnchantmentBase>
       <edidEnchantmentNew>SCC_Weapon_Alt_Ench_Pushback01</edidEnchantmentNew>
@@ -2274,7 +2274,7 @@
 			<enchantment_replacers>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic01</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Ill_Ench_Maze01</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_BlockDisarm01</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic02</edidEnchantmentBase>
@@ -2282,7 +2282,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic03</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Ill_Ench_Maze03</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_BlockDisarm03</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic06</edidEnchantmentBase>
@@ -2290,7 +2290,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic05</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Ill_Ench_Maze05</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_BlockDisarm05</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic06</edidEnchantmentBase>
@@ -2305,7 +2305,7 @@
 			<enchantment_replacers>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic01</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Ill_Ench_Maze01</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_BlockDisarm01</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic02</edidEnchantmentBase>
@@ -2313,7 +2313,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic03</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Ill_Ench_Maze03</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_BlockDisarm03</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic04</edidEnchantmentBase>
@@ -2321,7 +2321,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic05</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Ill_Ench_Maze05</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_BlockDisarm05</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorResistMagic06</edidEnchantmentBase>
@@ -2417,7 +2417,7 @@
 			<enchantment_replacers>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded01</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Des_Ench_Execute01</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Des_Ench_CullTheHerd01</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded02</edidEnchantmentBase>
@@ -2425,7 +2425,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded03</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Des_Ench_Execute03</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Des_Ench_CullTheHerd03</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded04</edidEnchantmentBase>
@@ -2433,7 +2433,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded05</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Des_Ench_Execute05</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Des_Ench_CullTheHerd05</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded06</edidEnchantmentBase>
@@ -2448,7 +2448,7 @@
 			<enchantment_replacers>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded01</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Des_Ench_Execute01</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Des_Ench_CullTheHerd01</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded02</edidEnchantmentBase>
@@ -2456,7 +2456,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded03</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Des_Ench_Execute03</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Des_Ench_CullTheHerd03</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded04</edidEnchantmentBase>
@@ -2464,7 +2464,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded05</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Des_Ench_Execute05</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Des_Ench_CullTheHerd05</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyTwoHanded06</edidEnchantmentBase>
@@ -2634,27 +2634,27 @@
 			<enchantment_replacers>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak01</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint01</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon01</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak02</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint02</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon02</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak03</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint03</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon03</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak04</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint04</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon04</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak05</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint05</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon05</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak06</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint06</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon06</edidEnchantmentNew>
 				</enchantment_replacer>
 			</enchantment_replacers>
 			<edidList>LItemEnchRingSneak</edidList>
@@ -2665,27 +2665,27 @@
 			<enchantment_replacers>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak01</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint01</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon01</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak02</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint02</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon02</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak03</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint03</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon03</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak04</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint04</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon04</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak05</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint05</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon05</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySneak06</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Alt_Ench_FortifySprint06</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Alt_Ench_Marathon06</edidEnchantmentNew>
 				</enchantment_replacer>
 			</enchantment_replacers>
 			<edidList>LItemEnchNecklaceSneak</edidList>
@@ -2905,7 +2905,7 @@
 			<enchantment_replacers>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing01</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Channeling01</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Res_Ench_Doubled01</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing02</edidEnchantmentBase>
@@ -2913,7 +2913,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing03</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Channeling03</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Res_Ench_Doubled03</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing04</edidEnchantmentBase>
@@ -2921,7 +2921,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing05</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Channeling05</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Res_Ench_Doubled05</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing06</edidEnchantmentBase>
@@ -2936,7 +2936,7 @@
 			<enchantment_replacers>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing01</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Channeling01</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Res_Ench_Doubled01</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing02</edidEnchantmentBase>
@@ -2944,7 +2944,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing03</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Channeling03</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Res_Ench_Doubled03</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing04</edidEnchantmentBase>
@@ -2952,7 +2952,7 @@
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing05</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Channeling05</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Res_Ench_Doubled05</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifySmithing06</edidEnchantmentBase>
@@ -3369,33 +3369,33 @@
 			<enchantment_replacers>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyIllusion01</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Weather01</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifySneakAttacks01</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyIllusion02</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Weather02</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Res_Ench_BattleMomentum02</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyIllusion03</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Weather03</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifySneakAttacks03</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyIllusion04</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Weather04</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Res_Ench_BattleMomentum04</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyIllusion05</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Weather05</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Des_Ench_FortifySneakAttacks05</edidEnchantmentNew>
 				</enchantment_replacer>
 				<enchantment_replacer>
 					<edidEnchantmentBase>EnchArmorFortifyIllusion06</edidEnchantmentBase>
-					<edidEnchantmentNew>SCC_Armor_Res_Ench_Weather06</edidEnchantmentNew>
+          <edidEnchantmentNew>SCC_Armor_Res_Ench_AedricBlessing06</edidEnchantmentNew>
 				</enchantment_replacer>
 			</enchantment_replacers>
 			<edidList>LItemEnchRingIllusion</edidList>
 			<fillListWithSimilars>false</fillListWithSimilars>
 		</list_enchantment_binding>
-	<!--Weather - Rings-->
+    <!--Fortify Sneak Attacks/Battle Momentum/Aedric Blessing - Rings-->
 		<list_enchantment_binding>
 			<enchantment_replacers>
 				<enchantment_replacer>
@@ -3923,7 +3923,7 @@
 		</enchantment_name_binding>
 	<!--Bulwark-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Ill_Ench_Maze01</edidEnchantment>
+      <edidEnchantment>SCC_Armor_Alt_Ench_BlockDisarm01</edidEnchantment>
 			<name>the Maze</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
@@ -3933,7 +3933,7 @@
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Ill_Ench_Maze03</edidEnchantment>
+      <edidEnchantment>SCC_Armor_Alt_Ench_BlockDisarm03</edidEnchantment>
 			<name>the Labyrinth</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
@@ -3943,7 +3943,7 @@
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Ill_Ench_Maze05</edidEnchantment>
+      <edidEnchantment>SCC_Armor_Alt_Ench_BlockDisarm05</edidEnchantment>
 			<name>the Hollow</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
@@ -3977,7 +3977,7 @@
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyPowerAttack02</edidEnchantment>
-			<name>Guard Breaking</name>
+      <name>Power Attacks</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
@@ -3987,7 +3987,7 @@
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyPowerAttack04</edidEnchantment>
-			<name>Block Breaking</name>
+      <name>Devastation</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
@@ -3997,10 +3997,10 @@
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Des_Ench_FortifyPowerAttack06</edidEnchantment>
-			<name>of Guard Crushing</name>
+      <name>Obliteration</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Execute/Fortify Power Attack-->
+    <!--Cull the Herd/Fortify Power Attack-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Mageward01</edidEnchantment>
 			<name>Mage Ward</name>
@@ -4095,36 +4095,36 @@
 		</enchantment_name_binding>
 	<!--Increased Experience-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint01</edidEnchantment>
-			<name>Sprinting</name>
+      <edidEnchantment>SCC_Armor_Alt_Ench_Marathon01</edidEnchantment>
+      <name>Travel</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint02</edidEnchantment>
-			<name>Quickness</name>
+      <edidEnchantment>SCC_Armor_Alt_Ench_Marathon02</edidEnchantment>
+      <name>Evasion</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint03</edidEnchantment>
-			<name>Acceleration</name>
+      <edidEnchantment>SCC_Armor_Alt_Ench_Marathon03</edidEnchantment>
+      <name>the Nomad</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint04</edidEnchantment>
+      <edidEnchantment>SCC_Armor_Alt_Ench_Marathon04</edidEnchantment>
 			<name>Chasing</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint05</edidEnchantment>
-			<name>the Panther</name>
+      <edidEnchantment>SCC_Armor_Alt_Ench_Marathon05</edidEnchantment>
+      <name>the Forebears</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySprint06</edidEnchantment>
+      <edidEnchantment>SCC_Armor_Alt_Ench_Marathon06</edidEnchantment>
 			<name>the Cheetah</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fortify Sprint-->
+    <!--Marathon-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_FortifySwimSpeed01</edidEnchantment>
 			<name>Swimming</name>
@@ -4322,28 +4322,28 @@
 	<!--Perception-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheAldmeri03</edidEnchantment>
-			<name>Aldmeri Blood</name>
+      <name>Distillation</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheAldmeri04</edidEnchantment>
-			<name>Aldmeri Kin</name>
+      <name>Prophecies</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheAldmeri05</edidEnchantment>
-			<name>Aldmeri Heritage</name>
+      <name>Intuition</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheAldmeri06</edidEnchantment>
-			<name>Aldmeri Rule</name>
+      <name>Steadfastness</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 	<!--Blood of the Aldmer-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Channeling01</edidEnchantment>
-			<name>Channeling</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_Doubled01</edidEnchantment>
+      <name>Faith</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
@@ -4352,8 +4352,8 @@
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Channeling03</edidEnchantment>
-			<name>the Source</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_Doubled03</edidEnchantment>
+      <name>the Sun</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
@@ -4362,8 +4362,8 @@
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Channeling05</edidEnchantment>
-			<name>the Fountain</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_Doubled05</edidEnchantment>
+      <name>the Ancients</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
@@ -4371,7 +4371,7 @@
 			<name>Three Stars</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Channeling/King of the Lost-->
+    <!--Doubled/King of the Lost-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_CircleOfProtection01</edidEnchantment>
 			<name>Circle of Protection</name>
@@ -4468,22 +4468,22 @@
 	<!--Healing Cloak-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheNedes03</edidEnchantment>
-			<name>Nedic Blood</name>
+      <name>Trickling</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheNedes04</edidEnchantment>
-			<name>Nedic Kin</name>
+      <name>the Berserker</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheNedes05</edidEnchantment>
-			<name>Nedic Heritage</name>
+      <name>Silvermyst</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_BloodOfTheNedes06</edidEnchantment>
-			<name>Nedic Rule</name>
+      <name>Evermyst</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 	<!--Blood of the Nedes-->
@@ -5071,36 +5071,36 @@
 		</enchantment_name_binding>
 	<!--Optimize Attributes-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Weather01</edidEnchantment>
-			<name>Growth</name>
+      <edidEnchantment>SCC_Armor_Des_Ench_FortifySneakAttacks01</edidEnchantment>
+      <name>Sneak Attacks</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Weather02</edidEnchantment>
-			<name>Pure Waters</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_BattleMomentum02</edidEnchantment>
+      <name>Momentum</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Weather03</edidEnchantment>
-			<name>Mountaineering</name>
+      <edidEnchantment>SCC_Armor_Des_Ench_FortifySneakAttacks03</edidEnchantment>
+      <name>the Wraith</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Weather04</edidEnchantment>
-			<name>the Chantry</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_BattleMomentum04</edidEnchantment>
+      <name>Impetus</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Weather05</edidEnchantment>
-			<name>the Stormbringer</name>
+      <edidEnchantment>SCC_Armor_Des_Ench_FortifySneakAttacks05</edidEnchantment>
+      <name>the Avenger</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Weather06</edidEnchantment>
-			<name>the Snow Prince</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_AedricBlessing06</edidEnchantment>
+      <name>the Aedra</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Weather-->
+    <!--Fortify Sneak Attacks/Battle Momentum/Aedric Blessing-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Alt_Ench_BlinkStep03</edidEnchantment>
 			<name>Blink Step</name>
@@ -5196,8 +5196,8 @@
 		</enchantment_name_binding>
 	<!--Fortify Long Range-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Des_Ench_FortifyMountedCombat01</edidEnchantment>
-			<name>the Cavalry</name>
+      <edidEnchantment>SCC_Armor_Alt_Ench_FirstBlood01</edidEnchantment>
+      <name>First Blood</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
@@ -5206,8 +5206,8 @@
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Des_Ench_FortifyMountedCombat03</edidEnchantment>
-			<name>the Lancer</name>
+      <edidEnchantment>SCC_Armor_Alt_Ench_FirstBlood03</edidEnchantment>
+      <name>Charging</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
@@ -5216,8 +5216,8 @@
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Des_Ench_FortifyMountedCombat05</edidEnchantment>
-			<name>Equitation</name>
+      <edidEnchantment>SCC_Armor_Alt_Ench_FirstBlood05</edidEnchantment>
+      <name>First Strike</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
@@ -5225,38 +5225,38 @@
 			<name>the Ra Gada</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Fortify Mounted Combat-->
+    <!--First Blood/Fortify Mounted Combat-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Desperate01</edidEnchantment>
-			<name>Regrowth</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_Lucky01</edidEnchantment>
+      <name>Luck</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Desperate02</edidEnchantment>
-			<name>Resurgence</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_Lucky02</edidEnchantment>
+      <name>Chance</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Desperate03</edidEnchantment>
-			<name>the Phoenix</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_Lucky03</edidEnchantment>
+      <name>Fortune</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Desperate04</edidEnchantment>
-			<name>the Unyielding</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_Lucky04</edidEnchantment>
+      <name>Fate</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Desperate05</edidEnchantment>
-			<name>the Invincible</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_Lucky05</edidEnchantment>
+      <name>Destiny</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Armor_Res_Ench_Desperate06</edidEnchantment>
-			<name>the Unconquerable</name>
+      <edidEnchantment>SCC_Armor_Res_Ench_Lucky06</edidEnchantment>
+      <name>Hope</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Desperate-->
+    <!--Lucky-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Armor_Res_Ench_Cornucopia01</edidEnchantment>
 			<name>Innocence</name>
@@ -5306,21 +5306,21 @@
 		</enchantment_name_binding>
 	<!--Absorb Armor-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbCarryWeight04</edidEnchantment>
-			<name>Burdens</name>
+      <edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbCriticalChance04</edidEnchantment>
+      <name>Razing</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbCarryWeight05</edidEnchantment>
-			<name>Hardship</name>
+      <edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbCriticalChance05</edidEnchantment>
+      <name>Subjugation</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbCarryWeight06</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbCriticalChance06</edidEnchantment>
 			<name>Oppression</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Absorb Carry Weight-->
+    <!--Absorb Critical Chance-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_AbsorbSpeed02</edidEnchantment>
 			<name>Cunning</name>
@@ -5436,31 +5436,31 @@
 		</enchantment_name_binding>
 	<!--Enfeeble-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Alt_Ench_Mug02</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Alt_Ench_Clumsy02</edidEnchantment>
 			<name>Mugging</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Alt_Ench_Mug03</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Alt_Ench_Clumsy03</edidEnchantment>
 			<name>Plundering</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Alt_Ench_Mug04</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Alt_Ench_Clumsy04</edidEnchantment>
 			<name>Pillaging</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Alt_Ench_Mug05</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Alt_Ench_Clumsy05</edidEnchantment>
 			<name>Ransacking</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Alt_Ench_Mug06</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Alt_Ench_Clumsy06</edidEnchantment>
 			<name>Raiding</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Mug-->
+    <!--Clumsy-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Alt_Ench_PowerSurge04</edidEnchantment>
 			<name>Power Unbound</name>
@@ -5602,36 +5602,36 @@
 		</enchantment_name_binding>
 	<!--Drain Resistance-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike01</edidEnchantment>
-			<name>Deadly</name>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Jagged01</edidEnchantment>
+      <name>Jagged</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike02</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Jagged02</edidEnchantment>
 			<name>Executioner's</name>
 			<type>PREFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike03</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Jagged03</edidEnchantment>
 			<name>Mortality</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike04</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Jagged04</edidEnchantment>
 			<name>Decimation</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike05</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Jagged05</edidEnchantment>
 			<name>Death</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_DeadlyStrike06</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Jagged06</edidEnchantment>
 			<name>the End</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
-	<!--Deadly Strike-->
+    <!--Jagged-->
 		<enchantment_name_binding>
 			<edidEnchantment>SCC_Weapon_Des_Ench_FireBlast01</edidEnchantment>
 			<name>Ember Blasts</name>
@@ -6333,32 +6333,32 @@
 		</enchantment_name_binding>
 	<!--Quicken Shouts-->
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_Breach01</edidEnchantment>
-			<name>Breaking</name>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Piercing01</edidEnchantment>
+      <name>Piercing</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_Breach02</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Piercing02</edidEnchantment>
 			<name>Cracking</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 		<enchantment_name_binding>
-			<edidEnchantment>SCC_Weapon_Des_Ench_Breach03</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Piercing03</edidEnchantment>
 			<name>Breaching</name>
 			<type>SUFFIX</type>
 		</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Breach04</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Piercing04</edidEnchantment>
 		<name>Lordslaying</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Breach05</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Piercing05</edidEnchantment>
 		<name>Kingslaying</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_Breach06</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Piercing06</edidEnchantment>
 		<name>the Steel Coffin</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
@@ -6468,58 +6468,58 @@
 	</enchantment_name_binding>
 	<!--Riposte-->
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage01</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_DiseaseDamage01</edidEnchantment>
 		<name>Blistering</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage02</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_DiseaseDamage02</edidEnchantment>
 		<name>Bubbling</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage03</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_DiseaseDamage03</edidEnchantment>
 		<name>Festering</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage04</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_DiseaseDamage04</edidEnchantment>
 		<name>Seething</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage05</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_DiseaseDamage05</edidEnchantment>
 		<name>Ulceration</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_DelayedPoisonDamage06</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_DiseaseDamage06</edidEnchantment>
 		<name>Necrosis</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<!--Delayed Poison Damage-->
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain02</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Resonance02</edidEnchantment>
 		<name>Harmonies</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain03</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Resonance03</edidEnchantment>
 		<name>Dirges</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain04</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Resonance04</edidEnchantment>
 		<name>Elegies</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain05</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Resonance05</edidEnchantment>
 		<name>Coronachs</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
 	<enchantment_name_binding>
-		<edidEnchantment>SCC_Weapon_Des_Ench_HarmonicPain06</edidEnchantment>
+      <edidEnchantment>SCC_Weapon_Des_Ench_Resonance06</edidEnchantment>
 		<name>Threnodies</name>
 		<type>SUFFIX</type>
 	</enchantment_name_binding>
@@ -6582,7 +6582,6 @@
 	</enchantment_name_binding>
 	<!--Beaconbound-->
 	</enchantment_name_bindings>
-
 	<enchantment_weapon_exclusions>
 	<!-- Quest Items start -->
 		<exclusion>
