@@ -2974,6 +2974,11 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
+			<exclusion>
+				<text>RecurveBow</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
 		<!-- Nock to Tip end -->
 		<!-- Death Alternative -->
 			<exclusion>
