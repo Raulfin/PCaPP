@@ -1,17 +1,16 @@
 <Versions>
 <Current>
-<v3.4.1>
+<v3.4.0.2>
 Now covers:
-	Black Overlord Armor (29707)
 
 Blocklist:
 
 Exclusions:
+	 Bryte'ned Long Bows from Nock to Tip will nolonger be distributed to everyone everywhere.
 
 Fixes:
 
 Changes:
-	Updated Polish translations in Languages.xml by Terkontar.
 
 Additions:
 
@@ -24,11 +23,21 @@ Updated Patches:
 New Patches:
 
 Removed Patches:
-</v3.4.1>
+</v>
 </Current>
 
 
 <Old>
+<v3.4.01>
+Now covers:
+	Black Overlord Armor (29707)
+
+Changes:
+	Updated Polish translations in Languages.xml by Terkontar.
+	Partial Português - Brasil support.
+	Updated for Wintermyst v4
+
+</v3.4.1>
 <v3.4>
 Now covers:
 
