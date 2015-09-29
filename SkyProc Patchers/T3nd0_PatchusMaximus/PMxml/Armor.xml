@@ -9240,11 +9240,6 @@
 		</exclusion>
 	<!-- Dragon Priest Masks end -->
 	<!-- Complete Crafting Overhaul -->
-		<exclusion>
-			<text>ArmoredCirclet</text>
-			<target>EDID</target>
-			<type>STARTSWITH</type>
-		</exclusion>
 	<!-- Complete Crafting Overhaul -->
 	<!-- Wyrmstooth-->
 		<exclusion>
