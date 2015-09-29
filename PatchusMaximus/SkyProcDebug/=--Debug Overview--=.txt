@@ -1,0 +1,9 @@
+[1]                            [OPEN DEBUG FILE]  Opening Debug File
+[2]                               [Run Location]  Program running from: C:\Users\Sascha\Documents\eclipse_workspace\Patchus Maximus\.
+[3]                                     [Status]  PatchusMaximus version: 1.3
+[4]                                     [Status]  Available Memory: 123MB
+[5]                                     [Status]  Max Memory: 1797MB
+[6]                                        [SUM]  Patch needed because no patch existed.
+[7]                                        [SUM]  Patch needed: true
+[8]                                        [SUM]  Closing program early because user cancelled.
+[9]                                      [DEBUG]  Closing Debug File.  Time was: 3081
