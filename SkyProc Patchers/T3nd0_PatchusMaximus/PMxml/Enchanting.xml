@@ -6582,6 +6582,7 @@
 	</enchantment_name_binding>
 	<!--Beaconbound-->
 	</enchantment_name_bindings>
+	
 	<enchantment_weapon_exclusions>
 	<!-- Quest Items start -->
 		<exclusion>
