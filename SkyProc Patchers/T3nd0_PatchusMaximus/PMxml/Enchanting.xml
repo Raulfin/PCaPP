@@ -9784,6 +9784,25 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Forgotten Magic Redone -->
+		<!-- Immersive Wenches start -->
+			<exclusion>
+				<text>lalawenchspell</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Immersive Wenches end -->
+		<!-- SoT Anti CTD start -->
+			<exclusion>
+				<text>ChaosShieldEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>WardConcSelfChaos</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- SoT Anti CTD end -->
 	</scroll_crafting_exclusions>
 
 	<staff_crafting_exclusions>
@@ -10434,6 +10453,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Forgotten Magic Redone -->
+		<!-- SoT Anti CTD start -->
+			<exclusion>
+				<text>ChaosShieldEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>WardConcSelfChaos</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- SoT Anti CTD end -->.
 	</staff_crafting_exclusions>
 
 	<staff_crafting_disable_crafting_exclusions>
