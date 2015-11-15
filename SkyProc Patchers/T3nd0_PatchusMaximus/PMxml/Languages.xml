@@ -12434,10 +12434,6 @@
 			<identifier>Training</identifier>
 			<outputString>Treinando</outputString>
 		</stringBinding>
-		<!--<stringBinding>
-			<identifier>Acumen</identifier>
-			<outputString></outputString>
-		</stringBinding>-->
 		<stringBinding>
 			<identifier>Knowledge</identifier>
 			<outputString>Conhecimento</outputString>
@@ -12642,10 +12638,6 @@
 			<identifier>Tearing</identifier>
 			<outputString>Dilacerando</outputString>
 		</stringBinding>
-		<!--<stringBinding>
-			<identifier>Puncturing</identifier>
-			<outputString></outputString>
-		</stringBinding>-->
 		<stringBinding>
 			<identifier>Shredding</identifier>
 			<outputString>Retalhamento</outputString>
@@ -13002,22 +12994,6 @@
 			<identifier>Tremors</identifier>
 			<outputString>Tremores</outputString>
 		</stringBinding>
-		<!--<stringBinding>
-			<identifier>Temblors</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Trampling</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Pulverizing</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Earthquakes</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>-->
 		<stringBinding>
 			<identifier>Dynamic Entry</identifier>
 			<outputString>Entrada Dinâmica</outputString>
@@ -13026,10 +13002,6 @@
 			<identifier>Soul Charging</identifier>
 			<outputString>Carregando Alma</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Soul Baiting</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Soul Energy</identifier>
 			<outputString>Energia da Alma</outputString>
@@ -13050,26 +13022,6 @@
 			<identifier>Souls</identifier>
 			<outputString>Almas</outputString>
 		</stringBinding>
-		<!--<stringBinding>
-			<identifier>Spell Trapping</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Spell Snagging</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>the Spell Mire</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Spell Snaring</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Spell Devouring</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>-->
 		<stringBinding>
 			<identifier>Spell Consumption</identifier>
 			<outputString>Feitiço do Consumo</outputString>
@@ -13110,34 +13062,6 @@
 			<identifier>Transcendence</identifier>
 			<outputString>Transcedência</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>the Eidolon</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Sneak Attacks</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Momentum</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>the Wraith</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Impetus</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>the Avenger</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>the Aedra</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Blink Step</identifier>
 			<outputString>Passo Veloz</outputString>
@@ -13150,18 +13074,10 @@
 			<identifier>Shadow Step</identifier>
 			<outputString>Passo da Sombra</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Rift Step</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Death Ward</identifier>
 			<outputString>Barreira da Morte</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>the Lich</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Deathlessness</identifier>
 			<outputString>Imortalidade</outputString>
@@ -13174,10 +13090,6 @@
 			<identifier>the Divines</identifier>
 			<outputString>Os Divinos</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Athanasia</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Aiming</identifier>
 			<outputString>Pontaria</outputString>
@@ -13190,138 +13102,30 @@
 			<identifier>Precision</identifier>
 			<outputString>Precisão</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Sniping</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>First Blood</identifier>
 			<outputString>a Cavalaria</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Horsemanship</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>the Lancer</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>the Dragoon</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>First Strike</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>the Ra Gada</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Luck</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Chance</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Fortune</identifier>
 			<outputString>A Fênix</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Fate</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Destiny</identifier>
 			<outputString>O Invencível</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Hope</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Innocence</identifier>
 			<outputString>Inocência</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Blade Turning</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Weaponward</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Weaponbane</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Novicebane</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Magickguard</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Reforging</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Electrolysis</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Galvanization</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Razing</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Subjugation</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Oppression</identifier>
 			<outputString>Opressão</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Cunning</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Wiles</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Roguery</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Mischief</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Devilry</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Hunting</identifier>
 			<outputString>Caçando</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>the Wild</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Poaching</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Predation</identifier>
 			<outputString>Predação</outputString>
@@ -13330,110 +13134,18 @@
 			<identifier>the Carnivore</identifier>
 			<outputString>O Carnívoro</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Kyne's Gifts</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Denting</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Crushing</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Bending</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Buckling</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Crumpling</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Perforating</identifier>
 			<outputString>Perfurando</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Frailty</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Stifling</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Weakness</identifier>
 			<outputString>Fraqueza</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Futility</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Incapacitation</identifier>
 			<outputString>Incapacitação</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Mugging</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Plundering</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Pillaging</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Ransacking</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Raiding</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Power Unbound</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Power Unfettered</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Power Unleashed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Storm Unbound</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Storm Unfettered</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Storm Unleashed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Grappling</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Hooking</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Snatching</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Command</identifier>
 			<outputString>Comando</outputString>
@@ -13446,18 +13158,10 @@
 			<identifier>the Conjurer</identifier>
 			<outputString>O Conjurador</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>the Coven</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>the Summoner</identifier>
 			<outputString>O Invocador</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>the Warlock</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Vulnerability</identifier>
 			<outputString>Vulnerabilidade</outputString>
@@ -13466,26 +13170,6 @@
 			<identifier>Exposure</identifier>
 			<outputString>Exposição</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Jinxes</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Curses</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Hexes</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Malison</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Jagged</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Executioner's</identifier>
 			<outputString>Carrasco</outputString>
@@ -13506,58 +13190,22 @@
 			<identifier>the End</identifier>
 			<outputString>O Fim</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Ember Blasts</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Burning Blasts</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Scorching Blasts</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Fire Blasts</identifier>
 			<outputString>Rajadas de Fogo</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Blazing Blasts</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Inferno Blasts</identifier>
 			<outputString>Rajadas do Inferno</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Smoldering</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Slow Burning</identifier>
 			<outputString>Queimando Lentamente</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Lingering Fire</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Everlasting Fire</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Enduring Fire</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Eternal Fire</identifier>
 			<outputString>Fogo Eterno</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Cold Blasts</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Frost Blasts</identifier>
 			<outputString>Rajadas de Geada</outputString>
@@ -13570,18 +13218,10 @@
 			<identifier>Freezing Blasts</identifier>
 			<outputString>Rajadas de Congelamento</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Chilling Blasts</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Winter Blasts</identifier>
 			<outputString>Rajada Invernal</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Shards</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
 			<identifier>Crystals</identifier>
 			<outputString>Cristais</outputString>
@@ -13590,433 +13230,289 @@
 			<identifier>Fragments</identifier>
 			<outputString>Fragmentos</outputString>
 		</stringBinding>
-		<!-- <stringBinding>
-			<identifier>Hail</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding> -->
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Black Frost</identifier>
+			<outputString>Frio Negro</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Black Ice</identifier>
+			<outputString>Gelo Negro</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Cannibal</identifier>
+			<outputString>O Canibal</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Assassin</identifier>
+			<outputString>O Assassino</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Killer</identifier>
+			<outputString>O Matador</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Agent</identifier>
+			<outputString>O Agente</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Inquisitor</identifier>
+			<outputString>O Inquisidor</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Might</identifier>
+			<outputString>Poder</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Dominance</identifier>
+			<outputString>Dominação</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Authority</identifier>
+			<outputString>Autoridade</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Superiority</identifier>
+			<outputString>Superioridade</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Repression</identifier>
+			<outputString>Repressão</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Supremacy</identifier>
+			<outputString>Supremacia</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Static</identifier>
+			<outputString>Estática</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Voltage</identifier>
+			<outputString>Voltagem</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Electrocution</identifier>
+			<outputString>Eletrocução</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Poison</identifier>
+			<outputString>Porção</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Corruption</identifier>
+			<outputString>Corrupção</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Irritation</identifier>
+			<outputString>Irritação</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Negation</identifier>
+			<outputString>Negação</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Ghosts</identifier>
+			<outputString>Fantasmas</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Wraiths</identifier>
+			<outputString>Espíritos</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Specters</identifier>
+			<outputString>Espectros</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Wights</identifier>
+			<outputString>Criatura</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Shadows</identifier>
+			<outputString>Sombras</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Abyss</identifier>
+			<outputString>O Abismo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Perdition</identifier>
+			<outputString>Perdição</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Pandemonium</identifier>
+			<outputString>Pandemônio</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Annihilation</identifier>
+			<outputString>Aniquilação</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Failure</identifier>
+			<outputString>Fracasso</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Misery</identifier>
+			<outputString>Miséria</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Tears</identifier>
+			<outputString>Lágrima</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Withering</identifier>
+			<outputString>Declínio</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Atrophy</identifier>
+			<outputString>Atrofia</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Breaking</identifier>
+			<outputString>Rompendo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Kingslaying</identifier>
+			<outputString>Regicídio</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Healing</identifier>
+			<outputString>Curando</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Mercy</identifier>
+			<outputString>Piedade</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Compassion</identifier>
+			<outputString>Compaixão</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Conflict</identifier>
+			<outputString>Conflito</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Rivalry</identifier>
+			<outputString>Rivalidade</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Discord</identifier>
+			<outputString>Discórdia</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Disunity</identifier>
+			<outputString>Desunião</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Strife</identifier>
+			<outputString>Angústia</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Genocide</identifier>
+			<outputString>Genocídio</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Countering</identifier>
+			<outputString>Contrariando</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Trickery</identifier>
+			<outputString>Trapaça</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Opportunity</identifier>
+			<outputString>Oportunidade</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Reciprocation</identifier>
+			<outputString>Reciprocação</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Ulceration</identifier>
+			<outputString>Ulceração</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Necrosis</identifier>
+			<outputString>Necrósia</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Harmonies</identifier>
+			<outputString>Harmonia</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Bull</identifier>
+			<outputString>O Touro</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Bear</identifier>
+			<outputString>O Urso</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Rhino</identifier>
+			<outputString>O Rinoceronte</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Elephant</identifier>
+			<outputString>O Elefante</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Mammoth</identifier>
+			<outputString>O Mamute</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Twilight</identifier>
+			<outputString>Crepúsculo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Voice</identifier>
+			<outputString>A Voz</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Shalidor</identifier>
+			<outputString>Shalidor</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Arcana</identifier>
+			<outputString>Arcana</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Infinite Energies</identifier>
+			<outputString>Energia Infinita</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Drafts</identifier>
+			<outputString>Corrente D'água</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Breezes</identifier>
+			<outputString>Brisas</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Wind</identifier>
+			<outputString>Vento</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Tempest</identifier>
+			<outputString>Tempestade</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Tornado</identifier>
+			<outputString>Tornado</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Wall Of Wind</identifier>
+			<outputString>Muro de Vendo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Whirlwind</identifier>
+			<outputString>Vendaval</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Morning star</identifier>
+			<outputString>Estrela da Manhã</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Spear</identifier>
+			<outputString>Vara</outputString>
 		</stringBinding>
 	</language>
 
