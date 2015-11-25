@@ -13519,340 +13519,340 @@
 	<language><!-- Italiano -->
 		<languageID>ITALIAN</languageID>
 		<stringBinding>
+			<identifier>Hunting Knife</identifier>
+			<outputString>Coltello da caccia</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Arbalest</identifier>
+			<outputString>Arbalesta</outputString>
+		</stringBinding>
+		<stringBinding>
 			<identifier>Arming Sword</identifier>
-			<outputString>Espada do Cavaleiro</outputString>
+			<outputString>Spada d'Armi</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<outputString>Filo Spinato</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Bastard Sword</identifier>
-			<outputString>Espada Bastarda</outputString>
+			<outputString>Spada Bastarda</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Battleaxe</identifier>
-			<outputString>Machado de Batalha</outputString>
+			<outputString>Ascia da Battaglia</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Battlestaff</identifier>
-			<outputString>Cajado de Batalha</outputString>
+			<outputString>Asta da Battaglia</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blisters</identifier>
-			<outputString>Bolhas</outputString>
+			<outputString>Vescica</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Burning</identifier>
-			<outputString>Queimando</outputString>
+			<outputString>Ardente</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Cinder</identifier>
-			<outputString>Cinza</outputString>
+			<outputString>Tizzone</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Claw</identifier>
-			<outputString>Garra</outputString>
+			<outputString>Artiglio</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Club</identifier>
-			<outputString>Clube</outputString>
+			<outputString>Clava</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Crossbow</identifier>
+			<outputString>Balestra</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Dagger</identifier>
+			<outputString>Pugnale</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Dismay</identifier>
+			<outputString>Costernazione</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Duration</identifier>
+			<outputString>Durata</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Eruption</identifier>
+			<outputString>Eruzione</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Explosive</identifier>
+			<outputString>Esplosivo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Fear</identifier>
+			<outputString>Paura</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Fire</identifier>
+			<outputString>Fuoco</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Flaming</identifier>
+			<outputString>Ardente</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Frost</identifier>
+			<outputString>Gelo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Greatsword</identifier>
+			<outputString>Spada a due Mani</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Halberd</identifier>
+			<outputString>Alabarda</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Hatchet</identifier>
+			<outputString>Accetta</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Hysteria</identifier>
+			<outputString>Isteria</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Infernal</identifier>
+			<outputString>Infernale</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Knuckles</identifier>
+			<outputString>Nocche</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Lightsource</identifier>
+			<outputString>Fonte di Luce</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Lightweight</identifier>
+			<outputString>Leggero</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Longbow</identifier>
+			<outputString>Arco Lungo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Longmace</identifier>
+			<outputString>Mazza Lunga</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Longsword</identifier>
+			<outputString>Spada Lunga</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Mace</identifier>
+			<outputString>Mazza</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Maul</identifier>
+			<outputString>Maglio</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>of</identifier>
+			<outputString>di</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Panic</identifier>
+			<outputString>Panico</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Partisan</identifier>
+			<outputString>Partigiano</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Pickaxe</identifier>
+			<outputString>Piccone</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Poisoned</identifier>
+			<outputString>Avvelenato</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Quality</identifier>
+			<outputString>Qualità</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Recurve</identifier>
+			<outputString>Ricurvo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Refined</identifier>
+			<outputString>Rifinito</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Reforged</identifier>
+			<outputString>Riforgiato</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Replica</identifier>
+			<outputString>Replica</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Sabre</identifier>
+			<outputString>Sciabola</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Scimitar</identifier>
+			<outputString>Scimitarra</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Scroll</identifier>
+			<outputString>Pergamena</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>seconds</identifier>
+			<outputString>secondi</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Shock</identifier>
+			<outputString>Choc</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Shortbow</identifier>
+			<outputString>Arco Corto</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Shortspear</identifier>
+			<outputString>Lancia Corta</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Shortsword</identifier>
+			<outputString>Spada Corta</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Silenced</identifier>
+			<outputString>Silenziato</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Staff</identifier>
+			<outputString>Bastone</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Strong</identifier>
+			<outputString>Forte</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Strongest</identifier>
+			<outputString>Il più forte</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Timebomb</identifier>
+			<outputString>Bomba a orologeria</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Waraxe</identifier>
+			<outputString>Ascia da Guerra</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Warforged</identifier>
+			<outputString>Guerrafondaio</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Warhammer</identifier>
+			<outputString>Martello da Guerra</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Deals more bonus damage to undead, and is easier to handle than regular silver weapons.</identifier>
+			<outputString>Arreca danno aggiuntivo ai non morti, ed è piu facile da controllare delle normali armi d'argento.</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Explodes upon impact, dealing 10 points of poison damage per second for 3 seconds.</identifier>
+			<outputString>Esplode all'impatto, infliggendo 10 punti di danno da avvelenamento al secondo per 3 secondi.</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Explodes upon impact, dealing 60 points of non-elemental damage.</identifier>
+			<outputString>Esplode all'impatto, infliggendo 60 punti di danno non elementale.</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Explodes 4 seconds after being fired into a surface, dealing 120 points of non-elemental damage.</identifier>
+			<outputString>Esplode 4 secondi dopo il lancio su una superfice, infliggendo 120 punti di danno non elementale.</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Explodes 3 seconds after being fired into a surface, dealing 150 points of non-elemental damage.</identifier>
+			<outputString>Esplode 3 secondi dopo il lancio su una superfice, infliggendo 150 punti di danno non elementale</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Explodes upon impact, dealing 30 points of frost damage.</identifier>
+			<outputString>Esplode all'impatto, infliggendo 30 punti di danno da gelo.</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Explodes upon impact, dealing 30 points of fire damage.</identifier>
+			<outputString>Esplode all'impatto, infliggendo 30 punti di danno da scossa.</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Emits light after being fired.</identifier>
+			<outputString>Emana luce dopo essere lanciata.</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Deals 6 points of bleeding damag per second over 8 seconds, and slows the target down by 20%.</identifier>
+			<outputString>Infligge 6 punti di danno da sanguinamento al secondo per 8 secondi, e rallentando il bersaglio del 20%.</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Bulwark</identifier>
+			<outputString>il Baluardo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Rampart</identifier>
+			<outputString>la Muraglia</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Tower</identifier>
+			<outputString>la Torre</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Castle</identifier>
+			<outputString>il Castello</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Fortress</identifier>
+			<outputString>la Fortezza</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Bastion</identifier>
+			<outputString>il Bastione</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Maze</identifier>
+			<outputString>il Dedalo</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Rebuking</identifier>
+			<outputString>Rimprovero</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Labyrinth</identifier>
+			<outputString>il Labirinto</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Reckoning</identifier>
+			<outputString>Conto</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>the Hollow</identifier>
+			<outputString>la Cava</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Sanctuary</identifier>
+			<outputString>Santuario</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Spurs</identifier>
+			<outputString>Speroni</outputString>
 		</stringBinding>
 		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
-		</stringBinding>
-		<stringBinding>
-			<identifier>Barbed</identifier>
-			<outputString>Farpado</outputString>
+			<identifier>Starlight</identifier>
+			<outputString>Luce Stellare</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Barbed</identifier>
