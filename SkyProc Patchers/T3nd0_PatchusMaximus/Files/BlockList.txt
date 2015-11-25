@@ -12,7 +12,6 @@ DA-Survival.esp
 daymoyl.esm
 daymoyl_DawnguardAddon.esp
 DeadlyCombat.esp
-dD - Enhanced Blood Main.esp
 DreadPrison.esm
 DreadPrisonUpdate.esp
 ds_database.esp
