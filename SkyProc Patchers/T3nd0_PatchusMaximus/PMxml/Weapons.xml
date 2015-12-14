@@ -4403,6 +4403,28 @@
 			<substring>Ashlander's Bow</substring>
 		</binding>
 	<!-- Wood bindings end -->
+	<!-- Visdagon Entries -->
+		<binding>
+			<identifier>HNordicLow</identifier>
+			<substring>Sovngarde Steel Sword</substring><!-- Vis Sovngarde Steel Armor -->
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Daedric Blue</substring><!-- Vis Daedric Blue Weapons -->
+		</binding>		
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Daedric Blue Mace</substring><!-- Vis Daedric Blue Weapons -->
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier><!-- Vis Elvensilver Dagger -->
+			<substring>ElvenSilver Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>The Rueful War Axe</substring><!-- Vis Rueful War Axe -->
+		</binding>
+	<!-- Visdagon Entries -->
 	</weapon_material_bindings>
 
 	<weapon_materials>
@@ -9132,6 +9154,11 @@
 		<exclusion>
 			<text>Auriel</text>
 			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>The Rueful War Axe</text><!-- Vis The Rueful War Axe -->
+			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Artifacts -->
