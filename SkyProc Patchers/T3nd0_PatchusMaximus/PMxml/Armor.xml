@@ -7945,6 +7945,34 @@
 			<substring>Namira Engineer</substring>
 		</binding>
 	<!-- Vis Reclamations Morrowind Style -->
+	<!-- Vis Lady Templar -->
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>LT light</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>LT heavy</substring>
+		</binding>
+	<!-- Vis Lady Templar -->
+	<!-- Vis Adventurer Maiden Armory -->
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>tttMaiden Ranger</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>tttShadow Assassin</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLow</identifier>
+			<substring>tttTraveler Warrior</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>tttVagabond Thief</substring>
+		</binding>
+	<!-- Vis Adventurer Maiden Armory -->
 	<!-- Visdagon Entries -->
 	
 	<!-- ============================================================== Materials end =================================================== -->
