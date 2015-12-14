@@ -1113,7 +1113,7 @@
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Imperial Tattered</substring>
-		</binding>        
+		</binding>
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Dragonguard Boots</substring>
