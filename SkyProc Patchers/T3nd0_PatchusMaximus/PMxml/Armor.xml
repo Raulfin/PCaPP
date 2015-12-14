@@ -7598,6 +7598,354 @@
 	<!-- Wood Material Bindings start -->
 	<!-- Bindings allowed: Wood, Wood_Metal -->
 	<!-- Wood Material Bindings end -->
+	<!-- Visdagon Entries -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Sexy Ninja</substring><!-- Vis Sexy Ninja Armor -->
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Celes Nightingale</substring><!-- Vis Celes Nightingale -->
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Daedric Blue</substring><!-- Vis Daedric Blue Light Armor  -->
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Daedric Reaper</substring><!-- Vis Daedric Reaper Armor  -->
+		</binding>
+		<binding>
+			<identifier>DragonscaleLow</identifier>
+			<substring>Falkreath Ranger</substring><!-- Vis Falkreath Ranger Armor -->
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Merta Black Rose</substring><!-- Vis Merta Black Rose Armor -->
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Bless Imia</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Bless Witcher</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Bless Monlit</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Bless Elfing</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Bless Sinious</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Bless Marvelous</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Bless Raunch</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Bless Sire</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Bless Trost</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Bless Orlaugh</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Bless Raw</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Bless Luscious</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Bless Meridia</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Bless Minion</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Bless Ravenous</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Bless Yohal</substring><!-- Vis Bless Armor Pack -->
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Cassandra Frost Witch</substring><!-- Vis Cassandra Frost Witch Outfit  -->
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Gwelda Red Riding</substring><!-- Vis Gwelda Red Riding Hood  -->
+		</binding>
+		<binding>
+			<identifier>FurLow</identifier>
+			<substring>Wild Huntress</substring><!-- Vis Wild Huntress Armor -->
+		</binding>
+		<binding>
+			<identifier>LeatherLow</identifier>
+			<substring>Imperial Assasin</substring><!-- Vis Imperial Assassin Armor -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Vampire cuirass blackcopper</substring><!-- Vis Vampire cuirass with chains -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Vampire cuirass blacksteel</substring><!-- Vis Vampire cuirass with chains -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Vampire cuirass redgold</substring><!-- Vis Vampire cuirass with chains -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Vampire cuirass rediron</substring><!-- Vis Vampire cuirass with chains -->
+		</binding>
+		<binding>
+			<identifier>LeatherLow</identifier>
+			<substring>Katarina</substring><!-- Vis Katarina Armor  -->
+		</binding>
+		<binding>
+			<identifier>LeatherLow</identifier>
+			<substring>Leather Alfheim</substring><!-- Vis Alfheim Robes -->
+		</binding>
+		<binding>
+			<identifier>LeatherLow</identifier>
+			<substring>Leather Woodland</substring><!-- Vis Alfheim Robes -->
+		</binding>
+		<binding>
+			<identifier>HNordicLow</identifier>
+			<substring>Sovngarde Steel</substring><!-- Vis Sovngarde Steel Armor-->
+		</binding>
+		<binding>
+			<identifier>Zero_Scaled</identifier>
+			<substring>Sovngarde Steel Amulet</substring><!-- Vis Sovngarde Steel Armor-->
+		</binding>
+		<binding>
+			<identifier>Zero_Scaled</identifier>
+			<substring>Sovngarde Steel Cloak</substring><!-- Vis Sovngarde Steel Armor-->
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Arkay Cleric</substring><!-- Vis Cleric Armours of the Nine Devines  -->
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Julianos Cleric</substring><!-- Vis Cleric Armours of the Nine Devines  -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Zenithar Cleric</substring><!-- Vis Cleric Armours of the Nine Devines  -->
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Hunt Marksman</substring><!-- Vis Dread Hunter and Huntress Armor Echo -->
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Hunt Vanguard</substring><!-- Vis Dread Hunter and Huntress Armor Echo -->
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Hunter Vampire</substring><!-- Vis Dread Hunter and Huntress Armor Echo -->
+		</binding>
+		<binding>
+			<identifier>LeatherLow</identifier>
+			<substring>Zipsuit</substring><!-- Vis Sexy Transparent Zipsuit -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Void Armor</substring><!-- Vis Void armor by Hentai -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Void Boots</substring><!-- Vis Void armor by Hentai -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Void Gloves</substring><!-- Vis Void armor by Hentai -->
+		</binding>
+	<!-- Vis Barbarian Steel Armor -->
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Barbarian Hood</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Barbarian Steel Armor</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Barbarian Steel Boots</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Barbarian Steel Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Barbarian Steel Helmet</substring>
+		</binding>
+	<!-- Vis Barbarian Steel Armor -->
+	<!-- Vis Redguard shields (Hammerfell armoury)  -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Steel redguard shield</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ebony redguard shield</substring>
+		</binding>
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>Silver redguard shield</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Light redguard shield</substring>
+		</binding>
+		<binding>
+			<identifier>Advanced</identifier>
+			<substring>Corundum redguard shield</substring>
+		</binding>
+		<binding>
+			<identifier>SilverLow</identifier>
+			<substring>Ornate redguard shield</substring>
+		</binding>
+	<!-- Vis Redguard shields (Hammerfell armoury)  -->
+	<!-- Vis Cleric Armours of the Nine Devines  -->
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Armour of the Crusader</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Greaves of the Crusader</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>ChainCoif of the Crusader</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Gauntlets of the Crusader</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Helm of the Crusader</substring>
+		</binding>
+	<!-- Vis Cleric Armours of the Nine Devines  -->
+	<!-- Vis Inquisitor Gear -->
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Inquisitor's</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Inquisitor's Plate</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Inquisitor's Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Inquisitor's Black Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Inquisitor's Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Inquisitor's Black Helmet</substring>
+		</binding>
+	<!-- Vis Inquisitor Gear -->
+	<!-- Vis Reclamations Morrowind Style -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Royal Madness</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Madness</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLow</identifier>
+			<substring>Pariah</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Coldharbour Ebony</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Deadlands Daedric</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Azurian</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ritual Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ritual Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ritual Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ritual Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ritual Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Snake Mount</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Webspinner</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Azura's Hands</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateHigh</identifier>
+			<substring>Royal Guard</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Namira Engineer</substring>
+		</binding>
+	<!-- Vis Reclamations Morrowind Style -->
+	<!-- Visdagon Entries -->
 	
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
@@ -7688,11 +8036,60 @@
 			<materialTemper>NONE</materialTemper>
 		</armor_material>
 		<armor_material>
+			<armorBase>1</armorBase>
+			<identifier>PauldronL</identifier>
+			<type>UNDEFINED</type>
+			<materialMeltdown>LEATHER</materialMeltdown>
+			<materialTemper>LEATHER</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>3</armorBase>
+			<identifier>Pauldron</identifier>
+			<type>UNDEFINED</type>
+			<materialMeltdown>LEATHER</materialMeltdown>
+			<materialTemper>LEATHER</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>0</armorBase>
+			<identifier>Zero_Daedric</identifier>
+			<type>UNDEFINED</type>
+			<materialMeltdown>DAEDRIC</materialMeltdown>
+			<materialTemper>DAEDRIC</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>0</armorBase>
+			<identifier>Zero_Dragonplate</identifier>
+			<type>UNDEFINED</type>
+			<materialMeltdown>DRAGONPLATE</materialMeltdown>
+			<materialTemper>DRAGONPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>0</armorBase>
+			<identifier>Zero_Dragonscale</identifier>
+			<type>UNDEFINED</type>
+			<materialMeltdown>DRAGONSCALE</materialMeltdown>
+			<materialTemper>DRAGONSCALE</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>0</armorBase>
 			<identifier>Zero_Dwarven</identifier>
 			<type>UNDEFINED</type>
 			<materialMeltdown>DWARVEN</materialMeltdown>
 			<materialTemper>DWARVEN</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>0</armorBase>
+			<identifier>Zero_Ebony</identifier>
+			<type>UNDEFINED</type>
+			<materialMeltdown>EBONY</materialMeltdown>
+			<materialTemper>EBONY</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>0</armorBase>
+			<identifier>Zero_Elven</identifier>
+			<type>UNDEFINED</type>
+			<materialMeltdown>ELVEN</materialMeltdown>
+			<materialTemper>ELVEN</materialTemper>
 		</armor_material>
 		<armor_material>
 			<armorBase>0</armorBase>
@@ -7716,18 +8113,18 @@
 			<materialTemper>IRON</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>1</armorBase>
-			<identifier>PauldronL</identifier>
+			<armorBase>0</armorBase>
+			<identifier>Zero_Orcish</identifier>
 			<type>UNDEFINED</type>
-			<materialMeltdown>LEATHER</materialMeltdown>
-			<materialTemper>LEATHER</materialTemper>
+			<materialMeltdown>ORCISH</materialMeltdown>
+			<materialTemper>ORCISH</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>3</armorBase>
-			<identifier>Pauldron</identifier>
+			<armorBase>0</armorBase>
+			<identifier>Zero_Scaled</identifier>
 			<type>UNDEFINED</type>
-			<materialMeltdown>LEATHER</materialMeltdown>
-			<materialTemper>LEATHER</materialTemper>
+			<materialMeltdown>SCALED</materialMeltdown>
+			<materialTemper>SCALED</materialTemper>
 		</armor_material>
 		<armor_material>
 			<armorBase>0</armorBase>
@@ -7738,26 +8135,19 @@
 		</armor_material>
 		<armor_material>
 			<armorBase>0</armorBase>
-			<identifier>Zero_Daedric</identifier>
+			<identifier>Zero_Stalhrim</identifier>
 			<type>UNDEFINED</type>
-			<materialMeltdown>DAEDRIC</materialMeltdown>
-			<materialTemper>DAEDRIC</materialTemper>
+			<materialMeltdown>STALHRIM_LIGHT</materialMeltdown>
+			<materialTemper>STALHRIM_LIGHT</materialTemper>
 		</armor_material>
 		<armor_material>
 			<armorBase>0</armorBase>
-			<identifier>Zero_Dragonplate</identifier>
+			<identifier>Zero_Steel</identifier>
 			<type>UNDEFINED</type>
-			<materialMeltdown>DRAGONPLATE</materialMeltdown>
-			<materialTemper>DRAGONPLATE</materialTemper>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
 		</armor_material>
-		<armor_material>
-			<armorBase>0</armorBase>
-			<identifier>Zero_Dragonscale</identifier>
-			<type>UNDEFINED</type>
-			<materialMeltdown>DRAGONSCALE</materialMeltdown>
-			<materialTemper>DRAGONSCALE</materialTemper>
-		</armor_material>
-	<!-- Clothing Listings end -->
+		<!-- Clothing Listings end -->
 	
 	<!-- Daedric Material Listings start -->
 	<!-- Bindings allowed: DaedricLight, DaedricLow, Daedric, DaedricHigh -->
@@ -9240,6 +9630,11 @@
 		</exclusion>
 	<!-- Dragon Priest Masks end -->
 	<!-- Complete Crafting Overhaul -->
+		<exclusion>
+			<text>ArmoredCirclet</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
 	<!-- Complete Crafting Overhaul -->
 	<!-- Wyrmstooth-->
 		<exclusion>
