@@ -16,6 +16,10 @@ Now covers:
 	Barbarian Steel Armor (65991)
 	Dragon Carved Armor Set (66130)
 	BLESS Online -armors pack- (Off-Nexus)
+	Adventurer Maiden Armory (UNP mashup) (58983)
+	Lady Templar (40626)
+	Rueful War Axe (53735)
+	ElvenSilver Dagger (71933)
 
 Blocklist:
 	Removed unnecessary dD - Enhanced Blood Main.esp
@@ -28,6 +32,7 @@ Fixes:
 	Conjure Golden Saint, Conjure Dark Seducer and Conjure Winged Twilight will now require a heart like other Daedra summons. (SiC)
 
 Changes:
+	Umlaut and grave accent characters replaced. â=a, è=e, ê=e, é=e, É=E, û=u, ç=c, ñ=n. Affects Español, Français, Português - Brasil and Italiano.
 
 Additions:
 	Português - Brasil
