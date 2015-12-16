@@ -4804,7 +4804,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Panic</identifier>
-			<outputString>Pánico</outputString>
+			<outputString>Panico</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Pickaxe</identifier>
@@ -4964,7 +4964,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Panic</identifier>
-			<outputString>Pánico</outputString>
+			<outputString>Panico</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Partisan</identifier>
@@ -4996,7 +4996,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Replica</identifier>
-			<outputString>Réplica</outputString>
+			<outputString>Replica</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Sabre</identifier>
@@ -5052,7 +5052,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Warforged</identifier>
-			<outputString>Bélico</outputString>
+			<outputString>Belico</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Warhammer</identifier>
@@ -5060,35 +5060,35 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deals more bonus damage to undead, and is easier to handle than regular silver weapons.</identifier>
-			<outputString>Causa más daño extra a los no muertos, y es más fácil de manejar que las armas de plata comunes</outputString>
+			<outputString>Causa mas dano extra a los no muertos, y es mas facil de manejar que las armas de plata comunes</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 10 points of poison damage per second for 3 seconds.</identifier>
-			<outputString>Explota al impactar, causando 10 puntos de daño por veneno durante 3 segundos</outputString>
+			<outputString>Explota al impactar, causando 10 puntos de dano por veneno durante 3 segundos</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 60 points of non-elemental damage.</identifier>
-			<outputString>Explota al impactar, causando 60 puntos de daño no-elemental</outputString>
+			<outputString>Explota al impactar, causando 60 puntos de dano no-elemental</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes 4 seconds after being fired into a surface, dealing 120 points of non-elemental damage.</identifier>
-			<outputString>Explota 4 segundos después de impactar sobre una superficie, causando 120 puntos de daño no-elemental</outputString>
+			<outputString>Explota 4 segundos despues de impactar sobre una superficie, causando 120 puntos de dano no-elemental</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes 3 seconds after being fired into a surface, dealing 150 points of non-elemental damage.</identifier>
-			<outputString>Explota 3 segundos después de imparcar sobre una superficie, causando 150 puntos de daño no-elemental</outputString>
+			<outputString>Explota 3 segundos despues de imparcar sobre una superficie, causando 150 puntos de dano no-elemental</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 30 points of frost damage.</identifier>
-			<outputString>Explota al impactar, causando 30 puntos de daño por escarcha.</outputString>
+			<outputString>Explota al impactar, causando 30 puntos de dano por escarcha.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 30 points of fire damage.</identifier>
-			<outputString>Explota al impactar, causando 30 puntos de daño por fuego.</outputString>
+			<outputString>Explota al impactar, causando 30 puntos de dano por fuego.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 30 points of shock damage.</identifier>
-			<outputString>Explota al impactar, causando 30 puntos de daño por rayo</outputString>
+			<outputString>Explota al impactar, causando 30 puntos de dano por rayo</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Emits light after being fired.</identifier>
@@ -5096,7 +5096,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deals 6 points of bleeding damag per second over 8 seconds, and slows the target down by 20%.</identifier>
-			<outputString>Causa 6 puntos de daño por sangrado por segundo durante 8 segundos, y ralentiza al objetivo un 20%</outputString>
+			<outputString>Causa 6 puntos de dano por sangrado por segundo durante 8 segundos, y ralentiza al objetivo un 20%</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Bulwark</identifier>
@@ -5200,7 +5200,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deceit</identifier>
-			<outputString>Engaño</outputString>
+			<outputString>Engano</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wizardward</identifier>
@@ -5292,7 +5292,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Piranha</identifier>
-			<outputString>la Piraña</outputString>
+			<outputString>la Pirana</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Slaughterfish</identifier>
@@ -5420,7 +5420,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Sublime Analysis</identifier>
-			<outputString>Análisis Sublime</outputString>
+			<outputString>Analisis Sublime</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Grunt's</identifier>
@@ -5576,19 +5576,19 @@
 		</stringBinding>
 		<stringBinding>
       <identifier>Trickling</identifier>
-			<outputString>Sangre nédica</outputString>
+			<outputString>Sangre nedica</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>the Berserker</identifier>
-			<outputString>Parentesco nédico</outputString>
+			<outputString>Parentesco nedico</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Silvermyst</identifier>
-			<outputString>Herencia nédica</outputString>
+			<outputString>Herencia nedica</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Evermyst</identifier>
-			<outputString>Gobierno nédico</outputString>
+			<outputString>Gobierno nedico</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Rising Magicka</identifier>
@@ -5620,7 +5620,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Perpetual Alteration</identifier>
-			<outputString>Alteración Perpétua</outputString>
+			<outputString>Alteración Perpetua</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Eternal Alteration</identifier>
@@ -5648,7 +5648,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Perpetual Conjuration</identifier>
-			<outputString>Conjuración Perpétua</outputString>
+			<outputString>Conjuración Perpetua</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Eternal Conjuration</identifier>
@@ -5792,7 +5792,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Catastrophe</identifier>
-			<outputString>Catástrofe</outputString>
+			<outputString>Catastrofe</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Tremors</identifier>
@@ -5816,7 +5816,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dynamic Entry</identifier>
-			<outputString>Entrada Dinámica</outputString>
+			<outputString>Entrada Dinamica</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Charging</identifier>
@@ -5920,7 +5920,7 @@
 		</stringBinding>
 		<stringBinding>
       <identifier>the Wraith</identifier>
-			<outputString>Montañismo</outputString>
+			<outputString>Montanismo</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Impetus</identifier>
@@ -5936,7 +5936,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blink Step</identifier>
-			<outputString>Paso Rápido</outputString>
+			<outputString>Paso Rapido</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Flash Step</identifier>
@@ -5956,7 +5956,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Lich</identifier>
-			<outputString>el Exánime</outputString>
+			<outputString>el Exanime</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deathlessness</identifier>
@@ -6016,7 +6016,7 @@
 		</stringBinding>
 		<stringBinding>
       <identifier>Fortune</identifier>
-			<outputString>el Fénix</outputString>
+			<outputString>el Fenix</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Fate</identifier>
@@ -6052,7 +6052,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Magickguard</identifier>
-			<outputString>Guardia Mágica</outputString>
+			<outputString>Guardia Magica</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Reforging</identifier>
@@ -6084,7 +6084,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wiles</identifier>
-			<outputString>Artimañas</outputString>
+			<outputString>Artimanas</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Roguery</identifier>
@@ -6348,7 +6348,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Everlasting Fire</identifier>
-			<outputString>Fuego Perpétuo</outputString>
+			<outputString>Fuego Perpetuo</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Enduring Fire</identifier>
@@ -6480,7 +6480,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Static</identifier>
-			<outputString>Estático</outputString>
+			<outputString>Estatico</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Jolts</identifier>
@@ -6508,7 +6508,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Venom</identifier>
-			<outputString>Ponzoña</outputString>
+			<outputString>Ponzona</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blight</identifier>
@@ -6528,7 +6528,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Venom Blasts</identifier>
-			<outputString>Explosiones Ponzoñosas</outputString>
+			<outputString>Explosiones Ponzonosas</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blighted Blasts</identifier>
@@ -6684,7 +6684,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hidden Asp</identifier>
-			<outputString>Áspid Oculto</outputString>
+			<outputString>Aspid Oculto</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Ghosts</identifier>
@@ -6856,7 +6856,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lordslaying</identifier>
-			<outputString>Señor Slayer</outputString>
+			<outputString>Senor Slayer</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Kingslaying</identifier>
@@ -6932,7 +6932,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Trickery</identifier>
-			<outputString>Engaño</outputString>
+			<outputString>Engano</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Opportunity</identifier>
@@ -6940,7 +6940,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Ripostes</identifier>
-			<outputString>Réplica</outputString>
+			<outputString>Replica</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Reciprocation</identifier>
@@ -6972,7 +6972,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dirges</identifier>
-			<outputString>Réquiems</outputString>
+			<outputString>Requiems</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Elegies</identifier>
@@ -7052,7 +7052,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Gust</identifier>
-			<outputString>Ráfaga</outputString>
+			<outputString>Rafaga</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Tempest</identifier>
@@ -7100,19 +7100,19 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Arbalest</identifier>
-			<outputString>Arbalète lourde</outputString>
+			<outputString>Arbalete lourde</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Arming Sword</identifier>
-			<outputString>Epée de chevalier</outputString>
+			<outputString>Epee de chevalier</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Barbed</identifier>
-			<outputString>Barbelé</outputString>
+			<outputString>Barbele</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Bastard Sword</identifier>
-			<outputString>Épée bâtarde</outputString>
+			<outputString>Epee batarde</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Battleaxe</identifier>
@@ -7120,7 +7120,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Battlestaff</identifier>
-			<outputString>Bâton de guerre</outputString>
+			<outputString>Baton de guerre</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blisters</identifier>
@@ -7128,7 +7128,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Burning</identifier>
-			<outputString>Brûlant</outputString>
+			<outputString>Brulant</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Cinder</identifier>
@@ -7144,7 +7144,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Crossbow</identifier>
-			<outputString>Arbalète</outputString>
+			<outputString>Arbalete</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dagger</identifier>
@@ -7156,7 +7156,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Duration</identifier>
-			<outputString>Durée</outputString>
+			<outputString>Duree</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explosive</identifier>
@@ -7172,7 +7172,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Flaming</identifier>
-			<outputString>Enflammé</outputString>
+			<outputString>Enflamme</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Frost</identifier>
@@ -7192,7 +7192,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hysteria</identifier>
-			<outputString>Hystérie</outputString>
+			<outputString>Hysterie</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Knuckles</identifier>
@@ -7200,11 +7200,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lightsource</identifier>
-			<outputString>Source de lumière</outputString>
+			<outputString>Source de lumiere</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lightweight</identifier>
-			<outputString>Poids léger</outputString>
+			<outputString>Poids leger</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Longbow</identifier>
@@ -7216,7 +7216,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Longsword</identifier>
-			<outputString>Épée longue</outputString>
+			<outputString>Epee longue</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mace</identifier>
@@ -7244,11 +7244,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Poisoned</identifier>
-			<outputString>Empoisonné</outputString>
+			<outputString>Empoisonne</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Quality</identifier>
-			<outputString>Qualité</outputString>
+			<outputString>Qualite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Recurve</identifier>
@@ -7256,15 +7256,15 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Refined</identifier>
-			<outputString>Raffinée</outputString>
+			<outputString>Raffinee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Reforged</identifier>
-			<outputString>Reforgée</outputString>
+			<outputString>Reforgee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Replica</identifier>
-			<outputString>Réplique</outputString>
+			<outputString>Replique</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Scimitar</identifier>
@@ -7292,7 +7292,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shortsword</identifier>
-			<outputString>Épée courte</outputString>
+			<outputString>Epee courte</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Silenced</identifier>
@@ -7300,7 +7300,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Staff</identifier>
-			<outputString>Bâton</outputString>
+			<outputString>Baton</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Strong</identifier>
@@ -7328,43 +7328,43 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deals more bonus damage to undead, and is easier to handle than regular silver weapons.</identifier>
-			<outputString>Inflige plus de dégâts aux morts-vivants, et est plus facile à manier que les armes en argent habituelles.</outputString>
+			<outputString>Inflige plus de degats aux morts-vivants, et est plus facile à manier que les armes en argent habituelles.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 10 points of poison damage per second for 3 seconds.</identifier>
-			<outputString>Explose à l'impact, infligeant 10 points de dégâts de poison par seconde pendant 3 secondes.</outputString>
+			<outputString>Explose à l'impact, infligeant 10 points de degats de poison par seconde pendant 3 secondes.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 60 points of non-elemental damage.</identifier>
-			<outputString>Explose à l'impact, infligeant 60 points de dégâts non-élémentaires.</outputString>
+			<outputString>Explose à l'impact, infligeant 60 points de degats non-elementaires.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes 4 seconds after being fired into a surface, dealing 120 points of non-elemental damage.</identifier>
-			<outputString>Explose 4 secondes après avoir touché une surface, infligeant 120 points de dégâts non-élementaires.</outputString>
+			<outputString>Explose 4 secondes apres avoir touche une surface, infligeant 120 points de degats non-elementaires.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes 3 seconds after being fired into a surface, dealing 150 points of non-elemental damage.</identifier>
-			<outputString>Explose 3 secondes après avoir touché une surface, infligeant 150 points de dégâts non-élementaires.</outputString>
+			<outputString>Explose 3 secondes apres avoir touche une surface, infligeant 150 points de degats non-elementaires.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 30 points of frost damage.</identifier>
-			<outputString>Explose à l'impact, infligeant 30 de dégâts de froid.</outputString>
+			<outputString>Explose à l'impact, infligeant 30 de degats de froid.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 30 points of fire damage.</identifier>
-			<outputString>Explose à l'impact, infligeant 30 points de dégâts de feu.</outputString>
+			<outputString>Explose à l'impact, infligeant 30 points de degats de feu.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 30 points of shock damage.</identifier>
-			<outputString>Explose à l'impact, infligeant 30 points de dégâts électriques.</outputString>
+			<outputString>Explose à l'impact, infligeant 30 points de degats electriques.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Emits light after being fired.</identifier>
-			<outputString>Emet de la lumière après avoir été tiré.</outputString>
+			<outputString>Emet de la lumiere apres avoir ete tire.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deals 6 points of bleeding damag per second over 8 seconds, and slows the target down by 20%.</identifier>
-			<outputString>Inflige 6 points de dégâts de saignement par seconde pendant 8 secondes, et ralentit la cible de 20%.</outputString>
+			<outputString>Inflige 6 points de degats de saignement par seconde pendant 8 secondes, et ralentit la cible de 20%.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Bulwark</identifier>
@@ -7380,7 +7380,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Castle</identifier>
-			<outputString>le Château</outputString>
+			<outputString>le Chateau</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Fortress</identifier>
@@ -7392,11 +7392,11 @@
 		</stringBinding>
 		<stringBinding>
       <identifier>Teeth</identifier>
-			<outputString>le Dédale</outputString>
+			<outputString>le Dedale</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Rebuking</identifier>
-			<outputString>Réprimande</outputString>
+			<outputString>Reprimande</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Fangs</identifier>
@@ -7420,7 +7420,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Starlight</identifier>
-			<outputString>Lumière des étoiles</outputString>
+			<outputString>Lumiere des etoiles</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Gremlin Gold</identifier>
@@ -7456,7 +7456,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mage Ward</identifier>
-			<outputString>Barrière magique</outputString>
+			<outputString>Barriere magique</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Smoke and Mirrors</identifier>
@@ -7464,7 +7464,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hexward</identifier>
-			<outputString>Barrière contre les malédicitons</outputString>
+			<outputString>Barriere contre les maledicitons</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deceit</identifier>
@@ -7472,7 +7472,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wizardward</identifier>
-			<outputString>Barrière de magicien</outputString>
+			<outputString>Barriere de magicien</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lies</identifier>
@@ -7480,7 +7480,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dark Woods</identifier>
-			<outputString>Forêts Sombres</outputString>
+			<outputString>Forets Sombres</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Moonlit Woods</identifier>
@@ -7488,7 +7488,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Heer</identifier>
-			<outputString>l'Armée</outputString>
+			<outputString>l'Armee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Fell</identifier>
@@ -7500,7 +7500,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Experience</identifier>
-			<outputString>Expérience</outputString>
+			<outputString>Experience</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Training</identifier>
@@ -7508,7 +7508,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Acumen</identifier>
-			<outputString>Perspicacité</outputString>
+			<outputString>Perspicacite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Knowledge</identifier>
@@ -7516,7 +7516,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Understanding</identifier>
-			<outputString>Compréhension</outputString>
+			<outputString>Comprehension</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wisdom</identifier>
@@ -7528,11 +7528,11 @@
 		</stringBinding>
 		<stringBinding>
       <identifier>Evasion</identifier>
-			<outputString>Rapidité</outputString>
+			<outputString>Rapidite</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>the Nomad</identifier>
-			<outputString>Accélération</outputString>
+			<outputString>Acceleration</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Chasing</identifier>
@@ -7540,11 +7540,11 @@
 		</stringBinding>
 		<stringBinding>
       <identifier>the Forebears</identifier>
-			<outputString>la Panthère</outputString>
+			<outputString>la Panthere</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Cheetah</identifier>
-			<outputString>le Guépard</outputString>
+			<outputString>le Guepard</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Swimming</identifier>
@@ -7580,7 +7580,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Arena</identifier>
-			<outputString>L'Arène</outputString>
+			<outputString>L'Arene</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Prize Fighter</identifier>
@@ -7592,15 +7592,15 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Showmanship</identifier>
-			<outputString>Art de la mise en scène</outputString>
+			<outputString>Art de la mise en scene</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hardening Armor</identifier>
-			<outputString>Armure renforcée</outputString>
+			<outputString>Armure renforcee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Thickening Armor</identifier>
-			<outputString>Armure épaissie</outputString>
+			<outputString>Armure epaissie</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Toughening Armor</identifier>
@@ -7608,19 +7608,19 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Solidifying Armor</identifier>
-			<outputString>Armure solidifiée</outputString>
+			<outputString>Armure solidifiee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Annealing Armor</identifier>
-			<outputString>Armure tempérée</outputString>
+			<outputString>Armure temperee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Crystalizing Armor</identifier>
-			<outputString>Armure cristallisée</outputString>
+			<outputString>Armure cristallisee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Curing</identifier>
-			<outputString>Guérison</outputString>
+			<outputString>Guerison</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Vivication</identifier>
@@ -7632,7 +7632,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Daydene's Panacea</identifier>
-			<outputString>Panacée de Daydene</outputString>
+			<outputString>Panacee de Daydene</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Vivec's Touch</identifier>
@@ -7672,15 +7672,15 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Careful Study</identifier>
-			<outputString>Étude Attentive</outputString>
+			<outputString>Etude Attentive</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Cautious Study</identifier>
-			<outputString>Étude minutieuse</outputString>
+			<outputString>Etude minutieuse</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Prudent Study</identifier>
-			<outputString>Étude prudente</outputString>
+			<outputString>Etude prudente</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Sublime Analysis</identifier>
@@ -7704,11 +7704,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Rending</identifier>
-			<outputString>Déchirant</outputString>
+			<outputString>Dechirant</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Tearing</identifier>
-			<outputString>Déchirant</outputString>
+			<outputString>Dechirant</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Puncturing</identifier>
@@ -7716,7 +7716,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shredding</identifier>
-			<outputString>Déchiquetant</outputString>
+			<outputString>Dechiquetant</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Fencing</identifier>
@@ -7728,15 +7728,15 @@
 		</stringBinding>
 		<stringBinding>
       <identifier>Prophecies</identifier>
-			<outputString>Parenté aldmeri</outputString>
+			<outputString>Parente aldmeri</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Intuition</identifier>
-			<outputString>Héritage aldmeri</outputString>
+			<outputString>Heritage aldmeri</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Steadfastness</identifier>
-			<outputString>Règle aldmeri</outputString>
+			<outputString>Regle aldmeri</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Faith</identifier>
@@ -7824,7 +7824,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mending Cloak</identifier>
-			<outputString>Cape rapiécée</outputString>
+			<outputString>Cape rapiecee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hearth Cloak</identifier>
@@ -7836,19 +7836,19 @@
 		</stringBinding>
 		<stringBinding>
       <identifier>Trickling</identifier>
-			<outputString>Sang nédique</outputString>
+			<outputString>Sang nedique</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>the Berserker</identifier>
-			<outputString>Parenté nédique</outputString>
+			<outputString>Parente nedique</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Silvermyst</identifier>
-			<outputString>Héritage nédique</outputString>
+			<outputString>Heritage nedique</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Evermyst</identifier>
-			<outputString>Règle nédique</outputString>
+			<outputString>Regle nedique</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Rising Magicka</identifier>
@@ -7856,39 +7856,39 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Flourishing Magicka</identifier>
-			<outputString>Magie prospère</outputString>
+			<outputString>Magie prospere</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Alteration</identifier>
-			<outputString>Altération</outputString>
+			<outputString>Alteration</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Extended Alteration</identifier>
-			<outputString>Altération étendue</outputString>
+			<outputString>Alteration etendue</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Durable Alteration</identifier>
-			<outputString>Altération durable</outputString>
+			<outputString>Alteration durable</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Prolonged Alteration</identifier>
-			<outputString>Altération prolongée</outputString>
+			<outputString>Alteration prolongee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lasting Alteration</identifier>
-			<outputString>Altération permanente</outputString>
+			<outputString>Alteration permanente</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Perpetual Alteration</identifier>
-			<outputString>Altération perpétuelle</outputString>
+			<outputString>Alteration perpetuelle</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Eternal Alteration</identifier>
-			<outputString>Altération éternelle</outputString>
+			<outputString>Alteration eternelle</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Extended Conjuration</identifier>
-			<outputString>Conjuration étendue</outputString>
+			<outputString>Conjuration etendue</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Durable Conjuration</identifier>
@@ -7896,7 +7896,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Prolonged Conjuration</identifier>
-			<outputString>Conjuration prolongée</outputString>
+			<outputString>Conjuration prolongee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lasting Conjuration</identifier>
@@ -7904,15 +7904,15 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Perpetual Conjuration</identifier>
-			<outputString>Conjuration perpétuelle</outputString>
+			<outputString>Conjuration perpetuelle</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Eternal Conjuration</identifier>
-			<outputString>Conjuration éternelle</outputString>
+			<outputString>Conjuration eternelle</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Empowered Destruction</identifier>
-			<outputString>Destruction renforcée</outputString>
+			<outputString>Destruction renforcee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Potent Destruction</identifier>
@@ -7924,7 +7924,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Amplified Destruction</identifier>
-			<outputString>Destruction amplifiée</outputString>
+			<outputString>Destruction amplifiee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mighty Destruction</identifier>
@@ -7940,7 +7940,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Empowered Illusion</identifier>
-			<outputString>Illusion renforcée</outputString>
+			<outputString>Illusion renforcee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Potent Illusion</identifier>
@@ -7948,7 +7948,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Amplified Illusion</identifier>
-			<outputString>Illusion amplifiée</outputString>
+			<outputString>Illusion amplifiee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mighty Illusion</identifier>
@@ -7968,7 +7968,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Empowered Restoration</identifier>
-			<outputString>Restauration renforcée</outputString>
+			<outputString>Restauration renforcee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Potent Restoration</identifier>
@@ -7976,7 +7976,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Amplified Restoration</identifier>
-			<outputString>Restauration amplifiée</outputString>
+			<outputString>Restauration amplifiee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mighty Restoration</identifier>
@@ -7996,7 +7996,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Residual Energy</identifier>
-			<outputString>Energie résiduelle</outputString>
+			<outputString>Energie residuelle</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lingering Energy</identifier>
@@ -8008,7 +8008,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Willpower</identifier>
-			<outputString>Volonté</outputString>
+			<outputString>Volonte</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Gold</identifier>
@@ -8020,7 +8020,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Treasure</identifier>
-			<outputString>Trésor</outputString>
+			<outputString>Tresor</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Riches</identifier>
@@ -8036,11 +8036,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Disasters</identifier>
-			<outputString>Désastres</outputString>
+			<outputString>Desastres</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Calamities</identifier>
-			<outputString>Calamités</outputString>
+			<outputString>Calamites</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Tremors</identifier>
@@ -8052,43 +8052,43 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Trampling</identifier>
-			<outputString>Piétinement</outputString>
+			<outputString>Pietinement</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Pulverizing</identifier>
-			<outputString>Pulvérisation</outputString>
+			<outputString>Pulverisation</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Earthquakes</identifier>
-			<outputString>Séismes</outputString>
+			<outputString>Seismes</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dynamic Entry</identifier>
-			<outputString>Entrée dynamique</outputString>
+			<outputString>Entree dynamique</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Charging</identifier>
-			<outputString>Chargement de l'âme</outputString>
+			<outputString>Chargement de l'ame</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Baiting</identifier>
-			<outputString>Chasse de l'âme</outputString>
+			<outputString>Chasse de l'ame</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Energy</identifier>
-			<outputString>Energie de l'âme</outputString>
+			<outputString>Energie de l'ame</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Attraction</identifier>
-			<outputString>Attraction de l'âme</outputString>
+			<outputString>Attraction de l'ame</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Drawing</identifier>
-			<outputString>Dessin de l'âme</outputString>
+			<outputString>Dessin de l'ame</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Lure</identifier>
-			<outputString>Attrait de l'âme</outputString>
+			<outputString>Attrait de l'ame</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Souls</identifier>
@@ -8096,7 +8096,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Spell Trapping</identifier>
-			<outputString>Piège à sort</outputString>
+			<outputString>Piege à sort</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Spell Snagging</identifier>
@@ -8104,15 +8104,15 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Spell Mire</identifier>
-			<outputString>La détresse de sort</outputString>
+			<outputString>La detresse de sort</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Spell Snaring</identifier>
-			<outputString>Piège de sort</outputString>
+			<outputString>Piege de sort</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Spell Devouring</identifier>
-			<outputString>Dévorement de sort</outputString>
+			<outputString>Devorement de sort</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Spell Consumption</identifier>
@@ -8136,7 +8136,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Purity</identifier>
-			<outputString>Pureté</outputString>
+			<outputString>Purete</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Eidolon</identifier>
@@ -8172,7 +8172,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Flash Step</identifier>
-			<outputString>Bond éclair</outputString>
+			<outputString>Bond eclair</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shadow Step</identifier>
@@ -8184,7 +8184,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Death Ward</identifier>
-			<outputString>Barrière mortelle</outputString>
+			<outputString>Barriere mortelle</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Lich</identifier>
@@ -8196,7 +8196,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Immortality</identifier>
-			<outputString>Immortalité</outputString>
+			<outputString>Immortalite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Divines</identifier>
@@ -8208,7 +8208,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Aiming</identifier>
-			<outputString>Visée</outputString>
+			<outputString>Visee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Accuracy</identifier>
@@ -8216,11 +8216,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Precision</identifier>
-			<outputString>Précision</outputString>
+			<outputString>Precision</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Sniping</identifier>
-			<outputString>Tir de précision</outputString>
+			<outputString>Tir de precision</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>First Blood</identifier>
@@ -8256,7 +8256,7 @@
 		</stringBinding>
 		<stringBinding>
       <identifier>Fortune</identifier>
-			<outputString>le Phénix</outputString>
+			<outputString>le Phenix</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Fate</identifier>
@@ -8276,15 +8276,15 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Weaponward</identifier>
-			<outputString>Barrière contre les armes</outputString>
+			<outputString>Barriere contre les armes</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Weaponbane</identifier>
-			<outputString>Malédiction des armes</outputString>
+			<outputString>Malediction des armes</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Novicebane</identifier>
-			<outputString>Malédiction du Novice</outputString>
+			<outputString>Malediction du Novice</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Magickguard</identifier>
@@ -8344,7 +8344,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Predation</identifier>
-			<outputString>Prédation</outputString>
+			<outputString>Predation</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Carnivore</identifier>
@@ -8380,7 +8380,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Frailty</identifier>
-			<outputString>Fragilité</outputString>
+			<outputString>Fragilite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Stifling</identifier>
@@ -8392,11 +8392,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Futility</identifier>
-			<outputString>Futilité</outputString>
+			<outputString>Futilite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Incapacitation</identifier>
-			<outputString>Incapacité</outputString>
+			<outputString>Incapacite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mugging</identifier>
@@ -8420,27 +8420,27 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Power Unbound</identifier>
-			<outputString>Puissance libérée</outputString>
+			<outputString>Puissance liberee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Power Unfettered</identifier>
-			<outputString>Pouvoir Débloqué</outputString>
+			<outputString>Pouvoir Debloque</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Power Unleashed</identifier>
-			<outputString>Puissance déchainée</outputString>
+			<outputString>Puissance dechainee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Storm Unbound</identifier>
-			<outputString>Tempête libérée</outputString>
+			<outputString>Tempete liberee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Storm Unfettered</identifier>
-			<outputString>Tempête déclenchée</outputString>
+			<outputString>Tempete declenchee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Storm Unleashed</identifier>
-			<outputString>Tempête déchainée</outputString>
+			<outputString>Tempete dechainee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Grappling</identifier>
@@ -8480,7 +8480,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Vulnerability</identifier>
-			<outputString>Vulnérabilité</outputString>
+			<outputString>Vulnerabilite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Exposure</identifier>
@@ -8492,7 +8492,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Curses</identifier>
-			<outputString>Malédictions</outputString>
+			<outputString>Maledictions</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hexes</identifier>
@@ -8500,7 +8500,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Malison</identifier>
-			<outputString>Maléfice</outputString>
+			<outputString>Malefice</outputString>
 		</stringBinding>
 		<stringBinding>
       <identifier>Jagged</identifier>
@@ -8512,11 +8512,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mortality</identifier>
-			<outputString>Mortalité</outputString>
+			<outputString>Mortalite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Decimation</identifier>
-			<outputString>Décimation</outputString>
+			<outputString>Decimation</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Death</identifier>
@@ -8536,11 +8536,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Scorching Blasts</identifier>
-			<outputString>Salves brûlantes</outputString>
+			<outputString>Salves brulantes</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Fire Blasts</identifier>
-			<outputString>Déflagrations</outputString>
+			<outputString>Deflagrations</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blazing Blasts</identifier>
@@ -8564,7 +8564,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Everlasting Fire</identifier>
-			<outputString>Feu perpétuel</outputString>
+			<outputString>Feu perpetuel</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Enduring Fire</identifier>
@@ -8572,7 +8572,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Eternal Fire</identifier>
-			<outputString>Feu éternel</outputString>
+			<outputString>Feu eternel</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Cold Blasts</identifier>
@@ -8584,7 +8584,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Ice Blasts</identifier>
-			<outputString>Salves glacées</outputString>
+			<outputString>Salves glacees</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Freezing Blasts</identifier>
@@ -8608,7 +8608,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hail</identifier>
-			<outputString>Grêle</outputString>
+			<outputString>Grele</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Black Frost</identifier>
@@ -8652,31 +8652,31 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Authority</identifier>
-			<outputString>Autorité</outputString>
+			<outputString>Autorite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Superiority</identifier>
-			<outputString>Supériorité</outputString>
+			<outputString>Superiorite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Repression</identifier>
-			<outputString>Répression</outputString>
+			<outputString>Repression</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Supremacy</identifier>
-			<outputString>Suprématie</outputString>
+			<outputString>Suprematie</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Spark Blasts</identifier>
-			<outputString>Salves d'étincelle</outputString>
+			<outputString>Salves d'etincelle</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Arcing Blasts</identifier>
-			<outputString>Salves d'amorçage</outputString>
+			<outputString>Salves d'amorcage</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shock Blasts</identifier>
-			<outputString>Salves électriques</outputString>
+			<outputString>Salves electriques</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Thunder Blasts</identifier>
@@ -8684,7 +8684,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lightning Blasts</identifier>
-			<outputString>Salves d'éclair</outputString>
+			<outputString>Salves d'eclair</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Storm Blasts</identifier>
@@ -8692,7 +8692,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Surges</identifier>
-			<outputString>Poussées</outputString>
+			<outputString>Poussees</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wrath</identifier>
@@ -8708,7 +8708,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blight</identifier>
-			<outputString>Fléau</outputString>
+			<outputString>Fleau</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Rot</identifier>
@@ -8744,7 +8744,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wizard Rend</identifier>
-			<outputString>Déchirement du Sorcier</outputString>
+			<outputString>Dechirement du Sorcier</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wizard Ruin</identifier>
@@ -8752,7 +8752,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wizard Bane</identifier>
-			<outputString>Fléau du Sorcier</outputString>
+			<outputString>Fleau du Sorcier</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wizard Sunder</identifier>
@@ -8768,7 +8768,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Warrior Rend</identifier>
-			<outputString>Déchirement du Guerrier</outputString>
+			<outputString>Dechirement du Guerrier</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Warrior Ruin</identifier>
@@ -8776,7 +8776,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Warrior Bane</identifier>
-			<outputString>Fléau du Guerrier</outputString>
+			<outputString>Fleau du Guerrier</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Warrior Sunder</identifier>
@@ -8792,7 +8792,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Interference</identifier>
-			<outputString>Interférence</outputString>
+			<outputString>Interference</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Cancellation</identifier>
@@ -8816,7 +8816,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Annoyance</identifier>
-			<outputString>Mécontentement</outputString>
+			<outputString>Mecontentement</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Clamor</identifier>
@@ -8836,7 +8836,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Negation</identifier>
-			<outputString>Négation</outputString>
+			<outputString>Negation</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Disjunction</identifier>
@@ -8844,7 +8844,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wailing</identifier>
-			<outputString>Gémissant</outputString>
+			<outputString>Gemissant</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Screaming</identifier>
@@ -8864,15 +8864,15 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hidden Viper</identifier>
-			<outputString>Vipère cachée</outputString>
+			<outputString>Vipere cachee</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hidden Adder</identifier>
-			<outputString>Crotale caché</outputString>
+			<outputString>Crotale cache</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hidden Asp</identifier>
-			<outputString>Aspic caché</outputString>
+			<outputString>Aspic cache</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Ghosts</identifier>
@@ -8932,7 +8932,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Pandemonium</identifier>
-			<outputString>Pandémonium</outputString>
+			<outputString>Pandemonium</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dawn</identifier>
@@ -8940,7 +8940,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Daylight</identifier>
-			<outputString>Lumière du jour</outputString>
+			<outputString>Lumiere du jour</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Noon</identifier>
@@ -8972,7 +8972,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Misery</identifier>
-			<outputString>Misère</outputString>
+			<outputString>Misere</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Tears</identifier>
@@ -8992,7 +8992,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Decay</identifier>
-			<outputString>Déclin</outputString>
+			<outputString>Declin</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wasting</identifier>
@@ -9000,11 +9000,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Withering</identifier>
-			<outputString>Flétrissement</outputString>
+			<outputString>Fletrissement</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wilting</identifier>
-			<outputString>Dépérissement</outputString>
+			<outputString>Deperissement</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Atrophy</identifier>
@@ -9012,11 +9012,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Putrefaction</identifier>
-			<outputString>Putréfaction</outputString>
+			<outputString>Putrefaction</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Quickening</identifier>
-			<outputString>Accélération</outputString>
+			<outputString>Acceleration</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Enlightenment</identifier>
@@ -9044,7 +9044,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Kingslaying</identifier>
-			<outputString>Régicide</outputString>
+			<outputString>Regicide</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Steel Coffin</identifier>
@@ -9052,11 +9052,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Healing</identifier>
-			<outputString>Guérison</outputString>
+			<outputString>Guerison</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mercy</identifier>
-			<outputString>Pitié</outputString>
+			<outputString>Pitie</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Compassion</identifier>
@@ -9092,7 +9092,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Rivalry</identifier>
-			<outputString>Rivalité</outputString>
+			<outputString>Rivalite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Discord</identifier>
@@ -9100,7 +9100,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Disunity</identifier>
-			<outputString>Désunion</outputString>
+			<outputString>Desunion</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Strife</identifier>
@@ -9108,11 +9108,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Genocide</identifier>
-			<outputString>Génocide</outputString>
+			<outputString>Genocide</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Countering</identifier>
-			<outputString>Résistance</outputString>
+			<outputString>Resistance</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Trickery</identifier>
@@ -9128,7 +9128,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Reciprocation</identifier>
-			<outputString>Réciprocité</outputString>
+			<outputString>Reciprocite</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blistering</identifier>
@@ -9148,11 +9148,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Ulceration</identifier>
-			<outputString>Ulcération</outputString>
+			<outputString>Ulceration</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Necrosis</identifier>
-			<outputString>Nécrose</outputString>
+			<outputString>Necrose</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Harmonies</identifier>
@@ -9164,11 +9164,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Elegies</identifier>
-			<outputString>Elégies</outputString>
+			<outputString>Elegies</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Threnodies</identifier>
-			<outputString>Thrénodies</outputString>
+			<outputString>Threnodies</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Bull</identifier>
@@ -9176,7 +9176,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Ram</identifier>
-			<outputString>le Bélier</outputString>
+			<outputString>le Belier</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Bear</identifier>
@@ -9184,11 +9184,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Rhino</identifier>
-			<outputString>le Rhinocéros</outputString>
+			<outputString>le Rhinoceros</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Elephant</identifier>
-			<outputString>l'Eléphant</outputString>
+			<outputString>l'Elephant</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Mammoth</identifier>
@@ -9196,7 +9196,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Twilight</identifier>
-			<outputString>Crépuscule</outputString>
+			<outputString>Crepuscule</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Voice</identifier>
@@ -9240,7 +9240,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Tempest</identifier>
-			<outputString>Tempête</outputString>
+			<outputString>Tempete</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Tornado</identifier>
@@ -12060,15 +12060,15 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dismay</identifier>
-			<outputString>Desânimo</outputString>
+			<outputString>Desanimo</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Duration</identifier>
-			<outputString>Duração</outputString>
+			<outputString>Duracão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Eruption</identifier>
-			<outputString>Erupção</outputString>
+			<outputString>Erupcão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explosive</identifier>
@@ -12152,11 +12152,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Panic</identifier>
-			<outputString>Pânico</outputString>
+			<outputString>Panico</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Partisan</identifier>
-			<outputString>Partidário</outputString>
+			<outputString>Partidario</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Pickaxe</identifier>
@@ -12180,11 +12180,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Reforged</identifier>
-			<outputString>Reforçado</outputString>
+			<outputString>Reforcado</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Replica</identifier>
-			<outputString>Réplica</outputString>
+			<outputString>Replica</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Sabre</identifier>
@@ -12252,7 +12252,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deals more bonus damage to undead, and is easier to handle than regular silver weapons.</identifier>
-			<outputString>Causa mais dano bônus a mortos-vivos, e é mais fácil de lidar do que armas de prata comuns.</outputString>
+			<outputString>Causa mais dano bônus a mortos-vivos, e e mais facil de lidar do que armas de prata comuns.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 10 points of poison damage per second for 3 seconds.</identifier>
@@ -12268,7 +12268,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes 3 seconds after being fired into a surface, dealing 150 points of non-elemental damage.</identifier>
-			<outputString>Explode 3 segundos depois de ser lançado em uma superfície, causando 150 pontos de dano não elemental.</outputString>
+			<outputString>Explode 3 segundos depois de ser lancado em uma superfície, causando 150 pontos de dano não elemental.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 30 points of frost damage.</identifier>
@@ -12284,7 +12284,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Emits light after being fired.</identifier>
-			<outputString>Emite luz depois de ser lançado.</outputString>
+			<outputString>Emite luz depois de ser lancado.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deals 6 points of bleeding damag per second over 8 seconds, and slows the target down by 20%.</identifier>
@@ -12336,7 +12336,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Sanctuary</identifier>
-			<outputString>Santuário</outputString>
+			<outputString>Santuario</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Spurs</identifier>
@@ -12380,11 +12380,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mage Ward</identifier>
-			<outputString>Proteção de Mago</outputString>
+			<outputString>Protecão de Mago</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Smoke and Mirrors</identifier>
-			<outputString>Espelho e Fumaça</outputString>
+			<outputString>Espelho e Fumaca</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hexward</identifier>
@@ -12396,7 +12396,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wizardward</identifier>
-			<outputString>Proteção de Feiticeiro</outputString>
+			<outputString>Protecão de Feiticeiro</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lies</identifier>
@@ -12424,11 +12424,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Primal</identifier>
-			<outputString>O Primário</outputString>
+			<outputString>O Primario</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Experience</identifier>
-			<outputString>Experiência</outputString>
+			<outputString>Experiencia</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Training</identifier>
@@ -12440,7 +12440,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Understanding</identifier>
-			<outputString>Compreenção</outputString>
+			<outputString>Compreencão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Wisdom</identifier>
@@ -12456,7 +12456,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Nomad</identifier>
-			<outputString>Aceleração</outputString>
+			<outputString>Aceleracão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Chasing</identifier>
@@ -12476,7 +12476,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Fins</identifier>
-			<outputString>Até</outputString>
+			<outputString>Ate</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Dolphin</identifier>
@@ -12500,7 +12500,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blood Sport</identifier>
-			<outputString>Esporte Sanguinário</outputString>
+			<outputString>Esporte Sanguinario</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Arena</identifier>
@@ -12508,11 +12508,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Prize Fighter</identifier>
-			<outputString>O Preço do Lutador</outputString>
+			<outputString>O Preco do Lutador</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Bounty Hunter</identifier>
-			<outputString>O Caçador de Recompenças</outputString>
+			<outputString>O Cacador de Recompencas</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Showmanship</identifier>
@@ -12520,7 +12520,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hardening Armor</identifier>
-			<outputString>Armadura Reforçada</outputString>
+			<outputString>Armadura Reforcada</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Thickening Armor</identifier>
@@ -12548,11 +12548,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Convalescence</identifier>
-			<outputString>Convalescência</outputString>
+			<outputString>Convalescencia</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Vivication</identifier>
-			<outputString>Vivicação</outputString>
+			<outputString>Vivicacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Rilm's Gift</identifier>
@@ -12584,11 +12584,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blood and Might</identifier>
-			<outputString>Sangue e Força</outputString>
+			<outputString>Sangue e Forca</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Might and Power</identifier>
-			<outputString>Força e Poder</outputString>
+			<outputString>Forca e Poder</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Abyssal Bond</identifier>
@@ -12612,7 +12612,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Sublime Analysis</identifier>
-			<outputString>Análise Subliminar</outputString>
+			<outputString>Analise Subliminar</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Grunt's</identifier>
@@ -12644,11 +12644,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Fencing</identifier>
-			<outputString>Receptação</outputString>
+			<outputString>Receptacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Perception</identifier>
-			<outputString>Percepção</outputString>
+			<outputString>Percepcão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Distillation</identifier>
@@ -12660,7 +12660,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Intuition</identifier>
-			<outputString>Herança Aldmeri</outputString>
+			<outputString>Heranca Aldmeri</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Steadfastness</identifier>
@@ -12668,7 +12668,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Faith</identifier>
-			<outputString>Canalização</outputString>
+			<outputString>Canalizacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Wraith-King</identifier>
@@ -12688,11 +12688,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Three Stars</identifier>
-			<outputString>Três Estrelas</outputString>
+			<outputString>Tres Estrelas</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Circle of Protection</identifier>
-			<outputString>Circulo da Proteção</outputString>
+			<outputString>Circulo da Protecão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Circle of Power</identifier>
@@ -12700,7 +12700,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deep Breathing</identifier>
-			<outputString>Respiração Profunda</outputString>
+			<outputString>Respiracão Profunda</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Word</identifier>
@@ -12724,7 +12724,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Sky</identifier>
-			<outputString>O Céu</outputString>
+			<outputString>O Ceu</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Moons</identifier>
@@ -12732,7 +12732,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Heavens</identifier>
-			<outputString>O Céu</outputString>
+			<outputString>O Ceu</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Stars</identifier>
@@ -12740,7 +12740,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Constellations</identifier>
-			<outputString>A Constelação</outputString>
+			<outputString>A Constelacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Zodiac</identifier>
@@ -12772,7 +12772,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Silvermyst</identifier>
-			<outputString>Herança Kin</outputString>
+			<outputString>Heranca Kin</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Evermyst</identifier>
@@ -12788,87 +12788,87 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Alteration</identifier>
-			<outputString>Alteração</outputString>
+			<outputString>Alteracão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Extended Alteration</identifier>
-			<outputString>Alteração Extendido</outputString>
+			<outputString>Alteracão Extendido</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Durable Alteration</identifier>
-			<outputString>Durabilidade da Alteração</outputString>
+			<outputString>Durabilidade da Alteracão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Prolonged Alteration</identifier>
-			<outputString>Alteração Prolongado</outputString>
+			<outputString>Alteracão Prolongado</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lasting Alteration</identifier>
-			<outputString>Alteração Permanente</outputString>
+			<outputString>Alteracão Permanente</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Perpetual Alteration</identifier>
-			<outputString>Alteração Perpétual</outputString>
+			<outputString>Alteracão Perpetual</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Eternal Alteration</identifier>
-			<outputString>Alteração Eterna</outputString>
+			<outputString>Alteracão Eterna</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Conjuration</identifier>
-			<outputString>Conjuração</outputString>
+			<outputString>Conjuracão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Extended Conjuration</identifier>
-			<outputString>Conjuração Extendida</outputString>
+			<outputString>Conjuracão Extendida</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Durable Conjuration</identifier>
-			<outputString>Durabilidade da Conjuração</outputString>
+			<outputString>Durabilidade da Conjuracão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Prolonged Conjuration</identifier>
-			<outputString>Conjuração Prolongado</outputString>
+			<outputString>Conjuracão Prolongado</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lasting Conjuration</identifier>
-			<outputString>Terminando Conjuração</outputString>
+			<outputString>Terminando Conjuracão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Perpetual Conjuration</identifier>
-			<outputString>Conjuração Perpétua</outputString>
+			<outputString>Conjuracão Perpetua</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Eternal Conjuration</identifier>
-			<outputString>Conjuração Eterna</outputString>
+			<outputString>Conjuracão Eterna</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Destruction</identifier>
-			<outputString>Destruição</outputString>
+			<outputString>Destruicão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Empowered Destruction</identifier>
-			<outputString>Destruição Poderosa</outputString>
+			<outputString>Destruicão Poderosa</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Potent Destruction</identifier>
-			<outputString>Destruição Potente</outputString>
+			<outputString>Destruicão Potente</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Amplified Destruction</identifier>
-			<outputString>Destruição Amplificado</outputString>
+			<outputString>Destruicão Amplificado</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mighty Destruction</identifier>
-			<outputString>Meia Destruição</outputString>
+			<outputString>Meia Destruicão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Magnificent Destruction</identifier>
-			<outputString>Destruição Magnífica</outputString>
+			<outputString>Destruicão Magnífica</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Glorious Destruction</identifier>
-			<outputString>Destruição Gloriosa</outputString>
+			<outputString>Destruicão Gloriosa</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Illusion</identifier>
@@ -12900,31 +12900,31 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Restoration</identifier>
-			<outputString>Restauração</outputString>
+			<outputString>Restauracão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Empowered Restoration</identifier>
-			<outputString>Restauração Poderosa</outputString>
+			<outputString>Restauracão Poderosa</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Potent Restoration</identifier>
-			<outputString>Restauração Potente</outputString>
+			<outputString>Restauracão Potente</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Amplified Restoration</identifier>
-			<outputString>Restauração Amplificada</outputString>
+			<outputString>Restauracão Amplificada</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Mighty Restoration</identifier>
-			<outputString>Meia Restauração</outputString>
+			<outputString>Meia Restauracão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Magnificent Restoration</identifier>
-			<outputString>Restauração Magnífica</outputString>
+			<outputString>Restauracão Magnífica</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Glorious Restoration</identifier>
-			<outputString>Restauração Gloriosa</outputString>
+			<outputString>Restauracão Gloriosa</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shielding</identifier>
@@ -12944,7 +12944,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Willpower</identifier>
-			<outputString>Força de Vontade</outputString>
+			<outputString>Forca de Vontade</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Gold</identifier>
@@ -12984,7 +12984,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Catastrophe</identifier>
-			<outputString>Catástofre</outputString>
+			<outputString>Catastofre</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Karma</identifier>
@@ -12996,7 +12996,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dynamic Entry</identifier>
-			<outputString>Entrada Dinâmica</outputString>
+			<outputString>Entrada Dinamica</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Charging</identifier>
@@ -13008,15 +13008,15 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Attraction</identifier>
-			<outputString>Atração da Alma</outputString>
+			<outputString>Atracão da Alma</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Drawing</identifier>
-			<outputString>Extração de Alma</outputString>
+			<outputString>Extracão de Alma</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Soul Lure</identifier>
-			<outputString>Atração da Alma</outputString>
+			<outputString>Atracão da Alma</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Souls</identifier>
@@ -13024,7 +13024,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Spell Consumption</identifier>
-			<outputString>Feitiço do Consumo</outputString>
+			<outputString>Feitico do Consumo</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dark Power</identifier>
@@ -13044,7 +13044,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Adaptation</identifier>
-			<outputString>Adaptação</outputString>
+			<outputString>Adaptacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Excellence</identifier>
@@ -13056,11 +13056,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Perfection</identifier>
-			<outputString>Perfeição</outputString>
+			<outputString>Perfeicão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Transcendence</identifier>
-			<outputString>Transcedência</outputString>
+			<outputString>Transcedencia</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Blink Step</identifier>
@@ -13108,7 +13108,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Fortune</identifier>
-			<outputString>A Fênix</outputString>
+			<outputString>A Fenix</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Destiny</identifier>
@@ -13116,7 +13116,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Innocence</identifier>
-			<outputString>Inocência</outputString>
+			<outputString>Inocencia</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Oppression</identifier>
@@ -13124,11 +13124,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Hunting</identifier>
-			<outputString>Caçando</outputString>
+			<outputString>Cacando</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Predation</identifier>
-			<outputString>Predação</outputString>
+			<outputString>Predacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Carnivore</identifier>
@@ -13144,7 +13144,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Incapacitation</identifier>
-			<outputString>Incapacitação</outputString>
+			<outputString>Incapacitacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Command</identifier>
@@ -13152,7 +13152,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Domination</identifier>
-			<outputString>Dominação</outputString>
+			<outputString>Dominacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>the Conjurer</identifier>
@@ -13168,7 +13168,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Exposure</identifier>
-			<outputString>Exposição</outputString>
+			<outputString>Exposicão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Executioner's</identifier>
@@ -13180,7 +13180,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Decimation</identifier>
-			<outputString>Dizimação</outputString>
+			<outputString>Dizimacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Death</identifier>
@@ -13264,7 +13264,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Dominance</identifier>
-			<outputString>Dominação</outputString>
+			<outputString>Dominacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Authority</identifier>
@@ -13284,7 +13284,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Static</identifier>
-			<outputString>Estática</outputString>
+			<outputString>Estatica</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Voltage</identifier>
@@ -13292,23 +13292,23 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Electrocution</identifier>
-			<outputString>Eletrocução</outputString>
+			<outputString>Eletrocucão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Poison</identifier>
-			<outputString>Porção</outputString>
+			<outputString>Porcão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Corruption</identifier>
-			<outputString>Corrupção</outputString>
+			<outputString>Corrupcão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Irritation</identifier>
-			<outputString>Irritação</outputString>
+			<outputString>Irritacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Negation</identifier>
-			<outputString>Negação</outputString>
+			<outputString>Negacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Ghosts</identifier>
@@ -13336,7 +13336,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Perdition</identifier>
-			<outputString>Perdição</outputString>
+			<outputString>Perdicão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Pandemonium</identifier>
@@ -13344,7 +13344,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Annihilation</identifier>
-			<outputString>Aniquilação</outputString>
+			<outputString>Aniquilacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Failure</identifier>
@@ -13352,11 +13352,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Misery</identifier>
-			<outputString>Miséria</outputString>
+			<outputString>Miseria</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Tears</identifier>
-			<outputString>Lágrima</outputString>
+			<outputString>Lagrima</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Withering</identifier>
@@ -13416,7 +13416,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Trickery</identifier>
-			<outputString>Trapaça</outputString>
+			<outputString>Trapaca</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Opportunity</identifier>
@@ -13424,11 +13424,11 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Reciprocation</identifier>
-			<outputString>Reciprocação</outputString>
+			<outputString>Reciprocacão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Ulceration</identifier>
-			<outputString>Ulceração</outputString>
+			<outputString>Ulceracão</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Necrosis</identifier>
@@ -13480,7 +13480,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Drafts</identifier>
-			<outputString>Corrente D'água</outputString>
+			<outputString>Corrente D'agua</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Breezes</identifier>
@@ -13764,7 +13764,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Deals more bonus damage to undead, and is easier to handle than regular silver weapons.</identifier>
-			<outputString>Arreca danno aggiuntivo ai non morti, ed è piu facile da controllare delle normali armi d'argento.</outputString>
+			<outputString>Arreca danno aggiuntivo ai non morti, ed e piu facile da controllare delle normali armi d'argento.</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Explodes upon impact, dealing 10 points of poison damage per second for 3 seconds.</identifier>
