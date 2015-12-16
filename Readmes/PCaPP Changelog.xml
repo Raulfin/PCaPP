@@ -1,6 +1,6 @@
 <Versions>
 <Current>
-<v3.4.0.2>
+<v3.4.1>
 Now covers:
 	Inquisitor Armor Compilation (25628)
 	Katarina Armor (60814)
@@ -20,6 +20,7 @@ Now covers:
 	Lady Templar (40626)
 	Rueful War Axe (53735)
 	ElvenSilver Dagger (71933)
+	The Lily - Armour Mashup (71843)
 
 Blocklist:
 	Removed unnecessary dD - Enhanced Blood Main.esp
@@ -38,16 +39,12 @@ Additions:
 	Português - Brasil
 	Italiano
 
-Balancing:
-
-Renamed:
-
 Updated Patches:
-	Pre PerMa SiC
+	Pre PaMa SiC
 
 New Patches:
-
-Removed Patches:
+	IA8
+	USLEeP
 </v>
 </Current>
 

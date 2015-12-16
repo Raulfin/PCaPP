@@ -915,10 +915,6 @@
 			<substring>Breton</substring>
 		</binding>
 		<binding>
-			<identifier>Leather</identifier>
-			<substring>Breton Knight</substring>
-		</binding>
-		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Orc</substring>
 		</binding>
@@ -958,10 +954,6 @@
 	
 	<!-- Faction material_Bindings start -->
 	<!-- Bindings allowed: LightFactionLow, LightFaction, LightFactionHigh, Tong, HeavyFactionLow, HeavyFaction, HeavyFactionHigh, HTong -->
-		<binding>
-			<identifier>LightFactionHigh</identifier>
-			<substring>Rough Leather</substring>
-		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Nightingale</substring>
@@ -2167,10 +2159,6 @@
 		</binding>
 		<binding>
 			<identifier>DaedricLight</identifier>
-			<substring>Merta</substring>
-		</binding>
-		<binding>
-			<identifier>DaedricLight</identifier>
 			<substring>Nerjal</substring>
 		</binding>
 		<binding>
@@ -2360,14 +2348,6 @@
 		<binding>
 			<identifier>DragonplateLow</identifier>
 			<substring>Scourge Lord</substring>
-		</binding>
-		<binding>
-			<identifier>Dragonplate</identifier>
-			<substring>DP Brazen</substring>
-		</binding>
-		<binding>
-			<identifier>Dragonplate</identifier>
-			<substring>Brazen Dragonplate</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -2571,10 +2551,6 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
-			<substring>Gwelda</substring>
-		</binding>
-		<binding>
-			<identifier>Dragonscale</identifier>
 			<substring>Nordic Chainmail Boots - Dragon</substring>
 		</binding>
 		<binding>
@@ -2724,10 +2700,6 @@
 		<binding>
 			<identifier>Dragonscale</identifier>
 			<substring>Black Dragonscale Gauntlets</substring>
-		</binding>
-		<binding>
-			<identifier>Dragonscale</identifier>
-			<substring>Sotteta Huntress</substring>
 		</binding>
 	<!-- Dragonscale Material Bindings end -->
 	
@@ -3120,38 +3092,6 @@
 		<binding>
 			<identifier>EbonyLight</identifier>
 			<substring>Sicarius</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ancient Draugr Cuisse</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ancient Draugr Shield</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ancient Draugr Gauntlets</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ancient Draugr Armor</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ancient Draugr Helm</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ancient Draugr Flat Boots</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ancient Draugr Cuisse Pair</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ancient Draugr Boots</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3726,10 +3666,6 @@
 			<substring>Crimson Guard</substring>
 		</binding>
 		<binding>
-			<identifier>ElvenHigh</identifier>
-			<substring>Emfy</substring>
-		</binding>
-		<binding>
 			<identifier>Elven</identifier>
 			<substring>Ivory</substring>
 		</binding>
@@ -4159,10 +4095,6 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
-			<substring>Blood Witch</substring>
-		</binding>
-		<binding>
-			<identifier>Glass</identifier>
 			<substring>Serenity Handguards</substring>
 		</binding>
 		<binding>
@@ -4180,10 +4112,6 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Celestial Aegis</substring>
-		</binding>
-		<binding>
-			<identifier>Glass</identifier>
-			<substring>Evil MasterMind</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -5002,174 +4930,6 @@
 			<substring>Highwayman</substring>
 		</binding>
 		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Assassin Armor - Leather Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Assassin Boots</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Assassin Bracers</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Assassin Circlet</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Assassin Collar</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Assassin Hood</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Corsair Armor - Leather Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Corsair Boots</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Corsair Bracers</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Corsair Circlet</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Corsair Collar</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Corsair Hood</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Kameleon Armor - Leather Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Kameleon Boots</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Kameleon Bracers</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Kameleon Circlet</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Kameleon Collar</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Kameleon Hood</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Outlaw Armor - Leather Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Outlaw Boots</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Outlaw Bracers</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Outlaw Circlet</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Outlaw Collar</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Outlaw Hood</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Ranger Armor - Leather Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Ranger Boots</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Ranger Bracers</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Ranger Circlet</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Ranger Collar</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Ranger Hood</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Rogue Armor - Leather Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Rogue Boots</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Rogue Bracers</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Rogue Circlet</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Rogue Collar</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Rogue Hood</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Scout Armor - Leather Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Scout Boots</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Scout Bracers</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Scout Circlet</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Scout Collar</substring>
-		</binding>
-		<binding>
-			<identifier>LeatherHigh</identifier>
-			<substring>Scout Hood</substring>
-		</binding>
-		<binding>
 			<identifier>Leather</identifier>
 			<substring>Doomed</substring>
 		</binding>
@@ -5244,18 +5004,6 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Sotteta Necromancer Dress</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
-			<substring>Sotteta Necromancer Gloves</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
-			<substring>Sotteta Necromancer Stockings</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
-			<substring>Sotteta Necromancer Boots</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -5363,14 +5111,6 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
-			<substring>Contractor</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
-			<substring>Mavari</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
 			<substring>Cleric Armor (Light)</substring>
 		</binding>
 		<binding>
@@ -5402,8 +5142,8 @@
 			<substring>Investigator Gloves</substring>
 		</binding>
 		<binding>
-			<identifier>Pauldron</identifier>
-			<substring>Investigator's Dustcloak</substring>
+			<identifier>Clothing</identifier>
+			<substring>Investigator's Dustcloak</substring><!-- Vis Changed Entry -->
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -6263,170 +6003,6 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
-			<substring>Assassin Armor</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Assassin Armor - Scaled Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Assassin Corset</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Assassin Earrings</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Assassin Pauldron</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Assassin Plates</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Corsair Armor</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Corsair Armor - Scaled Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Corsair Corset</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Corsair Earrings</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Corsair Plates</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Kameleon Armor</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Corsair Pauldron</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Kameleon Armor - Scaled Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Kameleon Corset</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Kameleon Earrings</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Kameleon Pauldron</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Kameleon Plates</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Outlaw Armor</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Outlaw Armor - Scaled Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Outlaw Corset</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Outlaw Earrings</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Outlaw Pauldron</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Outlaw Plates</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Ranger Armor - Scaled Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Ranger Corset</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Ranger Earrings</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Ranger Pauldron</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Ranger Plates</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Rogue Armor</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Rogue Armor - Scaled Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Rogue Corset</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Rogue Earrings</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Rogue Pauldron</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Rogue Plates</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Scout Armor</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Scout Armor - Scaled Skirt</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Scout Corset</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Scout Earrings</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Scout Pauldron</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Scout Plates</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
 			<substring>Cerberus Scoff</substring>
 		</binding>
 		<binding>
@@ -6440,10 +6016,6 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Pleated Boots Light</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Revelation Light</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -6575,10 +6147,6 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
-			<substring>Ursine</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
 			<substring>Bronze Mask</substring>
 		</binding>
 		<binding>
@@ -6640,50 +6208,6 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Trainee Cleric Chainmail</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Tembtra Thief Striphold Tunic</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Tembtra Thief Gloves</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Tembtra Thief Armlets</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Tembtra Thief Hood</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Tembtra Thief Trousers</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Tembtra Thief Boots</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Tembtra Thief High Heel Boots</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Tembtra Thief Reinforced Trousers</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Tembtra Thief Corset Tunic</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Tembtra Thief Tunic</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledHigh</identifier>
-			<substring>Tembtra Thief Reinforced Tunic</substring>
 		</binding>
 		<binding>
 			<identifier>ScaledHigh</identifier>
@@ -7600,12 +7124,12 @@
 	<!-- Wood Material Bindings end -->
 	<!-- Visdagon Entries -->
 		<binding>
-			<identifier>Clothing</identifier>
-			<substring>Sexy Ninja</substring><!-- Vis Sexy Ninja Armor -->
+			<identifier>ScaledLow</identifier>
+			<substring>Revelation Light</substring><!-- Vis Assassin's Creed Ezio Auditore Masyaf Armor rework -->
 		</binding>
 		<binding>
-			<identifier>DaedricLight</identifier>
-			<substring>Celes Nightingale</substring><!-- Vis Celes Nightingale -->
+			<identifier>Leather Part</identifier>
+			<substring>Sexy Ninja</substring><!-- Vis Sexy Ninja Armor -->
 		</binding>
 		<binding>
 			<identifier>DaedricLight</identifier>
@@ -7618,10 +7142,6 @@
 		<binding>
 			<identifier>DragonscaleLow</identifier>
 			<substring>Falkreath Ranger</substring><!-- Vis Falkreath Ranger Armor -->
-		</binding>
-		<binding>
-			<identifier>EbonyLow</identifier>
-			<substring>Merta Black Rose</substring><!-- Vis Merta Black Rose Armor -->
 		</binding>
 		<binding>
 			<identifier>EbonyLow</identifier>
@@ -7688,14 +7208,6 @@
 			<substring>Bless Yohal</substring><!-- Vis Bless Armor Pack -->
 		</binding>
 		<binding>
-			<identifier>ElvenLow</identifier>
-			<substring>Cassandra Frost Witch</substring><!-- Vis Cassandra Frost Witch Outfit  -->
-		</binding>
-		<binding>
-			<identifier>ElvenLow</identifier>
-			<substring>Gwelda Red Riding</substring><!-- Vis Gwelda Red Riding Hood  -->
-		</binding>
-		<binding>
 			<identifier>FurLow</identifier>
 			<substring>Wild Huntress</substring><!-- Vis Wild Huntress Armor -->
 		</binding>
@@ -7721,10 +7233,6 @@
 		</binding>
 		<binding>
 			<identifier>LeatherLow</identifier>
-			<substring>Katarina</substring><!-- Vis Katarina Armor  -->
-		</binding>
-		<binding>
-			<identifier>LeatherLow</identifier>
 			<substring>Leather Alfheim</substring><!-- Vis Alfheim Robes -->
 		</binding>
 		<binding>
@@ -7736,24 +7244,12 @@
 			<substring>Sovngarde Steel</substring><!-- Vis Sovngarde Steel Armor-->
 		</binding>
 		<binding>
-			<identifier>Zero_Scaled</identifier>
+			<identifier>Clothing</identifier>
 			<substring>Sovngarde Steel Amulet</substring><!-- Vis Sovngarde Steel Armor-->
 		</binding>
 		<binding>
-			<identifier>Zero_Scaled</identifier>
+			<identifier>Clothing</identifier>
 			<substring>Sovngarde Steel Cloak</substring><!-- Vis Sovngarde Steel Armor-->
-		</binding>
-		<binding>
-			<identifier>SteelHigh</identifier>
-			<substring>Arkay Cleric</substring><!-- Vis Cleric Armours of the Nine Devines  -->
-		</binding>
-		<binding>
-			<identifier>SteelHigh</identifier>
-			<substring>Julianos Cleric</substring><!-- Vis Cleric Armours of the Nine Devines  -->
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Zenithar Cleric</substring><!-- Vis Cleric Armours of the Nine Devines  -->
 		</binding>
 		<binding>
 			<identifier>EbonyLight</identifier>
@@ -7783,6 +7279,66 @@
 			<identifier>Leather</identifier>
 			<substring>Void Gloves</substring><!-- Vis Void armor by Hentai -->
 		</binding>
+	<!-- Vis Adventurer Maiden Armory -->
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>tttMaiden Ranger</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>tttMaiden Ranger Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>tttMaiden Ranger Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>tttShadow Assassin</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>tttShadow Assassin Neck</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>tttShadow Assassin Mask</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>tttShadow Assassin Scarf</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLow</identifier>
+			<substring>tttTraveler Warrior</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>tttTraveler Warrior Pauldrons</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>tttVagabond Thief</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>tttVagabond Thief Choker</substring>
+		</binding>
+	<!-- Vis Adventurer Maiden Armory -->
+	<!-- Vis Ancient Draugr Armor -->
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Ancient Draugr Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony Part</identifier>
+			<substring>Ancient Draugr Cuisse</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ancient Draugr Underwear</substring>
+		</binding>
+	<!-- Vis Ancient Draugr Armor -->
 	<!-- Vis Barbarian Steel Armor -->
 		<binding>
 			<identifier>ScaledHigh</identifier>
@@ -7805,32 +7361,32 @@
 			<substring>Barbarian Steel Helmet</substring>
 		</binding>
 	<!-- Vis Barbarian Steel Armor -->
-	<!-- Vis Redguard shields (Hammerfell armoury)  -->
+	<!-- Vis Blood Witch Armor -->
 		<binding>
-			<identifier>Steel</identifier>
-			<substring>Steel redguard shield</substring>
+			<identifier>ScaledHigh</identifier>
+			<substring>Blood Witch</substring>
+		</binding>
+	<!-- Vis Blood Witch Armor -->
+	<!-- Vis Cassandra Frost Witch Outfit -->
+		<binding>
+			<identifier>Elven Part</identifier>
+			<substring>Cassandra Frost Witch</substring>
 		</binding>
 		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ebony redguard shield</substring>
+			<identifier>ElvenLow</identifier>
+			<substring>Cassandra Frost Witch Robe</substring>
+		</binding>
+	<!-- Vis Cassandra Frost Witch Outfit -->
+	<!-- Vis Celes Nightingale Armor -->
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Celes Nightingale</substring>
 		</binding>
 		<binding>
-			<identifier>Silver</identifier>
-			<substring>Silver redguard shield</substring>
+			<identifier>Daedric Part</identifier>
+			<substring>Celes Nightingale Stockings</substring>
 		</binding>
-		<binding>
-			<identifier>SteelLight</identifier>
-			<substring>Light redguard shield</substring>
-		</binding>
-		<binding>
-			<identifier>Advanced</identifier>
-			<substring>Corundum redguard shield</substring>
-		</binding>
-		<binding>
-			<identifier>SilverLow</identifier>
-			<substring>Ornate redguard shield</substring>
-		</binding>
-	<!-- Vis Redguard shields (Hammerfell armoury)  -->
+	<!-- Vis Celes Nightingale Armor -->
 	<!-- Vis Cleric Armours of the Nine Devines  -->
 		<binding>
 			<identifier>Steel Heavy</identifier>
@@ -7852,33 +7408,583 @@
 			<identifier>Steel Heavy</identifier>
 			<substring>Helm of the Crusader</substring>
 		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Akatosh Cleric</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Arkay Cleric</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Julianos Cleric</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Zenithar Cleric</substring>
+		</binding>
 	<!-- Vis Cleric Armours of the Nine Devines  -->
-	<!-- Vis Inquisitor Gear -->
+	<!-- Vis Contractor and Mavari Armors -->
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Contractor</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Contractor Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Contractor Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Contractor Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>"Night Lurker" Contractor Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>"Night Lurker" Contractor Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>"Night Lurker" Contractor Hood</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Mavari</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Mavari Gloves</substring>
+		</binding>
+	<!-- Vis Contractor and Mavari Armors -->
+	<!-- Vis Emfy Cleric Robes -->
+		<binding>
+			<identifier>Elven Part</identifier>
+			<substring>Emfy Cleric</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Emfy Cleric Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Emfy Cleric Robes</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Emfy Shield</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Emfy Cleric Shoes</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Emfy Cleric Cloak</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Emfy Cleric Halo</substring>
+		</binding>
+	<!-- Vis Emfy Cleric Robes -->
+	<!-- Vis ESO Breton Knight -->
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Breton Knight</substring>
+		</binding>
+		<binding>
+			<identifier>Leather Part</identifier>
+			<substring>Breton Knight Mask</substring>
+		</binding>
+	<!-- Vis ESO Breton Knight -->
+	<!-- Vis Evil MasterMind Armor -->
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Evil MasterMind</substring>
+		</binding>
+	<!-- Vis Evil MasterMind Armor -->
+	<!-- Vis Grace Darklings Elven Scout Armor -->
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>High Elven Scout Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Winter Elven Scout Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Cermonial Elven Scout Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Autumn Elven Scout Armor</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Elven Scout Diviner Robes</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Spring Elven Scout Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Shadow Elven Scout Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Noldorian Elven Scout Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Summer Elven Scout Armor</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Dark Elven Scout</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Brown Elven Scout</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Elven Scout Diviner</substring>
+		</binding>
+	<!-- Vis Grace Darklings Elven Scout Armor -->
+	<!-- Vis Gwelda Dawnguard Armor -->
+		<binding>
+			<identifier>DragonscaleLow</identifier>
+			<substring>Gwelda Dawnguard</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale Part</identifier>
+			<substring>Gwelda Dawnguard Cuisse</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale Part</identifier>
+			<substring>Gwelda Dawnguard Trousers</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale Part</identifier>
+			<substring>Gwelda Dawnguard Armlets</substring>
+		</binding>
+	<!-- Vis Gwelda Dawnguard Armor -->
+	<!-- Vis Gwelda Red Riding Hood  -->
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Gwelda Red Riding</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Gwelda Red Riding Hood Cloak</substring>
+		</binding>
+	<!-- Vis Gwelda Red Riding Hood  -->
+	<!-- Vis Inquisitor Armor Compilation -->
 		<binding>
 			<identifier>LightFactionHigh</identifier>
 			<substring>Inquisitor's</substring>
 		</binding>
 		<binding>
-			<identifier>EbonyHigh</identifier>
+			<identifier>Steel Heavy</identifier>
 			<substring>Inquisitor's Plate</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionHigh</identifier>
+			<identifier>SteelLow</identifier>
 			<substring>Inquisitor's Heavy</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionHigh</identifier>
+			<identifier>SteelLow</identifier>
 			<substring>Inquisitor's Black Heavy</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionHigh</identifier>
+			<identifier>SteelLow</identifier>
 			<substring>Inquisitor's Helmet</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionHigh</identifier>
+			<identifier>SteelLow</identifier>
 			<substring>Inquisitor's Black Helmet</substring>
 		</binding>
-	<!-- Vis Inquisitor Gear -->
+		<binding>
+			<identifier>Leather Part</identifier>
+			<substring>Inquisitor's Mask</substring>
+		</binding>
+		<binding>
+			<identifier>Leather Part</identifier>
+			<substring>Inquisitor's Black Mask</substring>
+		</binding>
+	<!-- Vis Inquisitor Armor Compilation -->
+	<!-- Vis Kameleon Armor -->
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Assassin Armor</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Assassin Armor - Leather Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Assassin Armor - Scaled Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Assassin Boots</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Assassin Bracers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Assassin Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Assassin Corset</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Assassin Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Assassin Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Assassin Plates</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Corsair Armor</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Corsair Armor - Leather Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Corsair Armor - Scaled Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Corsair Boots</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Corsair Bracers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Corsair Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Corsair Corset</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Corsair Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Corsair Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Corsair Plates</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Kameleon Armor</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Kameleon Armor - Leather Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Kameleon Armor - Scaled Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Kameleon Boots</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Kameleon Bracers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Kameleon Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Kameleon Corset</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Kameleon Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Kameleon Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Kameleon Plates</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Outlaw Armor</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Outlaw Armor - Leather Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Outlaw Armor - Scaled Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Outlaw Boots</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Outlaw Bracers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Outlaw Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Outlaw Corset</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Outlaw Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Outlaw Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Outlaw Plates</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Ranger Armor</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Ranger Armor - Leather Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Ranger Armor - Scaled Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Ranger Boots</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Ranger Bracers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Ranger Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Ranger Corset</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Ranger Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Ranger Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Ranger Plates</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Rogue Armor</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Rogue Armor - Leather Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Rogue Armor - Scaled Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Rogue Boots</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Rogue Bracers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Rogue Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Rogue Corset</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Rogue Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Rogue Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Rogue Plates</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Scout Armor</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Scout Armor - Leather Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Scout Armor - Scaled Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Scout Boots</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Scout Bracers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Scout Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Scout Corset</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Scout Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Scout Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Scout Plates</substring>
+		</binding>
+	<!-- Vis Kameleon Armor -->
+	<!-- Vis Katarina Armor -->
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Katarina</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Katarina Plates</substring>
+		</binding>
+		<binding>
+			<identifier>Leather Part</identifier>
+			<substring>Katarina Belts</substring>
+		</binding>
+	<!-- Vis Katarina Armor -->
+	<!-- Vis Lady Templar -->
+		<binding>
+			<identifier>SteelLow</identifier>
+			<substring>LT heavy</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>LT light</substring>
+		</binding>
+	<!-- Vis Lady Templar -->
+	<!-- Vis Merta Assassin Armor -->
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Merta Assassin</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric Part</identifier>
+			<substring>Merta Assassin Fishnet Armlets</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric Part</identifier>
+			<substring>Merta Assassin Reinforced Armlets</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric Part</identifier>
+			<substring>Merta Assassin Fishnet Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric Part</identifier>
+			<substring>Merta Assassin Reinforced Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric Part</identifier>
+			<substring>Merta Assassin Fishnet Stockings</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric Part</identifier>
+			<substring>Merta Assassin Reinforced Stockings</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric Part</identifier>
+			<substring>Merta Assassin Elegant Stockings</substring>
+		</binding>
+	<!-- Vis Merta Assassin Armor -->
+	<!-- Vis Merta Black Rose Armor -->
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Merta Black Rose</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony Part</identifier>
+			<substring>Merta Black Rose Armlets</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony Part</identifier>
+			<substring>Merta Black Rose Shoulders</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony Part</identifier>
+			<substring>Merta Black Rose Socks</substring>
+		</binding>
+	<!-- Vis Merta Black Rose Armor -->
+	<!-- Vis Rough Leather Armor -->
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Rough Leather</substring>
+		</binding>
+	<!-- Vis Rough Leather Armor -->
 	<!-- Vis Reclamations Morrowind Style -->
 		<binding>
 			<identifier>Steel</identifier>
@@ -7945,34 +8051,180 @@
 			<substring>Namira Engineer</substring>
 		</binding>
 	<!-- Vis Reclamations Morrowind Style -->
-	<!-- Vis Lady Templar -->
-		<binding>
-			<identifier>Steel PlateLight</identifier>
-			<substring>LT light</substring>
-		</binding>
+	<!-- Vis Redguard shields (Hammerfell armoury) -->
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>LT heavy</substring>
+			<substring>Steel redguard shield</substring>
 		</binding>
-	<!-- Vis Lady Templar -->
-	<!-- Vis Adventurer Maiden Armory -->
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ebony redguard shield</substring>
+		</binding>
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>Silver redguard shield</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Light redguard shield</substring>
+		</binding>
+		<binding>
+			<identifier>Advanced</identifier>
+			<substring>Corundum redguard shield</substring>
+		</binding>
+		<binding>
+			<identifier>SilverLow</identifier>
+			<substring>Ornate redguard shield</substring>
+		</binding>
+	<!-- Vis Redguard shields (Hammerfell armoury) -->
+	<!-- Vis Rosa Round-Bottom Brazen Dragonplate -->
+		<binding>
+			<identifier>DragonplateLow</identifier>
+			<substring>Brazen Dragonplate</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DP Brazen - Bone Strap</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>DP Brazen - Fur Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>DP Brazen - Belt Pouch</substring>
+		</binding>
+	<!-- Vis Rosa Round-Bottom Brazen Dragonplate -->
+	<!-- Vis Sotteta Necromancer Outfit -->
+		<binding>
+			<identifier>LeatherLow</identifier>
+			<substring>Sotteta Necromancer</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Sotteta Necromancer Scarf</substring>
+		</binding>
+		<binding>
+			<identifier>Leather Part</identifier>
+			<substring>Sotteta Necromancer Stockings</substring>
+		</binding>
+	<!-- Vis Sotteta Necromancer Outfit -->
+	<!-- Vis Sotteta Huntress Armor -->
+		<binding>
+			<identifier>DragonscaleLow</identifier>
+			<substring>Sotteta Huntress</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Sotteta Huntress Panty</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Sotteta Huntress Scarf</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale Part</identifier>
+			<substring>Sotteta Huntress Socks</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale Part</identifier>
+			<substring>Sotteta Huntress Stockings</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Sotteta Huntress Thong</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale Part</identifier>
+			<substring>Sotteta Huntress Trousers</substring>
+		</binding>
+	<!-- Vis Sotteta Huntress Armor -->
+	<!-- Vis The Lily - Armour Mashup -->
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>The Lily</substring>
+		</binding>
+	<!-- Vis The Lily - Armour Mashup -->
+	<!-- Vis Tembtra Thief Armor -->
 		<binding>
 			<identifier>ScaledLow</identifier>
-			<substring>tttMaiden Ranger</substring>
+			<substring>Tembtra Thief</substring>
+		</binding>
+		<binding>
+			<identifier>Leather Part</identifier>
+			<substring>Tembtra Thief Armlets</substring>
+		</binding>
+		<binding>
+			<identifier>Leather Part</identifier>
+			<substring>Tembtra Thief Trousers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Tembtra Thief Reinforced Trousers</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Tembtra Thief Pouches</substring>
+		</binding>
+	<!-- Vis Tembtra Thief Armor -->
+	<!-- Vis Ursine Armor Pack -->
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Ursine Barbarian</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Barbarian Cloak</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Barbarian Underwear</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Ursine Barbarian Cuisse</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Ursine Barbarian Armlets</substring>
 		</binding>
 		<binding>
 			<identifier>ScaledLow</identifier>
-			<substring>tttShadow Assassin</substring>
+			<substring>Ursine Imperial</substring>
 		</binding>
 		<binding>
-			<identifier>Steel PlateLow</identifier>
-			<substring>tttTraveler Warrior</substring>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Imperial Underwear</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Ursine Imperial Cuisse</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Ursine Imperial Armlets</substring>
 		</binding>
 		<binding>
 			<identifier>ScaledLow</identifier>
-			<substring>tttVagabond Thief</substring>
+			<substring>Ursine Stormcloak</substring>
 		</binding>
-	<!-- Vis Adventurer Maiden Armory -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Stormcloak Underwear</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Ursine Stormcloak Cuisse</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Ursine Stormcloak Armlets</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Stormcloak Scarf</substring>
+		</binding>
+	<!-- Vis Ursine Armor Pack -->
 	<!-- Visdagon Entries -->
 	
 	<!-- ============================================================== Materials end =================================================== -->
@@ -8000,6 +8252,13 @@
 
 	<!-- Bonemold Material Listings start -->
 	<!-- Bindings allowed: Bonemold Light, BonemoldLow, Bonemold, BonemoldHigh  -->
+		<armor_material>
+			<armorBase>3</armorBase> <!-- For Set Pieces -->
+			<identifier>Bonemold Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
+			<materialTemper>BONEMOLD_HEAVY</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>18</armorBase>
 			<identifier>Bonemold Light</identifier>
@@ -8039,6 +8298,13 @@
 
 	<!-- Chitin Material Listings start -->
 	<!-- Bindings allowed: Chitin Light, Chitin  -->
+		<armor_material>
+			<armorBase>3</armorBase> <!-- For Set Pieces -->
+			<identifier>Chitin Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>CHITIN</materialMeltdown>
+			<materialTemper>CHITIN</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>25</armorBase>
 			<identifier>Chitin Light</identifier>
@@ -8180,6 +8446,13 @@
 	<!-- Daedric Material Listings start -->
 	<!-- Bindings allowed: DaedricLight, DaedricLow, Daedric, DaedricHigh -->
 		<armor_material>
+			<armorBase>6</armorBase> <!-- For Set Pieces -->
+			<identifier>Daedric Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DAEDRIC</materialMeltdown>
+			<materialTemper>DAEDRIC</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>41</armorBase> <!-- Equal to Dragonscale +1 -->
 			<identifier>DaedricLight</identifier>
 			<type>LIGHT</type>
@@ -8212,6 +8485,13 @@
 	<!-- Dragonplate Material Listings start -->
 	<!-- Bindings allowed: DragonplateLow, Dragonplate, DragonplateHigh -->
 		<armor_material>
+			<armorBase>6</armorBase>
+			<identifier>Dragonplate Part</identifier> <!-- For Set Pieces -->
+			<type>BOTH</type>
+			<materialMeltdown>DRAGONPLATE</materialMeltdown>
+			<materialTemper>DRAGONPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>54</armorBase>
 			<identifier>DragonplateLow</identifier>
 			<type>HEAVY</type>
@@ -8236,6 +8516,13 @@
 
 	<!-- Dragonscale Material Listings start -->
 	<!-- Bindings allowed: DragonscaleLow, Dragonscale, DragonscaleHigh -->
+		<armor_material>
+			<armorBase>4</armorBase>
+			<identifier>Dragonscale Part</identifier> <!-- For Set Pieces -->
+			<type>BOTH</type>
+			<materialMeltdown>DRAGONSCALE</materialMeltdown>
+			<materialTemper>DRAGONSCALE</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>2</armorBase>
 			<identifier>Dragonscale_One</identifier>
@@ -8269,6 +8556,13 @@
 	<!-- Dwarven Material Listings start -->
 	<!-- Bindings allowed: Zero_Dwarven, DwarvenLight, DwarvenLow, Dwarven, DwarvenHigh -->
 		<armor_material>
+			<armorBase>3</armorBase> <!-- For Set Pieces -->
+			<identifier>Dwarven Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DWARVEN</materialMeltdown>
+			<materialTemper>DWARVEN</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>23</armorBase> <!-- Equal to Elven -->
 			<identifier>DwarvenLight</identifier>
 			<type>LIGHT</type>
@@ -8301,6 +8595,13 @@
 	<!-- Ebony Material Listings start -->
 	<!-- Bindings allowed: EbonyLight, EbonyLow, Ebony, EbonyHigh -->
 		<armor_material>
+			<armorBase>4</armorBase> <!-- For Set Peices -->
+			<identifier>Ebony Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>EBONY</materialMeltdown>
+			<materialTemper>EBONY</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>32</armorBase> <!-- Equal to Glass -->
 			<identifier>EbonyLight</identifier>
 			<type>LIGHT</type>
@@ -8332,6 +8633,13 @@
 
 	<!-- Elven Material Listings start -->
 	<!-- Bindings allowed: ElvenLow, Elven, ElvenHigh, ElvenHeavy -->
+		<armor_material>
+			<armorBase>3</armorBase> <!-- For Set Pieces -->
+			<identifier>Elven Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>ELVEN</materialMeltdown>
+			<materialTemper>ELVEN</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>22</armorBase>
 			<identifier>ElvenLow</identifier>
@@ -8432,6 +8740,13 @@
 	<!-- Falmer Material Listings start -->
 	<!-- Bindings allowed: Falmer, Ancient Falmer, Falmer Hardened, Falmer Heavy -->
 		<armor_material>
+			<armorBase>3</armorBase> <!-- For Set Pieces -->
+			<identifier>Falmer Part</identifier> <!-- Heavy Armor/Advanced perk -->
+			<type>BOTH</type>
+			<materialMeltdown>FALMER</materialMeltdown>
+			<materialTemper>FALMER</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>30</armorBase> <!-- Equal to Steel -->
 			<identifier>Falmer</identifier> <!-- Heavy Armor/Advanced perk -->
 			<type>LIGHT</type>
@@ -8496,6 +8811,13 @@
 	<!-- Fur Material Listings start -->
 	<!-- Bindings allowed: Zero_Fur, FurLow, Fur, FurHigh, FurHeavy -->
 		<armor_material>
+			<armorBase>1</armorBase>
+			<identifier>Fur Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>FUR</materialMeltdown>
+			<materialTemper>FUR</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>9</armorBase>
 			<identifier>FurLow</identifier>
 			<type>LIGHT</type>
@@ -8528,6 +8850,13 @@
 	<!-- Glass Material Listings start -->
 	<!-- Bindings allowed: GlassLow, Glass, GlassHigh, GlassHeavy -->
 		<armor_material>
+			<armorBase>4</armorBase> <!-- For Set Pieces -->
+			<identifier>Glass Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>GLASS</materialMeltdown>
+			<materialTemper>GLASS</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>31</armorBase>
 			<identifier>GlassLow</identifier>
 			<type>LIGHT</type>
@@ -8559,6 +8888,13 @@
 
 	<!-- Gold Material Listings start -->
 	<!-- Bindings allowed: Gold, GoldHeavy -->
+		<armor_material>
+			<armorBase>2</armorBase> <!-- For Set Pieces -->
+			<identifier>Gold Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>GOLD</materialMeltdown>
+			<materialTemper>GOLD</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>23</armorBase>
 			<identifier>GoldLow</identifier>
@@ -8656,6 +8992,13 @@
 	<!-- Iron Material Listings start -->
 	<!-- Bindings allowed: Zero_Metal, IronLight, IronLow, Iron, IronHigh -->
 		<armor_material>
+			<armorBase>2</armorBase> <!-- For Set Pieces -->
+			<identifier>Iron Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>IRON</materialMeltdown>
+			<materialTemper>IRON</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>14</armorBase> <!-- Equal to Leather -->
 			<identifier>IronLight</identifier>
 			<type>LIGHT</type>
@@ -8687,6 +9030,13 @@
 
 	<!-- Leather Material Listings start -->
 	<!-- Bindings allowed: PauldronL, Pauldron, LeatherLow, Leather, LeatherHigh, LeatherHeavy -->
+		<armor_material>
+			<armorBase>1</armorBase> <!-- For Set Pieces -->
+			<identifier>Leather Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>LEATHER</materialMeltdown>
+			<materialTemper>LEATHER</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>13</armorBase>
 			<identifier>LeatherLow</identifier>
@@ -8805,6 +9155,13 @@
 	<!-- Orcish Material Listings start -->
 	<!-- Bindings allowed: OrcishLight, OrcishLow, Orcish, OrcishHigh -->
 		<armor_material>
+			<armorBase>3</armorBase> <!-- For Set Pieces -->
+			<identifier>Orcish Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>ORCISH</materialMeltdown>
+			<materialTemper>ORCISH</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>29</armorBase> <!-- Equal to Scaled -->
 			<identifier>OrcishLight</identifier>
 			<type>LIGHT</type>
@@ -8837,6 +9194,13 @@
 	<!-- Scaled Material Listings start -->
 	<!-- Bindings allowed: ScaledLow, Scaled, ScaledHigh, ScaledHigh -->
 		<armor_material>
+			<armorBase>3</armorBase> <!-- For Set Pieces -->
+			<identifier>Scaled Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>SCALED</materialMeltdown>
+			<materialTemper>SCALED</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>28</armorBase>
 			<identifier>ScaledLow</identifier>
 			<type>LIGHT</type>
@@ -8868,6 +9232,13 @@
 
 	<!-- Stalhrim Material Listings start -->
 	<!-- Bindings allowed: LStalhrimLow, LStalhrim, LStalhrimHigh, HStalhrimLow, HStalhrim, HStalhrimHigh -->
+		<armor_material>
+			<armorBase>5</armorBase> <!-- For Set Pieces -->
+			<identifier>Stalhrim Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STALHRIM_LIGHT</materialMeltdown>
+			<materialTemper>STALHRIM_LIGHT</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>34</armorBase>
 			<identifier>LStalhrimLow</identifier>
@@ -8914,6 +9285,13 @@
 
 	<!-- Steel Material Listings start -->
 	<!-- Bindings allowed: SteelLight, SteelLow, Steel, SteelHigh, Steel Heavy -->
+		<armor_material>
+			<armorBase>3</armorBase> <!-- For Set Pieces -->
+			<identifier>Steel Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>16</armorBase> <!-- Equal to Hide -->
 			<identifier>SteelLight</identifier>
@@ -9017,6 +9395,13 @@
 
 	<!-- Silver Material Listings start -->
 	<!-- Bindings allowed: Zero_Silver, Silver -->
+		<armor_material>
+			<armorBase>2</armorBase> <!-- For Set Pieces -->
+			<identifier>Silver Part</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>SILVER</materialMeltdown>
+			<materialTemper>SILVER</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>23</armorBase>
 			<identifier>SilverLow</identifier>
