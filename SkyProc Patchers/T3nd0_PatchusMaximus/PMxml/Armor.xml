@@ -7339,6 +7339,64 @@
 			<substring>Ancient Draugr Underwear</substring>
 		</binding>
 	<!-- Vis Ancient Draugr Armor -->
+	<!-- Vis Banded Iron Bikini Armor -->
+		<binding>
+			<identifier>Iron Part</identifier>
+			<substring>Banded Iron Bikini</substring>
+		</binding>
+		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Banded Iron Breast Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Iron Part</identifier>
+			<substring>Banded Iron Loincloth</substring>
+		</binding>
+		<binding>
+			<identifier>Iron Part</identifier>
+			<substring>Banded Iron Abs Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Banded Iron Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Dull Iron Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Banded Iron Gauntlet</substring>
+		</binding>
+		<binding>
+			<identifier>Iron Part</identifier>
+			<substring>Banded Iron Mask</substring>
+		</binding>
+		<binding>
+			<identifier>Iron Part</identifier>
+			<substring>Banded Iron Breast Plate N</substring>
+		</binding>
+		<binding>
+			<identifier>Iron Part</identifier>
+			<substring>Banded Iron Gorget</substring>
+		</binding>
+		<binding>
+			<identifier>Iron Part</identifier>
+			<substring>Banded Iron Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Iron Part</identifier>
+			<substring>Banded Iron Spine</substring>
+		</binding>
+		<binding>
+			<identifier>Iron Part</identifier>
+			<substring>Banded Iron Thigh Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Banded Iron Thong</substring>
+		</binding>
+	<!-- Vis Banded Iron Bikini Armor -->
 	<!-- Vis Barbarian Steel Armor -->
 		<binding>
 			<identifier>ScaledHigh</identifier>
@@ -7431,38 +7489,80 @@
 			<substring>Contractor</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Contractor Boots</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Contractor Gloves</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Contractor Hood</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>"Night Lurker" Contractor Boots</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>"Night Lurker" Contractor Gloves</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>"Night Lurker" Contractor Hood</substring>
-		</binding>
-		<binding>
 			<identifier>ScaledHigh</identifier>
 			<substring>Mavari</substring>
 		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Mavari Gloves</substring>
-		</binding>
 	<!-- Vis Contractor and Mavari Armors -->
+	<!-- Vis Dragon Bone Bikini Armor -->
+		<binding>
+			<identifier>DragonplateLow</identifier>
+			<substring>DragonBone</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone Bikini</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone Circlet</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone Gorget</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone ExtraArmor</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone BandedLegarmor</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone ThighArmor</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone Kneeguards</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone Kneeguard L</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone ThigArmor L</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone kneeguard R</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone Mask</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone Assault Mask</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate Part</identifier>
+			<substring>DragonBone Tassets</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>DragonBone Thong</substring>
+		</binding>
+	<!-- Vis Dragon Bone Bikini Armor -->
 	<!-- Vis Emfy Cleric Robes -->
 		<binding>
 			<identifier>Elven Part</identifier>
@@ -8139,6 +8239,170 @@
 			<substring>Sotteta Huntress Trousers</substring>
 		</binding>
 	<!-- Vis Sotteta Huntress Armor -->
+	<!-- Vis Steel Bikini Armor -->
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Abs Guard</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Abs Combined Guard</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Bikini</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Pasty Cups</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Steel Boots</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Steel Long Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Collar</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLow</identifier>
+			<substring>Steel Breast Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Steel Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Steel Gladiator Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Gorget</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Head Gear</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Knee Guard</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLow</identifier>
+			<substring>Ass</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Booties</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Horny</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Armor Leather Abs Guard</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Shoulder Targe</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Thong</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Pauldrons</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Plated Pauldrons</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Plated Pauldron Right</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Part</identifier>
+			<substring>Steel Thigh Armor</substring>
+		</binding>
+	<!-- Vis Steel Bikini Armor -->
+	<!-- Vis Steel Nord Plate Bikini Armor -->
+		<binding>
+			<identifier>Steel PlateHigh</identifier>
+			<substring>Steel Plate Heeled Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Steel Plate Heeled Boots Light</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Steel Plate Gorget</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Steel Plate Arm</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Steel Plate Bikini</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Steel Plate Ritual  Bikini</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLow</identifier>
+			<substring>Steel Plate Breast Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Steel Plate Ritual Circlet</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Steel Plate Extra Abs Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Steel Plate Mask</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Steel Plate Headgear</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>Steel Plate Tassets</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled Part</identifier>
+			<substring>my ass</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Steel Plate Thong</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Steel Plate Closed Helm</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLow</identifier>
+			<substring>Steel Plate Short Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLow</identifier>
+			<substring>Steel Plate Fingerless Gauntlets</substring>
+		</binding>
+	<!-- Vis Steel Nord Plate Bikini Armor -->
 	<!-- Vis The Lily - Armour Mashup -->
 		<binding>
 			<identifier>Leather</identifier>
@@ -8446,7 +8710,7 @@
 	<!-- Daedric Material Listings start -->
 	<!-- Bindings allowed: DaedricLight, DaedricLow, Daedric, DaedricHigh -->
 		<armor_material>
-			<armorBase>6</armorBase> <!-- For Set Pieces -->
+			<armorBase>7</armorBase> <!-- For Set Pieces -->
 			<identifier>Daedric Part</identifier>
 			<type>BOTH</type>
 			<materialMeltdown>DAEDRIC</materialMeltdown>
@@ -8595,7 +8859,7 @@
 	<!-- Ebony Material Listings start -->
 	<!-- Bindings allowed: EbonyLight, EbonyLow, Ebony, EbonyHigh -->
 		<armor_material>
-			<armorBase>4</armorBase> <!-- For Set Peices -->
+			<armorBase>5</armorBase> <!-- For Set Peices -->
 			<identifier>Ebony Part</identifier>
 			<type>BOTH</type>
 			<materialMeltdown>EBONY</materialMeltdown>
@@ -9155,7 +9419,7 @@
 	<!-- Orcish Material Listings start -->
 	<!-- Bindings allowed: OrcishLight, OrcishLow, Orcish, OrcishHigh -->
 		<armor_material>
-			<armorBase>3</armorBase> <!-- For Set Pieces -->
+			<armorBase>4</armorBase> <!-- For Set Pieces -->
 			<identifier>Orcish Part</identifier>
 			<type>BOTH</type>
 			<materialMeltdown>ORCISH</materialMeltdown>
@@ -9194,7 +9458,7 @@
 	<!-- Scaled Material Listings start -->
 	<!-- Bindings allowed: ScaledLow, Scaled, ScaledHigh, ScaledHigh -->
 		<armor_material>
-			<armorBase>3</armorBase> <!-- For Set Pieces -->
+			<armorBase>4</armorBase> <!-- For Set Pieces -->
 			<identifier>Scaled Part</identifier>
 			<type>BOTH</type>
 			<materialMeltdown>SCALED</materialMeltdown>
@@ -9233,7 +9497,7 @@
 	<!-- Stalhrim Material Listings start -->
 	<!-- Bindings allowed: LStalhrimLow, LStalhrim, LStalhrimHigh, HStalhrimLow, HStalhrim, HStalhrimHigh -->
 		<armor_material>
-			<armorBase>5</armorBase> <!-- For Set Pieces -->
+			<armorBase>6</armorBase> <!-- For Set Pieces -->
 			<identifier>Stalhrim Part</identifier>
 			<type>BOTH</type>
 			<materialMeltdown>STALHRIM_LIGHT</materialMeltdown>
