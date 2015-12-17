@@ -34,6 +34,7 @@ Fixes:
 
 Changes:
 	Umlaut and grave accent characters replaced. â=a, á=a, Á=A, è=e, ê=e, é=e, É=E, û=u, ç=c, ñ=n. Affects Español, Français, Português - Brasil and Italiano.
+	Enchanting.xml updated to remove most of the remaining dead space.
 
 Additions:
 	Português - Brasil
