@@ -10307,11 +10307,11 @@
 		</exclusion>
 	<!-- Dragon Priest Masks end -->
 	<!-- Complete Crafting Overhaul -->
-		<exclusion>
+		<!-- <exclusion>
 			<text>ArmoredCirclet</text>
 			<target>EDID</target>
 			<type>STARTSWITH</type>
-		</exclusion>
+		</exclusion> -->
 	<!-- Complete Crafting Overhaul -->
 	<!-- Wyrmstooth-->
 		<exclusion>
