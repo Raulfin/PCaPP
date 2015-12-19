@@ -28,6 +28,10 @@ Removed Patches:
 
 
 <Old>
+<v3.4.1.01>
+Fixes:
+PerMa_USKP patch will now only install if selected.
+</v3.4.1.01>
 <v3.4.1>
 Now covers:
 	Inquisitor Armor Compilation (25628)
