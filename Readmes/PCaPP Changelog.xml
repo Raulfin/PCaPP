@@ -1,37 +1,16 @@
 <Versions>
 <Current>
-<v3.4.2>
-Now covers:
-
-Blocklist:
-
-Exclusions:
-
+<v3.4.1.01>
 Fixes:
+	PerMa_USKP patch will now only install if selected.
+	Most Armored Circlets from CCOR can now be reforged.
+	The empty Alchemy.xml for CACO users can now be selected in the XML Edits Only file.
 
-Changes:
-
-Additions:
-	Finished Italian translations.
-
-Balancing:
-
-Renamed:
-
-Updated Patches:
-
-New Patches:
-
-Removed Patches:
-</v3.4.2>
+</v3.4.1.01>
 </Current>
 
 
 <Old>
-<v3.4.1.01>
-Fixes:
-PerMa_USKP patch will now only install if selected.
-</v3.4.1.01>
 <v3.4.1>
 Now covers:
 	Inquisitor Armor Compilation (25628)
