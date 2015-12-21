@@ -7661,19 +7661,19 @@
 	<!-- Vis Grace Darklings Elven Scout Armor -->
 	<!-- Vis Gwelda Dawnguard Armor -->
 		<binding>
-			<identifier>DragonscaleLow</identifier>
+			<identifier>ScaledLow</identifier>
 			<substring>Gwelda Dawnguard</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonscale Part</identifier>
+			<identifier>Scaled Part</identifier>
 			<substring>Gwelda Dawnguard Cuisse</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonscale Part</identifier>
+			<identifier>Scaled Part</identifier>
 			<substring>Gwelda Dawnguard Trousers</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonscale Part</identifier>
+			<identifier>Scaled Part</identifier>
 			<substring>Gwelda Dawnguard Armlets</substring>
 		</binding>
 	<!-- Vis Gwelda Dawnguard Armor -->
@@ -8345,11 +8345,11 @@
 		<binding>
 			<identifier>Scaled Part</identifier>
 			<substring>Steel Plate Gorget</substring>
-		</binding>
+		<!-- </binding>
 		<binding>
 			<identifier>Scaled Part</identifier>
 			<substring>Steel Plate Arm</substring>
-		</binding>
+		</binding> -->
 		<binding>
 			<identifier>Scaled Part</identifier>
 			<substring>Steel Plate Bikini</substring>
