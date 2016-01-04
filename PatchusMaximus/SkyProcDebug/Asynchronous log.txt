@@ -1,3 +1,0 @@
-[1]                            [OPEN DEBUG FILE]  Opening Debug File
-[2]                                        [SUM]  Exit requested.
-[3]                                      [DEBUG]  Closing Debug File.  Time was: 3058

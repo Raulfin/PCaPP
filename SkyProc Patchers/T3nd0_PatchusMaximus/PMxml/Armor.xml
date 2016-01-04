@@ -8345,8 +8345,8 @@
 		<binding>
 			<identifier>Scaled Part</identifier>
 			<substring>Steel Plate Gorget</substring>
-		<!-- </binding>
-		<binding>
+		</binding>
+		<!-- <binding>
 			<identifier>Scaled Part</identifier>
 			<substring>Steel Plate Arm</substring>
 		</binding> -->
@@ -9731,7 +9731,6 @@
 			<materialTemper>IRON</materialTemper>
 		</armor_material>
 	<!-- Wood Material Listings end -->
-
 	</armor_materials>
 
 	<armor_masquerade_bindings>
