@@ -7341,60 +7341,60 @@
 	<!-- Vis Ancient Draugr Armor -->
 	<!-- Vis Banded Iron Bikini Armor -->
 		<binding>
-			<identifier>Iron Part</identifier>
-			<substring>Banded Iron Bikini</substring>
+			<identifier>IronBikiniL</identifier>
+			<substring>Bikini Banded Iron Top</substring>
 		</binding>
 		<binding>
-			<identifier>IronLow</identifier>
-			<substring>Banded Iron Breast Plate</substring>
+			<identifier>IronBikiniH</identifier>
+			<substring>Bikini Banded Iron Breast Plate</substring>
 		</binding>
 		<binding>
-			<identifier>Iron Part</identifier>
-			<substring>Banded Iron Loincloth</substring>
+			<identifier>IronBikiniH</identifier>
+			<substring>Bikini Banded Iron Dull Armor</substring>
 		</binding>
 		<binding>
-			<identifier>Iron Part</identifier>
-			<substring>Banded Iron Abs Plate</substring>
-		</binding>
-		<binding>
-			<identifier>Iron</identifier>
-			<substring>Banded Iron Boots</substring>
-		</binding>
-		<binding>
-			<identifier>Iron</identifier>
-			<substring>Dull Iron Armor</substring>
-		</binding>
-		<binding>
-			<identifier>Iron</identifier>
-			<substring>Banded Iron Gauntlet</substring>
-		</binding>
-		<binding>
-			<identifier>Iron Part</identifier>
-			<substring>Banded Iron Mask</substring>
-		</binding>
-		<binding>
-			<identifier>Iron Part</identifier>
-			<substring>Banded Iron Breast Plate N</substring>
-		</binding>
-		<binding>
-			<identifier>Iron Part</identifier>
-			<substring>Banded Iron Gorget</substring>
-		</binding>
-		<binding>
-			<identifier>Iron Part</identifier>
-			<substring>Banded Iron Pauldron</substring>
-		</binding>
-		<binding>
-			<identifier>Iron Part</identifier>
-			<substring>Banded Iron Spine</substring>
-		</binding>
-		<binding>
-			<identifier>Iron Part</identifier>
-			<substring>Banded Iron Thigh Armor</substring>
+			<identifier>IronBikiniH</identifier>
+			<substring>Bikini Banded Iron Breast Plate N</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
-			<substring>Banded Iron Thong</substring>
+			<substring>Bikini Banded Iron Loincloth</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Banded Iron Thong</substring>
+		</binding>
+		<binding>
+			<identifier>IronBikiniH</identifier>
+			<substring>Bikini Banded Iron Abs Plate</substring>
+		</binding>
+		<binding>
+			<identifier>IronBikiniL</identifier>
+			<substring>Bikini Banded Iron Mask</substring>
+		</binding>
+		<binding>
+			<identifier>IronBikiniL</identifier>
+			<substring>Bikini Banded Iron Gorget</substring>
+		</binding>
+		<binding>
+			<identifier>IronBikiniH</identifier>
+			<substring>Bikini Banded Iron Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>IronBikiniH</identifier>
+			<substring>Bikini Banded Iron Spine</substring>
+		</binding>
+		<binding>
+			<identifier>IronBikiniH</identifier>
+			<substring>Bikini Banded Iron Thigh Armor</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Bikini Banded Iron Boots</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Bikini Banded Iron Gauntlet</substring>
 		</binding>
 	<!-- Vis Banded Iron Bikini Armor -->
 	<!-- Vis Barbarian Steel Armor -->
@@ -7495,72 +7495,96 @@
 	<!-- Vis Contractor and Mavari Armors -->
 	<!-- Vis Dragon Bone Bikini Armor -->
 		<binding>
-			<identifier>DragonplateLow</identifier>
-			<substring>DragonBone</substring>
+			<identifier>DragonBoneBikini</identifier>
+			<substring>Bikini Dragon Bone Necklace</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone Bikini</substring>
+			<identifier>DragonBoneBikini</identifier>
+			<substring>Bikini Dragon Bone</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone Circlet</substring>
+			<identifier>Dragonplate</identifier>
+			<substring>Bikini Dragon Bone Boots</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone Gorget</substring>
+			<identifier>Dragonplate</identifier>
+			<substring>Bikini Dragon Bone Gauntlets</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone ExtraArmor</substring>
+			<identifier>DragonBoneBikini</identifier>
+			<substring>Bikini Dragon Bone Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone BandedLegarmor</substring>
+			<identifier>DragonBoneG</identifier>
+			<substring>Bikini Dragon Bone Gorget</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone ThighArmor</substring>
+			<identifier>Dragonplate</identifier>
+			<substring>Bikini Dragon Bone Kicks</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone Kneeguards</substring>
+			<identifier>DragonBoneEX</identifier>
+			<substring>Bikini Dragon Bone Extra Armor</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone Kneeguard L</substring>
+			<identifier>DragonBoneLegH</identifier>
+			<substring>Bikini Dragon Bone Banded Legs</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone ThigArmor L</substring>
+			<identifier>DragonBoneLegH</identifier>
+			<substring>Bikini Dragon Bone Thigh Armor</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone kneeguard R</substring>
+			<identifier>DragonBoneLegH</identifier>
+			<substring>Bikini Dragon Bone Kneeguards</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone Mask</substring>
+			<identifier>DragonBoneLegL</identifier>
+			<substring>Bikini Dragon Bone Banded Left Leg</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone Assault Mask</substring>
+			<identifier>DragonBoneLegL</identifier>
+			<substring>Bikini Dragon Bone Left Kneeguard</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone Pauldron</substring>
+			<identifier>DragonBoneLegL</identifier>
+			<substring>Bikini Dragon Bone Left Thigh Armor</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone Skirt</substring>
+			<identifier>DragonBoneLegL</identifier>
+			<substring>Bikini Dragon Bone Banded Right Leg</substring>
 		</binding>
 		<binding>
-			<identifier>Dragonplate Part</identifier>
-			<substring>DragonBone Tassets</substring>
+			<identifier>DragonBoneLegL</identifier>
+			<substring>Bikini Dragon Bone Right Kneeguard</substring>
 		</binding>
 		<binding>
-			<identifier>Clothing</identifier>
-			<substring>DragonBone Thong</substring>
+			<identifier>DragonBoneLegL</identifier>
+			<substring>Bikini Dragon Bone Right Thigh Armor</substring>
+		</binding>
+		<binding>
+			<identifier>DragonBoneEX</identifier>
+			<substring>Bikini Dragon Bone Mask</substring>
+		</binding>
+		<binding>
+			<identifier>DragonBoneEX</identifier>
+			<substring>Bikini Dragon Bone Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>DragonBoneP</identifier>
+			<substring>Bikini Dragon Bone Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>DragonBoneBikini</identifier>
+			<substring>Bikini Dragon Bone Sling Bikini</substring>
+		</binding>
+		<binding>
+			<identifier>DragonBoneP</identifier>
+			<substring>Bikini Dragon Bone Tassets</substring>
+		</binding>
+		<binding>
+			<identifier>DragonBoneP</identifier>
+			<substring>Bikini Dragon Bone Thong</substring>
 		</binding>
 	<!-- Vis Dragon Bone Bikini Armor -->
 	<!-- Vis Emfy Cleric Robes -->
@@ -7609,6 +7633,124 @@
 			<substring>Evil MasterMind</substring>
 		</binding>
 	<!-- Vis Evil MasterMind Armor -->
+	<!-- Vis Falmer Bikini Armor -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Falmer Ancient Circlet</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Bikini Falmer Thigh Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Bikini Falmer Heavy Heeled Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Bikini Falmer Heavy Sprinter Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Bikini Falmer Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Bikini Falmer Heavy Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniL</identifier>
+			<substring>Bikini Falmer Chaukini</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Heavy</identifier>
+			<substring>My name is Charlie,  Charlie the Chaurus. Nice to meet you!</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Falmer Chaurus Thong</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniP</identifier>
+			<substring>Bikini Falmer Abs Guard</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniL</identifier>
+			<substring>Bikini Falmer Heavy Abs Guard</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniL</identifier>
+			<substring>Bikini Falmer</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniU</identifier>
+			<substring>Bikini Falmer Upper Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Falmer Chest Fishnet</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniM</identifier>
+			<substring>Bikini Falmer Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniU</identifier>
+			<substring>Bikini Falmer Heavy Sling</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniP</identifier>
+			<substring>Bikini Falmer Gorget</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniP</identifier>
+			<substring>Bikini Falmer Flyer Wing</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Bikini Falmer War Mask</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Falmer Blind Mask</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniU</identifier>
+			<substring>Bikini Falmer Heavy Mask</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Bikini Falmer Vajran Crown</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Falmer Thong</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniM</identifier>
+			<substring>Bikini Falmer Heavy Thong</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniP</identifier>
+			<substring>Bikini Falmer Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniL</identifier>
+			<substring>Bikini Falmer Heavy Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Falmer Skirt</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerBikiniL</identifier>
+			<substring>Bikini Falmer Heavy Skirt Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Falmer Tasset</substring>
+		</binding>
+	<!-- Vis Falmer Bikini Armor -->
 	<!-- Vis Grace Darklings Elven Scout Armor -->
 		<binding>
 			<identifier>Elven</identifier>
@@ -8241,166 +8383,150 @@
 	<!-- Vis Sotteta Huntress Armor -->
 	<!-- Vis Steel Bikini Armor -->
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Abs Guard</substring>
+			<identifier>BikiniSteelM</identifier>
+			<substring>Bikini Steel Abs Guard</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Abs Combined Guard</substring>
+			<identifier>BikiniSteelM</identifier>
+			<substring>Bikini Steel Abs Combined Guard</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Bikini</substring>
-		</binding>
-		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Pasty Cups</substring>
+			<identifier>BikiniSteelM</identifier>
+			<substring>Bikini Steel</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Steel Boots</substring>
+			<substring>Bikini Steel Boots</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
-			<substring>Steel Long Boots</substring>
+			<substring>Bikini Steel Long Boots</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Collar</substring>
+			<identifier>BikiniSteelL</identifier>
+			<substring>Bikini Steel Collar</substring>
 		</binding>
 		<binding>
-			<identifier>SteelLow</identifier>
-			<substring>Steel Breast Plate</substring>
+			<identifier>BikiniSteelH</identifier>
+			<substring>Bikini Steel Breast Plate</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Steel Gauntlets</substring>
+			<substring>Bikini Steel Gauntlets</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
-			<substring>Steel Gladiator Gauntlets</substring>
+			<substring>Bikini Steel Gladiator Gauntlets</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Gorget</substring>
+			<identifier>BikiniSteelL</identifier>
+			<substring>Bikini Steel Gorget</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Head Gear</substring>
+			<identifier>BikiniSteelH</identifier>
+			<substring>Bikini Steel Head Gear</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Knee Guard</substring>
+			<identifier>BikiniSteelM</identifier>
+			<substring>Bikini Steel Knee Guard</substring>
 		</binding>
 		<binding>
-			<identifier>SteelLow</identifier>
-			<substring>Ass</substring>
+			<identifier>BikiniSteelM</identifier>
+			<substring>Bikini Steel Leather Abs Guard</substring>
 		</binding>
 		<binding>
-			<identifier>Steel</identifier>
-			<substring>Booties</substring>
+			<identifier>BikiniSteelH</identifier>
+			<substring>Bikini Steel Shoulder Targe</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Horny</substring>
+			<identifier>BikiniSteelP</identifier>
+			<substring>Bikini Steel Thong</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Armor Leather Abs Guard</substring>
+			<identifier>BikiniSteelL</identifier>
+			<substring>Bikini Steel Pauldron</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Shoulder Targe</substring>
+			<identifier>BikiniSteelL</identifier>
+			<substring>Bikini Steel Plated Pauldron Right</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Thong</substring>
+			<identifier>BikiniSteelM</identifier>
+			<substring>Bikini Steel Plated Pauldron Right</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Pauldrons</substring>
+			<identifier>BikiniSteelM</identifier>
+			<substring>Bikini Steel Pauldrons</substring>
 		</binding>
 		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Plated Pauldrons</substring>
-		</binding>
-		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Plated Pauldron Right</substring>
-		</binding>
-		<binding>
-			<identifier>Steel Part</identifier>
-			<substring>Steel Thigh Armor</substring>
+			<identifier>BikiniSteelM</identifier>
+			<substring>Bikini Steel Thigh Armor</substring>
 		</binding>
 	<!-- Vis Steel Bikini Armor -->
 	<!-- Vis Steel Nord Plate Bikini Armor -->
 		<binding>
 			<identifier>Steel PlateHigh</identifier>
-			<substring>Steel Plate Heeled Boots</substring>
+			<substring>Bikini Steel Plate Heeled Boots</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
-			<substring>Steel Plate Heeled Boots Light</substring>
+			<substring>Bikini Steel Plate Heeled Boots Light</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled Part</identifier>
-			<substring>Steel Plate Gorget</substring>
-		</binding>
-		<!-- <binding>
-			<identifier>Scaled Part</identifier>
-			<substring>Steel Plate Arm</substring>
-		</binding> -->
-		<binding>
-			<identifier>Scaled Part</identifier>
-			<substring>Steel Plate Bikini</substring>
+			<identifier>SteelBikiniPlateM</identifier>
+			<substring>Bikini Steel Plate</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled Part</identifier>
-			<substring>Steel Plate Ritual  Bikini</substring>
+			<identifier>SteelBikiniPlateP</identifier>
+			<substring>Bikini Steel Plate Gorget</substring>
 		</binding>
 		<binding>
-			<identifier>Steel PlateLow</identifier>
-			<substring>Steel Plate Breast Plate</substring>
+			<identifier>SteelBikiniPlateL</identifier>
+			<substring>Bikini Steel Plate Armguard A</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled Part</identifier>
-			<substring>Steel Plate Ritual Circlet</substring>
+			<identifier>SteelBikiniPlateH</identifier>
+			<substring>Bikini Steel Plate Armguard B</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled Part</identifier>
-			<substring>Steel Plate Extra Abs Plate</substring>
+			<identifier>SteelBikiniPlateU</identifier>
+			<substring>Bikini Steel Plate Breast Plate</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled Part</identifier>
-			<substring>Steel Plate Mask</substring>
+			<identifier>SteelBikiniPlateP</identifier>
+			<substring>Bikini Steel Plate Ritual Circlet</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled Part</identifier>
-			<substring>Steel Plate Headgear</substring>
+			<identifier>SteelBikiniPlateU</identifier>
+			<substring>Bikini Steel Plate Abs Plate</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled Part</identifier>
-			<substring>Steel Plate Tassets</substring>
+			<identifier>SteelBikiniPlateH</identifier>
+			<substring>Bikini Steel Plate Mask</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled Part</identifier>
-			<substring>my ass</substring>
+			<identifier>SteelBikiniPlateH</identifier>
+			<substring>Bikini Steel Plate Headgear</substring>
 		</binding>
 		<binding>
-			<identifier>Clothing</identifier>
-			<substring>Steel Plate Thong</substring>
+			<identifier>SteelBikiniPlateU</identifier>
+			<substring>Bikini Steel Plate Tassets</substring>
+		</binding>
+		<binding>
+			<identifier>SteelBikiniPlateH</identifier>
+			<substring>Bikini Steel Plate my ass</substring>
+		</binding>
+		<binding>
+			<identifier>SteelBikiniPlateP</identifier>
+			<substring>Bikini Steel Plate Thong</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
-			<substring>Steel Plate Closed Helm</substring>
+			<substring>Bikini Steel Plate Short Gauntlets</substring>
 		</binding>
 		<binding>
-			<identifier>Steel PlateLow</identifier>
-			<substring>Steel Plate Short Gauntlets</substring>
-		</binding>
-		<binding>
-			<identifier>Steel PlateLow</identifier>
-			<substring>Steel Plate Fingerless Gauntlets</substring>
+			<identifier>Steel Plate</identifier>
+			<substring>Bikini Steel Plate Fingerless Gauntlets</substring>
 		</binding>
 	<!-- Vis Steel Nord Plate Bikini Armor -->
 	<!-- Vis The Lily - Armour Mashup -->
@@ -8489,6 +8615,84 @@
 			<substring>Ursine Stormcloak Scarf</substring>
 		</binding>
 	<!-- Vis Ursine Armor Pack -->
+	<!-- Vis Wolf Bikini Armor -->
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Bikini Skjol's Armor</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Bikini Wolf Boots</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Bikini Wolf Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>WolfBikiniM</identifier>
+			<substring>Bikini Wolf Abs Guard</substring>
+		</binding>
+		<binding>
+			<identifier>WolfBikiniL</identifier>
+			<substring>Bikini Wolf Bikini</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Micro Wolf</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Wolf Fur Cape</substring>
+		</binding>
+		<binding>
+			<identifier>WolfBikiniL</identifier>
+			<substring>Bikini Wolf Circlet</substring>
+		</binding>
+		<binding>
+			<identifier>WolfBikiniL</identifier>
+			<substring>Bikini Wolf Gorget</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Wolf Harness</substring>
+		</binding>
+		<binding>
+			<identifier>WolfBikiniH</identifier>
+			<substring>Bikini Wolf Thigh Guard</substring>
+		</binding>
+		<binding>
+			<identifier>WolfBikiniL</identifier>
+			<substring>Bikini Companions LoinCloth</substring>
+		</binding>
+		<binding>
+			<identifier>WolfBikiniM</identifier>
+			<substring>Bikini Wolf Mask</substring>
+		</binding>
+		<binding>
+			<identifier>WolfBikiniH</identifier>
+			<substring>Bikini Wolf Head Gear</substring>
+		</binding>
+		<binding>
+			<identifier>WolfBikiniH</identifier>
+			<substring>Bikini Wolf Pauldron</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Wolf Pelt</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Wolf Thong</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Bikini Wolf Micro Thong</substring>
+		</binding>
+		<binding>
+			<identifier>WolfBikiniM</identifier>
+			<substring>Bikini Wolf Tassets</substring>
+		</binding>
+	<!-- Vis Wolf Bikini Armor -->
 	<!-- Visdagon Entries -->
 	
 	<!-- ============================================================== Materials end =================================================== -->
@@ -8516,13 +8720,6 @@
 
 	<!-- Bonemold Material Listings start -->
 	<!-- Bindings allowed: Bonemold Light, BonemoldLow, Bonemold, BonemoldHigh  -->
-		<armor_material>
-			<armorBase>3</armorBase> <!-- For Set Pieces -->
-			<identifier>Bonemold Part</identifier>
-			<type>BOTH</type>
-			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
-			<materialTemper>BONEMOLD_HEAVY</materialTemper>
-		</armor_material>
 		<armor_material>
 			<armorBase>18</armorBase>
 			<identifier>Bonemold Light</identifier>
@@ -8562,13 +8759,6 @@
 
 	<!-- Chitin Material Listings start -->
 	<!-- Bindings allowed: Chitin Light, Chitin  -->
-		<armor_material>
-			<armorBase>3</armorBase> <!-- For Set Pieces -->
-			<identifier>Chitin Part</identifier>
-			<type>BOTH</type>
-			<materialMeltdown>CHITIN</materialMeltdown>
-			<materialTemper>CHITIN</materialTemper>
-		</armor_material>
 		<armor_material>
 			<armorBase>25</armorBase>
 			<identifier>Chitin Light</identifier>
@@ -8820,13 +9010,6 @@
 	<!-- Dwarven Material Listings start -->
 	<!-- Bindings allowed: Zero_Dwarven, DwarvenLight, DwarvenLow, Dwarven, DwarvenHigh -->
 		<armor_material>
-			<armorBase>3</armorBase> <!-- For Set Pieces -->
-			<identifier>Dwarven Part</identifier>
-			<type>BOTH</type>
-			<materialMeltdown>DWARVEN</materialMeltdown>
-			<materialTemper>DWARVEN</materialTemper>
-		</armor_material>
-		<armor_material>
 			<armorBase>23</armorBase> <!-- Equal to Elven -->
 			<identifier>DwarvenLight</identifier>
 			<type>LIGHT</type>
@@ -8937,6 +9120,13 @@
 	<!-- Faction Listings start -->
 	<!-- Bindings allowed: LightFactionLow, LightFaction, LightFactionHigh, Tong, HeavyFactionLow, HeavyFaction, HeavyFactionHigh, HTong -->
 		<armor_material>
+			<armorBase>12</armorBase>
+			<identifier>HeavyFactionPart</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>15</armorBase>
 			<identifier>LightFactionLow</identifier>
 			<type>LIGHT</type>
@@ -9004,13 +9194,6 @@
 	<!-- Falmer Material Listings start -->
 	<!-- Bindings allowed: Falmer, Ancient Falmer, Falmer Hardened, Falmer Heavy -->
 		<armor_material>
-			<armorBase>3</armorBase> <!-- For Set Pieces -->
-			<identifier>Falmer Part</identifier> <!-- Heavy Armor/Advanced perk -->
-			<type>BOTH</type>
-			<materialMeltdown>FALMER</materialMeltdown>
-			<materialTemper>FALMER</materialTemper>
-		</armor_material>
-		<armor_material>
 			<armorBase>30</armorBase> <!-- Equal to Steel -->
 			<identifier>Falmer</identifier> <!-- Heavy Armor/Advanced perk -->
 			<type>LIGHT</type>
@@ -9075,13 +9258,6 @@
 	<!-- Fur Material Listings start -->
 	<!-- Bindings allowed: Zero_Fur, FurLow, Fur, FurHigh, FurHeavy -->
 		<armor_material>
-			<armorBase>1</armorBase>
-			<identifier>Fur Part</identifier>
-			<type>BOTH</type>
-			<materialMeltdown>FUR</materialMeltdown>
-			<materialTemper>FUR</materialTemper>
-		</armor_material>
-		<armor_material>
 			<armorBase>9</armorBase>
 			<identifier>FurLow</identifier>
 			<type>LIGHT</type>
@@ -9114,13 +9290,6 @@
 	<!-- Glass Material Listings start -->
 	<!-- Bindings allowed: GlassLow, Glass, GlassHigh, GlassHeavy -->
 		<armor_material>
-			<armorBase>4</armorBase> <!-- For Set Pieces -->
-			<identifier>Glass Part</identifier>
-			<type>BOTH</type>
-			<materialMeltdown>GLASS</materialMeltdown>
-			<materialTemper>GLASS</materialTemper>
-		</armor_material>
-		<armor_material>
 			<armorBase>31</armorBase>
 			<identifier>GlassLow</identifier>
 			<type>LIGHT</type>
@@ -9152,13 +9321,6 @@
 
 	<!-- Gold Material Listings start -->
 	<!-- Bindings allowed: Gold, GoldHeavy -->
-		<armor_material>
-			<armorBase>2</armorBase> <!-- For Set Pieces -->
-			<identifier>Gold Part</identifier>
-			<type>BOTH</type>
-			<materialMeltdown>GOLD</materialMeltdown>
-			<materialTemper>GOLD</materialTemper>
-		</armor_material>
 		<armor_material>
 			<armorBase>23</armorBase>
 			<identifier>GoldLow</identifier>
@@ -9255,13 +9417,6 @@
 
 	<!-- Iron Material Listings start -->
 	<!-- Bindings allowed: Zero_Metal, IronLight, IronLow, Iron, IronHigh -->
-		<armor_material>
-			<armorBase>2</armorBase> <!-- For Set Pieces -->
-			<identifier>Iron Part</identifier>
-			<type>BOTH</type>
-			<materialMeltdown>IRON</materialMeltdown>
-			<materialTemper>IRON</materialTemper>
-		</armor_material>
 		<armor_material>
 			<armorBase>14</armorBase> <!-- Equal to Leather -->
 			<identifier>IronLight</identifier>
@@ -9419,13 +9574,6 @@
 	<!-- Orcish Material Listings start -->
 	<!-- Bindings allowed: OrcishLight, OrcishLow, Orcish, OrcishHigh -->
 		<armor_material>
-			<armorBase>4</armorBase> <!-- For Set Pieces -->
-			<identifier>Orcish Part</identifier>
-			<type>BOTH</type>
-			<materialMeltdown>ORCISH</materialMeltdown>
-			<materialTemper>ORCISH</materialTemper>
-		</armor_material>
-		<armor_material>
 			<armorBase>29</armorBase> <!-- Equal to Scaled -->
 			<identifier>OrcishLight</identifier>
 			<type>LIGHT</type>
@@ -9496,13 +9644,6 @@
 
 	<!-- Stalhrim Material Listings start -->
 	<!-- Bindings allowed: LStalhrimLow, LStalhrim, LStalhrimHigh, HStalhrimLow, HStalhrim, HStalhrimHigh -->
-		<armor_material>
-			<armorBase>6</armorBase> <!-- For Set Pieces -->
-			<identifier>Stalhrim Part</identifier>
-			<type>BOTH</type>
-			<materialMeltdown>STALHRIM_LIGHT</materialMeltdown>
-			<materialTemper>STALHRIM_LIGHT</materialTemper>
-		</armor_material>
 		<armor_material>
 			<armorBase>34</armorBase>
 			<identifier>LStalhrimLow</identifier>
@@ -9660,13 +9801,6 @@
 	<!-- Silver Material Listings start -->
 	<!-- Bindings allowed: Zero_Silver, Silver -->
 		<armor_material>
-			<armorBase>2</armorBase> <!-- For Set Pieces -->
-			<identifier>Silver Part</identifier>
-			<type>BOTH</type>
-			<materialMeltdown>SILVER</materialMeltdown>
-			<materialTemper>SILVER</materialTemper>
-		</armor_material>
-		<armor_material>
 			<armorBase>23</armorBase>
 			<identifier>SilverLow</identifier>
 			<type>LIGHT</type>
@@ -9731,6 +9865,183 @@
 			<materialTemper>IRON</materialTemper>
 		</armor_material>
 	<!-- Wood Material Listings end -->
+	<!-- Bikini Material Listings Start -->
+		<armor_material>
+			<armorBase>5</armorBase>
+			<identifier>WolfBikiniL</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>6</armorBase>
+			<identifier>WolfBikiniM</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>7</armorBase>
+			<identifier>WolfBikiniH</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>3</armorBase>
+			<identifier>IronBikiniL</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>IRON</materialMeltdown>
+			<materialTemper>IRON</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>4</armorBase>
+			<identifier>IronBikiniH</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>IRON</materialMeltdown>
+			<materialTemper>IRON</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>6</armorBase>
+			<identifier>DragonBoneBikini</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DRAGONPLATE</materialMeltdown>
+			<materialTemper>DRAGONPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>13</armorBase>
+			<identifier>DragonBoneLegH</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DRAGONPLATE</materialMeltdown>
+			<materialTemper>DRAGONPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>7</armorBase>
+			<identifier>DragonBoneLegL</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DRAGONPLATE</materialMeltdown>
+			<materialTemper>DRAGONPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>9</armorBase>
+			<identifier>DragonBoneEX</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DRAGONPLATE</materialMeltdown>
+			<materialTemper>DRAGONPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>4</armorBase>
+			<identifier>DragonBoneG</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DRAGONPLATE</materialMeltdown>
+			<materialTemper>DRAGONPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>3</armorBase>
+			<identifier>DragonBoneP</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DRAGONPLATE</materialMeltdown>
+			<materialTemper>DRAGONPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>4</armorBase>
+			<identifier>FalmerBikiniP</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>FALMER</materialMeltdown>
+			<materialTemper>FALMER</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>5</armorBase>
+			<identifier>FalmerBikiniL</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>FALMER</materialMeltdown>
+			<materialTemper>FALMER</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>6</armorBase>
+			<identifier>FalmerBikiniM</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>FALMER</materialMeltdown>
+			<materialTemper>FALMER</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>7</armorBase>
+			<identifier>FalmerBikiniH</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>FALMER</materialMeltdown>
+			<materialTemper>FALMER</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>8</armorBase>
+			<identifier>FalmerBikiniU</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>FALMER</materialMeltdown>
+			<materialTemper>FALMER</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>3</armorBase>
+			<identifier>BikiniSteelP</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>4</armorBase>
+			<identifier>BikiniSteelL</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>5</armorBase>
+			<identifier>BikiniSteelM</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>6</armorBase>
+			<identifier>BikiniSteelH</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>4</armorBase>
+			<identifier>SteelBikiniPlateP</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEELPLATE</materialMeltdown>
+			<materialTemper>STEELPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>5</armorBase>
+			<identifier>SteelBikiniPlateL</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEELPLATE</materialMeltdown>
+			<materialTemper>STEELPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>6</armorBase>
+			<identifier>SteelBikiniPlateM</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEELPLATE</materialMeltdown>
+			<materialTemper>STEELPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>7</armorBase>
+			<identifier>SteelBikiniPlateH</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEELPLATE</materialMeltdown>
+			<materialTemper>STEELPLATE</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>9</armorBase>
+			<identifier>SteelBikiniPlateU</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEELPLATE</materialMeltdown>
+			<materialTemper>STEELPLATE</materialTemper>
+		</armor_material>
+	<!-- Bikini Material Listings End -->
 	</armor_materials>
 
 	<armor_masquerade_bindings>
