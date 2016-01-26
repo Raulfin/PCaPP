@@ -6,19 +6,23 @@ Now covers:
 Blocklist:
 
 Exclusions:
+	Druid's Den - Collectors Edition (34368)
 
 Fixes:
+	Corrected several armors that were not patching due to having clothing keywords. (IA8)
+	
 
 Changes:
 
 Additions:
-	Finished Italian translations.
 
 Balancing:
 
 Renamed:
 
 Updated Patches:
+	Immersive Armors 8
+	Skyrim Immersive Creatures (SiC)
 
 New Patches:
 
@@ -28,6 +32,10 @@ Removed Patches:
 
 
 <Old>
+<v3.4.1.2>
+Fixes:
+	Corrected error with Steel Plate Armor patching.
+</v3.4.1.2>
 <v3.4.1.1>
 Fixes:
 	PerMa_USKP patch will now only install if selected.
