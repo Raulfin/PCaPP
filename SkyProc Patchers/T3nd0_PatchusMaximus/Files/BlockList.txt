@@ -14,6 +14,7 @@ daymoyl_DawnguardAddon.esp
 DeadlyCombat.esp
 DreadPrison.esm
 DreadPrisonUpdate.esp
+Druid Den
 ds_database.esp
 DSLight.esm
 Dual Sheath Redux.esp
