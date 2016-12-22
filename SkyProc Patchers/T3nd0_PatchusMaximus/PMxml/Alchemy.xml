@@ -5,7 +5,7 @@
 
 	<alchemy_effects>
 	<!-- New effects start -->
-	<alchemy_effect>
+		<alchemy_effect>
 			<identifier>Flare Undead</identifier>
 			<baseMagnitude>0</baseMagnitude>
 			<baseDuration>4</baseDuration>
