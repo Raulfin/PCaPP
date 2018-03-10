@@ -496,6 +496,26 @@
 			<identifier>Wood</identifier>
 			<substring>Wood</substring>
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Slipstream Katana</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Chiroptris</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Silverbane</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Nightlord Sword of Flame</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Dragon Priest Staff</substring>
+		</binding>
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -4424,6 +4444,22 @@
 			<identifier>SilverHigh</identifier>
 			<substring>The Rueful War Axe</substring><!-- Vis Rueful War Axe -->
 		</binding>
+		<binding>
+			<identifier>Nord</identifier>
+			<substring>Quel'Delar</substring><!-- Vis Quel'Delar -->
+		</binding>
+		<binding>
+			<identifier>NordHigh</identifier>
+			<substring>Shalamayne, The Shadow Reaver</substring><!-- Vis Shalamayne, The Shadow Reaver -->
+		</binding>
+		<binding>
+			<identifier>NordHigh</identifier>
+			<substring>Doomhammer</substring><!-- Vis Doomhammer -->
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Moniko's Katana</substring><!-- Vis Moniko The Tattooed Beauty -->
+		</binding>
 	<!-- Visdagon Entries -->
 	</weapon_material_bindings>
 
@@ -5444,6 +5480,10 @@
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
 	<!-- Arming Sword bindings start -->
 		<binding>
+			<substring>Nightlord Sword of Flame</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Chillrend</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -5838,6 +5878,10 @@
 			<substring>Shiavonna</substring>
 			<identifier>Broadsword</identifier>
 		</binding>
+		<binding>
+			<substring>Shalamayne, The Shadow Reaver</substring>
+			<identifier>Broadsword</identifier><!-- Vis Shalamayne, The Shadow Reaver -->
+		</binding>
 	<!-- Broadsword bindings end -->
 	
 	<!-- Claw bindings start -->
@@ -6106,6 +6150,10 @@
 		<binding>
 			<substring>Winterwound</substring>
 			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Quel'Delar Dagger</substring>
+			<identifier>Dagger</identifier><!-- Vis Quel'Delar -->
 		</binding>
 	<!-- Dagger bindings end -->
 
@@ -6394,6 +6442,10 @@
 
 	<!-- Mace bindings start -->
 		<binding>
+			<substring>Silverbane</substring>
+			<identifier>Mace</identifier>
+		</binding>
+		<binding>
 			<substring>Clutterbane</substring>
 			<identifier>Mace</identifier>
 		</binding>
@@ -6498,6 +6550,10 @@
 		</binding>
 		<binding>
 			<substring>hammer</substring>
+			<identifier>Maul</identifier>
+		</binding>
+		<binding>
+			<substring>Doomhammer</substring>
 			<identifier>Maul</identifier>
 		</binding>
 	<!-- Maul bindings end -->
@@ -6632,6 +6688,10 @@
 		<binding>
 			<substring>Trueflame</substring>
 			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>Quel'Delar</substring>
+			<identifier>Scimitar</identifier><!-- Vis Quel'Delar -->
 		</binding>
 	<!-- Scimitar bindings end -->
 	
@@ -7382,10 +7442,6 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
-			<substring>Grimsever</substring>
-			<identifier>Greatsword</identifier>
-		</binding>
-		<binding>
 			<substring>The Talon of Akatosh Greatsword</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
@@ -7538,6 +7594,10 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>Grimsever</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Krysteel Blade</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
@@ -7621,6 +7681,14 @@
 			<substring>Bandos Godsword</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
+		<binding>
+			<substring>Two-Handed Quel'Delar</substring>
+			<identifier>Greatsword</identifier><!-- Vis Quel'Delar -->
+		</binding>
+		<binding>
+			<substring>2H Shalamayne, The Shadow Reaver</substring>
+			<identifier>Greatsword</identifier><!-- Vis Shalamayne, The Shadow Reaver -->
+		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
@@ -7692,6 +7760,10 @@
 		</binding>
 		<binding>
 			<substring>Akaviri Battlesaber</substring>
+			<identifier>Nodachi</identifier>
+		</binding>
+		<binding>
+			<substring>Moniko's Katana</substring><!-- Vis Moniko the Tattooed Beauty -->
 			<identifier>Nodachi</identifier>
 		</binding>
 	<!-- Nodachi bindings end -->
@@ -7925,6 +7997,10 @@
 	<!-- Crossbow bindings end -->
 	
 	<!-- Longbow bindings start -->
+		<binding>
+			<substring>Chiroptris</substring>
+			<identifier>Longbow</identifier>
+		</binding>
 		<binding>
 			<substring>Emerald Bow</substring>
 			<identifier>Longbow</identifier>
@@ -9860,6 +9936,28 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Skyfall Estate Buildable -->
+	<!-- Better Vampire Weapons -->
+		<exclusion>
+			<text>RiftSword</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>01EnchEbonyMace</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>01EnchEbonyBow</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>01EnchDraugrSwordFire03</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Better Vampire Weapons -->
 	</reforge_exclusions>
 
 </ns2:weapons>

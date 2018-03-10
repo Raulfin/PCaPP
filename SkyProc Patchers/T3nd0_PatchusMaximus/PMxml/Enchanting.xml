@@ -7865,7 +7865,29 @@
       			<target>EDID</target>
       			<type>STARTSWITH</type>
     		</exclusion>
-    	<!-- Unique Border Gates -->
+    <!-- Unique Border Gates -->
+	<!-- Better Vampire Weapons -->
+		<exclusion>
+			<text>RiftSword</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>01EnchEbonyMace</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>01EnchEbonyBow</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>01EnchDraugrSwordFire03</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Better Vampire Weapons -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -9084,7 +9106,14 @@
       			<target>EDID</target>
       			<type>STARTSWITH</type>
     		</exclusion>
-    	<!-- Unique Border Gates -->
+    <!-- Unique Border Gates -->
+	<!-- Better Vampire Weapons -->
+		<binding>
+			<text>01BloodglassShield</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</binding>
+	<!-- Better Vampire Weapons -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
