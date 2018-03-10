@@ -350,7 +350,8 @@
 		<binding>
 			<identifier>Bonemold</identifier>
 			<substring>Bonemold</substring>
-		</binding>		<!-- Dynamic Loot eng fix start-->
+		</binding>
+		<!-- Dynamic Loot eng fix start-->
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Conqueror's Leather</substring>
@@ -1007,8 +1008,12 @@
 			<substring>Dawnguard Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Dawnguard Shield</substring><!-- Vis -->
+		</binding>
+		<binding>
 			<identifier>LightFactionS</identifier>
-			<substring>Dawnguard Rune</substring>
+			<substring>Dawnguard Rune Shield</substring><!-- Vis -->
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -4211,22 +4216,6 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
-			<substring>Northgirl</substring>
-		</binding>
-		<binding>
-			<identifier>Hide</identifier>
-			<substring>Northgirl Vest Fox</substring>
-		</binding>
-		<binding>
-			<identifier>Hide</identifier>
-			<substring>Northgirl Wolfbelt</substring>
-		</binding>
-		<binding>
-			<identifier>Hide</identifier>
-			<substring>Northgirl Trousers</substring>
-		</binding>
-		<binding>
-			<identifier>Hide</identifier>
 			<substring>Assault Respirator</substring>
 		</binding>
 		<binding>
@@ -4412,10 +4401,6 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Painted Iron</substring>
-		</binding>
-		<binding>
-			<identifier>Iron</identifier>
-			<substring>Northgirl Chainmail Sweater</substring>
 		</binding>
 		<binding>
 			<identifier>IronLow</identifier>
@@ -7419,6 +7404,144 @@
 			<substring>Barbarian Steel Helmet</substring>
 		</binding>
 	<!-- Vis Barbarian Steel Armor -->
+	<!-- Vis Blades Bikini Armor -->
+		<binding>
+			<identifier>BikiniBladeS</identifier>
+			<substring>Bikini Blades Haraate A</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeS</identifier>
+			<substring>Bikini Blades Haraate B</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeU</identifier>
+			<substring>Bikini Blades Kunoichi Shouzoku</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeU</identifier>
+			<substring>Bikini Blades Gusoku A</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeU</identifier>
+			<substring>Bikini Blades Gusoku B</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeU</identifier>
+			<substring>Bikini Blades Gusoku C</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeU</identifier>
+			<substring>Bikini Blades Gusoku D</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeS</identifier>
+			<substring>Bikini Blades Hachigane</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Bikini Blades Kote A</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Bikini Blades Kote B</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeL</identifier>
+			<substring>Bikini Blades Kusazuri A</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeL</identifier>
+			<substring>Bikini Blades Kusazuri A n</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeL</identifier>
+			<substring>Bikini Blades Kusazuri B</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeL</identifier>
+			<substring>Bikini Blades Kusazuri B n</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeL</identifier>
+			<substring>Bikini Blades Kusazuri C</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeL</identifier>
+			<substring>Bikini Blades Kusazuri C n</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Bikini Blades Matabiki A</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Bikini Blades Matabiki B</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Bikini Blades Matabiki C</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Bikini Blades Zouri A</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Bikini Blades Zouri B</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeS</identifier>
+			<substring>Bikini Blades Muneate</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeT</identifier>
+			<substring>Bikini Blades Nodowa hev</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeT</identifier>
+			<substring>Bikini Blades Nodowa mid</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeT</identifier>
+			<substring>Bikini Blades Nodowa lgt</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeM</identifier>
+			<substring>Bikini Blades Oosode A</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeM</identifier>
+			<substring>Bikini Blades Oosode B</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeM</identifier>
+			<substring>Bikini Blades Oosode C</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeM</identifier>
+			<substring>Bikini Blades Oosode D</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeT</identifier>
+			<substring>Bikini Blades Thong A</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeT</identifier>
+			<substring>Bikini Blades Thong B</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeT</identifier>
+			<substring>Bikini Blades Thong C</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeT</identifier>
+			<substring>Bikini Blades Thong C lgt</substring>
+		</binding>
+		<binding>
+			<identifier>BikiniBladeT</identifier>
+			<substring>Bikini Blades Thong D</substring>
+		</binding>
+	<!-- Vis Blades Bikini Armor -->
 	<!-- Vis Blood Witch Armor -->
 		<binding>
 			<identifier>ScaledHigh</identifier>
@@ -7565,6 +7688,10 @@
 		<binding>
 			<identifier>DragonBoneEX</identifier>
 			<substring>Bikini Dragon Bone Mask</substring>
+		</binding>
+		<binding>
+			<identifier>DragonBoneEX</identifier>
+			<substring>Bikini Dragon Bone Assault Mask</substring>
 		</binding>
 		<binding>
 			<identifier>DragonBoneEX</identifier>
@@ -8221,6 +8348,78 @@
 			<substring>Merta Black Rose Socks</substring>
 		</binding>
 	<!-- Vis Merta Black Rose Armor -->
+	<!-- Vis Moniko the Tattooed Beauty -->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Elven Knight Boots - Black</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Elven Knight Gaunlets - Black</substring>
+		</binding>
+		<binding>
+			<identifier>MonikoM</identifier>
+			<substring>Elven Knight Collar - Black</substring>
+		</binding>
+		<binding>
+			<identifier>MonikoU</identifier>
+			<substring>Elven Knight Cuirass - Black</substring>
+		</binding>
+		<binding>
+			<identifier>MonikoH</identifier>
+			<substring>Elven Knight Cuisse - Black</substring>
+		</binding>
+		<binding>
+			<identifier>MonikoH</identifier>
+			<substring>Elven Knight Pauldrons - Black</substring>
+		</binding>
+		<binding>
+			<identifier>MonikoL</identifier>
+			<substring>Elven Knight Straps - Brown and Black</substring>
+		</binding>
+		<binding>
+			<identifier>MonikoT</identifier>
+			<substring>Elven Knight Trousers - Black</substring>
+		</binding>
+	<!-- Vis Moniko the Tattooed Beauty -->
+	<!-- Vis Northgirl Armor -->
+		<binding>
+			<identifier>FurLow</identifier>
+			<substring>Northgirl Wolfbelt</substring>
+		</binding>
+		<binding>
+			<identifier>FurLow</identifier>
+			<substring>Northgirl Furbelt</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Northgirl Boots</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Northgirl Chainmail Sweater</substring>
+		</binding>
+		<binding>
+			<identifier>FurLow</identifier>
+			<substring>Northgirl Vest Fox</substring>
+		</binding>
+		<binding>
+			<identifier>FurLow</identifier>
+			<substring>Northgirl Vest Fur</substring>
+		</binding>
+		<binding>
+			<identifier>Fur</identifier>
+			<substring>Northgirl Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>FurHigh</identifier>
+			<substring>Northgirl Knit Jumper</substring>
+		</binding>
+		<binding>
+			<identifier>HideHigh</identifier>
+			<substring>Northgirl Trousers</substring>
+		</binding>
+	<!-- Vis Northgirl Armor -->
 	<!-- Vis Rough Leather Armor -->
 		<binding>
 			<identifier>LeatherHigh</identifier>
@@ -8694,6 +8893,12 @@
 		</binding>
 	<!-- Vis Wolf Bikini Armor -->
 	<!-- Visdagon Entries -->
+	<!-- Better Vampire Weapons -->
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Bloodglass Shield</substring>
+		</binding>
+	<!-- Better Vampire Weapons -->
 	
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
@@ -9865,7 +10070,7 @@
 			<materialTemper>IRON</materialTemper>
 		</armor_material>
 	<!-- Wood Material Listings end -->
-	<!-- Bikini Material Listings Start -->
+	<!-- Vis Bikini Material Listings Start -->
 		<armor_material>
 			<armorBase>5</armorBase>
 			<identifier>WolfBikiniL</identifier>
@@ -10041,7 +10246,79 @@
 			<materialMeltdown>STEELPLATE</materialMeltdown>
 			<materialTemper>STEELPLATE</materialTemper>
 		</armor_material>
-	<!-- Bikini Material Listings End -->
+		<armor_material>
+			<armorBase>4</armorBase>
+			<identifier>BikiniBladeT</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>5</armorBase>
+			<identifier>BikiniBladeS</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>6</armorBase>
+			<identifier>BikiniBladeM</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>7</armorBase>
+			<identifier>BikiniBladeL</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>8</armorBase>
+			<identifier>BikiniBladeU</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
+	<!-- Vis Bikini Material Listings End -->
+	<!-- Vis Moniko the Tattooed Beauty Material Listings -->
+		<armor_material>
+			<armorBase>6</armorBase>
+			<identifier>MonikoT</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DAEDRIC</materialMeltdown>
+			<materialTemper>DAEDRIC</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>8</armorBase>
+			<identifier>MonikoL</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DAEDRIC</materialMeltdown>
+			<materialTemper>DAEDRIC</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>10</armorBase>
+			<identifier>MonikoM</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DAEDRIC</materialMeltdown>
+			<materialTemper>DAEDRIC</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>13</armorBase>
+			<identifier>MonikoH</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DAEDRIC</materialMeltdown>
+			<materialTemper>DAEDRIC</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>15</armorBase>
+			<identifier>MonikoU</identifier>
+			<type>BOTH</type>
+			<materialMeltdown>DAEDRIC</materialMeltdown>
+			<materialTemper>DAEDRIC</materialTemper>
+		</armor_material>
+	<!-- Vis Moniko the Tattooed Beauty Material Listings End -->
 	</armor_materials>
 
 	<armor_masquerade_bindings>
@@ -11223,5 +11500,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Harbinger's Set -->
+	<!-- Better Vampire Weapons -->
+		<binding>
+			<text>01BloodglassShield</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</binding>
+	<!-- Better Vampire Weapons -->
 	</reforge_exclusions>
 </ns2:armor>
